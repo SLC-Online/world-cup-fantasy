@@ -69,6 +69,11 @@ def _ensure_odds(round_key: str, refetch: bool = False) -> List[dict]:
             print(f"[odds] using cached snapshot for {round_key} "
                   f"({len(cached)} matches).")
             return cached
+        grp = odds_api.load_group_snapshot()
+        if grp and round_key.upper() in ("MD1", "MD2", "MD3"):
+            print(f"[odds] reusing shared group snapshot ({len(grp)} matches) for "
+                  f"{round_key} (round-aware projection picks the right fixtures).")
+            return grp
     return odds_api.fetch_round_odds(round_key)
 
 
@@ -77,17 +82,17 @@ def _run_projection(round_key: str, refetch: bool = False) -> List[PlayerProject
     matches = _ensure_odds(round_key, refetch=refetch)
     lns = _resolve_lineups(round_key, players)
     projections = build_projections(players, matches, lns,
-                                    set_piece_roles=setpieces.roles_for_players(players))
+                                    set_piece_roles=setpieces.roles_for_players(players),
+                                    round_key=round_key)
     persistence.save_projections(round_key, projections)
     return projections
 
 
 def _ensure_projections(round_key: str) -> List[PlayerProjection]:
-    try:
-        return persistence.load_projections(round_key)
-    except FileNotFoundError:
-        print(f"[project] no projections for {round_key} yet — building them.")
-        return _run_projection(round_key)
+    # Always rebuild: projections must reflect THIS round's fixtures (round-aware)
+    # and the latest line-up / appearance signals — never a stale cached file
+    # (a cache built for another round/fixture is exactly how MD2 showed MD1 games).
+    return _run_projection(round_key)
 
 
 # --------------------------------------------------------------------------- #
@@ -701,7 +706,8 @@ def _optimize_horizon_cmd(args, spec, horizon):
     lns = _resolve_lineups(args.round, players)
     roles = setpieces.roles_for_players(players)
 
-    md1 = build_projections(players, matches, lns, set_piece_roles=roles)
+    md1 = build_projections(players, matches, lns, set_piece_roles=roles,
+                            round_key=args.round)
     persistence.save_projections(args.round, md1)
     hz = multiround.build_horizon_projections(players, matches, lns, horizon=horizon,
                                               set_piece_roles=roles)

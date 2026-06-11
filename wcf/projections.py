@@ -330,6 +330,33 @@ def _nation_next_match(matches: List[dict]) -> Dict[str, dict]:
     return chosen
 
 
+_ROUND_INDEX = {"MD1": 0, "MD2": 1, "MD3": 2}
+
+
+def _nation_match_for_round(matches: List[dict], round_key: str) -> Dict[str, dict]:
+    """nation -> its fixture for a SPECIFIC group matchday, by kickoff order.
+
+    MD2 must project each team's 2nd group game (and MD3 the 3rd), independent of
+    whether MD1 has been played. Picking the earliest match (the old behaviour)
+    made a future-round optimise wrongly reuse MD1 fixtures. Falls back to the
+    earliest match for non-group rounds.
+    """
+    idx = _ROUND_INDEX.get((round_key or "").upper())
+    if idx is None:
+        return _nation_next_match(matches)
+    by_nation: Dict[str, list] = {}
+    for m in matches:
+        for nation in (m["home"], m["away"]):
+            by_nation.setdefault(nation, []).append(m)
+    out: Dict[str, dict] = {}
+    for nation, ms in by_nation.items():
+        ms = sorted(ms, key=lambda x: x.get("commence_time", ""))
+        # Full group snapshot (3 games/team) -> the MDn fixture; a round-specific
+        # snapshot (1 game/team) -> that single game.
+        out[nation] = ms[idx] if len(ms) > idx else ms[-1]
+    return out
+
+
 # --------------------------------------------------------------------------- #
 # Per-player expected-points components (shared by single- and multi-round)
 # --------------------------------------------------------------------------- #
@@ -425,11 +452,13 @@ def build_projections(
     pconfig: ProjectionConfig = DEFAULT_PCONFIG,
     player_stats: Optional[Dict[str, Dict[str, float]]] = None,
     set_piece_roles: Optional[Dict[str, set]] = None,
+    round_key: Optional[str] = None,
 ) -> List[PlayerProjection]:
     player_stats = player_stats or {}
     set_piece_roles = set_piece_roles or {}
     match_goals = compute_match_goals(matches)
-    nation_match = _nation_next_match(matches)
+    nation_match = (_nation_match_for_round(matches, round_key) if round_key
+                    else _nation_next_match(matches))
     by_match = {m["match_id"]: m for m in matches}
 
     # Group players by nation for per-team goal allocation.

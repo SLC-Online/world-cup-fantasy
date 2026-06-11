@@ -247,6 +247,22 @@ def load_latest_snapshot(round_key: str) -> Optional[List[dict]]:
     return None
 
 
+def load_group_snapshot() -> Optional[List[dict]]:
+    """The shared group-stage snapshot (the saved odds file with the most matches —
+    i.e. all 72 group fixtures). Group matchdays reuse one snapshot: round-aware
+    projection picks each team's MDn fixture from it, so any group round can be
+    built from committed data without a fresh fetch (works on the cloud, no key)."""
+    best = None
+    for p in config.ODDS_DIR.glob("odds_MD*_latest.json"):
+        try:
+            data = json.loads(p.read_text())
+        except (json.JSONDecodeError, OSError):
+            continue
+        if best is None or len(data) > len(best):
+            best = data
+    return best
+
+
 def _load_sample_odds() -> List[dict]:
     if SAMPLE_ODDS_FILE.exists():
         return json.loads(SAMPLE_ODDS_FILE.read_text())
