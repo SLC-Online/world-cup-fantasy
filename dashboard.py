@@ -182,9 +182,23 @@ if st.sidebar.button("↻ Refresh view"):
     st.cache_data.clear()
     st.rerun()
 
-if st.sidebar.button(f"Re-optimise {sel_round} (cached odds — free)"):
+# Between matchdays you keep your squad and make only the allowed transfers, so a
+# re-optimise must transfer FROM the previous round's team — not build from scratch.
+_rkeys = [r.key for r in config.ROUNDS]
+_idx = _rkeys.index(sel_round) if sel_round in _rkeys else 0
+_prev = _rkeys[_idx - 1] if _idx > 0 else None
+_carry = _prev if (_prev and persistence.team_path(_prev).exists()) else None
+_opt_args = ["optimize", "--round", sel_round] + (
+    ["--from-existing", _carry] if _carry else [])
+
+if _carry:
+    st.sidebar.caption(f"⚙ {sel_round} transfers from your {_carry} squad — it keeps "
+                       "the team and changes only what the transfer rules allow.")
+_opt_label = (f"Re-optimise {sel_round} (transfer from {_carry})" if _carry
+              else f"Build {sel_round} squad (cached odds)")
+if st.sidebar.button(_opt_label):
     with st.spinner("Optimising…"):
-        ok, out = run_cli(["optimize", "--round", sel_round])
+        ok, out = run_cli(_opt_args)
     st.session_state["last_output"] = out
     st.rerun()
 
@@ -199,7 +213,7 @@ with st.sidebar.expander("⚠ Fetch FRESH odds + re-optimise (uses API credits)"
     if st.button(f"Confirm: fresh odds for {sel_round}"):
         with st.spinner("Fetching odds + optimising…"):
             ok1, o1 = run_cli(["fetch-odds", "--round", sel_round])
-            ok2, o2 = run_cli(["optimize", "--round", sel_round])
+            ok2, o2 = run_cli(_opt_args)
         st.session_state["last_output"] = o1 + "\n" + o2
         st.rerun()
 
