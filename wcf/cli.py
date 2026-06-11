@@ -50,14 +50,16 @@ def _trend_available() -> bool:
 
 
 def _resolve_lineups(round_key, players):
-    """Manual predicted XI if present, else derive start probs from FIFA data
-    (price + ownership trend + who actually played in completed games)."""
+    """Manual predicted XI if present, else derive start probs from FIFA data,
+    then always override with who ACTUALLY played in completed games."""
     if lineups_provider.lineups_path(round_key).exists():
-        return lineups_provider.load_lineups(round_key)
-    return lineups_provider.from_pool(
-        players, momentum=persistence.ownership_trend(),
-        trend_available=_trend_available(),
-        appearances=persistence.appearance_signal(players))
+        prior = lineups_provider.load_lineups(round_key)
+    else:
+        prior = lineups_provider.from_pool(
+            players, momentum=persistence.ownership_trend(),
+            trend_available=_trend_available())
+    return lineups_provider.apply_appearances(
+        prior, persistence.appearance_signal(players))
 
 
 def _ensure_odds(round_key: str, refetch: bool = False) -> List[dict]:
@@ -512,6 +514,8 @@ def cmd_fetch_lineups(args):
     prior = lineups_provider.from_pool(
         players, momentum=persistence.ownership_trend(),
         trend_available=_trend_available())
+    prior = lineups_provider.apply_appearances(
+        prior, persistence.appearance_signal(players))
 
     status_counts = {}
     if args.source == "apifootball":

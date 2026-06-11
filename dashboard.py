@@ -128,6 +128,7 @@ def horizon_tables():
     span = persistence.ownership_history_span_hours()
     lns = lp.from_pool(players, momentum=persistence.ownership_trend(),
                        trend_available=span >= 12)
+    lns = lp.apply_appearances(lns, persistence.appearance_signal(players))
     roles = setpieces.roles_for_players(players)
     hz = multiround.build_horizon_projections(players, matches, lns, horizon=3,
                                               set_piece_roles=roles)

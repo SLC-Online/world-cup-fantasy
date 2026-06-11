@@ -150,6 +150,28 @@ def merge_confirmed(prior: Lineups, confirmed_by_nation, players) -> Lineups:
     return Lineups(data)
 
 
+_APPEARANCE_PSTART = {"started": (0.94, 86.0), "sub": (0.40, 35.0),
+                      "benched": (0.15, 12.0)}
+
+
+def apply_appearances(prior: Lineups, appearances) -> Lineups:
+    """Override start probabilities with who ACTUALLY played in completed games.
+
+    This is the most authoritative signal short of a live confirmed XI, so it
+    wins over the name/price prior AND over a stale saved line-ups file — which
+    is the whole point: once a backup keeper is seen on the bench, he's deweighted
+    everywhere (dashboard, optimiser, planner), not just in one code path.
+    """
+    if not appearances:
+        return prior
+    data = dict(prior._data)
+    for pid, status in appearances.items():
+        ps_min = _APPEARANCE_PSTART.get(status)
+        if ps_min:
+            data[str(pid)] = {"p_start": ps_min[0], "exp_minutes": ps_min[1]}
+    return Lineups(data)
+
+
 def save_lineups(round_key: str, lineups: Lineups) -> Path:
     config.ensure_dirs()
     path = lineups_path(round_key)
