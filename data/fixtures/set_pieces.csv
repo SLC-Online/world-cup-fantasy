@@ -1,0 +1,54 @@
+# Primary penalty taker and primary set-piece (corner/free-kick) taker per nation.
+# Source: aggregated penalty/set-piece taker lists (allaboutfpl / FFS / RotoWire),
+# June 2026. Matched to players by surname within nation. Penalty takers gain
+# expected penalty goals; set-piece takers gain assist + direct-FK value.
+# Update the names if roles change during the tournament.
+nation,penalty,setpiece
+Mexico,Jimenez,Vega
+South Africa,Appollis,Appollis
+Korea Republic,Son,Son
+Czechia,Schick,Provod
+Canada,David,Davies
+Bosnia and Herzegovina,Dzeko,Alajbegovic
+Qatar,Afif,Afif
+Switzerland,Xhaka,Vargas
+Brazil,Raphinha,Raphinha
+Morocco,Diaz,Hakimi
+Haiti,Nazon,Bellegarde
+Scotland,McTominay,McGinn
+USA,Pulisic,Pulisic
+Paraguay,Enciso,Gomez
+Australia,Hrustic,Irankunda
+Türkiye,Calhanoglu,Calhanoglu
+Germany,Havertz,Kimmich
+Curaçao,Bacuna,Bacuna
+Côte d'Ivoire,Kessie,Diallo
+Ecuador,Valencia,Valencia
+Netherlands,Gakpo,Depay
+Japan,Ueda,Kubo
+Sweden,Gyokeres,Ayari
+Tunisia,Abdi,Mejbri
+Belgium,De Bruyne,De Bruyne
+Egypt,Salah,Salah
+IR Iran,Taremi,Ghoddos
+New Zealand,Wood,Singh
+Spain,Oyarzabal,Yamal
+Cabo Verde,Mendes,Cabral
+Saudi Arabia,Al-Buraikan,Al-Shamat
+Uruguay,Valverde,De Arrascaeta
+France,Mbappe,Olise
+Senegal,Mane,Mane
+Iraq,Hussein,Al-Ammari
+Norway,Haaland,Odegaard
+Argentina,Messi,Messi
+Algeria,Mahrez,Mahrez
+Austria,Arnautovic,Sabitzer
+Jordan,Olwan,Al-Taamari
+Portugal,Ronaldo,Fernandes
+Congo DR,Wissa,Masuaku
+Uzbekistan,Shomurodov,Fayzullaev
+Colombia,Rodriguez,Rodriguez
+England,Kane,Saka
+Croatia,Modric,Modric
+Ghana,Ayew,Ayew
+Panama,Davis,Davis

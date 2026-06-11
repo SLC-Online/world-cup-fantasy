@@ -1,0 +1,258 @@
+[
+  {
+    "match_id": "S1",
+    "home": "Brazil",
+    "away": "Japan",
+    "commence_time": "2026-06-11T18:00:00Z",
+    "h2h": {
+      "home": 1.45,
+      "draw": 4.72,
+      "away": 6.76
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Maric": 25.54,
+      "Marke": 20.69,
+      "Marov": 20.79,
+      "Maral": 18.48,
+      "Marander": 20.34,
+      "Marino": 6.58,
+      "Marsson": 5.96,
+      "Marez": 5.96,
+      "Marard": 6.37,
+      "Marot": 8.14,
+      "Marius": 3.67,
+      "Marby": 3.57,
+      "Marek": 5.86,
+      "Paske": 42.55,
+      "Pasal": 42.07,
+      "Pasander": 44.61,
+      "Pasino": 20.6,
+      "Passson": 15.73,
+      "Pasez": 17.25,
+      "Pasard": 16.22,
+      "Pasot": 15.81,
+      "Pasius": 8.69,
+      "Pasby": 9.02,
+      "Pasek": 9.53
+    }
+  },
+  {
+    "match_id": "S2",
+    "home": "France",
+    "away": "Mexico",
+    "commence_time": "2026-06-11T19:00:00Z",
+    "h2h": {
+      "home": 1.56,
+      "draw": 4.41,
+      "away": 5.52
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Breic": 25.39,
+      "Breke": 19.85,
+      "Breov": 21.72,
+      "Breal": 16.61,
+      "Breander": 20.61,
+      "Breino": 7.84,
+      "Bresson": 6.98,
+      "Breez": 5.77,
+      "Breard": 7.9,
+      "Breot": 9.52,
+      "Breius": 4.27,
+      "Breby": 4.43,
+      "Breek": 3.68,
+      "Norke": 42.98,
+      "Norov": 35.06,
+      "Norino": 16.2,
+      "Norsson": 16.34,
+      "Norez": 11.22,
+      "Norard": 11.78,
+      "Norot": 12.96,
+      "Norius": 8.78,
+      "Norby": 8.23,
+      "Norek": 9.88
+    }
+  },
+  {
+    "match_id": "S3",
+    "home": "England",
+    "away": "USA",
+    "commence_time": "2026-06-11T20:00:00Z",
+    "h2h": {
+      "home": 1.69,
+      "draw": 4.18,
+      "away": 4.59
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Fenic": 22.22,
+      "Fenke": 17.48,
+      "Fenov": 20.1,
+      "Fenal": 22.86,
+      "Fenander": 26.04,
+      "Fenino": 6.39,
+      "Fensson": 8.26,
+      "Fenez": 6.9,
+      "Fenard": 6.3,
+      "Fenot": 8.79,
+      "Fenius": 5.12,
+      "Fenby": 5.7,
+      "Fenek": 3.64,
+      "Limic": 30.68,
+      "Limke": 34.04,
+      "Limal": 44.33,
+      "Limander": 32.95,
+      "Limino": 10.78,
+      "Limsson": 10.11,
+      "Limez": 13.69,
+      "Limard": 11.03,
+      "Limot": 11.64,
+      "Limius": 9.97,
+      "Limby": 7.24,
+      "Limek": 10.74
+    }
+  },
+  {
+    "match_id": "S4",
+    "home": "Spain",
+    "away": "Croatia",
+    "commence_time": "2026-06-11T18:00:00Z",
+    "h2h": {
+      "home": 1.84,
+      "draw": 4.02,
+      "away": 3.89
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Coric": 23.24,
+      "Corke": 20.12,
+      "Corov": 19.31,
+      "Coral": 21.62,
+      "Corander": 23.81,
+      "Corino": 6.22,
+      "Corsson": 6.58,
+      "Corez": 10.43,
+      "Corard": 7.84,
+      "Corot": 6.88,
+      "Corius": 5.14,
+      "Corby": 6.94,
+      "Corek": 4.07,
+      "Kovic": 39.68,
+      "Kovov": 28.6,
+      "Koval": 37.21,
+      "Kovino": 14.54,
+      "Kovsson": 10.88,
+      "Kovez": 12.43,
+      "Kovard": 10.7,
+      "Kovot": 10.65,
+      "Kovius": 8.0,
+      "Kovby": 7.32,
+      "Kovek": 5.93
+    }
+  },
+  {
+    "match_id": "S5",
+    "home": "Argentina",
+    "away": "Netherlands",
+    "commence_time": "2026-06-11T19:00:00Z",
+    "h2h": {
+      "home": 1.96,
+      "draw": 3.93,
+      "away": 3.51
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Tavic": 20.62,
+      "Tavke": 32.12,
+      "Tavov": 25.11,
+      "Taval": 24.55,
+      "Tavander": 23.11,
+      "Tavino": 7.51,
+      "Tavsson": 7.14,
+      "Tavez": 6.12,
+      "Tavard": 7.89,
+      "Tavot": 7.63,
+      "Tavius": 6.55,
+      "Tavby": 6.06,
+      "Tavek": 4.35,
+      "Halic": 27.99,
+      "Halke": 29.68,
+      "Halov": 35.81,
+      "Halal": 31.52,
+      "Halander": 31.94,
+      "Halino": 9.37,
+      "Halsson": 10.13,
+      "Halez": 11.94,
+      "Halard": 10.2,
+      "Halot": 12.19,
+      "Halius": 8.18,
+      "Halby": 5.83,
+      "Halek": 8.1
+    }
+  },
+  {
+    "match_id": "S6",
+    "home": "Germany",
+    "away": "Portugal",
+    "commence_time": "2026-06-11T20:00:00Z",
+    "h2h": {
+      "home": 2.42,
+      "draw": 3.81,
+      "away": 2.67
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.77,
+      "under": 2.1
+    },
+    "anytime": {
+      "Groic": 34.58,
+      "Groke": 23.11,
+      "Groov": 21.29,
+      "Groal": 22.45,
+      "Groander": 28.24,
+      "Groino": 11.56,
+      "Grosson": 9.61,
+      "Groez": 8.77,
+      "Groard": 9.19,
+      "Groot": 9.72,
+      "Groius": 7.07,
+      "Groby": 4.8,
+      "Groek": 4.69,
+      "Dalic": 23.82,
+      "Dalke": 27.98,
+      "Dalov": 33.97,
+      "Dalal": 26.08,
+      "Dalander": 30.36,
+      "Dalino": 12.37,
+      "Dalsson": 9.3,
+      "Dalez": 8.05,
+      "Dalard": 12.85,
+      "Dalot": 7.84,
+      "Dalius": 5.05,
+      "Dalby": 6.51,
+      "Dalek": 6.12
+    }
+  }
+]

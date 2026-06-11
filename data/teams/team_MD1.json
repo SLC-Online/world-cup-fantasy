@@ -1,0 +1,165 @@
+{
+  "round": "MD1",
+  "formation": "3-5-2",
+  "chip": null,
+  "expected_points": 57.52,
+  "cost": 97.7,
+  "transfers_made": 0,
+  "hit_points": 0,
+  "captain": "1092",
+  "vice": "543",
+  "starters": [
+    {
+      "id": "262",
+      "name": "Camilo Vargas",
+      "nation": "Colombia",
+      "position": "GK",
+      "price": 4.3,
+      "exp_points": 4.057,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "542",
+      "name": "Joshua Kimmich",
+      "nation": "Germany",
+      "position": "DEF",
+      "price": 5.5,
+      "exp_points": 5.477,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1088",
+      "name": "Marc Cucurella",
+      "nation": "Spain",
+      "position": "DEF",
+      "price": 5.1,
+      "exp_points": 4.226,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1961",
+      "name": "Alphonso Davies",
+      "nation": "Canada",
+      "position": "DEF",
+      "price": 4.9,
+      "exp_points": 3.946,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1092",
+      "name": "Lamine Yamal",
+      "nation": "Spain",
+      "position": "MID",
+      "price": 10.0,
+      "exp_points": 5.831,
+      "is_captain": true,
+      "is_vice": false
+    },
+    {
+      "id": "543",
+      "name": "Florian Wirtz",
+      "nation": "Germany",
+      "position": "MID",
+      "price": 7.5,
+      "exp_points": 5.276,
+      "is_captain": false,
+      "is_vice": true
+    },
+    {
+      "id": "1600",
+      "name": "Jamal Musiala",
+      "nation": "Germany",
+      "position": "MID",
+      "price": 8.0,
+      "exp_points": 4.98,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "939",
+      "name": "Bruno Fernandes",
+      "nation": "Portugal",
+      "position": "MID",
+      "price": 8.5,
+      "exp_points": 4.706,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1366",
+      "name": "Raphinha",
+      "nation": "Brazil",
+      "position": "MID",
+      "price": 8.2,
+      "exp_points": 4.483,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "855",
+      "name": "Erling Haaland",
+      "nation": "Norway",
+      "position": "FWD",
+      "price": 10.5,
+      "exp_points": 4.574,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1094",
+      "name": "Mikel Oyarzabal",
+      "nation": "Spain",
+      "position": "FWD",
+      "price": 8.1,
+      "exp_points": 4.178,
+      "is_captain": false,
+      "is_vice": false
+    }
+  ],
+  "bench": [
+    {
+      "id": "757",
+      "name": "Raúl Rangel",
+      "nation": "Mexico",
+      "position": "GK",
+      "price": 3.9,
+      "exp_points": 4.379,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "1141",
+      "name": "Manuel Akanji",
+      "nation": "Switzerland",
+      "position": "DEF",
+      "price": 5.0,
+      "exp_points": 4.04,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "847",
+      "name": "Julian Ryerson",
+      "nation": "Norway",
+      "position": "DEF",
+      "price": 4.2,
+      "exp_points": 3.93,
+      "is_captain": false,
+      "is_vice": false
+    },
+    {
+      "id": "421",
+      "name": "Jeremy Arévalo",
+      "nation": "Ecuador",
+      "position": "FWD",
+      "price": 4.0,
+      "exp_points": 2.576,
+      "is_captain": false,
+      "is_vice": false
+    }
+  ]
+}

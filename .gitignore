@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Runtime data store (snapshots, chosen teams, results). The pool + fixtures are tracked;
+# everything generated round-by-round is local-only.
+data/odds/
+data/projections/
+data/teams/
+data/results/
+data/history.csv
+
+# OS
+.DS_Store
+
+# Large raw FIFA snapshots (regenerable via fetch-players)
+data/players/fifa_players_raw.json
+data/players/fifa_squads.json

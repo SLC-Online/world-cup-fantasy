@@ -1,0 +1,12 @@
+# Core dependencies for the World Cup Fantasy optimizer.
+# Kept deliberately light so the project is easy to maintain across the tournament.
+requests==2.32.3      # HTTP for The Odds API and optional FIFA player fetch
+PuLP==2.9.0           # ILP optimizer (bundles the CBC solver, no system install needed)
+numpy==2.0.2          # Poisson / Skellam maths for the odds -> expected-goals model
+pandas==2.2.3         # CSV read/write for the local data store
+
+# Dashboard (optional GUI)
+streamlit==1.50.0
+
+# Dev / test
+pytest==8.3.3

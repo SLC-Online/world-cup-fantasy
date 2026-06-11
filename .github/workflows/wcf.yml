@@ -1,0 +1,61 @@
+name: WC Fantasy auto-pilot
+
+# Runs in GitHub's cloud on a schedule (no laptop needed): optimises when a
+# deadline is near, scans for opportunities, and pings you on Telegram. State
+# (team, history, projections) is committed back so it persists between runs.
+#
+# Setup:
+#   1. Push this repo to GitHub (private is fine).
+#   2. Settings -> Secrets and variables -> Actions, add repository secrets:
+#        ODDS_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID  (API_FOOTBALL_KEY optional)
+#   3. Settings -> Actions -> General -> Workflow permissions: "Read and write".
+
+on:
+  schedule:
+    - cron: "0 * * * *"       # hourly (UTC) — catches confirmed-lineup windows
+  workflow_dispatch: {}         # lets you run it manually too
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wcf-autopilot
+  cancel-in-progress: false
+
+jobs:
+  autopilot:
+    runs-on: ubuntu-latest
+    env:
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+      ODDS_REGIONS: uk,eu
+      API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install engine deps (no Streamlit needed for the cron)
+        run: pip install requests pulp numpy pandas
+
+      - name: Ensure player pool exists
+        run: |
+          [ -f data/players/players.csv ] || python -m wcf.cli fetch-players
+
+      - name: Run auto-pilot
+        run: python -m wcf.cli run-due --window 18 --notify
+
+      - name: Commit state back
+        run: |
+          git config user.name "wcf-bot"
+          git config user.email "wcf-bot@users.noreply.github.com"
+          git add -f data/teams data/history.csv data/projections data/players/players.csv data/last_notify.txt data/appearances.csv data/ownership_history.csv data/exclude.txt data/players/odds_aliases.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "auto-pilot: update state [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi

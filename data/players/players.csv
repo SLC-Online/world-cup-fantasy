@@ -1,0 +1,1486 @@
+id,name,nation,position,price,club,full_name,status,ownership
+1,Rayan Aït-Nouri,Algeria,DEF,4.9,ALG,Rayan Aït-Nouri,playing,1.1
+2,Ramy Bensebaini,Algeria,DEF,4.4,ALG,Ramy Bensebaini,playing,0.2
+3,Aïssa Mandi,Algeria,DEF,3.9,ALG,Aïssa Mandi,playing,0.1
+4,Mehdi Dorval,Algeria,DEF,3.7,ALG,Mehdi Dorval,transferred,0.0
+5,Zinéddine Belaïd,Algeria,DEF,3.7,ALG,Zinéddine Belaïd,playing,0.0
+6,Sohaib Nair,Algeria,DEF,3.5,ALG,Sohaib Nair,transferred,0.3
+7,Rafik Belghali,Algeria,DEF,3.5,ALG,Rafik Belghali,playing,1.7
+8,Achref Abada,Algeria,DEF,3.5,ALG,Achref Abada,playing,0.6
+9,Mohammed Amoura,Algeria,FWD,6.2,ALG,Mohammed Amoura,playing,0.1
+10,Amine Gouiri,Algeria,FWD,6.2,ALG,Amine Gouiri,playing,0.1
+11,Riyad Mahrez,Algeria,MID,6.5,ALG,Riyad Mahrez,playing,0.6
+12,Ibrahim Maza,Algeria,FWD,5.4,ALG,Ibrahim Maza,playing,0.2
+13,Anis Hadj Moussa,Algeria,FWD,5.3,ALG,Anis Hadj Moussa,playing,0.1
+14,Farès Ghedjemis,Algeria,FWD,4.4,ALG,Farès Ghedjemis,playing,0.0
+15,Ahmed Benbouali,Algeria,FWD,4.2,ALG,Ahmed Benbouali,playing,0.0
+16,Amin Chiakha,Algeria,FWD,4.0,ALG,Amin Chiakha,transferred,0.1
+17,Anthony Mandréa,Algeria,GK,3.9,ALG,Anthony Mandréa,transferred,0.0
+18,Luca Zidane,Algeria,GK,3.8,ALG,Luca Zidane,playing,1.0
+19,Melvin Mastil,Algeria,GK,3.5,ALG,Melvin Mastil,playing,2.0
+20,Kilian Belazzoug,Algeria,GK,3.5,ALG,Kilian Belazzoug,transferred,0.0
+21,Adil Boulbina,Algeria,MID,4.0,ALG,Adil Boulbina,playing,2.5
+22,Yacine Titraoui,Algeria,MID,4.7,ALG,Yacine Titraoui,playing,0.0
+23,Ramiz Zerrouki,Algeria,MID,5.3,ALG,Ramiz Zerrouki,playing,0.0
+24,Hicham Boudaoui,Algeria,MID,5.5,ALG,Hicham Boudaoui,playing,0.0
+25,Adil Aouchiche,Algeria,MID,5.6,ALG,Adil Aouchiche,transferred,0.0
+26,Houssem Aouar,Algeria,MID,6.0,ALG,Houssem Aouar,playing,0.1
+27,Farès Chaïbi,Algeria,MID,6.2,ALG,Farès Chaïbi,playing,0.0
+28,Cristian Romero,Argentina,DEF,4.9,ARG,Cristian Romero,playing,4.9
+29,Marcos Senesi,Argentina,DEF,4.7,ARG,Marcos Senesi,transferred,0.3
+30,Nahuel Molina,Argentina,DEF,4.4,ARG,Nahuel Molina,playing,3.4
+31,Nicolás Otamendi,Argentina,DEF,4.4,ARG,Nicolás Otamendi,playing,2.3
+32,Marcos Acuña,Argentina,DEF,4.3,ARG,Marcos Acuña,transferred,0.1
+33,Lucas Martínez Quarta,Argentina,DEF,4.3,ARG,Lucas Martínez Quarta,transferred,0.0
+34,Nicolás Tagliafico,Argentina,DEF,4.3,ARG,Nicolás Tagliafico,playing,1.3
+35,Gabriel Rojas,Argentina,DEF,4.0,ARG,Gabriel Rojas,transferred,0.1
+36,Agustín Giay,Argentina,DEF,3.7,ARG,Agustín Giay,transferred,0.0
+38,Lionel Messi,Argentina,FWD,10.0,ARG,Lionel Messi,playing,17.9
+39,Julián Alvarez,Argentina,FWD,8.6,ARG,Julián Alvarez,playing,16.0
+40,Gianluca Prestianni,Argentina,MID,5.6,ARG,Gianluca Prestianni,transferred,0.0
+41,Giuliano Simeone,Argentina,MID,5.6,ARG,Giuliano Simeone,playing,0.8
+42,Nico González,Argentina,MID,5.6,ARG,Nico González,playing,0.1
+43,José Manuel López,Argentina,FWD,5.3,ARG,José Manuel López,playing,0.1
+44,Franco Mastantuono,Argentina,MID,5.8,ARG,Franco Mastantuono,transferred,0.0
+45,Emiliano Martínez,Argentina,GK,5.0,ARG,Emiliano Martínez,playing,21.8
+46,Gerónimo Rulli,Argentina,GK,4.5,ARG,Gerónimo Rulli,playing,0.2
+47,Juan Musso,Argentina,GK,4.3,ARG,Juan Musso,playing,0.1
+48,Leandro Paredes,Argentina,MID,5.6,ARG,Leandro Paredes,playing,0.2
+49,Máximo Perrone,Argentina,MID,5.6,ARG,Máximo Perrone,transferred,0.0
+50,Rodrigo De Paul,Argentina,MID,5.9,ARG,Rodrigo De Paul,playing,0.9
+51,Nico Paz,Argentina,MID,5.9,ARG,Nico Paz,playing,1.3
+52,Alejandro Garnacho,Argentina,MID,5.5,ARG,Alejandro Garnacho,transferred,0.0
+53,Valentín Barco,Argentina,MID,6.2,ARG,Valentín Barco,playing,0.3
+54,Exequiel Palacios,Argentina,MID,6.0,ARG,Exequiel Palacios,playing,0.2
+55,Thiago Almada,Argentina,MID,6.5,ARG,Thiago Almada,playing,0.3
+56,Alexis Mac Allister,Argentina,MID,6.6,ARG,Alexis Mac Allister,playing,3.3
+57,Enzo Fernández,Argentina,MID,7.5,ARG,Enzo Fernández,playing,3.2
+58,Jordan Bos,Australia,DEF,4.0,AUS,Jordan Bos,playing,0.4
+59,Kye Rowles,Australia,DEF,3.9,AUS,Kye Rowles,transferred,0.0
+60,Alessandro Circati,Australia,DEF,3.9,AUS,Alessandro Circati,playing,0.1
+61,Cameron Burgess,Australia,DEF,3.8,AUS,Cameron Burgess,playing,0.1
+62,Milos Degenek,Australia,DEF,3.8,AUS,Milos Degenek,playing,0.0
+63,Aziz Behich,Australia,DEF,3.8,AUS,Aziz Behich,playing,0.0
+64,Jason Geria,Australia,DEF,3.7,AUS,Jason Geria,playing,0.0
+65,Fran Karacic,Australia,DEF,3.6,AUS,Fran Karacic,transferred,0.0
+66,Kai Trewin,Australia,DEF,3.5,AUS,Kai Trewin,playing,0.5
+67,Lucas Herrington,Australia,DEF,3.5,AUS,Lucas Herrington,playing,0.3
+68,Nestory Irankunda,Australia,FWD,5.1,AUS,Nestory Irankunda,playing,0.3
+69,Martin Boyle,Australia,FWD,5.1,AUS,Martin Boyle,transferred,0.0
+70,Nishan Velupillay,Australia,FWD,4.4,AUS,Nishan Velupillay,playing,0.0
+71,Deni Juric,Australia,FWD,4.2,AUS,Deni Juric,transferred,0.0
+72,Jacob Italiano,Australia,DEF,4.2,AUS,Jacob Italiano,playing,0.1
+73,Ante Suto,Australia,FWD,4.0,AUS,Ante Suto,transferred,0.0
+74,Mathew Ryan,Australia,GK,4.1,AUS,Mathew Ryan,playing,0.6
+75,Paul Izzo,Australia,GK,3.6,AUS,Paul Izzo,playing,0.1
+76,Patrick Beach,Australia,GK,3.5,AUS,Patrick Beach,playing,1.0
+77,Paul Okon,Australia,MID,4.7,AUS,Paul Okon,playing,0.0
+78,Patrick Yazbek,Australia,MID,4.9,AUS,Patrick Yazbek,transferred,0.0
+79,Alex Robertson,Australia,MID,5.1,AUS,Alex Robertson,transferred,0.0
+80,Connor Metcalfe,Australia,MID,5.3,AUS,Connor Metcalfe,playing,0.0
+81,Aiden O'Neill,Australia,MID,5.4,AUS,Aiden O'Neill,playing,0.1
+82,Awer Mabil,Australia,MID,5.6,AUS,Awer Mabil,playing,0.0
+83,Ajdin Hrustic,Australia,MID,5.7,AUS,Ajdin Hrustic,playing,0.0
+84,Riley McGree,Australia,MID,5.9,AUS,Riley McGree,transferred,0.0
+85,David Alaba,Austria,DEF,4.6,AUT,David Alaba,playing,2.2
+86,Philipp Lienhart,Austria,DEF,4.3,AUT,Philipp Lienhart,playing,0.2
+87,Alexander Prass,Austria,DEF,4.3,AUT,Alexander Prass,playing,0.0
+88,Kevin Danso,Austria,DEF,4.3,AUT,Kevin Danso,playing,0.5
+90,Stefan Posch,Austria,DEF,4.3,AUT,Stefan Posch,playing,0.3
+91,Phillipp Mwene,Austria,DEF,3.9,AUT,Phillipp Mwene,playing,0.0
+92,Marco Friedl,Austria,DEF,4.3,AUT,Marco Friedl,playing,0.0
+93,David Affengruber,Austria,DEF,3.9,AUT,David Affengruber,playing,0.0
+94,Michael Svoboda,Austria,DEF,3.8,AUT,Michael Svoboda,playing,0.0
+95,Marko Arnautovic,Austria,FWD,6.0,AUT,Marko Arnautovic,playing,0.5
+96,Michael Gregoritsch,Austria,FWD,6.0,AUT,Michael Gregoritsch,playing,0.1
+97,Sasa Kalajdzic,Austria,FWD,6.0,AUT,Sasa Kalajdzic,playing,0.1
+98,Alexander Schlager,Austria,GK,4.6,AUT,Alexander Schlager,playing,0.5
+99,Patrick Pentz,Austria,GK,4.6,AUT,Patrick Pentz,playing,0.1
+101,Florian Wiegele,Austria,GK,3.5,AUT,Florian Wiegele,playing,0.4
+102,Carney Chukwuemeka,Austria,MID,5.0,AUT,Carney Chukwuemeka,playing,0.8
+103,Konrad Laimer,Austria,MID,5.8,AUT,Konrad Laimer,playing,0.3
+104,Alessandro Schöpf,Austria,MID,5.3,AUT,Alessandro Schöpf,playing,0.0
+105,Florian Grillitsch,Austria,MID,5.5,AUT,Florian Grillitsch,playing,0.0
+106,Nicolas Seiwald,Austria,MID,5.6,AUT,Nicolas Seiwald,playing,0.0
+107,Marcel Sabitzer,Austria,MID,6.8,AUT,Marcel Sabitzer,playing,4.0
+108,Romano Schmid,Austria,MID,6.0,AUT,Romano Schmid,playing,0.1
+109,Patrick Wimmer,Austria,MID,6.0,AUT,Patrick Wimmer,playing,0.1
+110,Paul Wanner,Austria,MID,5.6,AUT,Paul Wanner,playing,0.0
+111,Xaver Schlager,Austria,MID,5.5,AUT,Xaver Schlager,playing,0.0
+112,Christoph Baumgartner,Austria,MID,6.7,AUT,Christoph Baumgartner,transferred,0.0
+114,Maxim De Cuyper,Belgium,DEF,4.7,BEL,Maxim De Cuyper,playing,3.2
+115,Timothy Castagne,Belgium,DEF,4.7,BEL,Timothy Castagne,playing,0.5
+116,Arthur Theate,Belgium,DEF,4.5,BEL,Arthur Theate,playing,0.3
+117,Thomas Meunier,Belgium,DEF,4.8,BEL,Thomas Meunier,playing,0.9
+118,Zeno Debast,Belgium,DEF,4.3,BEL,Zeno Debast,playing,0.2
+119,Axel Witsel,Belgium,MID,5.0,BEL,Axel Witsel,playing,1.1
+120,Koni De Winter,Belgium,DEF,4.2,BEL,Koni De Winter,playing,0.1
+121,Brandon Mechele,Belgium,DEF,3.9,BEL,Brandon Mechele,playing,0.1
+122,Joaquin Seys,Belgium,DEF,3.9,BEL,Joaquin Seys,playing,0.1
+123,Nathan Ngoy,Belgium,DEF,3.7,BEL,Nathan Ngoy,playing,0.4
+124,Romelu Lukaku,Belgium,FWD,7.4,BEL,Romelu Lukaku,playing,2.1
+125,Jérémy Doku,Belgium,MID,7.5,BEL,Jérémy Doku,playing,13.2
+127,Dodi Lukébakio,Belgium,FWD,5.9,BEL,Dodi Lukébakio,playing,0.1
+128,Alexis Saelemaekers,Belgium,MID,5.7,BEL,Alexis Saelemaekers,playing,0.1
+129,Charles De Ketelaere,Belgium,MID,5.6,BEL,Charles De Ketelaere,playing,1.1
+132,Senne Lammens,Belgium,GK,4.6,BEL,Senne Lammens,playing,1.6
+135,Nicolas Raskin,Belgium,MID,5.3,BEL,Nicolas Raskin,playing,0.1
+136,Amadou Onana,Belgium,MID,5.9,BEL,Amadou Onana,playing,0.2
+137,Youri Tielemans,Belgium,MID,6.1,BEL,Youri Tielemans,playing,1.2
+138,Kevin De Bruyne,Belgium,MID,7.5,BEL,Kevin De Bruyne,playing,5.5
+139,Sead Kolasinac,Bosnia and Herzegovina,DEF,4.3,BIH,Sead Kolasinac,playing,0.2
+140,Amar Dedic,Bosnia and Herzegovina,DEF,4.3,BIH,Amar Dedic,playing,0.4
+141,Tarik Muharemovic,Bosnia and Herzegovina,DEF,3.9,BIH,Tarik Muharemovic,playing,0.3
+142,Nikola Katic,Bosnia and Herzegovina,DEF,3.8,BIH,Nikola Katic,playing,0.2
+143,Stjepan Radeljic,Bosnia and Herzegovina,DEF,3.7,BIH,Stjepan Radeljic,playing,0.0
+144,Nihad Mujakic,Bosnia and Herzegovina,DEF,3.6,BIH,Nihad Mujakic,playing,0.1
+145,Nidal Celik,Bosnia and Herzegovina,DEF,3.5,BIH,Nidal Celik,playing,0.5
+146,Ermedin Demirovic,Bosnia and Herzegovina,FWD,6.2,BIH,Ermedin Demirovic,playing,0.1
+147,Edin Dzeko,Bosnia and Herzegovina,FWD,6.1,BIH,Edin Dzeko,playing,1.0
+148,Jovo Lukic,Bosnia and Herzegovina,FWD,5.6,BIH,Jovo Lukic,playing,0.0
+149,Haris Tabakovic,Bosnia and Herzegovina,FWD,5.1,BIH,Haris Tabakovic,playing,0.1
+150,Esmir Bajraktarevic,Bosnia and Herzegovina,FWD,4.7,BIH,Esmir Bajraktarevic,playing,0.2
+151,Samed Bazdar,Bosnia and Herzegovina,FWD,4.5,BIH,Samed Bazdar,playing,0.0
+152,Kerim Alajbegovic,Bosnia and Herzegovina,FWD,4.2,BIH,Kerim Alajbegovic,playing,0.3
+153,Nikola Vasilj,Bosnia and Herzegovina,GK,4.0,BIH,Nikola Vasilj,playing,0.7
+154,Osman Hadzikic,Bosnia and Herzegovina,GK,3.6,BIH,Osman Hadzikic,transferred,0.0
+155,Martin Zlomislic,Bosnia and Herzegovina,GK,3.5,BIH,Martin Zlomislic,playing,0.3
+156,Amar Memic,Bosnia and Herzegovina,MID,4.7,BIH,Amar Memic,playing,0.1
+157,Dzenis Burnic,Bosnia and Herzegovina,MID,4.9,BIH,Dzenis Burnic,playing,0.0
+158,Ivan Sunjic,Bosnia and Herzegovina,MID,5.1,BIH,Ivan Sunjic,playing,0.0
+159,Armin Gigovic,Bosnia and Herzegovina,MID,5.1,BIH,Armin Gigovic,playing,0.0
+160,Ivan Basic,Bosnia and Herzegovina,MID,5.1,BIH,Ivan Basic,playing,0.0
+161,Benjamin Tahirovic,Bosnia and Herzegovina,MID,5.3,BIH,Benjamin Tahirovic,playing,0.1
+162,Amir Hadziahmetovic,Bosnia and Herzegovina,MID,5.5,BIH,Amir Hadziahmetovic,playing,0.1
+164,Gabriel Magalhães,Brazil,DEF,5.5,BRA,Gabriel dos Santos Magalhães,playing,20.0
+165,Marquinhos,Brazil,DEF,5.2,BRA,Marcos Aoás Corrêa,playing,7.4
+166,Ibañez,Brazil,DEF,4.4,BRA,Roger Ibañez da Silva,playing,0.3
+167,Danilo,Brazil,DEF,4.3,BRA,Danilo Luiz da Silva,playing,0.8
+168,Douglas Santos,Brazil,DEF,4.3,BRA,Douglas dos Santos Justino de Melo,playing,0.4
+169,Bremer,Brazil,DEF,4.3,BRA,Gleison Bremer Silva Nascimento,playing,0.5
+170,Léo Pereira,Brazil,DEF,4.2,BRA,Leonardo Pereira,playing,0.1
+173,Vinícius Júnior,Brazil,MID,10.0,BRA,Vinícius José Paixão de Oliveira Júnior,playing,12.4
+174,Matheus Cunha,Brazil,FWD,7.3,BRA,Matheus Santos Carneiro da Cunha,playing,3.2
+176,Gabriel Martinelli,Brazil,MID,6.5,BRA,Gabriel Teodoro Martinelli Silva,playing,0.7
+177,Luiz Henrique,Brazil,FWD,6.1,BRA,Luiz Henrique André Rosa da Silva,playing,0.2
+178,Igor Thiago,Brazil,FWD,5.9,BRA,Igor Thiago Nascimento Rodrigues,playing,2.4
+179,Rayan,Brazil,FWD,5.6,BRA,Rayan Vitor Simplício Rocha,playing,0.2
+181,Endrick,Brazil,FWD,5.5,BRA,Endrick Felipe Moreira de Sousa,playing,2.9
+182,Ederson,Brazil,GK,5.0,BRA,Ederson Santana de Moraes,playing,2.9
+183,Alisson Becker,Brazil,GK,5.0,BRA,Alisson Ramsés Becker,playing,5.0
+186,Fabinho,Brazil,MID,5.2,BRA,Fábio Henrique Tavares,playing,0.3
+187,Danilo,Brazil,MID,5.6,BRA,Danilo dos Santos de Oliveira,playing,0.2
+188,Casemiro,Brazil,MID,6.3,BRA,Carlos Henrique Casimiro,playing,2.0
+190,Lucas Paquetá,Brazil,MID,6.5,BRA,Lucas Tolentino Coelho de Lima,playing,0.5
+195,João Paulo,Cabo Verde,MID,4.6,CPV,João Paulo Moreira Fernandes,playing,0.1
+196,Yannick Semedo,Cabo Verde,MID,4.7,CPV,Jair Semedo Monteiro,playing,0.0
+198,Kevin Pina,Cabo Verde,MID,4.7,CPV,Kevin Lenini Gonçalves Pereira de Pina,playing,0.0
+199,Steven Moreira,Cabo Verde,DEF,3.9,CPV,Steven Moreira,playing,0.0
+200,Wagner Pina,Cabo Verde,DEF,3.8,CPV,Wagner Fabrício Cardoso de Pina,playing,0.0
+201,Pico,Cabo Verde,DEF,3.7,CPV,Roberto Carlos Lopes,playing,0.0
+202,Kelvin Pires,Cabo Verde,DEF,3.6,CPV,Kelvin Spencer Pires,playing,0.0
+203,Sidny Cabral,Cabo Verde,DEF,3.5,CPV,Sidny Lopes Cabral,playing,0.2
+205,Diney,Cabo Verde,DEF,3.5,CPV,Edilson Alberto Monteiro Sanches Borges,playing,0.1
+206,Ryan Mendes,Cabo Verde,FWD,4.9,CPV,Ryan Isaac Mendes da Graça,playing,0.1
+207,Jovane Cabral,Cabo Verde,FWD,4.9,CPV,Jovane Eduardo Borges Cabral,playing,0.1
+208,Dailon Livramento,Cabo Verde,FWD,4.9,CPV,Dailon Rocha Livramento do Rosário,playing,0.1
+209,Nuno da Costa,Cabo Verde,FWD,4.7,CPV,Nuno Miguel da Costa Jóia,playing,0.0
+210,Garry Rodrigues,Cabo Verde,FWD,4.7,CPV,Garry Mendes Rodrigues,playing,0.0
+211,Willy Semedo,Cabo Verde,FWD,4.5,CPV,Willy Johnson Semedo Afonso,playing,0.0
+214,Vozinha,Cabo Verde,GK,3.9,CPV,Josimar José Évora Dias,playing,0.1
+215,CJ dos Santos,Cabo Verde,GK,3.6,CPV,Carlos Joaquim Antunes dos Santos,playing,0.0
+216,Márcio da Rosa,Cabo Verde,GK,3.5,CPV,Márcio Salomão Brazão da Rosa,playing,0.2
+217,Telmo Arcanjo,Cabo Verde,MID,4.9,CPV,Telmo Emanuel Gomes Arcanjo,playing,0.0
+218,Deroy Duarte,Cabo Verde,MID,4.9,CPV,Deroy d'Encarnação Duarte,playing,0.0
+219,Laros Duarte,Cabo Verde,MID,5.1,CPV,Laros Michael d'Encarnação  Duarte,playing,0.0
+220,Richie Laryea,Canada,DEF,3.9,CAN,Richie Laryea,playing,0.1
+221,Derek Cornelius,Canada,DEF,4.0,CAN,Derek Cornelius,playing,0.4
+223,Joel Waterman,Canada,DEF,3.7,CAN,Joel Waterman,playing,0.1
+225,Luc De Fougerolles,Canada,DEF,3.5,CAN,Luc De Fougerolles,playing,0.7
+226,Jonathan David,Canada,FWD,7.0,CAN,Jonathan David,playing,1.2
+227,Cyle Larin,Canada,FWD,6.2,CAN,Cyle Larin,playing,0.1
+228,Tajon Buchanan,Canada,FWD,5.5,CAN,Tajon Buchanan,playing,0.1
+229,Liam Millar,Canada,FWD,5.1,CAN,Liam Millar,playing,0.1
+230,Tani Oluwaseyi,Canada,FWD,4.9,CAN,Tani Oluwaseyi,playing,0.1
+232,Jacen Russell-Rowe,Canada,FWD,4.5,CAN,Jacen Russell-Rowe,transferred,0.0
+233,Daniel Jebbison,Canada,FWD,4.2,CAN,Daniel Jebbison,transferred,0.0
+235,Maxime Crépeau,Canada,GK,4.0,CAN,Maxime Crépeau,playing,4.9
+236,Dayne St. Clair,Canada,GK,3.8,CAN,Dayne St. Clair,playing,0.3
+237,Owen Goodman,Canada,GK,3.5,CAN,Owen Goodman,playing,0.6
+238,Ali Ahmed,Canada,MID,4.9,CAN,Ali Ahmed,playing,0.1
+239,Ralph Priso,Canada,MID,4.9,CAN,Ralph Priso,transferred,0.0
+240,Niko Sigur,Canada,MID,4.9,CAN,Niko Sigur,playing,0.0
+241,Nathan Saliba,Canada,MID,5.1,CAN,Nathan Saliba,playing,0.1
+242,Mathieu Choinière,Canada,MID,5.3,CAN,Mathieu Choinière,playing,0.0
+243,Jonathan Osorio,Canada,MID,5.6,CAN,Jonathan Osorio,playing,0.0
+244,Marcelo Flores,Canada,MID,5.7,CAN,Marcelo Flores,transferred,0.0
+245,Ismaël Koné,Canada,MID,6.0,CAN,Ismaël Koné,playing,0.2
+246,Kevin Castaño,Colombia,MID,4.3,COL,Kevin Castaño,playing,0.2
+247,Richard Ríos,Colombia,MID,4.7,COL,Richard Ríos,playing,0.6
+248,Daniel Muñoz,Colombia,DEF,4.6,COL,Daniel Muñoz,playing,7.8
+249,Jhon Lucumí,Colombia,DEF,4.3,COL,Jhon Lucumí,playing,0.2
+250,Dávinson Sánchez,Colombia,DEF,4.3,COL,Dávinson Sánchez,playing,1.3
+251,Déiver Machado,Colombia,DEF,3.9,COL,Déiver Machado,playing,0.1
+252,Johan Mojica,Colombia,DEF,3.9,COL,Johan Mojica,playing,4.8
+253,Santiago Arias,Colombia,DEF,3.9,COL,Santiago Arias,playing,0.1
+256,Luis Díaz,Colombia,MID,8.1,COL,Luis Díaz,playing,18.9
+257,Jhon Córdoba,Colombia,FWD,6.1,COL,Jhon Córdoba,playing,0.1
+259,Luis Suárez,Colombia,FWD,5.7,COL,Luis Suárez,playing,2.5
+261,Andrés Gómez,Colombia,FWD,4.9,COL,Andrés Gómez,playing,0.2
+262,Camilo Vargas,Colombia,GK,4.3,COL,Camilo Vargas,playing,4.4
+263,David Ospina,Colombia,GK,4.0,COL,David Ospina,playing,1.0
+264,Álvaro Montero,Colombia,GK,3.8,COL,Álvaro Montero,playing,0.1
+265,Jefferson Lerma,Colombia,MID,4.9,COL,Jefferson Lerma,playing,0.2
+266,Gustavo Puerta,Colombia,MID,5.3,COL,Gustavo Puerta,playing,0.1
+267,Juan Fernando Quintero,Colombia,MID,5.6,COL,Juan Fernando Quintero,playing,0.1
+268,Jaminton Campaz,Colombia,MID,5.5,COL,Jaminton Campaz,playing,0.0
+269,Jhon Arias,Colombia,MID,6.3,COL,Jhon Arias,playing,0.4
+270,James Rodríguez,Colombia,MID,6.5,COL,James Rodríguez,playing,4.9
+271,Jorge Carrascal,Colombia,MID,6.1,COL,Jorge Carrascal,playing,0.1
+272,Aaron Wan-Bissaka,Congo DR,DEF,4.3,COD,Aaron Wan-Bissaka,playing,0.6
+273,Arthur Masuaku,Congo DR,DEF,4.2,COD,Arthur Masuaku,playing,0.0
+274,Chancel Mbemba,Congo DR,DEF,4.2,COD,Chancel Mbemba,playing,0.1
+275,Axel Tuanzebe,Congo DR,DEF,4.0,COD,Axel Tuanzebe,playing,0.3
+276,Joris Kayembe,Congo DR,DEF,3.9,COD,Joris Kayembe,playing,0.0
+277,Dylan Batubinsika,Congo DR,DEF,3.8,COD,Dylan Batubinsika,playing,0.0
+278,Steve Kapuadi,Congo DR,DEF,3.7,COD,Steve Kapuadi,playing,0.0
+281,Yoane Wissa,Congo DR,FWD,6.2,COD,Yoane Wissa,playing,0.2
+282,Simon Banza,Congo DR,FWD,5.6,COD,Simon Banza,playing,0.0
+283,Cédric Bakambu,Congo DR,FWD,6.5,COD,Cédric Bakambu,playing,0.1
+284,Meschack Elia,Congo DR,FWD,4.9,COD,Meschack Elia,playing,0.0
+285,Fiston Mayele,Congo DR,FWD,4.9,COD,Fiston Mayele,playing,0.1
+287,Nathanaël Mbuku,Congo DR,FWD,4.5,COD,Nathanaël Mbuku,playing,0.0
+288,Brian Cipenga,Congo DR,FWD,4.2,COD,Brian Cipenga,playing,0.0
+289,Lionel Mpasi,Congo DR,GK,4.0,COD,Lionel Mpasi,playing,0.2
+290,Matthieu Epolo,Congo DR,GK,3.7,COD,Matthieu Epolo,playing,0.1
+291,Timothy Fayulu,Congo DR,GK,3.6,COD,Timothy Fayulu,playing,0.0
+292,Ngal'ayel Mukau,Congo DR,MID,4.9,COD,Ngal'ayel Mukau,playing,0.0
+293,Samuel Moutoussamy,Congo DR,MID,5.1,COD,Samuel Moutoussamy,playing,0.0
+294,Noah Sadiki,Congo DR,MID,5.3,COD,Noah Sadiki,playing,0.1
+295,Charles Pickel,Congo DR,MID,5.3,COD,Charles Pickel,playing,0.0
+296,Edo Kayembe,Congo DR,MID,5.6,COD,Edo Kayembe,playing,0.0
+297,Théo Bongonda,Congo DR,MID,6.2,COD,Théo Bongonda,playing,0.0
+298,Christ Inao Oulaï,Côte d'Ivoire,MID,4.6,CIV,Christ Inao Oulaï,playing,0.1
+299,Evan Ndicka,Côte d'Ivoire,DEF,4.4,CIV,Evan Ndicka,playing,0.3
+300,Wilfried Singo,Côte d'Ivoire,DEF,4.4,CIV,Wilfried Singo,playing,0.2
+301,Ousmane Diomande,Côte d'Ivoire,DEF,4.3,CIV,Ousmane Diomande,playing,0.4
+302,Odilon Kossounou,Côte d'Ivoire,DEF,4.3,CIV,Odilon Kossounou,playing,0.0
+303,Guéla Doué,Côte d'Ivoire,DEF,3.9,CIV,Guéla Doué,playing,1.1
+304,Emmanuel Agbadou,Côte d'Ivoire,DEF,3.9,CIV,Emmanuel Agbadou,playing,0.1
+305,Ghislain Konan,Côte d'Ivoire,DEF,4.0,CIV,Ghislain Konan,playing,0.3
+306,Clément Akpa,Côte d'Ivoire,DEF,3.6,CIV,Clément Akpa,transferred,0.0
+307,Yan Diomande,Côte d'Ivoire,FWD,5.9,CIV,Yan Diomande,playing,1.2
+308,Nicolas Pépé,Côte d'Ivoire,FWD,5.9,CIV,Nicolas Pépé,playing,0.2
+309,Elye Wahi,Côte d'Ivoire,FWD,5.9,CIV,Elye Wahi,playing,0.0
+310,Amad Diallo,Côte d'Ivoire,FWD,5.9,CIV,Amad Diallo,playing,0.8
+311,Simon Adingra,Côte d'Ivoire,FWD,5.6,CIV,Simon Adingra,playing,0.1
+312,Evann Guessand,Côte d'Ivoire,FWD,5.3,CIV,Evann Guessand,playing,0.1
+314,Bazoumana Touré,Côte d'Ivoire,FWD,4.5,CIV,Bazoumana Touré,playing,0.2
+316,Alban Lafont,Côte d'Ivoire,GK,4.1,CIV,Alban Lafont,playing,0.2
+317,Yahia Fofana,Côte d'Ivoire,GK,4.2,CIV,Yahia Fofana,playing,0.3
+318,Mohamed Koné,Côte d'Ivoire,GK,3.7,CIV,Mohamed Koné,playing,0.1
+319,Parfait Guiagon,Côte d'Ivoire,MID,4.9,CIV,Parfait Guiagon,playing,0.0
+320,Jean Michaël Seri,Côte d'Ivoire,MID,5.5,CIV,Jean Michaël Seri,playing,0.0
+321,Ibrahim Sangaré,Côte d'Ivoire,MID,5.8,CIV,Ibrahim Sangaré,playing,0.1
+322,Franck Kessie,Côte d'Ivoire,MID,5.9,CIV,Franck Kessie,playing,0.2
+323,Seko Fofana,Côte d'Ivoire,MID,6.8,CIV,Seko Fofana,playing,0.2
+324,Petar Sucic,Croatia,MID,4.2,CRO,Petar Sucic,playing,0.8
+325,Josip Stanisic,Croatia,DEF,4.3,CRO,Josip Stanisic,playing,0.5
+326,Josip Sutalo,Croatia,DEF,4.3,CRO,Josip Sutalo,playing,0.0
+327,Duje Caleta-Car,Croatia,DEF,4.0,CRO,Duje Caleta-Car,playing,0.3
+328,Marin Pongracic,Croatia,DEF,4.0,CRO,Marin Pongracic,playing,0.3
+329,Martin Erlic,Croatia,DEF,3.9,CRO,Martin Erlic,playing,0.0
+330,Luka Vuskovic,Croatia,DEF,3.7,CRO,Luka Vuskovic,playing,1.1
+332,Ante Budimir,Croatia,FWD,6.8,CRO,Ante Budimir,playing,0.2
+333,Andrej Kramaric,Croatia,FWD,6.2,CRO,Andrej Kramaric,playing,0.2
+334,Ivan Perisic,Croatia,FWD,5.4,CRO,Ivan Perisic,playing,0.5
+335,Marco Pasalic,Croatia,FWD,5.3,CRO,Marco Pasalic,playing,0.1
+336,Petar Musa,Croatia,FWD,5.1,CRO,Petar Musa,playing,0.1
+337,Igor Matanovic,Croatia,FWD,4.9,CRO,Igor Matanovic,playing,0.1
+338,Dominik Livakovic,Croatia,GK,4.5,CRO,Dominik Livakovic,playing,1.5
+339,Ivor Pandur,Croatia,GK,3.9,CRO,Ivor Pandur,playing,0.1
+341,Luka Sucic,Croatia,MID,4.9,CRO,Luka Sucic,playing,0.1
+342,Toni Fruk,Croatia,MID,4.9,CRO,Toni Fruk,playing,0.0
+343,Nikola Moro,Croatia,MID,5.6,CRO,Nikola Moro,playing,0.0
+344,Kristijan Jakic,Croatia,MID,5.6,CRO,Kristijan Jakic,playing,0.0
+345,Nikola Vlasic,Croatia,MID,6.1,CRO,Nikola Vlasic,playing,0.0
+346,Luka Modric,Croatia,MID,6.2,CRO,Luka Modric,playing,2.6
+347,Mario Pasalic,Croatia,MID,6.4,CRO,Mario Pasalic,playing,0.1
+348,Martin Baturina,Croatia,MID,6.5,CRO,Martin Baturina,playing,0.2
+350,Tahith Chong,Curaçao,MID,4.2,CUW,Tahith Chong,playing,0.5
+351,Godfried Roemeratoe,Curaçao,MID,4.7,CUW,Godfried Roemeratoe,playing,0.0
+352,Leandro Bacuna,Curaçao,DEF,4.0,CUW,Leandro Bacuna,playing,0.2
+353,Riechedly Bazoer,Curaçao,DEF,3.8,CUW,Riechedly Bazoer,playing,0.0
+354,Joshua Brenet,Curaçao,DEF,3.7,CUW,Joshua Brenet,playing,0.0
+355,Shurandy Sambo,Curaçao,DEF,3.6,CUW,Shurandy Sambo,playing,0.0
+356,Sherel Floranus,Curaçao,DEF,3.6,CUW,Sherel Floranus,playing,0.0
+357,Roshon van Eijma,Curaçao,DEF,3.5,CUW,Roshon van Eijma,playing,0.1
+358,Ar'Jany Martha,Curaçao,DEF,3.5,CUW,Ar'Jany Martha,playing,0.1
+359,Juriën Gaari,Curaçao,DEF,3.5,CUW,Juriën Gaari,playing,0.0
+360,Livano Comenencia,Curaçao,DEF,4.5,CUW,Livano Comenencia,playing,0.0
+361,Tyrese Noslin,Curaçao,DEF,3.5,CUW,Tyrese Noslin,playing,0.0
+362,Brandley Kuwas,Curaçao,FWD,4.4,CUW,Brandley Kuwas,playing,0.0
+363,Sontje Hansen,Curaçao,FWD,4.4,CUW,Sontje Hansen,playing,0.0
+364,Kenji Gorré,Curaçao,FWD,4.2,CUW,Kenji Gorré,playing,0.0
+365,Jearl Margaritha,Curaçao,FWD,4.2,CUW,Jearl Margaritha,playing,0.0
+366,Gervane Kastaneer,Curaçao,FWD,4.0,CUW,Gervane Kastaneer,playing,0.4
+367,Jeremy Antonisse,Curaçao,FWD,4.0,CUW,Jeremy Antonisse,playing,0.1
+368,Eloy Room,Curaçao,GK,3.9,CUW,Eloy Room,playing,0.1
+369,Trevor Doornbusch,Curaçao,GK,3.6,CUW,Trevor Doornbusch,playing,0.0
+370,Tyrick Bodak,Curaçao,GK,3.5,CUW,Tyrick Bodak,playing,0.2
+371,Kevin Felida,Curaçao,MID,4.5,CUW,Kevin Felida,playing,0.0
+372,Juninho Bacuna,Curaçao,MID,5.1,CUW,Juninho Bacuna,playing,0.0
+373,Denis Visinsky,Czechia,MID,4.9,CZE,Denis Visinsky,playing,0.0
+374,Ladislav Krejcí,Czechia,DEF,4.4,CZE,Ladislav Krejcí,playing,0.5
+375,Tomás Holes,Czechia,DEF,3.9,CZE,Tomás Holes,playing,0.0
+376,David Jurásek,Czechia,DEF,3.9,CZE,David Jurásek,playing,0.0
+378,Robin Hranác,Czechia,DEF,3.9,CZE,Robin Hranác,playing,0.0
+379,Jaroslav Zeleny,Czechia,DEF,3.9,CZE,Jaroslav Zeleny,playing,0.0
+380,Vladimír Coufal,Czechia,DEF,3.6,CZE,Vladimír Coufal,playing,3.0
+381,Stepán Chaloupek,Czechia,DEF,3.5,CZE,Stepán Chaloupek,playing,0.2
+382,Patrik Schick,Czechia,FWD,7.3,CZE,Patrik Schick,playing,0.8
+383,Tomás Chory,Czechia,FWD,5.3,CZE,Tomás Chory,playing,0.0
+384,Mojmír Chytil,Czechia,FWD,4.9,CZE,Mojmír Chytil,playing,0.1
+386,Tomás Ladra,Czechia,FWD,4.4,CZE,Tomás Ladra,transferred,0.0
+387,Matej Kovár,Czechia,GK,4.1,CZE,Matej Kovár,playing,0.4
+388,Lukás Hornícek,Czechia,GK,3.8,CZE,Lukás Hornícek,playing,0.1
+390,Lukás Cerv,Czechia,MID,5.3,CZE,Lukás Cerv,playing,0.0
+391,Vladimír Darida,Czechia,MID,5.3,CZE,Vladimír Darida,playing,0.0
+392,Pavel Bucha,Czechia,MID,5.5,CZE,Pavel Bucha,transferred,0.0
+393,Tomás Soucek,Czechia,MID,5.6,CZE,Tomás Soucek,playing,0.5
+395,Michal Sadílek,Czechia,MID,5.6,CZE,Michal Sadílek,playing,0.0
+396,Lukás Provod,Czechia,MID,5.9,CZE,Lukás Provod,playing,0.0
+397,Pavel Sulc,Czechia,MID,5.9,CZE,Pavel Sulc,playing,0.2
+398,Denil Castillo,Ecuador,MID,4.9,ECU,Denil Castillo,playing,0.0
+399,Jordy Alcívar,Ecuador,MID,4.9,ECU,Jordy Alcívar,playing,0.0
+400,Pervis Estupiñán,Ecuador,DEF,4.8,ECU,Pervis Estupiñán,playing,2.7
+403,Ángelo Preciado,Ecuador,DEF,4.3,ECU,Ángelo Preciado,playing,0.1
+404,Joel Ordóñez,Ecuador,DEF,3.9,ECU,Joel Ordóñez,playing,2.0
+405,Félix Torres,Ecuador,DEF,3.9,ECU,Félix Torres,playing,0.1
+406,José Hurtado,Ecuador,DEF,3.9,ECU,José Hurtado,transferred,0.0
+407,Jackson Porozo,Ecuador,DEF,3.8,ECU,Jackson Porozo,playing,0.1
+411,Yaimar Medina,Ecuador,DEF,3.5,ECU,Yaimar Medina,playing,0.5
+412,Enner Valencia,Ecuador,FWD,5.9,ECU,Enner Valencia,playing,0.6
+413,Gonzalo Plata,Ecuador,FWD,5.6,ECU,Gonzalo Plata,playing,0.0
+414,John Yeboah,Ecuador,MID,5.1,ECU,John Yeboah,playing,0.1
+415,Kevin Rodríguez,Ecuador,FWD,4.9,ECU,Kevin Rodríguez,playing,0.2
+416,Alan Minda,Ecuador,FWD,4.9,ECU,Alan Minda,playing,0.1
+417,Jordy Caicedo,Ecuador,FWD,4.9,ECU,Jordy Caicedo,playing,0.1
+419,John Mercado,Ecuador,FWD,4.4,ECU,John Mercado,transferred,0.0
+420,Anthony Valencia,Ecuador,MID,4.2,ECU,Anthony Valencia,playing,0.6
+421,Jeremy Arévalo,Ecuador,FWD,4.0,ECU,Jeremy Arévalo,playing,0.3
+423,Hernán Galíndez,Ecuador,GK,4.2,ECU,Hernán Galíndez,playing,4.9
+424,Moisés Ramírez,Ecuador,GK,3.9,ECU,Moisés Ramírez,playing,0.2
+425,Gonzalo Valle,Ecuador,GK,3.6,ECU,Gonzalo Valle,playing,0.1
+427,Kendry Páez,Ecuador,MID,5.2,ECU,Kendry Páez,playing,0.1
+428,Alan Franco,Ecuador,MID,5.6,ECU,Alan Franco,playing,0.0
+429,Pedro Vite,Ecuador,MID,5.2,ECU,Pedro Vite,playing,0.0
+430,Moisés Caicedo,Ecuador,MID,6.8,ECU,Moisés Caicedo,playing,1.5
+432,Marwan Attia,Egypt,MID,4.3,EGY,Marwan Attia Fahim Ghallab,playing,0.1
+433,Zizo,Egypt,MID,4.3,EGY,Ahmed Mostafa Mohamed Sayed,playing,0.3
+434,Hamdi Fathy,Egypt,MID,4.4,EGY,Hamdi Fathy Abdelhalim Abdel Fattah,playing,0.1
+435,Emam Ashour,Egypt,MID,4.6,EGY,Emam Ashour Metwally Abdel Ghany,playing,0.4
+436,Mahmoud Saber,Egypt,MID,4.9,EGY,Mahmoud Saber Abdelmohsen Hassan,playing,0.0
+437,Mohamed Abdelmonem,Egypt,DEF,4.0,EGY,Mohamed Abdelmonem El Sayed Mohamed Ahmed,playing,0.4
+438,Ahmed Fatouh,Egypt,DEF,3.9,EGY,Ahmed Mohamed Abou El Fotouh Mohamed,playing,0.2
+439,Mohamed Hany,Egypt,DEF,3.6,EGY,Mohamed Hany Gamal El Demerdash,playing,0.4
+440,Ramy Rabia,Egypt,DEF,3.6,EGY,Ramy Hisham Abdel Aziz Mostafa Rabia,playing,0.1
+441,Hossam Abdelmaguid,Egypt,DEF,3.6,EGY,Hossam Abdelmaguid Abdelsalam Abdelmaguid,playing,0.0
+442,Tarek Alaa,Egypt,DEF,3.5,EGY,Tarek Alaa El Gebaly,playing,0.1
+444,Yasser Ibrahim,Egypt,DEF,3.5,EGY,Yasser Ahmed Ibrahim El Hanafi,playing,0.4
+445,Omar Marmoush,Egypt,FWD,7.8,EGY,Omar Khaled Mohamed Abdelsalam Marmoush,playing,1.8
+447,Trezeguet,Egypt,FWD,5.6,EGY,Mahmoud Ahmed Ibrahim Hassan,playing,0.1
+448,Haissem Hassan,Egypt,FWD,4.6,EGY,Haissem Hassan,playing,0.1
+451,Mohamed El Shenawy,Egypt,GK,3.6,EGY,Mohamed El Sayed Mohamed El Shenawy Gomaa,playing,0.3
+452,El Mahdy Soliman,Egypt,GK,3.6,EGY,El Mahdy Mohamed Soliman Ibrahim,playing,0.0
+453,Mostafa Shobeir,Egypt,GK,3.5,EGY,Mostafa Ahmed Abdelaziz Mohamed Shobeir,playing,1.6
+454,Mohamed Alaa,Egypt,GK,3.5,EGY,Mohamed Alaa,playing,0.1
+455,Mohanad Lasheen,Egypt,MID,5.3,EGY,Mohanad Mostafa Ahmed Abdelmonem Lasheen,playing,0.0
+456,Ibrahim Adel,Egypt,MID,5.9,EGY,Ibrahim Adel Ali Mohamed Hassan,playing,0.0
+457,Nico O'Reilly,England,DEF,4.7,ENG,Nico O'Reilly,playing,12.0
+459,Tino Livramento,England,DEF,4.6,ENG,Tino Livramento,playing,0.2
+461,Marc Guéhi,England,DEF,5.1,ENG,Marc Guéhi,playing,7.4
+462,Dan Burn,England,DEF,4.5,ENG,Dan Burn,playing,0.4
+463,Ezri Konsa,England,DEF,4.8,ENG,Ezri Konsa,playing,1.0
+466,John Stones,England,DEF,4.6,ENG,John Stones,playing,1.3
+467,Djed Spence,England,DEF,4.5,ENG,Djed Spence,playing,0.4
+468,Harry Kane,England,FWD,10.5,ENG,Harry Kane,playing,36.4
+469,Bukayo Saka,England,MID,9.5,ENG,Bukayo Saka,playing,4.8
+471,Marcus Rashford,England,MID,7.5,ENG,Marcus Rashford,playing,2.0
+474,Anthony Gordon,England,MID,7.0,ENG,Anthony Gordon,playing,1.5
+475,Morgan Rogers,England,MID,7.2,ENG,Morgan Rogers,playing,0.8
+476,Noni Madueke,England,FWD,6.1,ENG,Noni Madueke,playing,0.3
+477,Jordan Pickford,England,GK,4.8,ENG,Jordan Pickford,playing,14.8
+478,Dean Henderson,England,GK,4.2,ENG,Dean Henderson,playing,0.3
+479,James Trafford,England,GK,4.0,ENG,James Trafford,playing,0.5
+482,Jordan Henderson,England,MID,5.1,ENG,Jordan Henderson,playing,0.2
+485,Kobbie Mainoo,England,MID,6.1,ENG,Kobbie Mainoo,playing,0.5
+486,Elliot Anderson,England,MID,6.5,ENG,Elliot Anderson,playing,0.9
+488,Declan Rice,England,MID,7.0,ENG,Declan Rice,playing,7.2
+491,Jude Bellingham,England,MID,8.3,ENG,Jude Bellingham,playing,9.0
+492,Theo Hernández,France,DEF,5.0,FRA,Theo Hernández,playing,3.4
+493,Maxence Lacroix,France,DEF,4.5,FRA,Maxence Lacroix,playing,0.4
+494,Dayot Upamecano,France,DEF,5.3,FRA,Dayot Upamecano,playing,4.6
+495,Ibrahima Konaté,France,DEF,4.9,FRA,Ibrahima Konaté,playing,2.0
+496,Lucas Hernández,France,DEF,5.2,FRA,Lucas Hernández,playing,2.5
+498,Lucas Digne,France,DEF,5.0,FRA,Lucas Digne,playing,0.9
+499,Malo Gusto,France,DEF,5.1,FRA,Malo Gusto,playing,0.5
+500,Kylian Mbappé,France,FWD,10.5,FRA,Kylian Mbappé,playing,49.4
+501,Ousmane Dembélé,France,MID,10.0,FRA,Ousmane Dembélé,playing,16.6
+502,Marcus Thuram,France,FWD,7.5,FRA,Marcus Thuram,playing,0.6
+505,Désiré Doué,France,MID,7.5,FRA,Désiré Doué,playing,3.4
+506,Mike Maignan,France,GK,5.0,FRA,Mike Maignan,playing,9.1
+508,Brice Samba,France,GK,4.5,FRA,Brice Samba,playing,0.2
+509,N'Golo Kanté,France,MID,5.1,FRA,N'Golo Kanté,playing,1.1
+510,Adrien Rabiot,France,MID,6.4,FRA,Adrien Rabiot,playing,0.3
+511,Warren Zaïre-Emery,France,MID,6.1,FRA,Warren Zaïre-Emery,playing,0.3
+512,Manu Koné,France,MID,6.1,FRA,Manu Koné,playing,0.1
+514,Maghnes Akliouche,France,MID,6.4,FRA,Maghnes Akliouche,playing,0.0
+515,Aurélien Tchouaméni,France,MID,6.5,FRA,Aurélien Tchouaméni,playing,0.9
+516,Rayan Cherki,France,MID,8.0,FRA,Rayan Cherki,playing,7.2
+517,Michael Olise,France,MID,9.5,FRA,Michael Olise,playing,34.3
+518,Lennart Karl,Germany,MID,4.8,GER,Lennart Karl,transferred,0.3
+519,Angelo Stiller,Germany,MID,5.8,GER,Angelo Stiller,playing,0.2
+520,Antonio Rüdiger,Germany,DEF,5.5,GER,Antonio Rüdiger,playing,10.0
+521,David Raum,Germany,DEF,4.9,GER,David Raum,playing,2.1
+522,Malick Thiaw,Germany,DEF,4.7,GER,Malick Thiaw,playing,0.7
+523,Jonathan Tah,Germany,DEF,5.3,GER,Jonathan Tah,playing,4.1
+525,Nathaniel Brown,Germany,DEF,4.7,GER,Nathaniel Brown,playing,0.7
+526,Nico Schlotterbeck,Germany,DEF,5.3,GER,Nico Schlotterbeck,playing,4.0
+527,Waldemar Anton,Germany,DEF,3.9,GER,Waldemar Anton,playing,0.3
+528,Kai Havertz,Germany,FWD,7.8,GER,Kai Havertz,playing,15.4
+529,Leroy Sané,Germany,MID,7.4,GER,Leroy Sané,playing,2.2
+531,Deniz Undav,Germany,FWD,6.6,GER,Deniz Undav,playing,0.8
+532,Nick Woltemade,Germany,FWD,7.2,GER,Nick Woltemade,playing,1.2
+533,Alexander Nübel,Germany,GK,4.7,GER,Alexander Nübel,playing,0.4
+534,Oliver Baumann,Germany,GK,4.3,GER,Oliver Baumann,playing,0.3
+538,Pascal Groß,Germany,MID,5.6,GER,Pascal Groß,playing,0.2
+540,Leon Goretzka,Germany,MID,6.1,GER,Leon Goretzka,playing,0.4
+542,Joshua Kimmich,Germany,DEF,5.5,GER,Joshua Kimmich,playing,34.4
+543,Florian Wirtz,Germany,MID,7.5,GER,Florian Wirtz,playing,23.6
+565,Benjamin Asare,Ghana,GK,3.8,GHA,Benjamin Asare,playing,0.1
+569,Woodensky Pierre,Haiti,MID,4.2,HAI,Woodensky Pierre,playing,0.0
+570,Leverton Pierre,Haiti,MID,4.2,HAI,Leverton Pierre,transferred,0.0
+571,Jean-Ricner Bellegarde,Haiti,MID,4.7,HAI,Jean-Ricner Bellegarde,playing,0.1
+572,Carl Sainté,Haiti,MID,4.7,HAI,Carl Sainté,playing,0.0
+573,Danley Jean Jacques,Haiti,MID,4.7,HAI,Danley Jean Jacques,playing,0.0
+574,Jean-Kévin Duverne,Haiti,DEF,3.8,HAI,Jean-Kévin Duverne,playing,0.0
+575,Carlens Arcus,Haiti,DEF,3.8,HAI,Carlens Arcus,playing,0.0
+576,Hannes Delcroix,Haiti,DEF,3.7,HAI,Hannes Delcroix,playing,0.0
+577,Ricardo Adé,Haiti,DEF,3.5,HAI,Ricardo Adé,playing,0.1
+578,Martin Expérience,Haiti,DEF,3.5,HAI,Martin Expérience,playing,0.1
+580,Wilguens Paugain,Haiti,DEF,3.5,HAI,Wilguens Paugain,playing,0.0
+581,Duke Lacroix,Haiti,DEF,3.5,HAI,Duke Lacroix,playing,0.3
+582,Wilson Isidor,Haiti,FWD,5.0,HAI,Wilson Isidor,playing,1.1
+583,Duckens Nazon,Haiti,FWD,6.0,HAI,Duckens Nazon,playing,0.1
+584,Frantzdy Pierrot,Haiti,FWD,4.7,HAI,Frantzdy Pierrot,playing,0.0
+585,Derrick Etienne,Haiti,FWD,4.4,HAI,Derrick Etienne,playing,0.0
+586,Louicius Deedson,Haiti,FWD,4.2,HAI,Louicius Deedson,playing,0.0
+588,Yassin Fortuné,Haiti,FWD,4.2,HAI,Yassin Fortuné,playing,0.0
+589,Josué Casimir,Haiti,FWD,4.2,HAI,Josué Casimir,playing,0.0
+590,Ruben Providence,Haiti,FWD,4.0,HAI,Ruben Providence,playing,0.1
+591,Johny Placide,Haiti,GK,3.9,HAI,Johny Placide,playing,0.1
+592,Alexandre Pierre,Haiti,GK,3.6,HAI,Alexandre Pierre,playing,0.0
+593,Josué Duverger,Haiti,GK,3.5,HAI,Josué Duverger,playing,0.1
+594,Amir Mohammad Razzaghinia,IR Iran,MID,4.2,IRN,Amir Mohammad Razzaghinia,playing,0.1
+595,Hadi Habibinejad,IR Iran,MID,4.7,IRN,Hadi Habibinejad,transferred,0.0
+596,Mohammad Ghorbani,IR Iran,MID,5.1,IRN,Mohammad Ghorbani,playing,0.0
+597,Ramin Rezaeian,IR Iran,DEF,4.0,IRN,Ramin Rezaeian,playing,0.3
+598,Hossein Kanani,IR Iran,DEF,3.9,IRN,Hossein Kanani,playing,0.0
+599,Milad Mohammadi,IR Iran,DEF,3.8,IRN,Milad Mohammadi,playing,0.0
+600,Shoja Khalilzadeh,IR Iran,DEF,3.8,IRN,Shoja Khalilzadeh,playing,0.0
+601,Ehsan Hajisafi,IR Iran,DEF,3.7,IRN,Ehsan Hajisafi,playing,0.0
+603,Saleh Hardani,IR Iran,DEF,3.7,IRN,Saleh Hardani,playing,0.0
+606,Ali Nemati,IR Iran,DEF,3.5,IRN,Ali Nemati,playing,0.1
+608,Aria Yousefi,IR Iran,DEF,3.5,IRN,Aria Yousefi,playing,0.1
+609,Danial Eiri,IR Iran,DEF,3.5,IRN,Danial Eiri,playing,0.0
+610,Mehdi Taremi,IR Iran,FWD,6.1,IRN,Mehdi Taremi,playing,0.6
+611,Alireza Jahanbakhsh,IR Iran,FWD,5.3,IRN,Alireza Jahanbakhsh,playing,0.0
+612,Saman Ghoddos,IR Iran,FWD,4.9,IRN,Saman Ghoddos,playing,0.1
+614,Ali Alipour,IR Iran,FWD,4.6,IRN,Ali Alipour,playing,0.0
+615,Dennis Dargahi,IR Iran,FWD,4.6,IRN,Dennis Dargahi,playing,0.0
+616,Amirhossein Hosseinzadeh,IR Iran,FWD,4.5,IRN,Amirhossein Hosseinzadeh,playing,0.0
+618,Amirhossein Mahmoudi,IR Iran,FWD,4.0,IRN,Amirhossein Mahmoudi,transferred,0.0
+620,Alireza Beiranvand,IR Iran,GK,4.2,IRN,Alireza Beiranvand,playing,0.2
+621,Payam Niazmand,IR Iran,GK,3.9,IRN,Payam Niazmand,playing,0.0
+622,Hossein Hosseini,IR Iran,GK,3.8,IRN,Hossein Hosseini,playing,0.0
+623,Mohammad Khalifeh,IR Iran,GK,3.5,IRN,Mohammad Khalifeh,transferred,0.0
+624,Omid Noorafkan,IR Iran,MID,5.3,IRN,Omid Noorafkan,transferred,0.0
+625,Mehdi Torabi,IR Iran,MID,5.6,IRN,Mehdi Torabi,playing,0.0
+626,Saeid Ezatolahi,IR Iran,MID,5.6,IRN,Saeid Ezatolahi,playing,0.0
+627,Mohammad Mohebi,IR Iran,MID,5.9,IRN,Mohammad Mohebi,playing,0.0
+629,Mehdi Ghayedi,IR Iran,MID,5.9,IRN,Mehdi Ghayedi,playing,0.0
+630,Zaid Ismael,Iraq,MID,4.4,IRQ,Zaid Ismael Khaleel Al Dulaimi,playing,0.0
+631,Marko Farji,Iraq,MID,4.4,IRQ,Marko Hussein Farji,playing,0.0
+632,Hasan Abdulkareem,Iraq,MID,4.7,IRQ,Hasan Abdulkareem Jabbar Sayyid,transferred,0.0
+633,Peter Gwargis,Iraq,MID,5.1,IRQ,Peter Gwargis,transferred,0.0
+634,Kevin Yakob,Iraq,MID,5.1,IRQ,Kevin Yakob,playing,0.0
+635,Amir Al Ammari,Iraq,MID,5.3,IRQ,Amir Fouad Abboud Al Ammari,playing,0.0
+636,Aimar Sher,Iraq,MID,5.3,IRQ,Aimar Hazar Anwar Sher,playing,0.0
+637,Merchas Doski,Iraq,DEF,3.8,IRQ,Merchas Ghazi Salih Doski,playing,0.1
+638,Frans Putros,Iraq,DEF,3.7,IRQ,Frans Dhia Jirjis Haddad,playing,0.0
+639,Rebin Sulaka,Iraq,DEF,3.7,IRQ,Rebin Ghareeb Sulaka Adhamat,playing,0.0
+640,Maytham Jabbar,Iraq,DEF,3.6,IRQ,Maytham Jabbar Mutlag Al Farttoosi,transferred,0.0
+641,Hussein Ali,Iraq,DEF,3.6,IRQ,Hussein Haydar Ali,playing,0.0
+642,Zaid Tahseen,Iraq,DEF,3.6,IRQ,Zaid Tahseen Abd Zaid Hantoosh,playing,0.0
+643,Munaf Younus,Iraq,DEF,3.5,IRQ,Munaf Younus Hashim Al Tekreeti,playing,0.0
+644,Akam Hashim,Iraq,DEF,3.5,IRQ,Akam Hashim Rahman,playing,0.1
+645,Ahmed Maknzi,Iraq,DEF,3.5,IRQ,Ahmed Hasan Maknzi Al Deeshawee,playing,0.0
+646,Aymen Hussein,Iraq,FWD,5.3,IRQ,Aymen Hussein Ghadhban Al Mafraje,playing,0.1
+647,Mohanad Ali,Iraq,FWD,4.9,IRQ,Mohanad Ali Kadhim Al Shammari,playing,0.1
+648,Ali Jasim,Iraq,FWD,4.9,IRQ,Ali Jasim Elaibi Al Tameemi,playing,0.1
+649,Ali Al Hamadi,Iraq,FWD,4.7,IRQ,Ali Ibrahim Karim Ali Al Hamadi,playing,0.0
+650,Youssef Amyn,Iraq,FWD,4.4,IRQ,Youssef Wali Faeq Amyn,playing,0.0
+651,Ali Yousif,Iraq,FWD,4.2,IRQ,Ali Yousif Hashim Najatee,playing,0.0
+652,Karar Nabeel,Iraq,MID,4.0,IRQ,Karar Nabeel Hussein Al Janat,transferred,0.2
+653,Ahmed Basil,Iraq,GK,3.8,IRQ,Ahmed Basil Fadhil Al Fadhli,playing,0.0
+654,Fahad Talib,Iraq,GK,3.7,IRQ,Fahad Talib Raheem,playing,0.0
+655,Kumel Saadi,Iraq,GK,3.5,IRQ,Kumel Saadi Latif Al Rekabe,transferred,0.0
+656,Zidane Iqbal,Iraq,MID,5.6,IRQ,Zidane Aamar Iqbal,playing,0.1
+657,Ibrahim Bayesh,Iraq,MID,5.6,IRQ,Ibrahim Bayesh Kamil Al Kaabawi,playing,0.0
+659,Kaishu Sano,Japan,MID,4.9,JPN,Kaishu Sano,playing,0.1
+662,Yukinari Sugawara,Japan,DEF,4.4,JPN,Yukinari Sugawara,playing,0.2
+663,Tsuyoshi Watanabe,Japan,DEF,4.3,JPN,Tsuyoshi Watanabe,playing,0.2
+665,Hiroki Ito,Japan,DEF,3.9,JPN,Hiroki Ito,playing,0.4
+666,Shogo Taniguchi,Japan,DEF,3.9,JPN,Shogo Taniguchi,playing,0.0
+667,Ayumu Seko,Japan,DEF,3.8,JPN,Ayumu Seko,playing,0.1
+668,Junnosuke Suzuki,Japan,DEF,3.5,JPN,Junnosuke Suzuki,playing,0.8
+669,Junya Ito,Japan,MID,5.0,JPN,Junya Ito,playing,1.3
+670,Daizen Maeda,Japan,MID,5.0,JPN,Daizen Maeda,playing,1.1
+671,Keito Nakamura,Japan,MID,5.5,JPN,Keito Nakamura,playing,0.3
+672,Ayase Ueda,Japan,FWD,7.0,JPN,Ayase Ueda,playing,0.7
+673,Koki Ogawa,Japan,FWD,4.9,JPN,Koki Ogawa,playing,0.2
+675,Keisuke Goto,Japan,FWD,4.2,JPN,Keisuke Goto,playing,0.1
+676,Kento Shiogai,Japan,FWD,4.0,JPN,Kento Shiogai,playing,0.2
+677,Zion Suzuki,Japan,GK,4.3,JPN,Zion Suzuki,playing,1.9
+678,Keisuke Osako,Japan,GK,4.0,JPN,Keisuke Osako,playing,0.3
+679,Tomoki Hayakawa,Japan,GK,3.8,JPN,Tomoki Hayakawa,playing,0.1
+680,Yuito Suzuki,Japan,MID,5.0,JPN,Yuito Suzuki,playing,0.8
+681,Ao Tanaka,Japan,MID,5.0,JPN,Ao Tanaka,playing,1.1
+682,Daichi Kamada,Japan,MID,5.8,JPN,Daichi Kamada,playing,0.3
+684,Ritsu Doan,Japan,DEF,5.1,JPN,Ritsu Doan,playing,1.0
+685,Yousef Qashi,Jordan,MID,4.2,JOR,Yousef Hussein Abed Qashi,transferred,0.0
+686,Ibrahim Sadeh,Jordan,MID,4.4,JOR,Ibrahim Mohammad Sami Sadeh,playing,0.0
+687,Mohammad Al Daoud,Jordan,MID,4.7,JOR,Mohammad Ratib Mohammad Al Daoud,playing,0.0
+688,Noor Al Rawabdeh,Jordan,MID,4.7,JOR,Noor Al Deen Mahmoud Ali Al Rawabdeh,playing,0.0
+689,Nizar Al Rashdan,Jordan,MID,4.9,JOR,Nizar Mahmoud Ahmed Al Rashdan,playing,0.0
+690,Yazan Al Arab,Jordan,DEF,3.7,JOR,Yazan Mousa Mahmoud Abu Al Arab,playing,0.1
+691,Abdallah Nasib,Jordan,DEF,3.6,JOR,Abdallah Mousa Musallam Nasib,playing,0.0
+692,Mohannad Abu Taha,Jordan,DEF,3.5,JOR,Mohannad Mahmoud Saleh Abu Taha,playing,0.1
+693,Mohammad Abu Hasheesh,Jordan,DEF,3.5,JOR,Mohammad Ali Hasan Abu Hasheesh,playing,0.0
+695,Husam Abu Al Dahab,Jordan,DEF,3.5,JOR,Husam Ali Mohammad Abu Al Dahab,playing,0.0
+696,Mohammad Abu Ghoush,Jordan,DEF,3.5,JOR,Mohammad Ahmed Mohammad Taha,playing,0.0
+697,Ahmad Assaf,Jordan,DEF,3.5,JOR,Ahmad Fawzi Abdalateef Assaf,transferred,0.0
+698,Saleem Obaid,Jordan,DEF,3.5,JOR,Saleem Amer Saleem Obaid,playing,0.0
+699,Mohammad Abu Al Nadi,Jordan,DEF,3.5,JOR,Mohammad Majed Jamil Abu Al Nadi,playing,0.0
+700,Amer Jamous,Jordan,DEF,3.5,JOR,Amer Rasem Adel Jamous,playing,0.0
+701,Mousa Al Tamari,Jordan,FWD,5.6,JOR,Mousa Mohammad Mousa Sulaiman Al Tamari,playing,0.1
+702,Mohammad Abu Zraiq,Jordan,FWD,4.2,JOR,Mohammad Faisal Yousef Abu Zraiq,playing,0.0
+703,Mahmoud Al Mardi,Jordan,FWD,4.2,JOR,Mahmoud Nayef Ahmad Al Mardi,playing,0.0
+705,Ibrahim Sabra,Jordan,FWD,4.0,JOR,Ibrahim Mohammad Abdallah Sabra,transferred,0.0
+707,Ali Azaizeh,Jordan,FWD,4.0,JOR,Ali Ahmad Ali Al Azaizeh,playing,0.1
+708,Odeh Fakhoury,Jordan,FWD,4.0,JOR,Odeh Burhan Shehadeh Fakhoury,playing,0.0
+709,Yazeed  Abulaila,Jordan,GK,3.9,JOR,Yazeed Mo'ien Hasan Abulaila,playing,0.0
+710,Abdallah Al Fakhouri,Jordan,GK,3.6,JOR,Abdallah Ra'ed Mahmoud Al Fakhouri,playing,0.1
+713,Park Jin-Seob,Korea Republic,MID,4.9,KOR,Jin-Seob Park,playing,0.0
+714,Kim Jin-Gyu,Korea Republic,MID,4.9,KOR,Jin-Gyu Kim,playing,0.0
+715,Kim Min-Jae,Korea Republic,DEF,5.0,KOR,Min-Jae Kim,playing,2.1
+716,Seol Young-Woo,Korea Republic,DEF,4.2,KOR,Young-Woo Seol,playing,0.1
+717,Cho Yu-Min,Korea Republic,DEF,3.9,KOR,Yu-Min Cho,transferred,0.0
+718,Kim Moon-Hwan,Korea Republic,DEF,3.9,KOR,Moon-Hwan Kim,playing,0.0
+719,Lee Han-Beom,Korea Republic,DEF,3.7,KOR,Han-Beom Lee,playing,0.0
+720,Lee Tae-Seok,Korea Republic,DEF,3.7,KOR,Tae-Seok Lee,playing,0.0
+722,Kim Tae-Hyeon,Korea Republic,DEF,3.6,KOR,Tae-Hyeon Kim,playing,0.1
+723,Son Heung-Min,Korea Republic,FWD,7.4,KOR,Heung-Min Son,playing,2.2
+724,Hwang Hee-Chan,Korea Republic,FWD,6.1,KOR,Hee-Chan Hwang,playing,0.2
+725,Cho Gue-Sung,Korea Republic,FWD,5.3,KOR,Gue-Sung Cho,playing,0.0
+726,Oh Hyeon-Gyu,Korea Republic,FWD,4.9,KOR,Hyeon-Gyu Oh,playing,0.1
+727,Yang Hyun-Jun,Korea Republic,FWD,4.7,KOR,Hyun-Jun Yang,playing,0.0
+728,Eom Ji-Sung,Korea Republic,FWD,4.6,KOR,Ji-Sung Eom,playing,0.0
+729,Jo Hyeon-Woo,Korea Republic,GK,4.6,KOR,Hyeon-Woo Jo,playing,0.2
+730,Kim Seung-Gyu,Korea Republic,GK,4.1,KOR,Seung-Gyu Kim,playing,0.1
+731,Song Bum-Keun,Korea Republic,GK,3.9,KOR,Bum-Keun Song,playing,0.1
+732,Paik Seung-Ho,Korea Republic,MID,5.6,KOR,Seung-Ho Paik,playing,0.0
+733,Jens Castrop,Korea Republic,MID,5.6,KOR,Jens Castrop,playing,0.0
+735,Bae Jun-Ho,Korea Republic,MID,5.9,KOR,Jun-Ho Bae,playing,0.0
+736,Lee Kang-In,Korea Republic,MID,6.1,KOR,Kang-In Lee,playing,0.5
+737,Lee Jae-Sung,Korea Republic,MID,6.2,KOR,Jae-Sung Lee,playing,0.1
+738,Obed Vargas,Mexico,MID,4.7,MEX,Obed Vargas,playing,0.3
+740,Johan Vásquez,Mexico,DEF,4.7,MEX,Johan Vásquez,playing,3.5
+741,César Montes,Mexico,DEF,4.7,MEX,César Montes,playing,0.5
+742,Jesús Gallardo,Mexico,DEF,4.7,MEX,Jesús Gallardo,playing,0.6
+743,Jorge Sánchez,Mexico,DEF,4.0,MEX,Jorge Sánchez,playing,0.9
+744,Israel Reyes,Mexico,DEF,4.0,MEX,Israel Reyes,playing,0.4
+745,Jesús Angulo,Mexico,DEF,3.9,MEX,Jesús Angulo,transferred,0.0
+746,Richard Ledezma,Mexico,DEF,3.9,MEX,Richard Ledezma,transferred,0.0
+747,Everardo López,Mexico,DEF,3.5,MEX,Everardo López,transferred,0.0
+748,Raúl Jiménez,Mexico,FWD,7.0,MEX,Raúl Jiménez,playing,3.4
+749,Germán Berterame,Mexico,FWD,5.6,MEX,Germán Berterame,transferred,0.0
+750,Julián Quiñones,Mexico,FWD,5.6,MEX,Julián Quiñones,playing,0.5
+751,Alexis Vega,Mexico,FWD,5.3,MEX,Alexis Vega,playing,0.2
+752,Roberto Alvarado,Mexico,FWD,5.3,MEX,Roberto Alvarado,playing,0.1
+753,Guillermo Martínez,Mexico,FWD,4.7,MEX,Guillermo Martínez,playing,0.2
+754,Armando González,Mexico,FWD,4.4,MEX,Armando González,playing,0.2
+755,Guillermo Ochoa,Mexico,GK,4.2,MEX,Guillermo Ochoa,playing,4.8
+756,Carlos Acevedo,Mexico,GK,4.0,MEX,Carlos Acevedo,playing,0.3
+757,Raúl Rangel,Mexico,GK,3.9,MEX,Raúl Rangel,playing,4.9
+758,Brian Gutiérrez,Mexico,MID,5.0,MEX,Brian Gutiérrez,playing,1.3
+759,Érik Lira,Mexico,MID,5.6,MEX,Érik Lira,playing,0.1
+760,Carlos Rodríguez,Mexico,MID,5.9,MEX,Carlos Rodríguez,transferred,0.0
+761,Érick Sánchez,Mexico,MID,4.5,MEX,Érick Sánchez,transferred,0.0
+762,Orbelín Pineda,Mexico,MID,6.2,MEX,Orbelín Pineda,playing,0.1
+763,Álvaro Fidalgo,Mexico,MID,6.4,MEX,Álvaro Fidalgo,playing,0.4
+765,Samir El Mourabet,Morocco,MID,4.7,MAR,Samir El Mourabet,playing,0.0
+766,Oussama Targhalline,Morocco,MID,5.3,MAR,Oussama Targhalline,transferred,0.0
+770,Souffian El Karouani,Morocco,DEF,4.0,MAR,Souffian El Karouani,transferred,0.0
+773,Anass Salah-Eddine,Morocco,DEF,3.9,MAR,Anass Salah-Eddine,playing,0.0
+774,Ismaël Baouf,Morocco,DEF,3.5,MAR,Ismaël Baouf,transferred,0.0
+775,Abdelhamid Aït Boudlal,Morocco,DEF,3.5,MAR,Abdelhamid Aït Boudlal,transferred,0.0
+777,Ayoub El Kaabi,Morocco,FWD,5.9,MAR,Ayoub El Kaabi,playing,0.2
+782,Gessime Yassine,Morocco,FWD,4.0,MAR,Gessime Yassine,playing,0.3
+783,Rayane Bounida,Morocco,FWD,4.0,MAR,Rayane Bounida,transferred,0.0
+784,Yassir Zabiri,Morocco,FWD,4.0,MAR,Yassir Zabiri,transferred,0.0
+787,El Mehdi Al Harrar,Morocco,GK,3.5,MAR,El Mehdi Al Harrar,transferred,0.0
+792,Ismael Saibari,Morocco,MID,6.8,MAR,Ismael Saibari,playing,0.5
+793,Kees Smit,Netherlands,MID,4.7,NED,Kees Smit,transferred,0.0
+794,Luciano Valente,Netherlands,MID,4.9,NED,Luciano Valente,transferred,0.0
+795,Denzel Dumfries,Netherlands,DEF,5.7,NED,Denzel Dumfries,playing,15.2
+796,Virgil van Dijk,Netherlands,DEF,5.5,NED,Virgil van Dijk,playing,19.9
+797,Micky van de Ven,Netherlands,DEF,5.1,NED,Micky van de Ven,playing,4.9
+798,Nathan Aké,Netherlands,DEF,5.0,NED,Nathan Aké,playing,2.5
+799,Jeremie Frimpong,Netherlands,DEF,5.0,NED,Jeremie Frimpong,transferred,0.1
+800,Lutsharel Geertruida,Netherlands,DEF,4.8,NED,Lutsharel Geertruida,transferred,0.0
+801,Stefan de Vrij,Netherlands,DEF,4.5,NED,Stefan de Vrij,transferred,0.0
+802,Jan Paul van Hecke,Netherlands,DEF,4.3,NED,Jan Paul van Hecke,playing,1.1
+803,Jorrel Hato,Netherlands,DEF,4.3,NED,Jorrel Hato,playing,0.3
+804,Cody Gakpo,Netherlands,FWD,7.7,NED,Cody Gakpo,playing,3.9
+805,Donyell Malen,Netherlands,FWD,6.1,NED,Donyell Malen,playing,1.3
+806,Noa Lang,Netherlands,FWD,5.9,NED,Noa Lang,playing,0.1
+807,Brian Brobbey,Netherlands,FWD,5.7,NED,Brian Brobbey,playing,0.2
+808,Wout Weghorst,Netherlands,FWD,5.5,NED,Wout Weghorst,playing,0.3
+809,Bart Verbruggen,Netherlands,GK,4.7,NED,Bart Verbruggen,playing,3.2
+810,Mark Flekken,Netherlands,GK,4.7,NED,Mark Flekken,playing,0.3
+811,Justin Bijlow,Netherlands,GK,4.3,NED,Justin Bijlow,transferred,0.0
+812,Ryan Gravenberch,Netherlands,MID,6.1,NED,Ryan Gravenberch,playing,0.9
+813,Jerdy Schouten,Netherlands,MID,6.1,NED,Jerdy Schouten,transferred,0.0
+814,Teun Koopmeiners,Netherlands,MID,6.2,NED,Teun Koopmeiners,playing,0.1
+815,Xavi Simons,Netherlands,MID,6.5,NED,Xavi Simons,transferred,0.0
+816,Tijjani Reijnders,Netherlands,MID,6.5,NED,Tijjani Reijnders,playing,1.5
+817,Quinten Timber,Netherlands,MID,6.8,NED,Quinten Timber,playing,0.4
+818,Callum McCowatt,New Zealand,MID,4.7,NZL,Callum McCowatt,playing,0.0
+820,Alex Rufer,New Zealand,MID,4.9,NZL,Alex Rufer,playing,0.0
+821,Joe Bell,New Zealand,MID,5.1,NZL,Joe Bell,playing,0.0
+822,Ryan Thomas,New Zealand,MID,5.3,NZL,Ryan Thomas,playing,0.0
+823,Marko Stamenic,New Zealand,MID,5.6,NZL,Marko Stamenic,playing,0.0
+825,Tyler Bindon,New Zealand,DEF,3.6,NZL,Tyler Bindon,playing,0.0
+826,Francis de Vries,New Zealand,DEF,3.6,NZL,Francis de Vries,playing,0.0
+827,Tim Payne,New Zealand,DEF,3.6,NZL,Tim Payne,playing,0.4
+829,Callan Elliot,New Zealand,DEF,3.5,NZL,Callan Elliot,playing,0.1
+830,Finn Surman,New Zealand,DEF,3.5,NZL,Finn Surman,playing,0.0
+831,Kosta Barbarouses,New Zealand,FWD,4.4,NZL,Kosta Barbarouses,playing,0.0
+832,Elijah Just,New Zealand,MID,4.2,NZL,Elijah Just,playing,0.1
+833,Ben Waine,New Zealand,FWD,4.2,NZL,Ben Waine,playing,0.0
+834,Ben Old,New Zealand,FWD,4.2,NZL,Ben Old,playing,0.0
+835,Jesse Randall,New Zealand,FWD,4.0,NZL,Jesse Randall,playing,0.1
+836,Lachlan Bayliss,New Zealand,MID,4.0,NZL,Lachlan Bayliss,playing,1.6
+838,Max Crocombe,New Zealand,GK,3.9,NZL,Max Crocombe,playing,0.1
+839,Alex Paulsen,New Zealand,GK,3.8,NZL,Alex Paulsen,playing,0.1
+840,Michael Woud,New Zealand,GK,3.7,NZL,Michael Woud,playing,0.0
+841,Sander Berge,Norway,MID,4.7,NOR,Sander Berge,playing,0.3
+843,Oscar Bobb,Norway,MID,5.1,NOR,Oscar Bobb,playing,0.8
+844,Morten Thorsby,Norway,MID,5.6,NOR,Morten Thorsby,playing,0.0
+845,Patrick Berg,Norway,MID,5.6,NOR,Patrick Berg,playing,0.1
+846,Kristoffer Ajer,Norway,DEF,4.3,NOR,Kristoffer Ajer,playing,0.8
+847,Julian Ryerson,Norway,DEF,4.2,NOR,Julian Ryerson,playing,7.8
+848,Marcus Pedersen,Norway,DEF,4.1,NOR,Marcus Pedersen,playing,0.1
+849,Leo Østigård,Norway,DEF,4.1,NOR,Leo Østigård,playing,0.2
+850,David Møller Wolfe,Norway,DEF,4.0,NOR,David Møller Wolfe,playing,1.7
+851,Fredrik Bjørkan,Norway,DEF,4.0,NOR,Fredrik Bjørkan,playing,0.3
+852,Torbjørn Heggem,Norway,DEF,3.7,NOR,Torbjørn Heggem,playing,0.3
+854,Henrik Falchener,Norway,DEF,3.5,NOR,Henrik Falchener,playing,0.3
+855,Erling Haaland,Norway,FWD,10.5,NOR,Erling Haaland,playing,33.6
+856,Alexander Sørloth,Norway,FWD,6.8,NOR,Alexander Sørloth,playing,1.4
+857,Andreas Schjelderup,Norway,FWD,6.2,NOR,Andreas Schjelderup,playing,0.2
+858,Jørgen Strand Larsen,Norway,FWD,5.6,NOR,Jørgen Strand Larsen,playing,0.2
+859,Ørjan Nyland,Norway,GK,4.2,NOR,Ørjan Nyland,playing,2.5
+860,Egil Selvik,Norway,GK,3.8,NOR,Egil Selvik,playing,0.1
+862,Jens Petter Hauge,Norway,MID,5.9,NOR,Jens Petter Hauge,playing,0.1
+863,Antonio Nusa,Norway,MID,6.1,NOR,Antonio Nusa,playing,3.4
+864,Kristian Thorstvedt,Norway,MID,6.2,NOR,Kristian Thorstvedt,playing,0.0
+865,Carlos Harvey,Panama,MID,4.9,PAN,Carlos Harvey,playing,0.0
+866,Cristian Martínez,Panama,MID,5.3,PAN,Cristian Martínez,playing,0.0
+867,Yoel Bárcenas,Panama,MID,5.6,PAN,Yoel Bárcenas,playing,0.0
+868,José Luis Rodríguez,Panama,MID,5.6,PAN,José Luis Rodríguez,playing,0.0
+869,Aníbal Godoy,Panama,MID,5.6,PAN,Aníbal Godoy,playing,0.0
+870,Amir Murillo,Panama,DEF,5.0,PAN,Amir Murillo,playing,0.9
+871,José Córdoba,Panama,DEF,4.0,PAN,José Córdoba,playing,0.3
+872,Éric Davis,Panama,DEF,3.9,PAN,Éric Davis,playing,0.1
+873,César Blackman,Panama,DEF,3.7,PAN,César Blackman,playing,0.1
+874,Andrés Andrade,Panama,DEF,3.7,PAN,Andrés Andrade,playing,0.0
+875,Roderick Miller,Panama,DEF,3.5,PAN,Roderick Miller,playing,0.1
+876,Jiovany Ramos,Panama,DEF,3.5,PAN,Jiovany Ramos,playing,0.1
+877,Martín Krug,Panama,DEF,3.5,PAN,Martín Krug,transferred,0.0
+878,Jorge Gutiérrez,Panama,DEF,3.5,PAN,Jorge Gutiérrez,playing,0.0
+879,Ismael Díaz,Panama,FWD,4.9,PAN,Ismael Díaz,playing,0.1
+880,José Fajardo,Panama,FWD,4.7,PAN,José Fajardo,playing,0.0
+881,Cecilio Waterman,Panama,FWD,5.0,PAN,Cecilio Waterman,playing,0.8
+882,César Yanis,Panama,FWD,4.4,PAN,César Yanis,playing,0.0
+883,Kadir Barría,Panama,FWD,4.0,PAN,Kadir Barría,transferred,0.0
+884,Luis Mejía,Panama,GK,4.0,PAN,Luis Mejía,playing,0.2
+885,Orlando Mosquera,Panama,GK,3.9,PAN,Orlando Mosquera,playing,0.1
+886,César Samudio,Panama,GK,3.6,PAN,César Samudio,playing,0.0
+887,Adalberto Carrasquilla,Panama,MID,6.5,PAN,Adalberto Carrasquilla,playing,0.1
+888,Maurício Magalhães Prado,Paraguay,MID,4.6,PAR,Maurício Magalhães Prado,playing,0.0
+889,Alejandro Romero,Paraguay,MID,4.7,PAR,Alejandro Romero,playing,0.1
+890,Matías Galarza,Paraguay,MID,4.8,PAR,Matías Galarza,playing,0.0
+891,Lucas Romero,Paraguay,MID,5.6,PAR,Lucas Romero,transferred,0.0
+892,Braian Ojeda,Paraguay,MID,5.6,PAR,Braian Ojeda,playing,0.0
+893,Gustavo Gómez,Paraguay,DEF,4.6,PAR,Gustavo Gómez,playing,0.3
+894,Júnior Alonso,Paraguay,DEF,4.1,PAR,Júnior Alonso,playing,0.1
+895,Omar Alderete,Paraguay,DEF,4.1,PAR,Omar Alderete,playing,0.3
+896,Fabián Balbuena,Paraguay,DEF,4.0,PAR,Fabián Balbuena,playing,0.3
+897,Alan Benítez,Paraguay,DEF,3.8,PAR,Alan Benítez,transferred,0.0
+898,Gustavo Velázquez,Paraguay,DEF,3.8,PAR,Gustavo Velázquez,playing,0.0
+899,Juan José Cáceres,Paraguay,DEF,3.8,PAR,Juan José Cáceres,playing,0.1
+900,José Canale,Paraguay,DEF,3.6,PAR,José Canale,playing,0.1
+901,Miguel Almirón,Paraguay,MID,6.0,PAR,Miguel Almirón,playing,0.3
+902,Antonio Sanabria,Paraguay,FWD,6.5,PAR,Antonio Sanabria,playing,0.1
+903,Ramón Sosa,Paraguay,FWD,5.3,PAR,Ramón Sosa,playing,0.0
+904,Álex Arce,Paraguay,FWD,4.9,PAR,Álex Arce,playing,0.1
+905,Gabriel Ávalos,Paraguay,FWD,4.9,PAR,Gabriel Ávalos,playing,0.1
+906,Gustavo Caballero,Paraguay,FWD,4.2,PAR,Gustavo Caballero,playing,0.0
+907,Alexandro Maidana,Paraguay,FWD,4.0,PAR,Alexandro Maidana,playing,0.1
+908,Roberto Fernández,Paraguay,GK,4.0,PAR,Roberto Fernández,playing,0.3
+909,Gastón Olveira,Paraguay,GK,3.8,PAR,Gastón Olveira,playing,0.1
+910,Orlando Gill,Paraguay,GK,3.5,PAR,Orlando Gill,playing,0.4
+911,Damián Bobadilla,Paraguay,MID,5.5,PAR,Damián Bobadilla,playing,0.0
+912,Julio Enciso,Paraguay,MID,6.6,PAR,Julio Enciso,playing,0.2
+913,Diego Gómez,Paraguay,MID,6.8,PAR,Diego Gómez,playing,0.2
+915,Samú Costa,Portugal,MID,5.6,POR,Samuel de Almeida Costa,playing,0.0
+916,Nuno Mendes,Portugal,DEF,5.8,POR,Nuno Alexandre Tavares Mendes,playing,42.0
+917,João Cancelo,Portugal,DEF,5.3,POR,João Pedro Cavaco Cancelo,playing,8.0
+918,Diogo Dalot,Portugal,DEF,5.0,POR,José Diogo Dalot Teixeira,playing,2.5
+919,Gonçalo Inácio,Portugal,DEF,4.6,POR,Gonçalo Bernardo Inácio,playing,1.5
+921,Renato Veiga,Portugal,DEF,4.3,POR,Renato Palma Veiga,playing,0.1
+922,Tomás Araújo,Portugal,DEF,4.1,POR,Tomás Lemos Araújo,playing,0.1
+923,Gonçalo Ramos,Portugal,FWD,7.5,POR,Gonçalo Matias Ramos,playing,0.8
+924,João Félix,Portugal,FWD,6.5,POR,João Félix Sequeira,playing,2.1
+925,Pedro Neto,Portugal,MID,6.4,POR,Pedro Lomba Neto,playing,0.6
+926,Trincão,Portugal,FWD,5.9,POR,Francisco António Machado Mota de Castro Trincão,playing,0.1
+927,Gonçalo Guedes,Portugal,FWD,5.8,POR,Gonçalo Manuel Ganchinho Guedes,playing,0.1
+928,Francisco Conceição,Portugal,MID,5.7,POR,Francisco Fernandes da Conceição,playing,0.3
+931,Rui Silva,Portugal,GK,4.7,POR,Rui Tiago Dantas da Silva,playing,0.7
+932,José Sá,Portugal,GK,4.7,POR,José Pedro Malheiro de Sá,playing,0.5
+933,Ricardo Velho,Portugal,GK,4.0,POR,Mário Ricardo da Silva Velho,transferred,0.0
+934,Rúben Neves,Portugal,MID,5.9,POR,Rúben Diogo da Silva Neves,playing,0.3
+935,Matheus Nunes,Portugal,MID,6.1,POR,Matheus Luiz Nunes,playing,0.1
+936,Vitinha,Portugal,MID,6.4,POR,Vítor Machado Ferreira,playing,11.3
+937,João Neves,Portugal,MID,6.5,POR,João Pedro Gonçalves Neves,playing,4.4
+939,Bruno Fernandes,Portugal,MID,8.5,POR,Bruno Miguel Borges Fernandes,playing,51.6
+942,Mohammad Al Mannai,Qatar,MID,4.2,QAT,Mohammad Naceur Al Mannai,playing,0.1
+943,Ayoub Al Oui,Qatar,MID,4.4,QAT,Ayoub Mohamed Al Oui,playing,0.0
+944,Ahmed Fathy,Qatar,MID,4.7,QAT,Ahmed Fathy Mansi Abdoulla,playing,0.0
+946,Karim Boudiaf,Qatar,MID,4.9,QAT,Karim Boudiaf,playing,0.0
+947,Assim Madibo,Qatar,MID,5.1,QAT,Assim Omer Al Haj Madibo,playing,0.0
+948,Mohammed Waad,Qatar,MID,5.3,QAT,Mohammed Waad Abdulwahhab Jadoua Al Bayati,transferred,0.0
+949,Pedro Miguel,Qatar,DEF,3.9,QAT,Pedro Miguel Carvalho Deus Correia,playing,0.0
+950,Bassam Al Rawi,Qatar,DEF,3.8,QAT,Bassam Husham Ali Al Rawi,transferred,0.0
+951,Lucas Mendes,Qatar,DEF,3.8,QAT,Lucas Michel Mendes,playing,0.0
+952,Boualem Khoukhi,Qatar,DEF,3.8,QAT,Boualem Khoukhi,playing,0.0
+954,Niall Mason,Qatar,DEF,3.5,QAT,Niall Aadya Mason,transferred,0.0
+955,Hashmi Al Hussain,Qatar,DEF,3.5,QAT,Al Hashmi Al Hussain Mohi Aldin,playing,0.0
+957,Issa Laye,Qatar,DEF,3.5,QAT,Gueye Seydinaissa Laye,playing,0.0
+958,Akram Afif,Qatar,FWD,5.9,QAT,Akram Hassan Afif Yahya Afif,playing,0.1
+959,Almoez Ali,Qatar,FWD,5.3,QAT,Almoez Ali Zainalabedeen Mohamed Abdulla,playing,0.0
+960,Edmílson Junior,Qatar,FWD,4.9,QAT,Edmílson Junior Paulo da Silva,playing,0.1
+961,Hassan Al Haydos,Qatar,FWD,4.6,QAT,Hassan Khalid Hassan Al Haydos,playing,0.0
+962,Yusuf Abdurisag,Qatar,FWD,4.4,QAT,Yusuf Abdurisag Yusuf,playing,0.0
+963,Ahmed Al Ganehi,Qatar,FWD,4.2,QAT,Ahmed Mohammed Hussein Kassim Al Ganehi,playing,0.0
+966,Mubarak Shanan,Qatar,FWD,4.0,QAT,Mubarak Shanan Khader Hamza,transferred,0.0
+968,Meshaal Barsham,Qatar,GK,4.1,QAT,Meshaal Aissa Mohammed Barsham,playing,0.0
+969,Salah Zakaria,Qatar,GK,3.7,QAT,Salah Zakaria Mohamed Mousa Hassan,playing,0.0
+970,Shehab Ellethy,Qatar,GK,3.6,QAT,Shehab Mamdouh Abdelfadel Ellethy,transferred,0.0
+971,Mahmud Abunada,Qatar,GK,3.5,QAT,Mahmud Ibrahim Abunada,playing,0.1
+972,Musab Al Juwayr,Saudi Arabia,MID,4.1,KSA,Musab bin Fahad bin Zaid Al Juwayr,playing,0.5
+977,Ziyad Al Johani,Saudi Arabia,MID,4.9,KSA,Ziyad bin Mubarak bin Eid Al Marwani Al Johani,playing,0.0
+978,Mohamed Kanno,Saudi Arabia,MID,5.1,KSA,Mohamed bin Ibrahim bin Abdullah Kanno,playing,0.0
+980,Abdullah Al Khaibari,Saudi Arabia,MID,5.1,KSA,Abdullah bin Mohammed bin Hamza Al Berri Al Khaibari,playing,0.0
+982,Aiman Yahya,Saudi Arabia,MID,5.6,KSA,Aiman bin Yahya bin Yahya Salem Ahmed,playing,0.0
+983,Saud Abdulhamid,Saudi Arabia,DEF,4.1,KSA,Saud bin Abdullah bin Salem Abdulhamid,playing,0.2
+984,Abdulelah Al Amri,Saudi Arabia,DEF,3.7,KSA,Abdulelah bin Ali bin Awadh Al Amri,playing,0.0
+985,Hassan Kadish,Saudi Arabia,DEF,3.7,KSA,Hassan bin Kadish bin Yahya Mahbub,playing,0.0
+986,Ali Majrashi,Saudi Arabia,DEF,3.6,KSA,Ali bin Hassan bin Mohammed Majrashi,playing,0.0
+987,Nawaf Bu Washl,Saudi Arabia,DEF,3.5,KSA,Nawaf bin Meshari bin Mohammed Bu Washl,playing,0.1
+991,Ali Lajami,Saudi Arabia,DEF,3.5,KSA,Ali bin Mohammed bin Ali Lajami,playing,0.1
+992,Feras Al Brikan,Saudi Arabia,FWD,5.3,KSA,Feras bin Tariq bin Nasser Al Brikan,playing,0.0
+993,Abdullah Al Hamddan,Saudi Arabia,FWD,4.9,KSA,Abdullah bin Abdulrahman bin Abdullah Al Hamddan,playing,0.1
+994,Khalid Al Ghannam,Saudi Arabia,FWD,4.9,KSA,Khalid bin Essa bin Mohammed Al Ghannam,playing,0.0
+995,Saleh Al Shehri,Saudi Arabia,FWD,4.9,KSA,Saleh bin Khalid bin Mohammed Al Shehri,playing,0.1
+997,Sultan Mandash,Saudi Arabia,FWD,4.5,KSA,Sultan bin Ahmed bin Mohammed Mandash,playing,0.0
+999,Nawaf Al Aqidi,Saudi Arabia,GK,4.0,KSA,Nawaf bin Dhahi bin Faisal Al Shuweiti Al Aqidi,playing,0.2
+1000,Ahmed Al Kassar,Saudi Arabia,GK,3.9,KSA,Ahmed bin Ali bin Hussein Al Kassar,playing,0.0
+1001,Mohammed Al Owais,Saudi Arabia,GK,3.5,KSA,Mohammed bin Khalil bin Ibrahim Al Owais,playing,0.3
+1003,John McGinn,Scotland,MID,6.0,SCO,John McGinn,playing,1.9
+1005,Billy Gilmour,Scotland,MID,5.1,SCO,Billy Gilmour,transferred,0.0
+1007,Ryan Christie,Scotland,MID,5.6,SCO,Ryan Christie,playing,0.1
+1008,Kenny McLean,Scotland,MID,4.8,SCO,Kenny McLean,playing,0.1
+1009,Andy Robertson,Scotland,DEF,5.0,SCO,Andy Robertson,playing,5.0
+1010,Kieran Tierney,Scotland,DEF,4.3,SCO,Kieran Tierney,playing,0.9
+1011,Nathan Patterson,Scotland,DEF,4.0,SCO,Nathan Patterson,playing,0.3
+1012,Jack Hendry,Scotland,DEF,3.9,SCO,Jack Hendry,playing,0.1
+1013,John Souttar,Scotland,DEF,3.8,SCO,John Souttar,playing,0.1
+1014,Scott McKenna,Scotland,DEF,3.8,SCO,Scott McKenna,playing,0.2
+1015,Anthony Ralston,Scotland,DEF,3.8,SCO,Anthony Ralston,playing,0.0
+1016,Dominic Hyam,Scotland,DEF,3.6,SCO,Dominic Hyam,playing,0.1
+1018,Grant Hanley,Scotland,DEF,3.5,SCO,Grant Hanley,playing,0.5
+1019,Ché Adams,Scotland,FWD,5.4,SCO,Ché Adams,playing,0.3
+1021,George Hirst,Scotland,FWD,4.6,SCO,George Hirst,playing,0.1
+1022,Lyndon Dykes,Scotland,FWD,4.6,SCO,Lyndon Dykes,playing,0.1
+1023,Findlay Curtis,Scotland,FWD,4.0,SCO,Findlay Curtis,playing,0.4
+1024,Liam Kelly,Scotland,GK,3.7,SCO,Liam Kelly,playing,0.3
+1025,Angus Gunn,Scotland,GK,3.6,SCO,Angus Gunn,playing,1.8
+1027,Scott McTominay,Scotland,MID,6.5,SCO,Scott McTominay,playing,10.8
+1028,Lewis Ferguson,Scotland,MID,4.8,SCO,Lewis Ferguson,playing,0.2
+1029,Idrissa Gueye,Senegal,MID,4.9,SEN,Idrissa Gueye,playing,0.3
+1030,Pape Matar Sarr,Senegal,MID,5.6,SEN,Pape Matar Sarr,playing,0.4
+1031,Pathé Ciss,Senegal,MID,5.6,SEN,Pathé Ciss,playing,0.0
+1032,Pape Gueye,Senegal,MID,5.9,SEN,Pape Gueye,playing,0.1
+1033,Mamadou Sarr,Senegal,DEF,4.7,SEN,Mamadou Sarr,playing,0.3
+1034,Moussa Niakhaté,Senegal,DEF,4.3,SEN,Moussa Niakhaté,playing,0.1
+1035,El Hadji Malick Diouf,Senegal,DEF,4.1,SEN,El Hadji Malick Diouf,playing,0.7
+1036,Ismail Jakobs,Senegal,DEF,4.1,SEN,Ismail Jakobs,playing,0.0
+1037,Kalidou Koulibaly,Senegal,DEF,4.9,SEN,Kalidou Koulibaly,playing,0.8
+1038,Abdoulaye Seck,Senegal,DEF,3.8,SEN,Abdoulaye Seck,playing,0.0
+1039,Antoine Mendy,Senegal,DEF,3.7,SEN,Antoine Mendy,playing,0.2
+1041,Nicolas Jackson,Senegal,FWD,6.7,SEN,Nicolas Jackson,playing,0.4
+1042,Iliman Ndiaye,Senegal,FWD,6.5,SEN,Iliman Ndiaye,playing,0.6
+1043,Ismaïla Sarr,Senegal,FWD,6.2,SEN,Ismaïla Sarr,playing,0.5
+1046,Assane Diao,Senegal,FWD,4.9,SEN,Assane Diao,playing,0.1
+1047,Cherif Ndiaye,Senegal,FWD,4.9,SEN,Cherif Ndiaye,playing,0.1
+1048,Bamba Dieng,Senegal,FWD,4.9,SEN,Bamba Dieng,playing,0.1
+1049,Ibrahim Mbaye,Senegal,FWD,4.4,SEN,Ibrahim Mbaye,playing,0.1
+1051,Édouard Mendy,Senegal,GK,4.5,SEN,Édouard Mendy,playing,1.1
+1052,Yehvann Diouf,Senegal,GK,3.9,SEN,Yehvann Diouf,playing,0.1
+1053,Mory Diaw,Senegal,GK,3.8,SEN,Mory Diaw,playing,0.0
+1054,Krépin Diatta,Senegal,MID,6.1,SEN,Krépin Diatta,playing,0.0
+1055,Lamine Camara,Senegal,MID,6.2,SEN,Lamine Camara,playing,0.0
+1056,Habib Diarra,Senegal,MID,6.2,SEN,Habib Diarra,playing,0.1
+1057,Jayden Adams,South Africa,MID,4.0,RSA,Jayden Adams,playing,4.3
+1058,Teboho Mokoena,South Africa,MID,4.3,RSA,Teboho Mokoena,playing,0.2
+1059,Themba Zwane,South Africa,MID,4.3,RSA,Themba Zwane,playing,0.1
+1060,Thalente Mbatha,South Africa,MID,4.9,RSA,Thalente Mbatha,playing,0.0
+1061,Tshepang Moremi,South Africa,MID,4.9,RSA,Tshepang Moremi,playing,0.0
+1062,Yaya Sithole,South Africa,MID,5.1,RSA,Sphephelo S'Miso Sithole,playing,0.0
+1063,Aubrey Modiba,South Africa,DEF,3.7,RSA,Aubrey Modiba,playing,0.1
+1064,Thabang Matuludi,South Africa,DEF,3.7,RSA,Thabang Matuludi,playing,0.0
+1065,Khuliso Mudau,South Africa,DEF,3.6,RSA,Khuliso Mudau,playing,0.1
+1066,Nkosinathi Sibisi,South Africa,DEF,3.6,RSA,Nkosinathi Sibisi,playing,0.0
+1067,Mbekezeli Mbokazi,South Africa,DEF,3.5,RSA,Mbekezeli Mbokazi,playing,0.3
+1068,Khulumani Ndamane,South Africa,DEF,3.5,RSA,Khulumani Ndamane,playing,0.0
+1069,Ime Okon,South Africa,DEF,3.5,RSA,Ime Okon,playing,0.0
+1070,Samukele Kabini,South Africa,DEF,3.5,RSA,Samukele Kabini,playing,0.0
+1071,Lyle Foster,South Africa,FWD,5.4,RSA,Lyle Foster,playing,0.1
+1072,Relebohile Mofokeng,South Africa,FWD,4.9,RSA,Relebohile Mofokeng,playing,0.1
+1073,Oswin Appollis,South Africa,FWD,4.9,RSA,Oswin Appollis,playing,0.1
+1075,Evidence Makgopa,South Africa,FWD,4.5,RSA,Evidence Makgopa,playing,0.0
+1076,Thapelo Maseko,South Africa,FWD,4.2,RSA,Thapelo Maseko,playing,0.0
+1077,Ronwen Williams,South Africa,GK,4.5,RSA,Ronwen Williams,playing,0.4
+1078,Ricardo Goss,South Africa,GK,3.7,RSA,Ricardo Goss,playing,0.0
+1081,Yéremy Pino,Spain,MID,5.9,ESP,Yéremy Pino,playing,0.1
+1082,Álex Baena,Spain,MID,6.0,ESP,Álex Baena,playing,0.2
+1084,Martín Zubimendi,Spain,MID,6.1,ESP,Martín Zubimendi,playing,0.4
+1085,Pedro Porro,Spain,DEF,5.5,ESP,Pedro Porro,playing,6.5
+1086,Aymeric Laporte,Spain,DEF,5.5,ESP,Aymeric Laporte,playing,4.9
+1087,Alejandro Grimaldo,Spain,DEF,4.9,ESP,Alejandro Grimaldo,playing,1.5
+1088,Marc Cucurella,Spain,DEF,5.1,ESP,Marc Cucurella,playing,25.8
+1089,Pau Cubarsí,Spain,DEF,5.0,ESP,Pau Cubarsí,playing,5.6
+1092,Lamine Yamal,Spain,MID,10.0,ESP,Lamine Yamal Nasraoui Ebana,playing,39.7
+1093,Ferran Torres,Spain,FWD,7.8,ESP,Ferran Torres,playing,4.0
+1094,Mikel Oyarzabal,Spain,FWD,8.1,ESP,Mikel Oyarzabal,playing,20.8
+1095,Borja Iglesias,Spain,FWD,6.8,ESP,Borja Iglesias,playing,0.1
+1097,Víctor Muñoz,Spain,FWD,4.0,ESP,Víctor Muñoz,playing,0.7
+1098,David Raya,Spain,GK,5.0,ESP,David Raya,playing,14.0
+1099,Unai Simón,Spain,GK,5.0,ESP,Unai Simón,playing,6.1
+1101,Joan García,Spain,GK,4.0,ESP,Joan García,playing,1.1
+1102,Marcos Llorente,Spain,DEF,5.5,ESP,Marcos Llorente,playing,4.8
+1104,Rodri,Spain,MID,7.5,ESP,Rodrigo Hernández Cascante,playing,1.9
+1105,Dani Olmo,Spain,MID,7.7,ESP,Dani Olmo,playing,2.9
+1106,Pedri,Spain,MID,8.1,ESP,Pedro González López,playing,10.3
+1109,Besfort Zeneli,Sweden,MID,4.7,SWE,Besfort Zeneli,playing,0.0
+1110,Elliot Stroud,Sweden,MID,4.7,SWE,Elliot Stroud,playing,0.0
+1111,Taha Ali,Sweden,MID,4.9,SWE,Taha Ali,playing,0.2
+1112,Eric Smith,Sweden,MID,4.9,SWE,Eric Smith,playing,0.0
+1113,Lucas Bergvall,Sweden,MID,5.1,SWE,Lucas Bergvall,playing,0.4
+1114,Yasin Ayari,Sweden,MID,5.3,SWE,Yasin Ayari,playing,0.2
+1116,Jesper Karlström,Sweden,MID,5.6,SWE,Jesper Karlström,playing,0.0
+1117,Mattias Svanberg,Sweden,MID,6.1,SWE,Mattias Svanberg,playing,0.0
+1118,Daniel Svensson,Sweden,DEF,4.5,SWE,Daniel Svensson,playing,0.5
+1119,Gabriel Gudmundsson,Sweden,DEF,4.2,SWE,Gabriel Gudmundsson,playing,0.5
+1120,Carl Starfelt,Sweden,DEF,4.1,SWE,Carl Starfelt,playing,0.1
+1121,Victor Lindelöf,Sweden,DEF,4.0,SWE,Victor Lindelöf,playing,1.6
+1122,Gustaf Lagerbielke,Sweden,DEF,3.7,SWE,Gustaf Lagerbielke,playing,0.2
+1124,Viktor Gyökeres,Sweden,FWD,7.8,SWE,Viktor Gyökeres,playing,5.5
+1125,Anthony Elanga,Sweden,FWD,5.8,SWE,Anthony Elanga,playing,0.4
+1126,Benjamin Nygren,Sweden,FWD,4.9,SWE,Benjamin Nygren,playing,0.1
+1127,Gustaf Nilsson,Sweden,FWD,4.9,SWE,Gustaf Nilsson,playing,0.1
+1129,Kristoffer Nordfeldt,Sweden,GK,3.9,SWE,Kristoffer Nordfeldt,playing,0.4
+1133,Johan Manzambi,Switzerland,MID,5.6,SUI,Johan Manzambi,playing,0.2
+1135,Granit Xhaka,Switzerland,MID,6.2,SUI,Granit Xhaka,playing,4.6
+1137,Michel Aebischer,Switzerland,MID,5.9,SUI,Michel Aebischer,playing,0.0
+1138,Remo Freuler,Switzerland,MID,5.9,SUI,Remo Freuler,playing,0.0
+1139,Ardon Jashari,Switzerland,MID,5.2,SUI,Ardon Jashari,playing,0.0
+1140,Fabian Rieder,Switzerland,MID,6.2,SUI,Fabian Rieder,playing,0.0
+1141,Manuel Akanji,Switzerland,DEF,5.0,SUI,Manuel Akanji,playing,4.9
+1142,Ricardo Rodríguez,Switzerland,DEF,4.5,SUI,Ricardo Rodríguez,playing,1.6
+1143,Nico Elvedi,Switzerland,DEF,4.3,SUI,Nico Elvedi,playing,4.1
+1144,Silvan Widmer,Switzerland,DEF,4.2,SUI,Silvan Widmer,playing,1.7
+1145,Miro Muheim,Switzerland,DEF,4.0,SUI,Miro Muheim,playing,0.2
+1146,Eray Cömert,Switzerland,DEF,3.9,SUI,Eray Cömert,playing,0.0
+1147,Aurèle Amenda,Switzerland,DEF,3.7,SUI,Aurèle Amenda,playing,0.0
+1148,Luca Jaquez,Switzerland,DEF,3.5,SUI,Luca Jaquez,playing,0.1
+1149,Breel Embolo,Switzerland,FWD,7.5,SUI,Breel Embolo,playing,2.7
+1150,Noah Okafor,Switzerland,FWD,5.9,SUI,Noah Okafor,playing,0.3
+1151,Dan Ndoye,Switzerland,FWD,6.8,SUI,Dan Ndoye,playing,0.8
+1153,Gregor Kobel,Switzerland,GK,4.7,SUI,Gregor Kobel,playing,6.3
+1154,Yvon Mvogo,Switzerland,GK,4.2,SUI,Yvon Mvogo,playing,0.1
+1155,Marvin Keller,Switzerland,GK,3.7,SUI,Marvin Keller,playing,0.2
+1156,Djibril Sow,Switzerland,MID,6.1,SUI,Djibril Sow,playing,0.0
+1157,Denis Zakaria,Switzerland,MID,6.1,SUI,Denis Zakaria,playing,0.1
+1158,Rubén Vargas,Switzerland,MID,6.8,SUI,Rubén Vargas,playing,0.6
+1160,Ellyes Skhiri,Tunisia,MID,4.7,TUN,Ellyes Skhiri,playing,0.0
+1161,Rani Khedira,Tunisia,MID,4.7,TUN,Rani Khedira,playing,0.0
+1162,Hadj Mahmoud,Tunisia,MID,4.9,TUN,Hadj Mahmoud,playing,0.0
+1163,Mortadha Ben Ouanes,Tunisia,MID,5.0,TUN,Mortadha Ben Ouanes,playing,0.6
+1164,Anis Ben Slimane,Tunisia,MID,5.3,TUN,Anis Ben Slimane,playing,0.0
+1165,Moutaz Neffati,Tunisia,DEF,4.1,TUN,Moutaz Neffati,playing,0.0
+1166,Ali Abdi,Tunisia,DEF,4.1,TUN,Ali Abdi,playing,0.1
+1167,Omar Rekik,Tunisia,DEF,3.8,TUN,Omar Rekik,playing,0.0
+1169,Adem Arous,Tunisia,DEF,3.6,TUN,Adem Arous,playing,0.0
+1170,Mohamed Amine Ben Hmida,Tunisia,DEF,3.6,TUN,Mohamed Amine Ben Hmida,playing,0.0
+1172,Raed Chikhaoui,Tunisia,DEF,3.5,TUN,Raed Chikhaoui,playing,0.0
+1174,Ismaël Gharbi,Tunisia,FWD,4.6,TUN,Ismaël Gharbi,playing,0.0
+1175,Elias Saad,Tunisia,FWD,4.5,TUN,Elias Saad,playing,0.0
+1176,Firas Chaouat,Tunisia,FWD,4.4,TUN,Firas Chaouat,playing,0.0
+1177,Sebastian Tounekti,Tunisia,FWD,4.4,TUN,Sebastian Tounekti,playing,0.0
+1178,Hazem Mastouri,Tunisia,FWD,4.2,TUN,Hazem Mastouri,playing,0.0
+1181,Rayan Elloumi,Tunisia,FWD,4.0,TUN,Rayan Elloumi,playing,0.1
+1183,Khalil Ayari,Tunisia,FWD,4.0,TUN,Khalil Ayari,playing,0.3
+1184,Abdelmouhib Chamakh,Tunisia,GK,4.1,TUN,Abdelmouhib Chamakh,playing,0.1
+1185,Aymen Dahmen,Tunisia,GK,3.9,TUN,Aymen Dahmen,playing,0.0
+1187,Sabri Ben Hessen,Tunisia,GK,3.5,TUN,Sabri Ben Hessen,playing,0.1
+1188,Ismail Yüksek,Türkiye,MID,4.6,TUR,Ismail Yüksek,playing,0.1
+1189,Salih Özcan,Türkiye,MID,4.7,TUR,Salih Özcan,playing,0.1
+1190,Atakan Karazor,Türkiye,MID,4.7,TUR,Atakan Karazor,transferred,0.0
+1191,Irfan Can Kahveci,Türkiye,MID,5.9,TUR,Irfan Can Kahveci,playing,0.0
+1192,Orkun Kökçü,Türkiye,MID,6.0,TUR,Orkun Kökçü,playing,0.3
+1193,Kaan Ayhan,Türkiye,DEF,4.5,TUR,Kaan Ayhan,playing,0.1
+1194,Zeki Çelik,Türkiye,DEF,4.3,TUR,Zeki Çelik,playing,0.1
+1195,Ferdi Kadioglu,Türkiye,DEF,4.3,TUR,Ferdi Kadioglu,playing,1.5
+1196,Samet Akaydin,Türkiye,DEF,4.1,TUR,Samet Akaydin,playing,0.0
+1197,Mert Müldür,Türkiye,DEF,4.1,TUR,Mert Müldür,playing,0.0
+1198,Ozan Kabak,Türkiye,DEF,4.0,TUR,Ozan Kabak,playing,0.3
+1199,Eren Elmali,Türkiye,DEF,4.0,TUR,Eren Elmali,playing,0.2
+1200,Abdülkerim Bardakci,Türkiye,DEF,4.0,TUR,Abdülkerim Bardakci,playing,0.4
+1201,Merih Demiral,Türkiye,DEF,4.0,TUR,Merih Demiral,playing,0.7
+1202,Mustafa Eskihellaç,Türkiye,DEF,3.9,TUR,Mustafa Eskihellaç,transferred,0.0
+1203,Ahmetcan Kaplan,Türkiye,DEF,3.5,TUR,Ahmetcan Kaplan,transferred,0.0
+1204,Kenan Yildiz,Türkiye,MID,7.0,TUR,Kenan Yildiz,playing,3.5
+1205,Kerem Aktürkoglu,Türkiye,FWD,6.2,TUR,Kerem Aktürkoglu,playing,0.2
+1206,Baris Alper Yilmaz,Türkiye,FWD,6.1,TUR,Baris Alper Yilmaz,playing,0.6
+1208,Oguz Aydin,Türkiye,FWD,5.0,TUR,Oguz Aydin,playing,0.8
+1209,Yunus Akgün,Türkiye,FWD,4.9,TUR,Yunus Akgün,playing,0.1
+1210,Deniz Gül,Türkiye,FWD,4.4,TUR,Deniz Gül,playing,0.1
+1211,Ugurcan Çakir,Türkiye,GK,4.2,TUR,Ugurcan Çakir,playing,1.6
+1212,Altay Bayindir,Türkiye,GK,4.0,TUR,Altay Bayindir,playing,0.6
+1213,Mert Günok,Türkiye,GK,4.0,TUR,Mert Günok,playing,0.2
+1214,Muhammed Sengezer,Türkiye,GK,3.9,TUR,Muhammed Sengezer,transferred,0.0
+1215,Arda Güler,Türkiye,MID,7.0,TUR,Arda Güler,playing,9.5
+1216,Hakan Çalhanoglu,Türkiye,MID,7.1,TUR,Hakan Çalhanoglu,playing,2.1
+1217,Pablo Alcoba,Uruguay,MID,4.3,URU,Pablo Alcoba,transferred,0.0
+1218,Juan Manuel Sanabria,Uruguay,MID,4.5,URU,Juan Manuel Sanabria,playing,0.1
+1219,Emiliano Martínez,Uruguay,MID,4.7,URU,Emiliano Martínez,playing,0.1
+1220,Luciano González,Uruguay,MID,4.7,URU,Luciano González,transferred,0.0
+1221,Nicolás Fonseca,Uruguay,MID,5.0,URU,Nicolás Fonseca,transferred,0.1
+1222,Facundo Pellistri,Uruguay,MID,5.2,URU,Facundo Pellistri,playing,0.1
+1223,Maxi Araújo,Uruguay,MID,6.4,URU,Maxi Araújo,playing,0.3
+1224,Manuel Ugarte,Uruguay,MID,5.9,URU,Manuel Ugarte,playing,0.2
+1225,Nicolás de la Cruz,Uruguay,MID,5.9,URU,Nicolás de la Cruz,playing,0.0
+1226,Ronald Araujo,Uruguay,DEF,5.0,URU,Ronald Araujo,playing,3.0
+1227,José María Giménez,Uruguay,DEF,4.4,URU,José María Giménez,playing,1.4
+1228,Matías Viña,Uruguay,DEF,4.3,URU,Matías Viña,playing,0.1
+1229,Mathías Olivera,Uruguay,DEF,4.3,URU,Mathías Olivera,playing,1.5
+1230,Guillermo Varela,Uruguay,DEF,4.2,URU,Guillermo Varela,playing,0.5
+1231,Sebastián Cáceres,Uruguay,DEF,4.2,URU,Sebastián Cáceres,playing,0.1
+1232,Santiago Bueno,Uruguay,DEF,4.1,URU,Santiago Bueno,playing,0.1
+1233,José Rodríguez,Uruguay,DEF,3.9,URU,José Rodríguez,transferred,0.0
+1234,Brian Barboza,Uruguay,DEF,3.7,URU,Brian Barboza,transferred,0.0
+1235,Benjamín García,Uruguay,DEF,3.5,URU,Benjamín García,transferred,0.0
+1236,Darwin Núñez,Uruguay,FWD,7.5,URU,Darwin Núñez,playing,1.6
+1237,Federico Viñas,Uruguay,FWD,5.9,URU,Federico Viñas,playing,0.0
+1238,Brian Rodríguez,Uruguay,FWD,6.2,URU,Brian Rodríguez,playing,0.1
+1239,Rodrigo Aguirre,Uruguay,FWD,5.6,URU,Rodrigo Aguirre,playing,0.0
+1240,Facundo Torres,Uruguay,FWD,5.4,URU,Facundo Torres,transferred,0.0
+1241,Agustín Canobbio,Uruguay,FWD,5.3,URU,Agustín Canobbio,playing,0.0
+1242,Facundo Martínez,Uruguay,FWD,5.3,URU,Facundo Martínez,transferred,0.0
+1243,Agustín Álvarez,Uruguay,FWD,5.2,URU,Agustín Álvarez,transferred,0.0
+1244,Sergio Rochet,Uruguay,GK,4.1,URU,Sergio Rochet,playing,4.2
+1245,Fernando Muslera,Uruguay,GK,4.1,URU,Fernando Muslera,playing,0.5
+1246,Santiago Mele,Uruguay,GK,3.5,URU,Santiago Mele,playing,0.3
+1247,Giorgian de Arrascaeta,Uruguay,MID,6.5,URU,Giorgian de Arrascaeta,playing,0.2
+1248,Federico Valverde,Uruguay,MID,7.5,URU,Federico Valverde,playing,5.7
+1249,Cristian Roldan,USA,MID,4.7,USA,Cristian Roldan,playing,0.1
+1250,Sebastian Berhalter,USA,MID,4.7,USA,Sebastian Berhalter,playing,0.1
+1251,Tanner Tessmann,USA,MID,5.6,USA,Tanner Tessmann,transferred,0.0
+1252,Aidan Morris,USA,MID,5.6,USA,Aidan Morris,transferred,0.0
+1253,Brenden Aaronson,USA,MID,5.7,USA,Brenden Aaronson,playing,0.3
+1254,Malik Tillman,USA,MID,6.1,USA,Malik Tillman,playing,0.2
+1255,Weston McKennie,USA,MID,6.1,USA,Weston McKennie,playing,0.5
+1256,Giovanni Reyna,USA,MID,5.5,USA,Giovanni Reyna,playing,0.2
+1257,Johnny Cardoso,USA,MID,6.2,USA,Johnny Cardoso,transferred,0.0
+1258,Antonee Robinson,USA,DEF,5.0,USA,Antonee Robinson,playing,3.5
+1259,Chris Richards,USA,DEF,4.1,USA,Chris Richards,playing,0.6
+1260,Joe Scally,USA,DEF,4.1,USA,Joe Scally,playing,0.0
+1261,Tim Ream,USA,DEF,3.9,USA,Tim Ream,playing,0.2
+1262,Mark McKenzie,USA,DEF,3.9,USA,Mark McKenzie,playing,0.2
+1263,Auston Trusty,USA,DEF,3.9,USA,Auston Trusty,playing,0.1
+1264,Alexander Freeman,USA,DEF,4.0,USA,Alexander Freeman,playing,0.3
+1265,Timothy Weah,USA,MID,5.8,USA,Timothy Weah,playing,0.3
+1266,Ricardo Pepi,USA,FWD,5.9,USA,Ricardo Pepi,playing,0.1
+1267,Folarin Balogun,USA,FWD,6.0,USA,Folarin Balogun,playing,0.9
+1268,Patrick Agyemang,USA,FWD,4.9,USA,Patrick Agyemang,transferred,0.0
+1269,Max Arfsten,USA,FWD,4.4,USA,Max Arfsten,playing,0.0
+1270,Matt Turner,USA,GK,4.0,USA,Matt Turner,playing,0.8
+1271,Matt Freese,USA,GK,4.2,USA,Matt Freese,playing,0.5
+1272,Patrick Schulte,USA,GK,3.5,USA,Patrick Schulte,transferred,0.0
+1273,Chris Brady,USA,GK,3.5,USA,Chris Brady,playing,0.9
+1274,Christian Pulisic,USA,MID,7.0,USA,Christian Pulisic,playing,5.0
+1275,Abdulla Abdullaev,Uzbekistan,MID,4.2,UZB,Abdulla Abdullaev,playing,0.1
+1278,Sherzod Esanov,Uzbekistan,MID,4.7,UZB,Sherzod Esanov,playing,0.0
+1279,Jasurbek Jaloliddinov,Uzbekistan,MID,4.7,UZB,Jasurbek Jaloliddinov,transferred,0.0
+1280,Ruslanbek Jiyanov,Uzbekistan,MID,4.7,UZB,Ruslanbek Jiyanov,transferred,0.0
+1282,Akmal Mozgovoy,Uzbekistan,MID,4.7,UZB,Akmal Mozgovoy,playing,0.0
+1284,Otabek Shukurov,Uzbekistan,MID,5.0,UZB,Otabek Shukurov,playing,0.6
+1285,Umarali Rakhmonaliev,Uzbekistan,MID,5.1,UZB,Umarali Rakhmonaliev,transferred,0.0
+1286,Dostonbek Khamdamov,Uzbekistan,MID,5.1,UZB,Dostonbek Khamdamov,playing,0.0
+1287,Aziz G'aniev,Uzbekistan,MID,5.3,UZB,Aziz G'aniev,playing,0.0
+1288,Odiljon Hamrobekov,Uzbekistan,MID,5.3,UZB,Odiljon Hamrobekov,playing,0.0
+1289,Oston Urunov,Uzbekistan,MID,5.6,UZB,Oston Urunov,playing,0.0
+1290,Jamshid Iskanderov,Uzbekistan,MID,5.7,UZB,Jamshid Iskanderov,playing,0.0
+1291,Jaloliddin Masharipov,Uzbekistan,MID,6.1,UZB,Jaloliddin Masharipov,playing,0.0
+1292,Abbosbek Fayzullaev,Uzbekistan,MID,6.2,UZB,Abbosbek Fayzullaev,playing,0.0
+1293,Abdukodir Khusanov,Uzbekistan,DEF,4.3,UZB,Abdukodir Khusanov,playing,0.8
+1294,Rustam Ashurmatov,Uzbekistan,DEF,3.7,UZB,Rustam Ashurmatov,playing,0.0
+1295,Sherzod Nasrullaev,Uzbekistan,DEF,3.7,UZB,Sherzod Nasrullaev,playing,0.0
+1296,Farrukh Sayfiev,Uzbekistan,DEF,3.6,UZB,Farrukh Sayfiev,playing,0.0
+1297,Khojiakbar Alijonov,Uzbekistan,DEF,3.6,UZB,Khojiakbar Alijonov,playing,0.0
+1300,Umar Eshmurodov,Uzbekistan,DEF,3.5,UZB,Umar Eshmurodov,playing,0.1
+1302,Avazbek O'lmasaliev,Uzbekistan,DEF,3.5,UZB,Avazbek O'lmasaliev,playing,0.0
+1303,Bekhruz Karimov,Uzbekistan,DEF,3.5,UZB,Bekhruz Karimov,playing,0.0
+1305,Jakhongir Urozov,Uzbekistan,DEF,3.5,UZB,Jakhongir Urozov,playing,0.0
+1306,Eldor Shomurodov,Uzbekistan,FWD,6.5,UZB,Eldor Shomurodov,playing,0.1
+1307,Igor Sergeev,Uzbekistan,FWD,6.1,UZB,Igor Sergeev,playing,0.0
+1308,Sherzod Temirov,Uzbekistan,FWD,5.1,UZB,Sherzod Temirov,transferred,0.0
+1310,Azizbek Amanov,Uzbekistan,FWD,4.9,UZB,Azizbek Amanov,playing,0.1
+1311,Abduvokhid Ne'matov,Uzbekistan,GK,4.0,UZB,Abduvokhid Ne'matov,playing,0.2
+1312,Utkir Yusupov,Uzbekistan,GK,3.9,UZB,Utkir Yusupov,playing,0.0
+1314,Botirali Ergashev,Uzbekistan,GK,3.5,UZB,Botirali Ergashev,playing,0.2
+1315,Facundo Cambeses,Argentina,GK,4.0,ARG,Facundo Cambeses,transferred,0.0
+1316,Walter Benítez,Argentina,GK,4.5,ARG,Walter Benítez,transferred,0.0
+1317,Santiago Beltrán,Argentina,GK,4.0,ARG,Santiago Beltrán,transferred,0.0
+1318,Lisandro Martínez,Argentina,DEF,4.6,ARG,Lisandro Martínez,playing,2.9
+1319,Germán Pezzella,Argentina,DEF,4.2,ARG,Germán Pezzella,transferred,0.0
+1320,Facundo Medina,Argentina,DEF,4.0,ARG,Facundo Medina,playing,0.5
+1321,Zaid Romero,Argentina,DEF,3.5,ARG,Zaid Romero,transferred,0.2
+1322,Lautaro Di Lollo,Argentina,DEF,3.5,ARG,Lautaro Di Lollo,transferred,0.0
+1323,Gonzalo Montiel,Argentina,DEF,4.3,ARG,Gonzalo Montiel,playing,0.3
+1324,Kevin Mac Allister,Argentina,DEF,3.8,ARG,Kevin Mac Allister,transferred,0.1
+1325,Leonardo Balerdi,Argentina,DEF,4.0,ARG,Leonardo Balerdi,transferred,0.1
+1326,Giovani Lo Celso,Argentina,MID,6.2,ARG,Giovani Lo Celso,playing,0.1
+1327,Emiliano Buendía,Argentina,MID,6.5,ARG,Emiliano Buendía,transferred,0.0
+1328,Aníbal Moreno,Argentina,MID,5.0,ARG,Aníbal Moreno,transferred,0.1
+1329,Equi Fernández,Argentina,MID,5.0,ARG,Equi Fernández,transferred,0.2
+1330,Guido Rodríguez,Argentina,MID,5.6,ARG,Guido Rodríguez,transferred,0.0
+1331,Alan Varela,Argentina,MID,5.0,ARG,Alan Varela,transferred,0.1
+1332,Tomás Aranda,Argentina,MID,4.3,ARG,Tomás Aranda,transferred,0.0
+1333,Nicolás Domínguez,Argentina,MID,5.0,ARG,Nicolás Domínguez,transferred,0.1
+1334,Claudio Echeverri,Argentina,MID,5.5,ARG,Claudio Echeverri,transferred,0.0
+1335,Matías Soulé,Argentina,MID,6.2,ARG,Matías Soulé,transferred,0.0
+1336,Nicolás Capaldo,Argentina,MID,5.0,ARG,Nicolás Capaldo,transferred,0.1
+1337,Milton Delgado,Argentina,MID,4.2,ARG,Milton Delgado,transferred,0.0
+1338,Lautaro Martínez,Argentina,FWD,8.8,ARG,Lautaro Martínez,playing,3.8
+1339,Mateo Pellegrino,Argentina,FWD,5.0,ARG,Mateo Pellegrino,transferred,0.2
+1340,Santiago Castro,Argentina,FWD,6.0,ARG,Santiago Castro,transferred,0.0
+1341,Dennis Hadzikadunic,Bosnia and Herzegovina,DEF,3.7,BIH,Dennis Hadzikadunic,playing,0.0
+1342,Ermin Mahmic,Bosnia and Herzegovina,MID,4.2,BIH,Ermin Mahmic,playing,0.1
+1343,Weverton,Brazil,GK,4.5,BRA,Weverton Pereira da Silva,playing,0.1
+1345,Alex Sandro,Brazil,DEF,4.5,BRA,Alex Sandro Lobo da Silva,playing,0.7
+1346,Wesley,Brazil,DEF,4.5,BRA,Wesley Vinícius França Lima,transferred,0.4
+1361,Bruno Guimarães,Brazil,MID,6.8,BRA,Bruno Guimarães Rodriguez Moura,playing,2.0
+1366,Raphinha,Brazil,MID,8.2,BRA,Raphael Dias Belloli,playing,22.8
+1369,Neymar,Brazil,MID,7.2,BRA,Neymar da Silva Santos Júnior,playing,3.0
+1374,Yerry Mina,Colombia,DEF,4.2,COL,Yerry Mina,playing,0.3
+1379,Willer Ditta,Colombia,DEF,3.7,COL,Willer Ditta,playing,0.1
+1385,Juan Portilla,Colombia,MID,4.7,COL,Juan Portilla,playing,0.0
+1396,Cucho Hernández,Colombia,FWD,6.3,COL,Cucho Hernández,playing,0.3
+1400,Jindrich Stanek,Czechia,GK,4.0,CZE,Jindrich Stanek,playing,0.2
+1405,David Zima,Czechia,DEF,3.9,CZE,David Zima,playing,0.0
+1411,Alexandr Sojka,Czechia,MID,4.5,CZE,Alexandr Sojka,playing,0.0
+1413,David Doudera,Czechia,MID,5.1,CZE,David Doudera,playing,0.0
+1417,Hugo Sochurek,Czechia,MID,4.3,CZE,Hugo Sochurek,playing,0.1
+1423,Christophe Kabongo,Czechia,FWD,4.5,CZE,Christophe Kabongo,transferred,0.0
+1425,Jan Kuchta,Czechia,FWD,5.5,CZE,Jan Kuchta,playing,0.0
+1427,Adam Hlozek,Czechia,FWD,6.5,CZE,Adam Hlozek,playing,0.0
+1428,Robin Risser,France,GK,3.5,FRA,Robin Risser,playing,0.3
+1429,William Saliba,France,DEF,5.3,FRA,William Saliba,playing,15.0
+1430,Jules Koundé,France,DEF,5.4,FRA,Jules Koundé,playing,7.1
+1431,Bradley Barcola,France,MID,8.0,FRA,Bradley Barcola,playing,1.2
+1432,Jean-Philippe Mateta,France,FWD,6.5,FRA,Jean-Philippe Mateta,playing,0.3
+1433,Paul Reverson,Ghana,GK,3.5,GHA,Paul Reverson,transferred,0.0
+1434,Solomon Agbasi,Ghana,GK,3.5,GHA,Solomon Agbasi,transferred,0.0
+1445,Augustine Boakye,Ghana,MID,4.9,GHA,Augustine Boakye,playing,0.0
+1454,Ko Itakura,Japan,DEF,4.5,JPN,Ko Itakura,playing,0.3
+1455,Takehiro Tomiyasu,Japan,DEF,4.9,JPN,Takehiro Tomiyasu,playing,0.6
+1456,Yuto Nagatomo,Japan,DEF,3.7,JPN,Yuto Nagatomo,playing,0.1
+1457,Wataru Endo,Japan,MID,6.0,JPN,Wataru Endo,playing,0.4
+1458,Takefusa Kubo,Japan,MID,7.0,JPN,Takefusa Kubo,playing,1.0
+1459,Antonio Rodríguez,Mexico,GK,3.7,MEX,Antonio Rodríguez,transferred,0.0
+1460,Carlos Moreno,Mexico,GK,3.6,MEX,Carlos Moreno,transferred,0.0
+1461,Álex Padilla,Mexico,GK,3.5,MEX,Álex Padilla,transferred,0.1
+1462,Julián Araujo,Mexico,DEF,4.0,MEX,Julián Araujo,transferred,0.1
+1463,Alejandro Gómez,Mexico,DEF,3.5,MEX,Alejandro Gómez,transferred,0.0
+1464,Ramón Juárez,Mexico,DEF,3.6,MEX,Ramón Juárez,transferred,0.0
+1465,Mateo Chávez,Mexico,DEF,3.5,MEX,Mateo Chávez,playing,0.9
+1467,Bryan González,Mexico,DEF,3.5,MEX,Bryan González,transferred,0.0
+1468,Víctor Guzmán,Mexico,DEF,3.6,MEX,Víctor Guzmán,transferred,0.0
+1470,Marcel Ruiz,Mexico,MID,5.9,MEX,Marcel Ruiz,transferred,0.0
+1471,Jordán Carrillo,Mexico,MID,5.1,MEX,Jordán Carrillo,transferred,0.0
+1472,Diego Lainez,Mexico,MID,5.9,MEX,Diego Lainez,transferred,0.0
+1473,César Huerta,Mexico,MID,6.3,MEX,César Huerta,playing,0.1
+1474,Edson Álvarez,Mexico,MID,6.0,MEX,Edson Álvarez,playing,0.5
+1475,Jesús Angulo,Mexico,MID,5.3,MEX,Jesús Angulo,transferred,0.0
+1476,Gilberto Mora,Mexico,MID,4.5,MEX,Gilberto Mora,playing,0.9
+1477,Luis Chávez,Mexico,MID,6.3,MEX,Luis Chávez,playing,0.2
+1478,Luis Romo,Mexico,MID,5.5,MEX,Luis Romo,playing,0.0
+1479,Elías Montiel,Mexico,MID,4.5,MEX,Elías Montiel,transferred,0.0
+1480,Kevin Castañeda,Mexico,MID,4.9,MEX,Kevin Castañeda,transferred,0.0
+1481,Alexis Gutiérrez,Mexico,MID,4.9,MEX,Alexis Gutiérrez,transferred,0.0
+1482,Jeremy Márquez,Mexico,MID,4.7,MEX,Jeremy Márquez,transferred,0.0
+1483,Alexéi Domínguez,Mexico,FWD,4.5,MEX,Alexéi Domínguez,transferred,0.0
+1484,Efraín Álvarez,Mexico,MID,5.5,MEX,Efraín Álvarez,transferred,0.0
+1485,Santiago Giménez,Mexico,FWD,6.8,MEX,Santiago Giménez,playing,0.7
+1486,Jorge Ruvalcaba,Mexico,FWD,4.9,MEX,Jorge Ruvalcaba,transferred,0.0
+1488,Michael Boxall,New Zealand,DEF,3.7,NZL,Michael Boxall,playing,0.0
+1489,Liberato Cacace,New Zealand,DEF,4.1,NZL,Liberato Cacace,playing,0.0
+1490,Nando Pijnaker,New Zealand,DEF,3.7,NZL,Nando Pijnaker,playing,0.0
+1491,Tommy Smith,New Zealand,DEF,3.6,NZL,Tommy Smith,playing,0.0
+1492,Matthew Garbett,New Zealand,FWD,5.0,NZL,Matthew Garbett,playing,0.7
+1493,Chris Wood,New Zealand,FWD,6.5,NZL,Chris Wood,playing,0.5
+1494,Sarpreet Singh,New Zealand,MID,5.3,NZL,Sarpreet Singh,playing,0.0
+1495,Juan Espínola,Paraguay,GK,3.5,PAR,Juan Espínola,transferred,0.1
+1496,Carlos Coronel,Paraguay,GK,4.1,PAR,Carlos Coronel,transferred,0.0
+1497,Santiago Rojas,Paraguay,GK,3.5,PAR,Santiago Rojas,transferred,0.0
+1498,Blás Riveros,Paraguay,DEF,3.9,PAR,Blás Riveros,transferred,0.0
+1499,Alcides Benítez,Paraguay,DEF,3.5,PAR,Alcides Benítez,transferred,0.0
+1500,Agustín Sández,Paraguay,DEF,3.7,PAR,Agustín Sández,transferred,0.0
+1501,Alan Núñez,Paraguay,DEF,3.5,PAR,Alan Núñez,transferred,0.0
+1502,Saúl Salcedo,Paraguay,DEF,3.7,PAR,Saúl Salcedo,transferred,0.0
+1503,Diego León,Paraguay,DEF,3.5,PAR,Diego León,transferred,0.0
+1504,Tarek Salman,Qatar,DEF,3.7,QAT,Tarek Salman Suleiman Odeh,transferred,0.0
+1505,Rayyan Al Ali,Qatar,DEF,3.5,QAT,Rayyan Ahmed Al Ali,transferred,0.0
+1506,Homam El Amin,Qatar,DEF,3.6,QAT,Homam El Amin Mohamed Ahmed,playing,0.0
+1507,Sultan Al Brake,Qatar,DEF,3.7,QAT,Sultan Hussain Mohamad Hussain Al Brake,playing,0.0
+1508,Abdulaziz Hatem,Qatar,MID,5.3,QAT,Abdulaziz Hatem Mohammed Abdullah,playing,0.0
+1509,Jassem Gaber,Qatar,MID,5.0,QAT,Jassem Gaber El Sayed Abdulsallam,playing,0.6
+1510,Ahmed Alaa,Qatar,FWD,5.5,QAT,Ahmed Alaaeldin Bader Mohammed Abdelmotaal,playing,0.0
+1511,Mohammed Muntari,Qatar,FWD,5.3,QAT,Mohammed Muntari,playing,0.0
+1512,Sebastián Soria,Qatar,FWD,5.1,QAT,Andrés Sebastián Soria Quintana,transferred,0.0
+1513,Tahsin Jamshid,Qatar,FWD,4.5,QAT,Tahsin Mohammed Jamshid,playing,0.0
+1514,Viktor Johansson,Sweden,GK,3.9,SWE,Viktor Johansson,playing,0.2
+1515,Jacob Widell Zetterström,Sweden,GK,3.7,SWE,Jacob Widell Zetterström,playing,0.1
+1516,Hjalmar Ekdal,Sweden,DEF,3.7,SWE,Hjalmar Ekdal,playing,0.1
+1517,Emil Holm,Sweden,DEF,4.1,SWE,Emil Holm,transferred,0.0
+1518,Isak Hien,Sweden,DEF,4.1,SWE,Isak Hien,playing,0.1
+1519,Ken Sema,Sweden,MID,6.0,SWE,Ken Sema,playing,0.1
+1520,Alexander Isak,Sweden,FWD,8.0,SWE,Alexander Isak,playing,3.2
+1521,Alexander Bernhardsson,Sweden,FWD,4.9,SWE,Alexander Bernhardsson,playing,0.1
+1522,Thibaut Courtois,Belgium,GK,4.9,BEL,Thibaut Courtois,playing,12.9
+1523,Mike Penders,Belgium,GK,3.5,BEL,Mike Penders,playing,0.7
+1524,Hans Vanaken,Belgium,MID,5.5,BEL,Hans Vanaken,playing,0.1
+1525,Matias Fernandez-Pardo,Belgium,FWD,5.6,BEL,Matias Fernandez-Pardo,playing,0.1
+1526,Leandro Trossard,Belgium,MID,6.6,BEL,Leandro Trossard,playing,2.4
+1527,Diego Moreira,Belgium,MID,4.7,BEL,Diego Moreira,playing,0.1
+1528,Stopira,Cabo Verde,DEF,3.5,CPV,Ianique dos Santos Tavares,playing,0.1
+1529,Logan Costa,Cabo Verde,DEF,3.5,CPV,Logan Evans Costa,playing,0.1
+1530,Jamiro Monteiro,Cabo Verde,MID,4.6,CPV,Jamiro Gregory Monteiro Alvarenga,playing,0.0
+1531,Hélio Varela,Cabo Verde,MID,4.9,CPV,Hélio Sandro Oliveira Alves Varela,playing,0.0
+1532,Gilson Benchimol,Cabo Verde,MID,5.0,CPV,Gilson Benchimol Tavares,playing,0.6
+1533,Oumar Diakité,Côte d'Ivoire,FWD,5.3,CIV,Oumar Diakité,playing,0.0
+1534,Ange-Yoan Bonny,Côte d'Ivoire,FWD,4.9,CIV,Ange-Yoan Bonny,playing,0.1
+1535,Dominik Kotarski,Croatia,GK,4.4,CRO,Dominik Kotarski,playing,0.1
+1536,Josko Gvardiol,Croatia,DEF,5.0,CRO,Josko Gvardiol,playing,4.9
+1537,Mateo Kovacic,Croatia,MID,6.0,CRO,Mateo Kovacic,playing,0.3
+1538,Keeto Thermoncy,Haiti,DEF,3.5,HAI,Keeto Thermoncy,playing,0.1
+1539,Dominique Simon,Haiti,MID,4.3,HAI,Dominique Simon,playing,0.1
+1540,Lenny Joseph,Haiti,FWD,4.2,HAI,Lenny Joseph,playing,0.0
+1541,Nour Bani Ateyah,Jordan,GK,3.6,JOR,Noureddin Zaid Khaleel Bani Ateyah,playing,0.0
+1542,Ahmad Al Juaidi,Jordan,GK,3.6,JOR,Ahmad Mohannad Talab Al Juaidi,transferred,0.0
+1543,Ehsan Haddad,Jordan,DEF,3.5,JOR,Ehsan Nabil Farhan Haddad,playing,0.1
+1544,Saed Al Rosan,Jordan,DEF,3.5,JOR,Saed Ahmad Salameh Al Rosan,playing,0.1
+1545,Anas Badawi,Jordan,DEF,3.5,JOR,Anas Saeed Badawi,playing,0.1
+1546,Raja'ei Ayed,Jordan,MID,4.5,JOR,Raja'ei Ayed Fadel Hasan,playing,0.0
+1547,Ali Olwan,Jordan,FWD,4.2,JOR,Ali Iyad Ali Olwan,playing,0.1
+1548,Lee Gi-Hyuk,Korea Republic,DEF,4.5,KOR,Gi-Hyuk Lee,playing,0.1
+1549,Hwang In-Beom,Korea Republic,MID,5.8,KOR,In-Beom Hwang,playing,0.0
+1550,Lee Dong-Gyeong,Korea Republic,MID,4.9,KOR,Dong-Gyeong Lee,playing,0.0
+1551,Montassar Talbi,Tunisia,DEF,3.9,TUN,Montassar Talbi,playing,0.1
+1552,Dylan Bronn,Tunisia,DEF,3.6,TUN,Dylan Bronn,playing,0.0
+1553,Yan Valery,Tunisia,DEF,3.9,TUN,Yan Valery,playing,0.0
+1554,Elias Achouri,Tunisia,MID,4.8,TUN,Elias Achouri,playing,0.0
+1555,Hannibal Mejbri,Tunisia,MID,4.8,TUN,Hannibal Mejbri,playing,0.1
+1556,Gédéon Kalulu,Congo DR,DEF,3.9,COD,Gédéon Kalulu,playing,0.0
+1557,Gaël Kakuta,Congo DR,MID,4.6,COD,Gaël Kakuta,playing,0.0
+1558,Armando Obispo,Curaçao,DEF,3.7,CUW,Armando Obispo,playing,0.0
+1559,Deveron Fonville,Curaçao,DEF,3.7,CUW,Deveron Fonville,playing,0.0
+1560,Jürgen Locadia,Curaçao,FWD,4.1,CUW,Jürgen Locadia,playing,0.1
+1561,Roozbeh Cheshmi,IR Iran,MID,4.8,IRN,Roozbeh Cheshmi,playing,0.0
+1562,Kasra Taheri,IR Iran,FWD,4.7,IRN,Kasra Taheri,transferred,0.0
+1563,Jalal Hassan,Iraq,GK,3.9,IRQ,Jalal Hassan Hachim,playing,0.0
+1564,Mustafa Saadoon,Iraq,DEF,3.6,IRQ,Mustafa Saadoon Abbood Al Korji,playing,0.0
+1565,Ahmed Yahya,Iraq,DEF,3.6,IRQ,Ahmed Yahya Mahmood Al Hajjaj,transferred,0.0
+1566,Dario Naamo,Iraq,DEF,3.5,IRQ,Dario Naamo,transferred,0.0
+1567,Jussef Nasrawe,Iraq,MID,4.4,IRQ,Jussef Nasrawe,transferred,0.0
+1568,Ahmed Qasem,Iraq,MID,4.4,IRQ,Ahmed Ihab Ahmed,playing,0.0
+1569,Diogo Costa,Portugal,GK,4.9,POR,Diogo Meireles da Costa,playing,9.9
+1570,Rúben Dias,Portugal,DEF,5.0,POR,Rúben dos Santos Gato Alves Dias,playing,5.8
+1571,Nélson Semedo,Portugal,DEF,4.3,POR,Nélson Cabral Semedo,playing,0.2
+1572,Bernardo Silva,Portugal,MID,7.8,POR,Bernardo Mota Veiga de Carvalho e Silva,playing,2.4
+1573,Cristiano Ronaldo,Portugal,FWD,10.0,POR,Cristiano Ronaldo dos Santos Aveiro,playing,10.9
+1574,Rafael Leão,Portugal,MID,7.8,POR,Rafael Alexandre da Conceição Leão,playing,1.9
+1575,Fahad Younis,Qatar,GK,3.7,QAT,Fahad Younis Ahmed Mohammed Baker,transferred,0.0
+1576,Craig Gordon,Scotland,GK,3.5,SCO,Craig Gordon,playing,2.7
+1577,Aaron Hickey,Scotland,DEF,4.3,SCO,Aaron Hickey,playing,0.2
+1578,Ben Gannon-Doak,Scotland,MID,4.9,SCO,Ben Gannon-Doak,playing,0.3
+1579,Ross Stewart,Scotland,FWD,5.4,SCO,Ross Stewart,playing,0.0
+1580,Lawrence Shankland,Scotland,FWD,5.5,SCO,Lawrence Shankland,playing,0.9
+1581,Christian Fassnacht,Switzerland,MID,6.1,SUI,Christian Fassnacht,playing,0.0
+1582,Zeki Amdouni,Switzerland,FWD,4.9,SUI,Zeki Amdouni,playing,0.1
+1583,Cedric Itten,Switzerland,FWD,5.4,SUI,Cedric Itten,playing,0.0
+1584,Ersin Destanoglu,Türkiye,GK,4.0,TUR,Ersin Destanoglu,transferred,0.0
+1585,Yusuf Akçiçek,Türkiye,DEF,4.0,TUR,Yusuf Akçiçek,transferred,0.0
+1586,Çaglar Söyüncü,Türkiye,DEF,4.4,TUR,Çaglar Söyüncü,playing,0.2
+1587,Aral Simsir,Türkiye,MID,4.7,TUR,Aral Simsir,transferred,0.0
+1588,Demir Ege Tiknaz,Türkiye,MID,4.4,TUR,Demir Ege Tiknaz,transferred,0.0
+1589,Can Uzun,Türkiye,MID,5.3,TUR,Can Uzun,playing,0.1
+1590,Yusuf Sari,Türkiye,MID,5.0,TUR,Yusuf Sari,transferred,0.1
+1591,Aaron Tshibola,Congo DR,MID,4.9,COD,Aaron Tshibola,playing,0.0
+1592,Karim Hafez,Egypt,DEF,3.9,EGY,Karim Hafez Ramadan Seif El Din,playing,0.0
+1593,Nabil Emad Dunga,Egypt,MID,4.3,EGY,Nabil Emad Aly El Mahdy,playing,0.0
+1594,Mostafa Zico,Egypt,MID,4.2,EGY,Mostafa Mohamed Zaki Abdelraouf,playing,0.3
+1595,Aqtay Abdallah,Egypt,FWD,4.3,EGY,Aqtay Abdallah,transferred,0.0
+1596,Hamza Abdelkarim,Egypt,FWD,4.3,EGY,Hamza Mohamed Abdelkarim Elsayed Selim,playing,0.1
+1597,Mohamed Salah,Egypt,MID,10.0,EGY,Mohamed Salah Hamed Mahrous Ghaly,playing,4.2
+1598,Manuel Neuer,Germany,GK,5.0,GER,Manuel Neuer,playing,12.4
+1599,Nadiem Amiri,Germany,MID,6.3,GER,Nadiem Amiri,playing,0.1
+1600,Jamal Musiala,Germany,MID,8.0,GER,Jamal Musiala,playing,12.7
+1601,Felix Nmecha,Germany,MID,5.6,GER,Felix Nmecha,playing,0.1
+1602,Aleksandar Pavlovic,Germany,MID,5.5,GER,Aleksandar Pavlovic,playing,0.6
+1603,Jamie Leweling,Germany,MID,6.4,GER,Jamie Leweling,playing,0.1
+1604,Maximilian Beier,Germany,FWD,6.5,GER,Maximilian Beier,playing,0.1
+1609,Maya Yoshida,Japan,DEF,3.7,JPN,Maya Yoshida,transferred,0.0
+1610,Ronaldo Dejesús,Paraguay,DEF,3.8,PAR,Ronaldo Dejesús,transferred,0.0
+1611,Mateo Gamarra,Paraguay,DEF,3.9,PAR,Mateo Gamarra,transferred,0.0
+1612,Robert Piris Da Motta,Paraguay,MID,4.7,PAR,Robert Piris Da Motta,transferred,0.0
+1613,Óscar Romero,Paraguay,MID,4.6,PAR,Óscar Romero,transferred,0.0
+1614,Mathías Villasanti,Paraguay,MID,4.6,PAR,Mathías Villasanti,transferred,0.0
+1615,Hugo Cuenca,Paraguay,MID,4.8,PAR,Hugo Cuenca,transferred,0.0
+1616,Andrés Cubas,Paraguay,MID,4.7,PAR,Andrés Cubas,playing,0.0
+1617,Álvaro Campuzano,Paraguay,MID,4.6,PAR,Álvaro Campuzano,transferred,0.0
+1618,Ángel Romero,Paraguay,MID,4.9,PAR,Ángel Romero,transferred,0.0
+1619,Rodney Redes,Paraguay,MID,4.8,PAR,Rodney Redes,transferred,0.0
+1620,Enso González,Paraguay,MID,5.0,PAR,Enso González,transferred,0.1
+1621,Diego González,Paraguay,MID,5.0,PAR,Diego González,transferred,0.1
+1665,Munir El Kajoui,Morocco,GK,4.0,MAR,Munir El Kajoui,playing,0.2
+1666,Ibrahim Gomis,Morocco,GK,3.5,MAR,Ibrahim Gomis,transferred,0.0
+1667,Yanis Benchaouch,Morocco,GK,3.5,MAR,Yanis Benchaouch,transferred,0.0
+1668,Youssef Belammari,Morocco,DEF,3.6,MAR,Youssef Belammari,playing,0.1
+1669,Soufiane Bouftini,Morocco,DEF,4.0,MAR,Soufiane Bouftini,transferred,0.0
+1670,Mohamed Chibi,Morocco,DEF,3.8,MAR,Mohamed Chibi,transferred,0.0
+1671,Sofiane Boufal,Morocco,MID,6.3,MAR,Sofiane Boufal,transferred,0.0
+1672,Imrân Louza,Morocco,MID,5.7,MAR,Imrân Louza,transferred,0.0
+1673,Soufiane El-Faouzi,Morocco,MID,4.9,MAR,Soufiane El-Faouzi,transferred,0.0
+1674,Ayyoub Bouaddi,Morocco,MID,5.5,MAR,Ayyoub Bouaddi,playing,0.1
+1675,Marwane Saadane,Morocco,MID,4.7,MAR,Marwane Saadane,playing,0.0
+1676,Ayoube Amaimouni-Echghouyab,Morocco,FWD,4.3,MAR,Ayoube Amaimouni-Echghouyab,playing,0.0
+1677,Soufiane Benjdida,Morocco,FWD,4.7,MAR,Soufiane Benjdida,transferred,0.0
+1678,Othmane Maamma,Morocco,MID,4.7,MAR,Othmane Maamma,transferred,0.0
+1679,Tawfik Bentayeb,Morocco,FWD,4.7,MAR,Tawfik Bentayeb,transferred,0.0
+1680,Yanis Begraoui,Morocco,MID,5.0,MAR,Yanis Begraoui,transferred,0.0
+1681,Sander Tangvik,Norway,GK,3.5,NOR,Sander Tangvik,playing,0.9
+1682,Thelo Aasgaard,Norway,MID,5.5,NOR,Thelo Aasgaard,playing,0.1
+1683,Fredrik Aursnes,Norway,MID,6.5,NOR,Fredrik Aursnes,playing,0.2
+1684,Martin Ødegaard,Norway,MID,7.7,NOR,Martin Ødegaard,playing,5.0
+1685,Lorenzo Melgarejo,Paraguay,MID,5.5,PAR,Lorenzo Melgarejo,transferred,0.0
+1686,Rubén Lezcano,Paraguay,MID,5.0,PAR,Rubén Lezcano,transferred,0.1
+1687,Carlos González,Paraguay,FWD,5.7,PAR,Carlos González,transferred,0.0
+1688,Isidro Pitta,Paraguay,FWD,5.9,PAR,Isidro Pitta,playing,0.0
+1689,Adrián Alcaraz,Paraguay,FWD,4.5,PAR,Adrián Alcaraz,transferred,0.0
+1690,Adam Bareiro,Paraguay,FWD,5.7,PAR,Adam Bareiro,transferred,0.0
+1691,Ronaldo Martínez,Paraguay,MID,5.0,PAR,Ronaldo Martínez,transferred,0.1
+1692,Robert Morales,Paraguay,FWD,5.3,PAR,Robert Morales,transferred,0.0
+1693,Ilay Camara,Senegal,DEF,3.8,SEN,Ilay Camara,transferred,0.0
+1694,Moustapha Mbow,Senegal,DEF,3.7,SEN,Moustapha Mbow,transferred,0.0
+1695,Bara Sapoko Ndiaye,Senegal,MID,4.5,SEN,Bara Sapoko Ndiaye,playing,0.1
+1696,Sadio Mané,Senegal,MID,7.6,SEN,Sadio Mané,playing,1.9
+1697,Brandon Petersen,South Africa,GK,3.6,RSA,Brandon Petersen,transferred,0.0
+1698,Sipho Chaine,South Africa,GK,3.7,RSA,Sipho Chaine,playing,0.0
+1699,Thabiso Monyane,South Africa,DEF,3.6,RSA,Thabiso Monyane,transferred,0.0
+1700,Olwethu Makhanya,South Africa,DEF,3.5,RSA,Olwethu Makhanya,playing,0.3
+1701,Bradley Cross,South Africa,DEF,3.6,RSA,Bradley Cross,playing,0.1
+1702,Thapelo Morena,South Africa,DEF,3.8,RSA,Thapelo Morena,transferred,0.0
+1703,Lebohang Maboe,South Africa,MID,5.1,RSA,Lebohang Maboe,transferred,0.0
+1704,Kamogelo Sebelebele,South Africa,MID,4.5,RSA,Kamogelo Sebelebele,playing,0.1
+1705,Patrick Maswanganyi,South Africa,MID,5.9,RSA,Patrick Maswanganyi,transferred,0.0
+1706,Brooklyn Poggenpoel,South Africa,MID,4.3,RSA,Brooklyn Poggenpoel,transferred,0.0
+1707,Iqraam Rayners,South Africa,MID,5.3,RSA,Iqraam Rayners,playing,0.0
+1708,Jarell Quansah,England,DEF,4.4,ENG,Jarell Quansah,playing,0.1
+1709,Reece James,England,DEF,5.2,ENG,Reece James,playing,4.6
+1710,Eberechi Eze,England,MID,8.0,ENG,Eberechi Eze,playing,1.2
+1711,Ollie Watkins,England,FWD,7.9,ENG,Ollie Watkins,playing,1.2
+1712,Ivan Toney,England,FWD,7.5,ENG,Ivan Toney,playing,0.2
+1713,Amine Sbaï,Morocco,FWD,4.8,MAR,Amine Sbaï,playing,0.0
+1714,Sondre Langås,Norway,DEF,4.0,NOR,Sondre Langås,playing,0.3
+1939,Cristhian Loor,Ecuador,GK,4.0,ECU,Cristhian Loor,transferred,0.0
+1940,Deinner Ordóñez,Ecuador,DEF,4.1,ECU,Deinner Ordóñez,transferred,0.0
+1941,Fricio Caicedo,Ecuador,DEF,4.0,ECU,Fricio Caicedo,transferred,0.0
+1942,Ederson Castillo,Ecuador,MID,4.2,ECU,Ederson Castillo,transferred,0.0
+1943,Darwin Guagua,Ecuador,MID,4.8,ECU,Darwin Guagua,transferred,0.0
+1944,Malcom DaCosta,Ecuador,MID,3.8,ECU,Malcom DaCosta,transferred,1.0
+1945,Bruno Caicedo,Ecuador,MID,5.2,ECU,Bruno Caicedo,transferred,0.0
+1946,Luis Fragozo,Ecuador,MID,5.0,ECU,Luis Fragozo,transferred,0.1
+1947,Nilson Angulo,Ecuador,MID,6.0,ECU,Nilson Angulo,playing,0.1
+1950,Abdulquddus Atiah,Saudi Arabia,GK,4.0,KSA,Abdulquddus bin Atiah bin Mohammed Atiah Khaoud,transferred,0.0
+1951,Hassan Al Tambakti,Saudi Arabia,DEF,4.5,KSA,Hassan bin Mohammed bin Osama Al Tambakti,playing,0.1
+1952,Zakaria Hawsawi,Saudi Arabia,DEF,4.0,KSA,Zakaria bin Siraj bin Ahmed Hawsawi,transferred,0.0
+1953,Jehad Thikri,Saudi Arabia,DEF,4.0,KSA,Jehad bin Abdullatif bin Ahmed Thikri,playing,0.2
+1954,Moteb Al Harbi,Saudi Arabia,DEF,4.1,KSA,Moteb bin Saad bin Salim Al Naqi Al Harbi,playing,0.0
+1955,Salem Al Dawsari,Saudi Arabia,MID,7.2,KSA,Salem bin Mohammed bin Shafi Al Dawsari,playing,0.2
+1956,Alaa Al Hejji,Saudi Arabia,MID,5.0,KSA,Alaa bin Mohsen bin Ahmed Al Hejji,playing,0.6
+1957,Nasser Al Dawsari,Saudi Arabia,MID,5.2,KSA,Nasser bin Essa bin Shafi Al Shardan Al Dawsari,playing,0.1
+1958,Mohammed Abu Al Shamat,Saudi Arabia,MID,5.5,KSA,Mohammed bin Waheeb bin Saeed Abu Al Shamat,playing,0.0
+1959,Saleh Abu Al Shamat,Saudi Arabia,FWD,5.3,KSA,Saleh bin Waheeb bin Saeed Abu Al Shamat,transferred,0.0
+1960,Abdullah Al Salem,Saudi Arabia,FWD,5.0,KSA,Abdullah bin Ibrahim bin Ahmed Al Salem,transferred,0.2
+1961,Alphonso Davies,Canada,DEF,4.9,CAN,Alphonso Davies,playing,4.3
+1962,Zorhan Bassong,Canada,DEF,3.7,CAN,Zorhan Bassong,transferred,0.0
+1963,Alistair Johnston,Canada,DEF,4.0,CAN,Alistair Johnston,playing,0.5
+1964,Moïse Bombito,Canada,DEF,4.1,CAN,Moïse Bombito,playing,0.1
+1965,Jamie Knight-Lebel,Canada,DEF,3.7,CAN,Jamie Knight-Lebel,transferred,0.0
+1966,Alfie Jones,Canada,DEF,3.8,CAN,Alfie Jones,playing,0.1
+1967,Stephen Eustaquio,Canada,MID,5.0,CAN,Stephen Eustaquio,playing,0.8
+1968,Jacob Shaffelburg,Canada,MID,5.2,CAN,Jacob Shaffelburg,playing,0.0
+1969,Jayden Nelson,Canada,MID,5.0,CAN,Jayden Nelson,transferred,0.1
+1970,Promise David,Canada,FWD,5.4,CAN,Promise David,playing,0.1
+1971,Lawrence Ati Zigi,Ghana,GK,4.0,GHA,Lawrence Ati Zigi,playing,0.3
+1972,Joseph Anang,Ghana,GK,3.6,GHA,Joseph Anang,playing,0.1
+1973,Abdul Baba,Ghana,DEF,3.9,GHA,Abdul Baba,playing,0.1
+1974,Alidu Seidu,Ghana,DEF,3.9,GHA,Alidu Seidu,playing,0.0
+1975,Kojo Peprah Oppong,Ghana,DEF,3.5,GHA,Kojo Peprah Oppong,playing,0.3
+1976,Jonas Adjetey,Ghana,DEF,3.5,GHA,Jonas Adjetey,playing,0.3
+1977,Abdul Mumin,Ghana,DEF,3.7,GHA,Abdul Mumin,playing,0.0
+1978,Alexander Djiku,Ghana,DEF,4.0,GHA,Alexander Djiku,transferred,0.1
+1979,Marvin Senaya,Ghana,DEF,3.5,GHA,Marvin Senaya,playing,1.2
+1980,Jerome Opoku,Ghana,DEF,3.8,GHA,Jerome Opoku,playing,0.0
+1981,Gideon Mensah,Ghana,DEF,3.9,GHA,Gideon Mensah,playing,0.1
+1982,Caleb Yirenkyi,Ghana,MID,4.7,GHA,Caleb Yirenkyi,playing,0.0
+1983,Thomas Partey,Ghana,MID,6.2,GHA,Thomas Partey,playing,0.1
+1984,Elisha Owusu,Ghana,MID,5.3,GHA,Elisha Owusu,playing,0.0
+1985,Kwasi Sibo,Ghana,MID,4.7,GHA,Kwasi Sibo,playing,0.0
+1986,Jordan Ayew,Ghana,FWD,5.3,GHA,Jordan Ayew,playing,0.1
+1987,Iñaki Williams,Ghana,FWD,5.9,GHA,Iñaki Williams,playing,0.4
+1988,Ernest Nuamah,Ghana,MID,5.0,GHA,Ernest Nuamah,playing,0.7
+1989,Prince Adu,Ghana,FWD,4.0,GHA,Prince Adu,playing,1.2
+1990,Abdul Fatawu,Ghana,FWD,6.4,GHA,Abdul Fatawu,playing,0.1
+1991,Christopher Bonsu Baah,Ghana,FWD,4.5,GHA,Christopher Bonsu Baah,playing,0.0
+1992,Antoine Semenyo,Ghana,FWD,7.2,GHA,Antoine Semenyo,playing,4.1
+1993,Brandon Thomas-Asante,Ghana,FWD,5.1,GHA,Brandon Thomas-Asante,playing,0.0
+1994,Kamaldeen Sulemana,Ghana,FWD,5.1,GHA,Kamaldeen Sulemana,playing,0.0
+1995,Eric García,Spain,DEF,4.5,ESP,Eric García,playing,1.0
+1996,Marc Pubill,Spain,DEF,4.2,ESP,Marc Pubill,playing,0.1
+1997,Mikel Merino,Spain,MID,6.2,ESP,Mikel Merino,playing,0.6
+1998,Fabián Ruiz,Spain,MID,6.8,ESP,Fabián Ruiz,playing,1.1
+1999,Gavi,Spain,MID,6.5,ESP,Pablo Páez Gavira,playing,0.9
+2000,Nico Williams,Spain,MID,7.8,ESP,Nico Williams,playing,3.5
+2001,Joe Gauci,Australia,GK,3.9,AUS,Joe Gauci,transferred,0.0
+2002,Harry Souttar,Australia,DEF,4.1,AUS,Harry Souttar,playing,0.2
+2003,Cameron Devlin,Australia,MID,4.7,AUS,Cameron Devlin,playing,0.0
+2004,Jackson Irvine,Australia,MID,5.6,AUS,Jackson Irvine,playing,0.1
+2005,Mathew Leckie,Australia,MID,4.7,AUS,Mathew Leckie,playing,0.0
+2006,Mohamed Touré,Australia,FWD,5.0,AUS,Mohamed Touré,playing,0.9
+2007,Tete Yengi,Australia,FWD,4.3,AUS,Tete Yengi,playing,0.0
+2008,Brandon Borrello,Australia,FWD,4.4,AUS,Brandon Borrello,transferred,0.0
+2009,Ahmed Tagnaouti,Morocco,GK,3.5,MAR,Ahmed Tagnaouti,playing,1.0
+2010,Yassine Bounou,Morocco,GK,4.7,MAR,Yassine Bounou,playing,3.3
+2011,Nayef Aguerd,Morocco,DEF,4.3,MAR,Nayef Aguerd,transferred,0.1
+2012,Achraf Hakimi,Morocco,DEF,6.0,MAR,Achraf Hakimi,playing,22.3
+2013,Chadi Riad,Morocco,DEF,3.9,MAR,Chadi Riad,playing,0.1
+2014,Noussair Mazraoui,Morocco,DEF,4.4,MAR,Noussair Mazraoui,playing,1.0
+2015,Redouane Halhal,Morocco,DEF,3.5,MAR,Redouane Halhal,playing,2.9
+2016,Issa Diop,Morocco,DEF,4.5,MAR,Issa Diop,playing,0.3
+2017,Zakaria El Ouahdi,Morocco,DEF,4.1,MAR,Zakaria El Ouahdi,playing,0.0
+2018,Sofyan Amrabat,Morocco,MID,5.9,MAR,Sofyan Amrabat,playing,0.1
+2019,Neil El Aynaoui,Morocco,MID,5.6,MAR,Neil El Aynaoui,playing,0.1
+2020,Brahim Díaz,Morocco,MID,6.4,MAR,Brahim Díaz,playing,2.1
+2021,Azzedine Ounahi,Morocco,MID,6.2,MAR,Azzedine Ounahi,playing,0.1
+2022,Bilal El Khannouss,Morocco,MID,6.2,MAR,Bilal El Khannouss,playing,0.1
+2023,Soufiane Rahimi,Morocco,FWD,5.6,MAR,Soufiane Rahimi,playing,0.1
+2024,Abde Ezzalzouli,Morocco,FWD,5.3,MAR,Abde Ezzalzouli,transferred,0.1
+2025,Chemsdine Talbi,Morocco,FWD,4.4,MAR,Chemsdine Talbi,playing,0.1
+2026,Fidel Escobar,Panama,DEF,3.8,PAN,Fidel Escobar,playing,0.1
+2027,Edgardo Fariña,Panama,DEF,3.9,PAN,Edgardo Fariña,playing,0.0
+2028,Alberto Quintero,Panama,FWD,4.2,PAN,Alberto Quintero,playing,0.0
+2029,Azarías Londoño,Panama,FWD,4.4,PAN,Azarías Londoño,playing,0.0
+2030,Tomás Rodríguez,Panama,FWD,4.5,PAN,Tomás Rodríguez,playing,0.0
+2031,Sergiño Dest,USA,DEF,4.3,USA,Sergiño Dest,playing,2.1
+2032,Miles Robinson,USA,DEF,4.0,USA,Miles Robinson,playing,0.3
+2033,Tyler Adams,USA,MID,5.3,USA,Tyler Adams,playing,0.3
+2034,Haji Wright,USA,FWD,5.3,USA,Haji Wright,playing,0.1
+2035,Álex Zendejas,USA,MID,5.5,USA,Álex Zendejas,playing,0.0
+2036,Robin Roefs,Netherlands,GK,4.6,NED,Robin Roefs,playing,0.4
+2037,Jurriën Timber,Netherlands,DEF,5.2,NED,Jurriën Timber,transferred,1.4
+2038,Guus Til,Netherlands,MID,4.9,NED,Guus Til,playing,0.1
+2039,Mats Wieffer,Netherlands,MID,4.8,NED,Mats Wieffer,playing,0.1
+2040,Frenkie de Jong,Netherlands,MID,7.0,NED,Frenkie de Jong,playing,1.8
+2041,Marten de Roon,Netherlands,MID,5.1,NED,Marten de Roon,playing,0.1
+2042,Justin Kluivert,Netherlands,MID,6.5,NED,Justin Kluivert,playing,0.2
+2043,Memphis Depay,Netherlands,FWD,7.4,NED,Memphis Depay,playing,1.2
+2044,Crysencio Summerville,Netherlands,MID,5.3,NED,Crysencio Summerville,playing,0.5
+2045,Abdelatif Ramdane,Algeria,GK,4.0,ALG,Abdelatif Ramdane,transferred,0.0
+2046,Oussama Benbot,Algeria,GK,4.2,ALG,Oussama Benbot,playing,0.0
+2047,Samir Chergui,Algeria,DEF,4.0,ALG,Samir Chergui,playing,0.2
+2048,Mohamed Tougaï,Algeria,DEF,4.0,ALG,Mohamed Tougaï,playing,0.2
+2049,Nabil Bentaleb,Algeria,MID,5.5,ALG,Nabil Bentaleb,playing,0.0
+2050,Cristian Volpato,Australia,MID,6.0,AUS,Cristian Volpato,playing,0.1
+2051,Christopher Opéri,Côte d'Ivoire,DEF,4.0,CIV,Christopher Opéri,playing,0.2
+2052,Piero Hincapié,Ecuador,DEF,4.7,ECU,Piero Hincapié,playing,4.3
+2053,Willian Pacho,Ecuador,DEF,4.4,ECU,Willian Pacho,playing,5.8
+2054,Jonas Urbig,Germany,GK,4.0,GER,Jonas Urbig,transferred,0.0
+2055,JD Gunn,Panama,GK,4.0,PAN,JD Gunn,transferred,0.0
+2056,Iván Anderson,Panama,DEF,4.0,PAN,Iván Anderson,transferred,0.0
+2057,José Murillo,Panama,DEF,4.3,PAN,José Murillo,transferred,0.0
+2058,Víctor Griffith,Panama,MID,5.3,PAN,Víctor Griffith,transferred,0.0
+2059,Abdulrahman Al Sanbi,Saudi Arabia,GK,4.0,KSA,Abdulrahman bin Salem bin Fadhel Al Sanbi,transferred,0.0
+2060,Tyler Fletcher,Scotland,MID,4.7,SCO,Tyler Fletcher,playing,0.1
+2061,Pape Sy,Senegal,GK,3.8,SEN,Pape Sy,transferred,0.0
+2062,Herman Johansson,Sweden,MID,4.4,SWE,Herman Johansson,playing,0.2
+2063,Joaquín Piquerez,Uruguay,DEF,4.5,URU,Joaquín Piquerez,playing,0.1
+2064,Rodrigo Bentancur,Uruguay,MID,6.0,URU,Rodrigo Bentancur,playing,0.2
+2065,Rodrigo Zalazar,Uruguay,MID,6.0,URU,Rodrigo Zalazar,playing,0.1
+2066,Jaouen Hadjam,Algeria,DEF,3.8,ALG,Jaouen Hadjam,playing,0.0
+2067,Mladen Jurkas,Bosnia and Herzegovina,GK,3.5,BIH,Mladen Jurkas,playing,3.5
+2068,Derrick Luckassen,Ghana,DEF,3.7,GHA,Derrick Luckassen,playing,0.0
+2069,Shahriyar Moghanlou,IR Iran,FWD,4.7,IRN,Shahriyar Moghanlou,playing,0.0
+2070,Cho Wi-Je,Korea Republic,DEF,3.7,KOR,Wi-Je Cho,playing,0.0
+2071,Sebastian Nanasi,Sweden,MID,5.3,SWE,Sebastian Nanasi,transferred,0.0
+2072,Assan Ouédraogo,Germany,MID,4.5,GER,Assan Ouédraogo,playing,0.1
+2073,Éderson,Brazil,MID,6.3,BRA,Éderson José dos Santos Lourenço da Silva,playing,0.1
+2074,Lutsharel Geertruida,Netherlands,DEF,4.3,NED,Lutsharel Geertruida,playing,0.0
+2075,Dejan Ljubicic,Austria,MID,5.0,AUT,Dejan Ljubicic,playing,0.1

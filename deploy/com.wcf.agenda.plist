@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.wcf.agenda</string>
+
+    <!-- Runs the auto-pilot: optimises when a deadline is near, scans for
+         opportunities, and notifies (Telegram if configured, else macOS). It
+         de-duplicates, so it won't spam you. -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>-lc</string>
+        <string>cd /Users/edbeesley/world-cup-fantasy &amp;&amp; ./wcf-run run-due --notify &gt;&gt; data/agenda.log 2&gt;&amp;1</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/edbeesley/world-cup-fantasy</string>
+
+    <!-- Run hourly so we catch confirmed-lineup windows (~1h before each match)
+         for rolling XI/captain tweaks. run-due de-duplicates, so it won't spam. -->
+    <key>StartInterval</key>
+    <integer>3600</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/edbeesley/world-cup-fantasy/data/agenda.err.log</string>
+</dict>
+</plist>
