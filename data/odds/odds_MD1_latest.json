@@ -1,0 +1,2360 @@
+[
+  {
+    "match_id": "80d82d1113934bfbea4ce8daf37a2433",
+    "home": "Mexico",
+    "away": "South Africa",
+    "commence_time": "2026-06-11T19:00:00Z",
+    "h2h": {
+      "home": 1.43,
+      "draw": 4.5,
+      "away": 8.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.23,
+      "under": 1.67
+    },
+    "anytime": {
+      "Raul Jimenez": 2.3,
+      "Israel Reyes": 9.0,
+      "Cesar Montes": 10.0,
+      "Roberto Alvarado": 4.2,
+      "Julian Quinones": 2.88,
+      "Johan Vasquez": 11.0,
+      "Alvaro Fidalgo": 5.8,
+      "Jesus Gallardo": 8.5,
+      "Brian Gutierrez": 4.0,
+      "Erik Lira": 11.0,
+      "Aubrey Modiba": 20.0,
+      "Jayden Adams": 13.5,
+      "Iqraam Rayners": 6.55,
+      "Nkosinathi Sibisi": 21.0,
+      "Teboho Mokoena": 11.5,
+      "Lyle Foster": 6.1,
+      "Sphephelo Sithole": 24.0,
+      "Khuliso Mudau": 19.0,
+      "Mbekezeli Mbokazi": 21.0,
+      "Ime Okon": 20.0,
+      "Santiago Gimenez": 2.5,
+      "Armando Gonzalez Alba": 2.5,
+      "Ernesto Alexis Vega": 3.4,
+      "Gilberto Rafael Mora Zambrano": 3.3,
+      "Cesar Saul Huerta Valera": 3.5,
+      "Oswin Appollis": 6.5,
+      "Thapelo Maseko": 10.0,
+      "Themba Zwane": 7.5,
+      "Luis Chavez": 4.8,
+      "Tshepang Moremi": 9.5,
+      "Relebohile Mofokeng": 9.0,
+      "Obed Vargas": 10.0,
+      "Edson Alvarez": 10.0,
+      "Jorge Eduardo Sanchez Ramos": 12.0,
+      "Mateo Chavez Garcia": 12.0,
+      "Orbelin Pineda": 3.7,
+      "Thalente Mbatha": 12.0,
+      "Samukelo Kabini": 21.0,
+      "Tholo Thabang Matuludi": 13.0,
+      "Khulumani Ndamane": 34.0,
+      "Olwethu Makhanya": 29.0,
+      "Guillermo Martinez": 2.5,
+      "Luis Francisco Romo Barron": 7.0,
+      "Evidence Makgopa": 6.0,
+      "Kamogelo Sebelebele": 12.0,
+      "Bradley Cross": 23.0
+    }
+  },
+  {
+    "match_id": "384cbb5d76b535896a24fe65f93cfac8",
+    "home": "Korea Republic",
+    "away": "Czechia",
+    "commence_time": "2026-06-12T02:00:00Z",
+    "h2h": {
+      "home": 2.65,
+      "draw": 3.05,
+      "away": 2.925
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.28,
+      "under": 1.62
+    },
+    "anytime": {
+      "Kim Tae-Hyeon": 19.0,
+      "Hwang In-beom": 8.5,
+      "Jens Castrop": 8.0,
+      "Hyun-jun Yang": 5.0,
+      "Kim Min-Jae": 13.0,
+      "Eom Ji-sung": 6.0,
+      "Jin-gyu Kim": 6.75,
+      "Paik Seung-ho": 10.0,
+      "Kangin Lee": 4.4,
+      "Gi-hyuk Lee": 20.0,
+      "Heung-Min Son": 3.0,
+      "Cho Gue-sung": 3.7,
+      "Jae-Sung Lee": 5.4,
+      "Hwang Hee-Chan": 4.5,
+      "Lee Dong-gyeong": 4.6,
+      "Young-Woo Seol": 12.0,
+      "Hyeon-gyu Oh": 3.2,
+      "Jin-seob Park": 11.0,
+      "Tae-seok Lee": 12.0,
+      "Han-beom Lee": 19.0,
+      "Bae Jun-ho": 5.5,
+      "Vladimir Darida": 6.4,
+      "Denis Visinsky": 4.6,
+      "Michal Sadilek": 12.0,
+      "Robin Hranac": 17.0,
+      "Tomas Chory": 3.7,
+      "Pavel Sulc": 5.0,
+      "Stepan Chaloupek": 12.0,
+      "Jan Kuchta": 3.7,
+      "Tomas Holes": 13.0,
+      "Mojmir Chytil": 3.8,
+      "Adam Hlozek": 4.6,
+      "David Doudera": 10.0,
+      "David Zima": 19.0,
+      "Alexandr Sojka": 9.0,
+      "Ladislav Krejci 1999": 8.0,
+      "Tomas Soucek": 6.2,
+      "Lukas Provod": 6.0,
+      "Jaroslav Zeleny": 14.0,
+      "Lukas Cerv": 7.0,
+      "David Jurasek": 9.0,
+      "Hugo Sochurek": 8.5,
+      "Patrik Schick": 3.0,
+      "Vladimir Coufal": 14.0,
+      "Yu-Min Cho": 13.0,
+      "Moon Hwan Kim": 10.0
+    }
+  },
+  {
+    "match_id": "d1f4f946c70a0b4e81f5d43e9d32361c",
+    "home": "Canada",
+    "away": "Bosnia and Herzegovina",
+    "commence_time": "2026-06-12T19:00:00Z",
+    "h2h": {
+      "home": 1.81,
+      "draw": 3.55,
+      "away": 4.6
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.16,
+      "under": 1.68
+    },
+    "anytime": {
+      "Stephen Eustaquio": 10.0,
+      "Jonathan David": 2.48,
+      "Derek Cornelius": 12.0,
+      "Cyle Larin": 3.0,
+      "Liam Millar": 5.0,
+      "Alistair Johnston": 11.5,
+      "Richie Laryea": 10.0,
+      "Luc De Fougerolles": 14.0,
+      "Ismael Kone": 6.7,
+      "Tajon Buchanan": 4.33,
+      "Promise Oluwatobi Emmanuel David": 2.9,
+      "Alphonso Davies": 4.3,
+      "Ivan Basic": 11.0,
+      "Jovo Lukic": 5.0,
+      "Kerim Alajbegovic": 6.4,
+      "Nikola Katic": 16.0,
+      "Tarik Muharemovic": 17.0,
+      "Ermedin Demirovic": 4.6,
+      "Sead Kolasinac": 20.0,
+      "Edin Dzeko": 3.88,
+      "Amar Dedic": 16.0,
+      "Esmir Bajraktarevic": 8.1,
+      "Benjamin Tahirovic": 12.0,
+      "Tani Oluwaseyi": 3.2,
+      "Haris Tabakovic": 4.4,
+      "Jacob Shaffelburg": 4.75,
+      "Jonathan Osorio": 5.025,
+      "Samed Bazdar": 4.8,
+      "Ali Ahmed": 5.0,
+      "Ermin Mahmic": 7.0,
+      "Mathieu Choiniere": 9.0,
+      "Amar Memic": 9.600000000000001,
+      "Nathan-Dylan Saliba": 9.0,
+      "Ivan Sunjic": 13.5,
+      "Niko Kristian Sigur": 10.75,
+      "Armin Gigovic": 9.5,
+      "Alfie Jones": 10.0,
+      "Joel Waterman": 12.0,
+      "Stjepan Radeljic": 17.0,
+      "Moise Bombito": 13.0,
+      "Dzenis Burnic": 13.0,
+      "Amir Hadziahmetovic": 17.0,
+      "Nidal Celik": 19.0,
+      "Dennis Hadzikadunic": 19.0,
+      "Nihad Mujakic": 19.5
+    }
+  },
+  {
+    "match_id": "c12986f447a515fbe641addd786dbb24",
+    "home": "USA",
+    "away": "Paraguay",
+    "commence_time": "2026-06-13T01:00:00Z",
+    "h2h": {
+      "home": 1.91,
+      "draw": 3.4,
+      "away": 4.2
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.2,
+      "under": 1.635
+    },
+    "anytime": {
+      "Chris Richards": 11.0,
+      "Malik Tillman": 4.5,
+      "Christian Pulisic": 3.0,
+      "Weston McKennie": 6.0,
+      "Timothy Ream": 17.0,
+      "Antonee Robinson": 12.0,
+      "Tyler Adams": 10.5,
+      "Folarin Balogun": 2.88,
+      "Sergino Dest": 7.5,
+      "Mark Alexander McKenzie": 12.0,
+      "Victor Gustavo Velazquez": 17.0,
+      "Junior Alonso": 18.0,
+      "Miguel Almiron": 5.5,
+      "Omar Alderete": 15.0,
+      "Diego Alexander Gomez Amarilla": 6.4,
+      "Mauricio Magalhaes Prado": 7.0,
+      "Damian Bobadilla": 10.0,
+      "Juan Jose Caceres": 20.0,
+      "Antonio Sanabria": 4.3,
+      "Ricardo Pepi": 3.1,
+      "Haji Wright": 3.25,
+      "Isidro Pitta": 4.4,
+      "Alex Adrian Arce Barrios": 4.6,
+      "Julio Cesar Enciso": 4.75,
+      "Timothy Weah": 5.15,
+      "Gabriel Avalos": 4.550000000000001,
+      "Brendan Aaronson": 4.5,
+      "Gustavo Caballero": 6.1,
+      "Alejandro Zendejas": 4.2,
+      "Alejandro Romero Gamarra": 5.5,
+      "Giovanni Reyna": 5.0,
+      "Cristian Roldan": 10.0,
+      "Ramon Sosa Acosta": 6.5,
+      "Sebastian Berhalter": 6.75,
+      "Alex Freeman": 10.0,
+      "Auston Trusty": 13.0,
+      "Joseph Scally": 12.5,
+      "Miles Robinson": 13.0,
+      "Braian Ojeda": 14.0,
+      "Adrian Cubas": 15.5,
+      "Alexandro Maidana": 12.0,
+      "Fabian Balbuena": 15.5,
+      "Matias Galarza Fonda": 8.5,
+      "Gustavo Gomez": 13.0,
+      "Jose Maria Canale Dominguez": 17.0,
+      "Maximilian Arfsten": 8.0
+    }
+  },
+  {
+    "match_id": "26634922d3f78c146440816023e40de8",
+    "home": "Qatar",
+    "away": "Switzerland",
+    "commence_time": "2026-06-13T19:00:00Z",
+    "h2h": {
+      "home": 14.0,
+      "draw": 6.5,
+      "away": 1.21
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.65,
+      "under": 2.2
+    },
+    "anytime": {
+      "Breel Embolo": 1.88,
+      "Cedric Itten": 1.91,
+      "Mohamed Zeki Amdouni": 2.05,
+      "Noah Okafor": 2.5,
+      "Dan Ndoye": 2.62,
+      "Christian Fassnacht": 2.75,
+      "Ruben Vargas": 2.88,
+      "Johan Manzambi": 3.2,
+      "Fabian Rieder": 3.9,
+      "Granit Xhaka": 3.71,
+      "Remo Freuler": 4.9,
+      "Michel Aebischer": 5.2,
+      "Ali Almoez": 6.8,
+      "Djibril Sow": 5.0,
+      "Ahmed Al Aaeldin": 6.5,
+      "Denis Zakaria": 6.0,
+      "Mohammed Muntari": 6.5,
+      "Silvan Widmer": 6.0,
+      "Akram Afif": 6.6,
+      "Ardon Jashari": 6.5,
+      "Manuel Akanji": 7.5,
+      "Edmilson Junior": 8.0,
+      "Ricardo Rodr\u00edguez": 7.4,
+      "Ahmed Alganehi": 8.5,
+      "Nico Elvedi": 8.4,
+      "Miro Muheim": 7.0,
+      "Luca Jaquez": 8.5,
+      "Eray Cumart": 8.5,
+      "Mohamed Al-Mannai": 9.0,
+      "Tahsin Mohammed Jamshid": 9.0,
+      "Aurele Amenda": 10.0,
+      "Abdulaziz Hatem": 11.0,
+      "Ahmed Fathi": 16.5,
+      "Boualem Khoukhi": 14.0,
+      "Jassem Gaber Abdulsallam": 16.5,
+      "Karim Boudiaf": 19.5,
+      "Ayoub Al-Oui": 17.5,
+      "Pedro Miguel": 18.5,
+      "Lucas Michel Mendes": 16.5,
+      "Assim Madibo": 21.0,
+      "Sultan Al Brake": 21.0,
+      "Al Hashmi Al Hussain": 21.0,
+      "Homam Ahmed": 15.5,
+      "Youssef Abdel Razak Youssef": 6.5,
+      "Hassan Khalid Al Haidos": 7.9,
+      "Gueye Laye": 13.0
+    }
+  },
+  {
+    "match_id": "f6c8748a16516e0998f95de14235432a",
+    "home": "Brazil",
+    "away": "Morocco",
+    "commence_time": "2026-06-13T22:00:00Z",
+    "h2h": {
+      "home": 1.65,
+      "draw": 3.75,
+      "away": 5.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.99,
+      "under": 1.78
+    },
+    "anytime": {
+      "Carlos Casemiro": 6.5,
+      "Endrick Felipe Moreira de Sousa": 2.88,
+      "Douglas Santos de Melo": 14.5,
+      "Igor Thiago Nascimento Rodrigues": 2.75,
+      "Lucas Paqueta": 4.2,
+      "Bruno Guimaraes": 7.0,
+      "Magalhaes Gabriel": 12.0,
+      "Vinicius Junior": 2.5,
+      "Matheus Cunha": 3.25,
+      "Issa Diop": 26.0,
+      "Neil El Aynaoui": 10.5,
+      "Chadi Riad": 21.0,
+      "Azzedine Ounahi": 7.5,
+      "Noussair Mazraoui": 19.0,
+      "Ismael Saibari": 5.8,
+      "Ayyoub Bouaddi": 15.0,
+      "Sofyan Amrabat": 17.0,
+      "Bilal El Khannous": 9.0,
+      "Achraf Hakimi": 10.0,
+      "Brahim Diaz": 5.0,
+      "Neymar": 2.88,
+      "Rayan Vitor": 3.425,
+      "Gabriel Martinelli": 3.725,
+      "Luiz Henrique Andre Rosa da Silva": 3.5,
+      "Ayoub El Kaabi": 4.75,
+      "Soufiane Rahimi": 4.6,
+      "Abdessamad Ezzalzouli": 6.1,
+      "Danilo Luiz da Silva": 9.375,
+      "Chemsdine Talbi": 7.75,
+      "Gessime Yassine": 9.0,
+      "Zakaria El Ouahdi": 15.0,
+      "Gleison Bremer Silva Nascimento": 10.0,
+      "Leonardo Pereira": 12.0,
+      "Roger Ibanez da Silva": 8.0,
+      "Alex Sandro Lobo": 12.5,
+      "Wesley Vinicius Franca Lima": 12.0,
+      "Samir El Mourabet": 12.0,
+      "Anass Salah-Eddine": 26.0,
+      "Nayef Aguerd": 15.0,
+      "Redouane Halhal": 26.0,
+      "Ayoube Amaimouni-Echghouyab": 8.0,
+      "Youssef Belammari": 19.0,
+      "Ederson Moraes": 5.5,
+      "Mohamed Amine Sbai": 7.0,
+      "Marwane Saadane": 19.0,
+      "Raphael Dias Belloli": 2.75,
+      "Danilo dos Santos de Oliveira": 5.0,
+      "Ederson Jose dos Santos Lourenco da Silva": 6.0,
+      "Fabio Henrique Tavares": 9.5,
+      "Marcos Aoas Correa": 16.0
+    }
+  },
+  {
+    "match_id": "5ae41a06735c926eeb7f74006933adce",
+    "home": "Haiti",
+    "away": "Scotland",
+    "commence_time": "2026-06-14T01:00:00Z",
+    "h2h": {
+      "home": 5.8,
+      "draw": 4.2,
+      "away": 1.56
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.85,
+      "under": 1.93
+    },
+    "anytime": {
+      "Leverton Pierre": 14.0,
+      "Martin Experience": 20.0,
+      "Louicius Don Deedson": 5.65,
+      "Jeanricner Bellegarde": 7.5,
+      "Hannes Delcroix": 20.0,
+      "Ruben Providence": 6.5,
+      "Derrick Etienne": 6.0,
+      "Carlens Arcus": 20.0,
+      "Wilson Isidor": 4.33,
+      "Josue Casimir": 7.5,
+      "Ricardo Ade": 20.0,
+      "Duckens Nazon": 4.5,
+      "John Souttar": 10.0,
+      "Lawrence Shankland": 2.42,
+      "Andrew Robertson": 9.5,
+      "Kieran Tierney": 9.5,
+      "Kenny Mclean": 7.0,
+      "Lewis Ferguson": 5.0,
+      "Aaron Hickey": 10.0,
+      "John McGinn": 3.7,
+      "Ryan Christie": 4.33,
+      "Scott McKenna": 10.0,
+      "Scott McTominay": 2.75,
+      "Che Adams": 2.55,
+      "Lyndon Dykes": 2.62,
+      "George Hirst": 2.77,
+      "Findlay Curtis": 3.5,
+      "Yassin Fortune": 4.5,
+      "Lenny Joseph": 5.55,
+      "Tyler Fletcher": 6.0,
+      "Frantzdy Pierrot": 5.65,
+      "Nathan Patterson": 10.5,
+      "Dominic Hyam": 9.5,
+      "Anthony Ralston": 9.75,
+      "Grant Hanley": 11.0,
+      "Jack Hendry": 10.75,
+      "Carl Fred Sainte": 12.5,
+      "Olivier Pierre Woodensky": 12.0,
+      "Dominique Simon": 8.75,
+      "Jean-Kevin Duverne": 17.0,
+      "Keeto Thermoncy": 20.0,
+      "Duke Lacroix": 16.0,
+      "Wilguens Paugain": 16.5,
+      "Ross Stewart": 2.62,
+      "Danley Jean Jacques": 11.5,
+      "Ben Doak": 3.9
+    }
+  },
+  {
+    "match_id": "564084f52cc9f1abcc18187c168a7cdc",
+    "home": "Australia",
+    "away": "T\u00fcrkiye",
+    "commence_time": "2026-06-14T04:00:00Z",
+    "h2h": {
+      "home": 5.25,
+      "draw": 3.75,
+      "away": 1.68
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.9849999999999999,
+      "under": 1.8
+    },
+    "anytime": {
+      "Cameron Burgess": 19.5,
+      "Cristian Volpato": 5.9,
+      "Jacob Italiano": 12.5,
+      "Nestory Irankunda": 4.5,
+      "Ajdin Hrustic": 7.75,
+      "Alessandro Circati": 18.0,
+      "Cameron Devlin": 12.0,
+      "Conor Metcalfe": 8.0,
+      "Jackson Irvine": 7.5,
+      "Harry Souttar": 9.5,
+      "Jordan Bos": 9.8,
+      "Mohamed Toure": 4.15,
+      "Baris Alper Yilmaz": 3.3,
+      "Orkun Kokcu": 4.55,
+      "Merih Demiral": 9.5,
+      "Ferdi Kadioglu": 9.0,
+      "Abdulkerim Bardakci": 11.0,
+      "Arda Guler": 3.1,
+      "Kenan Yildiz": 3.0,
+      "Mehmet Zeki Celik": 11.75,
+      "Hakan Calhanoglu": 4.3,
+      "Deniz Gul": 2.75,
+      "Mathew Leckie": 5.0,
+      "Ozan Kabak": 9.5,
+      "Oguz Aydin": 3.5,
+      "Yunus Akgun": 3.3,
+      "Irfan Can Kahveci": 3.3,
+      "Can Yilmaz Uzun": 3.3,
+      "Nishan Velupillay": 4.75,
+      "Tete Yengi": 4.33,
+      "Awer Mabil": 5.5,
+      "Salih Ozcan": 8.5,
+      "Kaan Ayhan": 8.5,
+      "Ismail Yuksek": 9.6,
+      "Aiden O'Neill": 13.0,
+      "Eren Elmali": 12.0,
+      "Samet Akaydin": 11.0,
+      "Mert Muldur": 10.0,
+      "Jason Geria": 19.0,
+      "Aziz Eraltay Behich": 11.0,
+      "Kai Trewin": 12.0,
+      "Lucas Herrington": 12.0,
+      "Milos Degenek": 23.0,
+      "Paul Okon": 12.0,
+      "Caglar Soyuncu": 10.0,
+      "Muhammed Akturkoglu": 2.8
+    }
+  },
+  {
+    "match_id": "d79edbd6aaeb578d33e313446b18d333",
+    "home": "Germany",
+    "away": "Cura\u00e7ao",
+    "commence_time": "2026-06-14T17:00:00Z",
+    "h2h": {
+      "home": 1.04,
+      "draw": 17.0,
+      "away": 36.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.18,
+      "under": 4.95
+    },
+    "anytime": {
+      "Nathaniel Brown": 4.6,
+      "Nadiem Amiri": 2.6799999999999997,
+      "David Raum": 5.0,
+      "Florian Wirtz": 1.65,
+      "Jamie Leweling": 2.38,
+      "Aleksandar Pavlovic": 4.3,
+      "Leroy Sane": 1.83,
+      "Nick Woltemade": 1.55,
+      "Joshua Kimmich": 3.75,
+      "Angelo Stiller": 6.0,
+      "Maximilian Beier": 1.75,
+      "Kai Havertz": 1.5,
+      "Antonio Rudiger": 7.5,
+      "Jonathan Tah": 6.0,
+      "Felix Nmecha": 3.1,
+      "Malick Thiaw": 6.25,
+      "Leon Goretzka": 3.1,
+      "Deniz Undav": 1.53,
+      "Jamal Musiala": 1.75,
+      "Pascal Gross": 4.33,
+      "Waldemar Anton": 9.0,
+      "Nico Schlotterbeck": 5.5,
+      "Forzan Assan Ouedraogo": 2.38,
+      "Kevin Felida": 15.5,
+      "Arjany Martha": 11.0,
+      "Sontje Hansen": 11.0,
+      "Brandley Kuwas": 13.0,
+      "Jearl Margaritha": 9.5,
+      "Joshua Brenet": 19.5,
+      "Roshon van Eijma": 21.0,
+      "Tyrese Noslin": 17.5,
+      "Kenji Gorre": 12.0,
+      "Sherel Floranus": 21.0,
+      "Riechedly Bazoer": 21.0,
+      "Shurandy Sambo": 23.0,
+      "Jeremy Antonisse": 9.0,
+      "Jurgen Locadia": 8.5,
+      "Deveron Fonville": 20.0,
+      "Tahith Chong": 15.0,
+      "Armando Obispo": 21.0,
+      "Leandro Bacuna": 15.0,
+      "Livano Comenencia": 21.0,
+      "Gervane Kastaneer": 10.0,
+      "Godfried Roemeratoe": 21.0,
+      "Jurien Gaari": 26.0,
+      "Juninho Bacuna": 14.0
+    }
+  },
+  {
+    "match_id": "32ec06abda2398ac41501c86eb9aa376",
+    "home": "Netherlands",
+    "away": "Japan",
+    "commence_time": "2026-06-14T20:00:00Z",
+    "h2h": {
+      "home": 2.03,
+      "draw": 3.5,
+      "away": 3.65
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.91,
+      "under": 1.85
+    },
+    "anytime": {
+      "Wout Weghorst": 3.2,
+      "Virgil van Dijk": 7.5,
+      "Ryan Gravenberch": 9.1,
+      "Micky van de Ven": 10.0,
+      "Frenkie de Jong": 9.5,
+      "Teun Koopmeiners": 4.5,
+      "Donyell Malen": 2.88,
+      "Crysencio Summerville": 3.75,
+      "Guus Til": 3.85,
+      "Jorrel Hato": 12.5,
+      "Justin Kluivert": 4.33,
+      "Denzel Dumfries": 6.5,
+      "Memphis Depay": 2.5,
+      "Jan Paul van Hecke": 11.5,
+      "Cody Gakpo": 2.88,
+      "Tijjani Reijnders": 4.75,
+      "Quinten Timber": 9.0,
+      "Nathan Ake": 10.5,
+      "Marten de Roon": 10.0,
+      "Brian Brobbey": 3.0,
+      "Noa Lang": 4.375,
+      "Mats Wieffer": 8.25,
+      "Lutsharel Geertruida": 10.0,
+      "Ritsu Doan": 5.5,
+      "Yuto Nagatomo": 13.0,
+      "Tsuyoshi Watanabe": 16.0,
+      "Koki Ogawa": 3.5,
+      "Wataru Endo": 13.0,
+      "Ao Tanaka": 9.0,
+      "Yuito Suzuki": 4.75,
+      "Daizen Maeda": 4.2,
+      "Shogo Taniguchi": 15.0,
+      "Junya Ito": 5.0,
+      "Keisuke Goto": 3.75,
+      "Hiroki Ito": 16.5,
+      "Keito Nakamura": 4.85,
+      "Takefusa Kubo": 5.0,
+      "Daichi Kamada": 8.0,
+      "Junnosuke Suzuki": 13.0,
+      "Ayumu Seko": 15.0,
+      "Kento Shiogai": 3.875,
+      "Takehiro Tomiyasu": 13.0,
+      "Ayase Ueda": 3.5,
+      "Ko Itakura": 14.5,
+      "Yukinari Sugawara": 12.0,
+      "Kaishu Sano": 13.5,
+      "Jurrien Timber": 12.0
+    }
+  },
+  {
+    "match_id": "05752bb341e197001387b64f3a06b9b2",
+    "home": "C\u00f4te d'Ivoire",
+    "away": "Ecuador",
+    "commence_time": "2026-06-14T23:00:00Z",
+    "h2h": {
+      "home": 3.6,
+      "draw": 2.8,
+      "away": 2.4
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.92,
+      "under": 1.42
+    },
+    "anytime": {
+      "Odilon Kossounou": 17.0,
+      "Wilfried Stephane Singo": 21.0,
+      "Yan Diomande": 5.0,
+      "Nicolas Pepe": 5.5,
+      "Guela Doue": 16.0,
+      "Sepe Elye Wahi": 4.33,
+      "Emmanuel Agbadou": 17.0,
+      "Seko Fofana": 9.5,
+      "Bazoumana Toure": 7.5,
+      "Ghislain Niclomande Konan": 14.0,
+      "Ange-Yoan Bonny": 5.0,
+      "Simon Adingra": 6.0,
+      "Evan Ndicka": 17.0,
+      "Amad Diallo": 5.5,
+      "Christ Ravynel Inao Oulai": 9.0,
+      "Christopher Operi": 13.0,
+      "Evann Guessand": 5.0,
+      "Ousmane Diomande": 17.0,
+      "Ibrahim Sangare": 9.5,
+      "Parfait Guiagon": 5.5,
+      "Jean Michael Seri": 11.0,
+      "Franck Kessie": 8.5,
+      "Oumar Diakite": 5.2,
+      "Pervis Estupinan": 10.5,
+      "Anthony Valencia": 6.0,
+      "Denil Castillo": 10.0,
+      "Alan Steve Minda Garcia": 5.5,
+      "Jackson Gabriel Porozo Vernaza": 15.0,
+      "Jordy Alcivar": 9.5,
+      "Alan Steven Franco Palma": 11.0,
+      "Pedro Vite": 7.0,
+      "Enner Valencia": 3.2,
+      "Piero Hincapie": 15.0,
+      "Yaimar Medina": 9.6,
+      "Kevin Jose Rodriguez Cortez": 4.0,
+      "Angelo Preciado": 10.0,
+      "Jordy Josue Caicedo Medina": 4.0,
+      "Nilson David Angulo Ramirez": 5.2,
+      "John Yeboah": 5.5,
+      "Kendry Paez": 5.5,
+      "Gonzalo Plata": 5.5,
+      "Jeremy Arevalo": 3.9,
+      "Moises Caicedo": 12.5,
+      "Joel Ordonez": 15.0,
+      "Felix Torres": 19.0,
+      "Yahia Fofana": 8.5,
+      "William Joel Pacho Tenorio": 19.0
+    }
+  },
+  {
+    "match_id": "b55f9569de3f4d731bc5537ff5ff43e4",
+    "home": "Sweden",
+    "away": "Tunisia",
+    "commence_time": "2026-06-15T02:00:00Z",
+    "h2h": {
+      "home": 1.91,
+      "draw": 3.4,
+      "away": 4.33
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.25,
+      "under": 1.62
+    },
+    "anytime": {
+      "Lucas Bergvall": 6.8,
+      "Hjalmar Ekdal": 15.0,
+      "Ken Sema": 7.5,
+      "Victor Lindelof": 14.5,
+      "Benjamin Nygren": 4.0,
+      "Eric Smith": 12.0,
+      "Herman Johansson": 5.5,
+      "Besfort Zeneli": 6.5,
+      "Yasin Ayari": 6.5,
+      "Gustaf Nilsson": 3.35,
+      "Mattias Svanberg": 5.5,
+      "Jesper Karlstrom": 13.0,
+      "Carl Starfelt": 15.0,
+      "Viktor Gyokeres": 2.5,
+      "Alexander Isak": 2.63,
+      "Gabriel Gudmundsson": 12.0,
+      "Elliot Stroud": 4.8,
+      "Isak Hien": 15.0,
+      "Taha Abdi Ali": 5.85,
+      "Daniel Svensson": 12.0,
+      "Alexander Bernhardsson": 5.7,
+      "Gustaf Lagerbielke": 13.0,
+      "Anthony Elanga": 4.5,
+      "Moutaz Neffati": 12.0,
+      "Hannibal Mejbri": 9.5,
+      "Firas Chaouat": 4.5,
+      "Anis Slimane": 7.0,
+      "Dylan Bronn": 15.0,
+      "Sebastian Tounekti": 5.0,
+      "Hazem Mastouri": 4.35,
+      "Montassar Talbi": 17.0,
+      "Adam Arous": 23.0,
+      "Raed Chikhaoui": 17.0,
+      "Mohamed Amine Ben Hamida": 19.5,
+      "Mortadha Ben Ouannes": 9.0,
+      "Rani Khedira": 13.0,
+      "Rayan Elloumi": 4.6,
+      "Yan Valery": 18.0,
+      "Ismael Gharbi": 6.0,
+      "Ellyes Skhiri": 14.0,
+      "Khalil Ayari": 7.0,
+      "Elias Saad": 5.5,
+      "Omar Rekik": 17.0,
+      "Mohamed Achouri": 5.5,
+      "Mohamed Belhaj Mahmoud": 10.0
+    }
+  },
+  {
+    "match_id": "c54f00b11925751d2b62988775c6c239",
+    "home": "Spain",
+    "away": "Cabo Verde",
+    "commence_time": "2026-06-15T16:00:00Z",
+    "h2h": {
+      "home": 1.09,
+      "draw": 11.0,
+      "away": 26.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.37,
+      "under": 3.15
+    },
+    "anytime": {
+      "Rodri": 4.5,
+      "Marcos Llorente": 6.5,
+      "Mikel Oyarzabal": 1.4900000000000002,
+      "Marc Cucurella": 7.55,
+      "Marc Pubill": 7.7,
+      "Martin Zubimendi Ibanez": 4.5,
+      "Yeremy Pino": 2.74,
+      "Pedro Porro": 6.75,
+      "Eric Garcia Martret": 7.0,
+      "Ferran Torres Garcia": 1.815,
+      "Nico Williams": 2.15,
+      "Victor Munoz": 2.36,
+      "Borja Iglesias": 1.63,
+      "Aymeric Laporte": 9.0,
+      "Dani Olmo": 2.175,
+      "Pau Cubarsi": 9.5,
+      "Mikel Merino": 2.29,
+      "Lamine Yamal": 1.83,
+      "Fabian Ruiz": 3.5999999999999996,
+      "Yannick Semedo": 16.5,
+      "Ianique Stopira": 18.5,
+      "Willy Semedo": 9.0,
+      "Kevin Lenini Goncalves Pereira de Pina": 17.5,
+      "Joao Paulo Moreira Fernandes": 23.0,
+      "Helio Sandro Oliveira Alves Varela": 10.75,
+      "Steven Moreira": 21.0,
+      "Sidny Lopes Cabral": 16.0,
+      "Joia Nuno Da Costa": 9.75,
+      "Deroy Duarte": 17.5,
+      "Logan Costa": 23.0,
+      "Laros Duarte": 16.5,
+      "Telmo Arcanjo": 13.5,
+      "Wagner Pina": 19.5,
+      "Jovane Cabral": 8.75,
+      "Kelvin Pires": 21.0,
+      "Ryan Mendes da Graca": 9.0,
+      "Dailon Rocha Livramento": 8.0,
+      "Garry Rodrigues": 11.0,
+      "Jamiro Monteiro": 13.25,
+      "Diney Borges": 19.5,
+      "Roberto Lopes": 12.0,
+      "Alejandro Baena": 2.5,
+      "Pablo Martin Paez Gavira": 4.6,
+      "Pedro Gonzalez Lopez": 4.8,
+      "Alex Grimaldo": 6.0,
+      "Gilson Tavares": 6.5
+    }
+  },
+  {
+    "match_id": "fbfb95c62003fd6d828b309f96ee1f9b",
+    "home": "Belgium",
+    "away": "Egypt",
+    "commence_time": "2026-06-15T19:00:00Z",
+    "h2h": {
+      "home": 1.645,
+      "draw": 3.85,
+      "away": 5.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.94,
+      "under": 1.83
+    },
+    "anytime": {
+      "Maxim de Cuyper": 5.8,
+      "Brandon Mechele": 11.5,
+      "Hans Vanaken": 4.0,
+      "Leandro Trossard": 3.4,
+      "Diego Moreira": 4.9,
+      "Thomas Meunier": 7.0,
+      "Kevin De Bruyne": 3.25,
+      "Timothy Castagne": 11.0,
+      "Nathan Ngoy": 16.0,
+      "Romelu Lukaku": 2.05,
+      "Dodi Lukebakio": 3.8,
+      "Arthur Theate": 11.5,
+      "Joaquin Seys": 11.5,
+      "Koni De Winter": 12.0,
+      "Nicolas Raskin": 8.4,
+      "Charles De Ketelaere": 3.0,
+      "Jeremy Doku": 3.8,
+      "Axel Witsel": 7.5,
+      "Amadou Onana": 7.0,
+      "Zeno Debast": 13.0,
+      "Youri Tielemans": 5.5,
+      "Matias Fernandez Pardo": 2.82,
+      "Alexis Saelemaekers": 4.8,
+      "Hossam Abdelmaguid Abdelsalam": 17.0,
+      "Tarek Alaa": 19.0,
+      "Mahmoud Saber": 8.0,
+      "Mohanad Lasheen": 19.5,
+      "Mostafa Ziko": 5.15,
+      "Karim Hafez": 13.0,
+      "Haissem Hassan": 8.0,
+      "Yasser Ibrahim": 17.0,
+      "Emam Ashour": 8.9,
+      "Ramy Rabia": 17.0,
+      "Mohamed Hany": 17.0,
+      "Omar Marmoush": 4.33,
+      "Ahmed Zizo": 7.5,
+      "Mohamed Salah": 3.25,
+      "Mohamed Abdelmonem": 17.0,
+      "Ibrahim Adel": 6.5,
+      "Hamdy Fathy": 12.5,
+      "Marwan Attia": 19.0,
+      "Nabil Emad Dunga": 17.0,
+      "Hamza Abdelkarim": 5.8,
+      "Mahmoud Hassan": 6.15,
+      "Ahmed Aboul-Fetouh": 15.0,
+      "Muhannad Lashin": 19.0
+    }
+  },
+  {
+    "match_id": "64b91c5f2db61c7358a4f05459e83c52",
+    "home": "Saudi Arabia",
+    "away": "Uruguay",
+    "commence_time": "2026-06-15T22:00:00Z",
+    "h2h": {
+      "home": 8.0,
+      "draw": 4.4,
+      "away": 1.44
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.92,
+      "under": 1.855
+    },
+    "anytime": {
+      "Hassan Kadesh": 19.0,
+      "Salem Al-Dawsari": 5.8,
+      "Moteb Al-Harbi": 19.0,
+      "Abdullah Al-Khaibari": 23.0,
+      "Khalid Al Ghannam": 5.5,
+      "Musab Fahd Al-Juwayr": 8.5,
+      "Ali Majrashi": 23.0,
+      "Abdulelah Al-Amri": 15.0,
+      "Firas Al-Buraikan": 5.15,
+      "Hassan Mohammed Al Tambakti": 29.0,
+      "Nasser Al Dawsari": 15.0,
+      "Abdullah Al-Hamdan": 6.5,
+      "Saleh Al-Shehri": 5.5,
+      "Jehad Thakri": 29.0,
+      "Sultan Mandash": 7.5,
+      "Ziyad Al Johani": 15.0,
+      "Ayman Yahya": 12.0,
+      "Saud Abdulhamid": 20.0,
+      "Alaa Al Hejji": 8.75,
+      "Mohamed Kanno": 11.0,
+      "Mohammed Abu Al-Shamat": 19.5,
+      "Manuel Ugarte": 9.5,
+      "Guillermo Varela": 11.5,
+      "Jose Gimenez": 12.0,
+      "Joaquin Piquerez": 7.5,
+      "Santiago Ignacio Bueno Sciutto": 9.5,
+      "Brian Rodriguez": 3.0,
+      "Juan Manuel Sanabria": 7.2,
+      "Darwin Gabriel Nunez Ribeiro": 2.2,
+      "Diego Nicolas De La Cruz Arcosa": 4.0,
+      "Rodrigo Zalazar": 3.0,
+      "Matias Vina": 9.5,
+      "Giorgian Daniel De Arrascaeta": 2.8,
+      "Facundo Pellistri": 4.3,
+      "Federico Vinas": 2.38,
+      "Emiliano Mart\u00ednez Toranza": 8.6,
+      "Federico Valverde": 3.75,
+      "Sebastian Caceres": 15.0,
+      "Rodrigo Bentancur": 5.5,
+      "Agustin Canobbio": 3.0,
+      "Rodrigo Aguirre": 2.5,
+      "Mathias Olivera": 11.0,
+      "Ronald Araujo": 7.5,
+      "Maximiliano Javier Araujo Vilches": 4.0,
+      "Nawaf Boushal": 21.0,
+      "Qassem Lajami": 21.0
+    }
+  },
+  {
+    "match_id": "ec51b9c44ad5e34552f3ab53f7262813",
+    "home": "IR Iran",
+    "away": "New Zealand",
+    "commence_time": "2026-06-16T01:00:00Z",
+    "h2h": {
+      "home": 1.85,
+      "draw": 3.5,
+      "away": 4.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.205,
+      "under": 1.625
+    },
+    "anytime": {
+      "Mehdi Taremi": 2.75,
+      "Amirhossein Hosseinzadeh": 4.0,
+      "Ali Alipour": 3.4,
+      "Chris Wood": 4.0,
+      "Mohammad Mohebi": 3.5,
+      "Shahriyar Moghanlou": 3.5,
+      "Dennis Eckert Ayensa": 3.4,
+      "Kosta Barbarouses": 4.2,
+      "Jesse Randall": 4.5,
+      "Ramin Rezaeian": 6.0,
+      "Mehdi Torabi": 4.9,
+      "Matthew Garbett": 11.0,
+      "Alireza Jahanbakhsh": 4.6,
+      "Lachlan Bayliss": 7.5,
+      "Elijah Just": 6.5,
+      "Ehsan Hajsafi": 13.0,
+      "Sarpreet Singh": 7.5,
+      "Saeid Ezatolahi": 13.0,
+      "Saman Ghoddos": 6.75,
+      "Liberato Cacace": 15.0,
+      "Callum McCowatt": 6.5,
+      "Saleh Hardani": 13.0,
+      "Milad Mohammadi": 17.0,
+      "Mohammad Ghorbani": 11.0,
+      "Rouzbeh Cheshmi": 11.0,
+      "Ryan Thomas": 10.0,
+      "Danial Eiri": 19.0,
+      "Marko Stamenic": 12.0,
+      "Shoja Khalilzadeh": 13.0,
+      "Tommy Smith": 19.0,
+      "Ali Nemati": 13.0,
+      "Amirmohammad Razzaghinia": 7.5,
+      "Aria Yousefi": 9.0,
+      "Joe Bell": 19.0,
+      "Tim Payne": 17.0,
+      "Alex Rufer": 13.0,
+      "Tyler Bindon": 15.0,
+      "Nando Pijnaker": 16.0,
+      "Callan Elliot": 19.0,
+      "Finn Surman": 21.0,
+      "Francis De Vries": 15.0,
+      "Michael Boxall": 26.0,
+      "Mehdi Ghaedi": 4.0,
+      "Mohammad Hossein Kanani": 7.5,
+      "Ben Waine": 4.9,
+      "Ben Old": 9.5
+    }
+  },
+  {
+    "match_id": "73a4fcd14cc9766b9b9bfd50b8ca153a",
+    "home": "France",
+    "away": "Senegal",
+    "commence_time": "2026-06-16T19:00:00Z",
+    "h2h": {
+      "home": 1.45,
+      "draw": 4.37,
+      "away": 7.09
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.88,
+      "under": 1.88
+    },
+    "anytime": {
+      "N'Golo Kante": 8.25,
+      "Manu Kone": 8.0,
+      "Michael Olise": 3.0,
+      "Jean-Philippe Mateta": 2.4,
+      "Adrien Rabiot": 4.6,
+      "Warren Zaire-Emery": 6.5,
+      "Malo Gusto": 10.0,
+      "Dayot Upamecano": 11.0,
+      "Lucas Digne": 12.0,
+      "Jules Kounde": 13.0,
+      "Maghnes Akliouche": 4.0,
+      "Desire Doue": 3.0,
+      "Aurelien Tchouameni": 9.5,
+      "Rayan Cherki": 3.4,
+      "Marcus Thuram": 2.55,
+      "Maxence Lacroix": 9.0,
+      "Ousmane Dembele": 2.5,
+      "Theo Hernandez": 8.0,
+      "Lucas Hernandez": 13.0,
+      "Ibrahim Konate": 13.0,
+      "Bradley Barcola": 3.0,
+      "Kylian Mbappe": 2.0,
+      "William Saliba": 13.0,
+      "Ibrahim Mbaye": 8.5,
+      "El Hadji Diouf": 13.0,
+      "Pathe Ciss": 12.0,
+      "Ismaila Sarr": 5.8,
+      "Kalidou Koulibaly": 20.0,
+      "Moussa Niakhate": 19.0,
+      "Idrissa Gana Gueye": 18.0,
+      "Sadio Mane": 5.5,
+      "Cheikh Ahmadou Bamba Mbacke Dieng": 5.0,
+      "Assane Diao": 5.5,
+      "Krepin Diatta": 13.0,
+      "Lamine Camara": 14.0,
+      "Nicolas Jackson": 5.0,
+      "Cherif Ndiaye": 5.5,
+      "Ismail Jacobs": 19.0,
+      "Bara Ndiaye": 11.0,
+      "Pape Alassane Gueye": 9.5,
+      "Abdoulaye Seck": 19.0,
+      "Iliman-Cheikh Ndiaye": 6.0,
+      "Habib Diarra": 7.5,
+      "Antoine Mendy": 23.0,
+      "Mamodou Sarr": 23.0,
+      "Pape Sarr": 11.0
+    }
+  },
+  {
+    "match_id": "4d4f2b9b78182b557d4fbf8dcf4f4af2",
+    "home": "Iraq",
+    "away": "Norway",
+    "commence_time": "2026-06-16T22:00:00Z",
+    "h2h": {
+      "home": 14.0,
+      "draw": 7.0,
+      "away": 1.2
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.59,
+      "under": 2.38
+    },
+    "anytime": {
+      "Erling Braut Haaland": 1.33,
+      "Alexander Sorloth": 2.07,
+      "Jorgen Strand Larsen": 2.2,
+      "Jens Petter Hauge": 2.75,
+      "Kristian Thorstvedt": 3.05,
+      "Andreas Schjelderup": 3.2,
+      "Antonio Nusa": 3.3,
+      "Oscar Bobb": 3.1,
+      "Martin Odegaard": 3.9,
+      "Patrick Berg": 4.5,
+      "Aymen Hussein": 5.0,
+      "Mohanad Ali": 5.5,
+      "Ali Yousif Hashim": 6.5,
+      "Fredrik Aursnes": 6.0,
+      "Leo Skiri Ostigard": 6.5,
+      "Marko Farji": 7.5,
+      "Ali Al-Hamadi": 6.75,
+      "Morten Thorsby": 4.8,
+      "Sander Berge": 7.5,
+      "Fredrik Andre Bjorkan": 9.0,
+      "Henrik Falchener": 8.0,
+      "Julian Ryerson": 8.0,
+      "Kristoffer Ajer": 9.5,
+      "Marcus Pedersen": 10.0,
+      "Sondre Klinge Langas": 8.0,
+      "Torbjorn Lysaker Heggem": 12.0,
+      "David Moller Wolfe": 8.5,
+      "Youssef Amyn": 9.0,
+      "Ali Jasim Elaibi Al Tameemi": 9.5,
+      "Ibraheem Bayesh": 10.0,
+      "Kevin Yakob": 11.5,
+      "Ahmed Qasem": 11.0,
+      "Amir Al Ammari": 15.0,
+      "Zidane Iqbal": 14.0,
+      "Zaid Ismail": 13.0,
+      "Frans Dhia Putros": 23.0,
+      "Mustafa Saadon": 16.0,
+      "Aimar Sher": 17.0,
+      "Zaid Tahseen": 23.0,
+      "Akam Hashim": 23.0,
+      "Hussein Ali": 26.0,
+      "Merchas Doski": 26.0,
+      "Rebin Sulaka": 34.0,
+      "Manaf Younis": 33.5,
+      "Mustafa Saadoon Abbood Al-Korji": 32.0,
+      "Ahmed Maknzi": 24.0,
+      "Thelo Aasgaard": 2.74,
+      "Ahmed Yahia": 19.0
+    }
+  },
+  {
+    "match_id": "f31b2ee9e1cc6f7e641467f8237eaa21",
+    "home": "Argentina",
+    "away": "Algeria",
+    "commence_time": "2026-06-17T01:00:00Z",
+    "h2h": {
+      "home": 1.38,
+      "draw": 4.7,
+      "away": 9.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.87,
+      "under": 1.89
+    },
+    "anytime": {
+      "Lionel Messi": 1.85,
+      "Valentin Barco": 6.0,
+      "Gonzalo Montiel": 7.0,
+      "Enzo Fernandez": 5.0,
+      "Thiago Almada": 3.5,
+      "Cristian Romero": 9.0,
+      "Nicolas Otamendi": 12.0,
+      "Rodrigo Javier De Paul": 7.0,
+      "Leandro Paredes": 6.0,
+      "Nicolas Tagliafico": 10.0,
+      "Nicolas Gonzalez": 4.6,
+      "Exequiel Palacios": 6.0,
+      "Alexis Mac Allister": 5.75,
+      "Giovani Lo Celso": 4.3,
+      "Julian Alvarez": 2.28,
+      "Giuliano Simeone": 4.0,
+      "Facundo Medina": 13.0,
+      "Lautaro Martinez": 2.26,
+      "Nahuel Molina": 9.5,
+      "Lisandro Martinez": 13.0,
+      "Jose Manuel Alberto Lopez": 2.6,
+      "Yassine Titraoui": 12.0,
+      "Samir Chergui": 21.0,
+      "Achref Abada": 29.0,
+      "Fares Ghedjemis": 7.5,
+      "Hicham Boudaoui": 17.0,
+      "Aissa Mandi": 20.0,
+      "Mohamed Amine Tougai": 20.0,
+      "Houssem Aouar": 7.5,
+      "Rayan Ait Nouri": 17.0,
+      "Amine Gouiri": 5.0,
+      "Ahmed Nadhir Benbouali": 5.5,
+      "Ibrahim Maza": 8.5,
+      "Adil Boulbina": 5.75,
+      "Ramiz Zerrouki": 18.0,
+      "Jaouen Hadjam": 17.0,
+      "Riyad Mahrez": 5.2,
+      "Fares Chaibi": 10.0,
+      "Nabil Bentaleb": 12.0,
+      "Anis Hadj Moussa": 8.4,
+      "Rafik Belghali": 17.0,
+      "Zineddine Belaid": 20.0,
+      "Ramy Bensebaini": 13.0,
+      "Mohamed El Amine Amoura": 4.8,
+      "Joaquin Panichelli": 2.5,
+      "Leonardo Balerdi Rossa": 11.0,
+      "Nicolas Paz Martinez": 3.4
+    }
+  },
+  {
+    "match_id": "25161cf6cf0cd9be17ae2e7e224a1f45",
+    "home": "Austria",
+    "away": "Jordan",
+    "commence_time": "2026-06-17T04:00:00Z",
+    "h2h": {
+      "home": 1.31,
+      "draw": 5.5,
+      "away": 9.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.605,
+      "under": 2.25
+    },
+    "anytime": {
+      "Marko Arnautovic": 1.92,
+      "Michael Gregoritsch": 1.97,
+      "Sasa Kalajdzic": 2.2,
+      "Marcel Sabitzer": 2.63,
+      "Alessandro Schopf": 3.5,
+      "Carney Chukwuemeka": 3.4,
+      "Patrick Wimmer": 3.9,
+      "David Alaba": 9.5,
+      "Konrad Laimer": 6.0,
+      "Ali Olwan": 4.75,
+      "Musa Al Tamari": 5.5,
+      "Paul Wanner": 4.75,
+      "Romano Schmid": 3.3,
+      "Stefan Posch": 6.5,
+      "Xaver Schlager": 5.8,
+      "Mohammad Abu Zrayq": 7.75,
+      "Mahmoud Al-Mardi": 8.0,
+      "Philipp Lienhart": 10.0,
+      "Alexander Prass": 6.25,
+      "Michael Svoboda": 8.0,
+      "Ali Al-Azaizeh": 7.0,
+      "Odeh Fakhoury": 8.5,
+      "Noor Al Rawabdeh": 12.0,
+      "Nicolas Seiwald": 8.0,
+      "David Affengruber": 11.0,
+      "Florian Grillitsch": 7.5,
+      "Kevin Danso": 9.8,
+      "Marco Friedl": 10.0,
+      "Nizar Al-Rashdan": 11.0,
+      "Phillipp Mwene": 9.8,
+      "Ibrahim Sadeh": 12.0,
+      "Mohammad Al-Dawoud": 10.0,
+      "Rajaei Ayed": 17.0,
+      "Amer Jamous": 11.0,
+      "Mohannad Abu Taha": 12.0,
+      "Saed Ahmad Al-Rosan": 21.0,
+      "Ihsan Haddad": 17.0,
+      "Mo Abualnadi": 26.0,
+      "Yazan Al Arab": 17.0,
+      "Abdullah Nasib": 18.0,
+      "Anas Badawi": 26.0,
+      "Mohammad Abu Hasheesh": 18.0,
+      "Husam Abu Dahab": 23.0,
+      "Saleem Obaid": 23.0,
+      "Mohammad Taha": 13.0,
+      "Ibrahim Sabra": 5.5,
+      "Odeh Al-Fakhouri": 8.0
+    }
+  },
+  {
+    "match_id": "6cc871c121a1869b4612d3fb22fa9d55",
+    "home": "Portugal",
+    "away": "Congo DR",
+    "commence_time": "2026-06-17T17:00:00Z",
+    "h2h": {
+      "home": 1.28,
+      "draw": 5.7,
+      "away": 11.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.68,
+      "under": 2.14
+    },
+    "anytime": {
+      "Tomas Araujo": 9.5,
+      "Bruno Fernandes": 2.8,
+      "Joao Cancelo": 6.5,
+      "Francisco Trincao": 2.8,
+      "Joao Felix Sequeira": 2.5,
+      "Cristiano Ronaldo": 1.6,
+      "Matheus Luiz Nunes": 8.5,
+      "Diogo Dalot": 8.5,
+      "Nelson Semedo": 9.0,
+      "Joao Pedro Goncalves Neves": 4.75,
+      "Ruben Neves": 5.8,
+      "Renato Veiga": 8.0,
+      "Goncalo Matias Ramos": 2.12,
+      "Bernardo Silva": 3.3,
+      "Francisco Conceicao": 3.25,
+      "Pedro Neto": 3.25,
+      "Rafael Leao": 2.6,
+      "Ruben Dias": 9.5,
+      "Nuno Mendes": 8.5,
+      "Goncalo Guedes": 2.8,
+      "Goncalo Inacio": 9.0,
+      "Samuel Moutoussamy": 14.0,
+      "Arthur Masuaku": 23.0,
+      "Dylan Batubinsika": 23.0,
+      "Elia Meschak": 7.5,
+      "Simon Banza": 6.0,
+      "Noah Sadiki": 17.0,
+      "Joris Kayembe": 21.0,
+      "Aaron Wan-Bissaka": 26.0,
+      "Aaron Tshibola": 17.0,
+      "Brian Cipenga": 8.5,
+      "Gael Kakuta": 7.0,
+      "Theo Bongonda": 7.0,
+      "Chancel Mbemba Mangulu": 21.0,
+      "Charles Pickel": 11.0,
+      "Gedeon Kalulu": 23.0,
+      "Yoane Wissa": 5.5,
+      "Axel Tuanzebe": 23.0,
+      "Steve Kapuadi": 26.0,
+      "Nathanael Mbuku": 9.0,
+      "Edo Kayembe": 11.0,
+      "Ngal'ayel Mukau": 19.0,
+      "Fiston Kalala Mayele": 6.0,
+      "Cedric Bakambu": 5.5,
+      "Samuel Almeida Costa": 2.9,
+      "Vitor Ferreira": 6.5
+    }
+  },
+  {
+    "match_id": "689096c8cd7e2753b9fec95321943c5d",
+    "home": "England",
+    "away": "Croatia",
+    "commence_time": "2026-06-17T20:00:00Z",
+    "h2h": {
+      "home": 1.72,
+      "draw": 3.75,
+      "away": 4.9
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.025,
+      "under": 1.76
+    },
+    "anytime": {
+      "Harry Kane": 2.2,
+      "Marcus Rashford": 3.6,
+      "Nico O'Reilly": 8.5,
+      "Ezri Konsa": 12.0,
+      "Jude Bellingham": 4.4,
+      "Reece James": 9.5,
+      "Elliot Anderson": 8.0,
+      "Morgan Rogers": 4.5,
+      "Marc Guehi": 11.0,
+      "Bukayo Saka": 3.75,
+      "Declan Rice": 8.0,
+      "John Stones": 12.0,
+      "Ivan Perisic": 6.0,
+      "Mateo Kovacic": 12.0,
+      "Josip Stanisic": 19.0,
+      "Marco Pasalic": 7.0,
+      "Luka Modric": 8.0,
+      "Andrej Kramaric": 4.6,
+      "Ante Budimir": 4.0,
+      "Marin Pongracic": 21.0,
+      "Josko Gvardiol": 13.0,
+      "Luka Vuskovic": 15.0,
+      "Ivan Toney": 2.4,
+      "Ollie Watkins": 2.4,
+      "Anthony Gordon": 3.75,
+      "Noni Madueke": 4.2,
+      "Petar Musa": 4.33,
+      "Eberechi Eze": 3.9,
+      "Igor Matanovic": 4.5,
+      "Luka Sucic": 7.5,
+      "Martin Baturina": 8.0,
+      "Nikola Vlasic": 6.0,
+      "Toni Fruk": 4.75,
+      "Mario Pasalic": 9.5,
+      "Petar Sucic": 8.0,
+      "Kobbie Mainoo": 8.5,
+      "Djed Spence": 12.0,
+      "Jarell Quansah": 11.0,
+      "Jordan Henderson": 9.5,
+      "Dan Burn": 10.0,
+      "Valentino Livramento": 15.0,
+      "Nikola Moro": 12.0,
+      "Duje Caleta Car": 17.0,
+      "Josip Sutalo": 21.0,
+      "Kristijan Jakic": 12.0,
+      "Martin Erlich": 15.0
+    }
+  },
+  {
+    "match_id": "87afdb85c977b451e1c00f5e3e632601",
+    "home": "Ghana",
+    "away": "Panama",
+    "commence_time": "2026-06-17T23:00:00Z",
+    "h2h": {
+      "home": 2.12,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.2,
+      "under": 1.64
+    },
+    "anytime": {
+      "Derrick Luckassen": 11.5,
+      "Gideon Mensah": 28.5,
+      "Abdul Fatawu Issahaku": 4.2,
+      "Marvin Senaya": 14.5,
+      "Jonas Adjetey": 15.0,
+      "Kojo Peprah Oppong": 18.0,
+      "Brandon Thomas-Asante": 3.675,
+      "Prince Kwabena Adu": 3.9,
+      "Kwasi Sibo": 8.75,
+      "Abdul Mumin": 18.5,
+      "Elisha Owusu": 17.0,
+      "Jerome Opoku": 11.25,
+      "Ernest Nuamah": 4.875,
+      "Caleb Yirenkyi": 8.0,
+      "Alidu Seidu": 14.5,
+      "Kamal-Deen Sulemana": 5.0,
+      "Abdul Rahman Baba": 13.5,
+      "Inaki Williams": 3.45,
+      "Christopher Bonsu Baah": 7.25,
+      "Thomas Partey": 7.4,
+      "Jordan Ayew": 3.825,
+      "Antoine Semenyo": 3.275,
+      "Augustine Boakye": 4.625,
+      "Edgardo Farina": 18.0,
+      "Cesar Blackman": 14.0,
+      "Jose Luis Rodriguez": 6.75,
+      "Erick Davis": 10.0,
+      "Jiovany Ramos": 20.0,
+      "Adalberto Carrasquilla": 10.0,
+      "Cesar Augusto Yanis Velasco": 6.5,
+      "Anibal Godoy": 13.0,
+      "Roderick Miller": 16.0,
+      "Azarias Londono": 6.15,
+      "Cristian Jesus Martinez": 10.5,
+      "Jorge Abdiel Gutierrez Cornejo": 21.5,
+      "Andres Andrade": 25.0,
+      "Carlos Harvey": 11.5,
+      "Ismael Diaz": 3.875,
+      "Cecilio Waterman": 3.425,
+      "Tomas Abdiel Rodriguez Mena": 4.25,
+      "Jose Cordoba": 21.5,
+      "Jose Fajardo Nelson": 4.3,
+      "Fidel Escobar": 21.5,
+      "Alberto Quintero Medina": 7.0
+    }
+  },
+  {
+    "match_id": "22083e7a8e5362c711bc05c1e1319a1f",
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "commence_time": "2026-06-18T02:00:00Z",
+    "h2h": {
+      "home": 8.59,
+      "draw": 4.6,
+      "away": 1.38
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.93,
+      "under": 1.82
+    },
+    "anytime": {
+      "Jamshid Iskanderov": 8.5,
+      "Abbosbek Fayzullaev": 9.0,
+      "Akmal Mozgovoy": 13.0,
+      "Azizbek Amonov": 6.0,
+      "Bekhruz Karimov": 25.0,
+      "Avazbek Ulmasaliev": 21.0,
+      "Jaloliddin Masharipov": 8.0,
+      "Igor Sergeev": 5.0,
+      "Khojiakbar Alijonov": 15.0,
+      "Abdulla Kahramonjon ogly Abdullaev": 23.0,
+      "Otabek Shukurov": 12.0,
+      "Umar Eshmurodov": 29.0,
+      "Sherzod Nasrullayev": 15.0,
+      "Dostonbek Hamdamov": 7.5,
+      "Azizjon Ganiev": 8.0,
+      "Odiljon Khamrobekov": 11.0,
+      "Jakhongir Urozov": 23.0,
+      "Farrukh Sayfiev": 19.0,
+      "Sherzod Esanov": 11.0,
+      "Eldor Shomurodov": 4.5,
+      "Oston Urunov": 7.0,
+      "Rustamjon Ashurmatov": 21.0,
+      "Abdukodir Khusanov": 31.0,
+      "Deiver Machado": 8.0,
+      "Jhon Arias": 2.88,
+      "Luis Javier Suarez Charris": 2.2,
+      "Juan Quintero": 3.4,
+      "Luis Fernando Diaz Marulanda": 2.1,
+      "Santiago Arias": 10.0,
+      "Jhon Cordoba": 2.63,
+      "Jorge Carrascal": 3.9,
+      "Davinson Sanchez": 9.0,
+      "Yerry Mina": 8.0,
+      "Jaminton Campaz": 3.4,
+      "Kevin Castano": 8.0,
+      "Jhon Lucumi": 13.0,
+      "Willer Ditta": 13.0,
+      "Carlos Andres Gomez": 3.25,
+      "Richard Rios Montoya": 6.0,
+      "Daniel Munoz": 7.0,
+      "Gustavo Puerta": 7.5,
+      "Juan Camilo Portilla": 7.0,
+      "James Rodriguez": 3.0,
+      "Jefferson Lerma": 6.5,
+      "Johan Mojica": 11.0,
+      "Juan Camilo Hernandez Suarez": 2.2
+    }
+  },
+  {
+    "match_id": "66ebb9e3f949caded535d97ce686ca09",
+    "home": "Czechia",
+    "away": "South Africa",
+    "commence_time": "2026-06-18T16:00:00Z",
+    "h2h": {
+      "home": 1.96,
+      "draw": 3.3,
+      "away": 4.1
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.25,
+      "under": 1.62
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "289bc2e9f5adad8ae4d9a75a7c5461ad",
+    "home": "Switzerland",
+    "away": "Bosnia and Herzegovina",
+    "commence_time": "2026-06-18T19:00:00Z",
+    "h2h": {
+      "home": 1.58,
+      "draw": 3.95,
+      "away": 5.8
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.97,
+      "under": 1.78
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "fa9502285b257b03e62968d50d9229fc",
+    "home": "Canada",
+    "away": "Qatar",
+    "commence_time": "2026-06-18T22:00:00Z",
+    "h2h": {
+      "home": 1.3,
+      "draw": 5.2,
+      "away": 10.6
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.87,
+      "under": 1.87
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "0f2aeae6ac8e77223848d23a4ca86b0d",
+    "home": "Mexico",
+    "away": "Korea Republic",
+    "commence_time": "2026-06-19T01:00:00Z",
+    "h2h": {
+      "home": 1.8,
+      "draw": 3.5,
+      "away": 4.6
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.18,
+      "under": 1.65
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "065b3573e875f8d23803357f73e5b99e",
+    "home": "USA",
+    "away": "Australia",
+    "commence_time": "2026-06-19T19:00:00Z",
+    "h2h": {
+      "home": 1.75,
+      "draw": 3.75,
+      "away": 4.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.03,
+      "under": 1.75
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "4cd769aa7bae0ad9762bd69b80ef2903",
+    "home": "Scotland",
+    "away": "Morocco",
+    "commence_time": "2026-06-19T22:00:00Z",
+    "h2h": {
+      "home": 4.05,
+      "draw": 3.3,
+      "away": 1.97
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.28,
+      "under": 1.61
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "ef0f74a991d3e35798ae5af77667bce1",
+    "home": "Brazil",
+    "away": "Haiti",
+    "commence_time": "2026-06-20T01:00:00Z",
+    "h2h": {
+      "home": 1.07,
+      "draw": 12.0,
+      "away": 29.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.25,
+      "under": 3.5
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "f955d4b3395ce6e3b5ac1031ca52ca4e",
+    "home": "T\u00fcrkiye",
+    "away": "Paraguay",
+    "commence_time": "2026-06-20T03:00:00Z",
+    "h2h": {
+      "home": 2.22,
+      "draw": 3.2,
+      "away": 3.4
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.27,
+      "under": 1.61
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "4f0c518545b0096c68326daf25bffc1e",
+    "home": "Netherlands",
+    "away": "Sweden",
+    "commence_time": "2026-06-20T17:00:00Z",
+    "h2h": {
+      "home": 1.63,
+      "draw": 3.95,
+      "away": 5.1
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.88,
+      "under": 1.87
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "f1ab0f69832972a329243522ceaa7804",
+    "home": "Germany",
+    "away": "C\u00f4te d'Ivoire",
+    "commence_time": "2026-06-20T20:00:00Z",
+    "h2h": {
+      "home": 1.5350000000000001,
+      "draw": 4.25,
+      "away": 5.6
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.79,
+      "under": 1.97
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "681895f294b670b4c7b14495dfb583bc",
+    "home": "Ecuador",
+    "away": "Cura\u00e7ao",
+    "commence_time": "2026-06-21T00:00:00Z",
+    "h2h": {
+      "home": 1.2,
+      "draw": 6.5,
+      "away": 14.635
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.64,
+      "under": 2.2
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "dfc5202cf1b8ae002cf952cd04f235b9",
+    "home": "Tunisia",
+    "away": "Japan",
+    "commence_time": "2026-06-21T04:00:00Z",
+    "h2h": {
+      "home": 5.15,
+      "draw": 3.5599999999999996,
+      "away": 1.71
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.2,
+      "under": 1.64
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "73529a242e319a86bf3d00ddb4accc37",
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "commence_time": "2026-06-21T16:00:00Z",
+    "h2h": {
+      "home": 1.105,
+      "draw": 9.5,
+      "away": 23.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.44,
+      "under": 2.5
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "5f92f257386ec5bf7c6e2498a21f3a61",
+    "home": "Belgium",
+    "away": "IR Iran",
+    "commence_time": "2026-06-21T19:00:00Z",
+    "h2h": {
+      "home": 1.4,
+      "draw": 4.6,
+      "away": 8.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.86,
+      "under": 1.91
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "852a3abe6d46820720febc0fedebff9a",
+    "home": "Uruguay",
+    "away": "Cabo Verde",
+    "commence_time": "2026-06-21T22:00:00Z",
+    "h2h": {
+      "home": 1.44,
+      "draw": 4.42,
+      "away": 7.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.91,
+      "under": 1.85
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "c1ec9a65f4b4cf74477b368a7d6282de",
+    "home": "New Zealand",
+    "away": "Egypt",
+    "commence_time": "2026-06-22T01:00:00Z",
+    "h2h": {
+      "home": 4.880000000000001,
+      "draw": 3.6,
+      "away": 1.725
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.17,
+      "under": 1.66
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "be6c63f416c67bca1300a98f5b89c3af",
+    "home": "Argentina",
+    "away": "Austria",
+    "commence_time": "2026-06-22T17:00:00Z",
+    "h2h": {
+      "home": 1.645,
+      "draw": 3.75,
+      "away": 5.35
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.93,
+      "under": 1.85
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "7ad7a0ce2ef2618bb59b066da5642f70",
+    "home": "France",
+    "away": "Iraq",
+    "commence_time": "2026-06-22T21:00:00Z",
+    "h2h": {
+      "home": 1.12,
+      "draw": 8.5,
+      "away": 23.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.44,
+      "under": 2.5
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "3f48473742ca0fd2a85930554720c75e",
+    "home": "Norway",
+    "away": "Senegal",
+    "commence_time": "2026-06-23T00:00:00Z",
+    "h2h": {
+      "home": 2.12,
+      "draw": 3.45,
+      "away": 3.35
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.93,
+      "under": 1.85
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "fd8533b650e655030f6a7946f8795db2",
+    "home": "Jordan",
+    "away": "Algeria",
+    "commence_time": "2026-06-23T03:00:00Z",
+    "h2h": {
+      "home": 6.25,
+      "draw": 4.1,
+      "away": 1.51
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.88,
+      "under": 1.88
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "8ba93d190f1f934e33862a97a6353a6e",
+    "home": "Portugal",
+    "away": "Uzbekistan",
+    "commence_time": "2026-06-23T17:00:00Z",
+    "h2h": {
+      "home": 1.25,
+      "draw": 6.0,
+      "away": 11.0
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.51,
+      "under": 2.45
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "2f49dd8deae3079dc4eb2d634d18a99c",
+    "home": "England",
+    "away": "Ghana",
+    "commence_time": "2026-06-23T20:00:00Z",
+    "h2h": {
+      "home": 1.32,
+      "draw": 5.1,
+      "away": 9.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.68,
+      "under": 2.14
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "c1bc8c26480cd42b89a0de5329581314",
+    "home": "Panama",
+    "away": "Croatia",
+    "commence_time": "2026-06-23T23:00:00Z",
+    "h2h": {
+      "home": 6.4,
+      "draw": 3.9,
+      "away": 1.55
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.96,
+      "under": 1.795
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "68bfc965eb267508e04d8e8d75c1a0ae",
+    "home": "Colombia",
+    "away": "Congo DR",
+    "commence_time": "2026-06-24T02:00:00Z",
+    "h2h": {
+      "home": 1.49,
+      "draw": 4.1,
+      "away": 7.22
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.1,
+      "under": 1.705
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "512ac18beb5aa936a59f7ea3e497ada2",
+    "home": "Bosnia and Herzegovina",
+    "away": "Qatar",
+    "commence_time": "2026-06-24T19:00:00Z",
+    "h2h": {
+      "home": 1.61,
+      "draw": 3.75,
+      "away": 5.8
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.0599999999999996,
+      "under": 1.73
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "c9ef5822ee64fd5275f7c73251bb56c7",
+    "home": "Switzerland",
+    "away": "Canada",
+    "commence_time": "2026-06-24T19:00:00Z",
+    "h2h": {
+      "home": 2.1,
+      "draw": 3.3,
+      "away": 3.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.08,
+      "under": 1.71
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "885ba95805db310a7bcc3fb1a7a6dd28",
+    "home": "Scotland",
+    "away": "Brazil",
+    "commence_time": "2026-06-24T22:00:00Z",
+    "h2h": {
+      "home": 7.0,
+      "draw": 4.41,
+      "away": 1.44
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.82,
+      "under": 1.94
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "d1279ce7f33136a33e99ad442fc855e8",
+    "home": "Morocco",
+    "away": "Haiti",
+    "commence_time": "2026-06-24T22:00:00Z",
+    "h2h": {
+      "home": 1.32,
+      "draw": 5.0,
+      "away": 9.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.7,
+      "under": 2.1
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "5993bd5196ca09f83990f0c3261e442e",
+    "home": "Czechia",
+    "away": "Mexico",
+    "commence_time": "2026-06-25T01:00:00Z",
+    "h2h": {
+      "home": 4.52,
+      "draw": 3.4850000000000003,
+      "away": 1.79
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.07,
+      "under": 1.72
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "c0355dfc6e26ec327e379b6ef5824a5f",
+    "home": "South Africa",
+    "away": "Korea Republic",
+    "commence_time": "2026-06-25T01:00:00Z",
+    "h2h": {
+      "home": 4.0,
+      "draw": 3.4,
+      "away": 1.94
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.14,
+      "under": 1.68
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "a5a0b544a984ab16e564264f3e859b43",
+    "home": "Cura\u00e7ao",
+    "away": "C\u00f4te d'Ivoire",
+    "commence_time": "2026-06-25T20:00:00Z",
+    "h2h": {
+      "home": 13.0,
+      "draw": 6.0,
+      "away": 1.22
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.67,
+      "under": 2.15
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "0ec28b84ec399bd4dffbe8d1bc72b3c4",
+    "home": "Ecuador",
+    "away": "Germany",
+    "commence_time": "2026-06-25T20:00:00Z",
+    "h2h": {
+      "home": 4.8,
+      "draw": 3.75,
+      "away": 1.72
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.85,
+      "under": 1.91
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "0ed0233bddc4eafc8507f86a9c17b998",
+    "home": "Japan",
+    "away": "Sweden",
+    "commence_time": "2026-06-25T23:00:00Z",
+    "h2h": {
+      "home": 2.07,
+      "draw": 3.4,
+      "away": 3.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.1,
+      "under": 1.7
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "f3c4657daa143a0c5bd62cb370d01ce4",
+    "home": "Tunisia",
+    "away": "Netherlands",
+    "commence_time": "2026-06-25T23:00:00Z",
+    "h2h": {
+      "home": 6.5,
+      "draw": 4.2,
+      "away": 1.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.84,
+      "under": 1.93
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "22f6ac06dfcc88a847920f62633e6459",
+    "home": "Paraguay",
+    "away": "Australia",
+    "commence_time": "2026-06-26T02:00:00Z",
+    "h2h": {
+      "home": 2.15,
+      "draw": 3.2,
+      "away": 3.45
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.23,
+      "under": 1.62
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "f41aeac9a8343a84b4950f15ea25fba2",
+    "home": "T\u00fcrkiye",
+    "away": "USA",
+    "commence_time": "2026-06-26T02:00:00Z",
+    "h2h": {
+      "home": 2.63,
+      "draw": 3.4,
+      "away": 2.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.85,
+      "under": 1.92
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "b86b4d60f773e9e3c46c00e9a6496e79",
+    "home": "Norway",
+    "away": "France",
+    "commence_time": "2026-06-26T19:00:00Z",
+    "h2h": {
+      "home": 4.3,
+      "draw": 3.6,
+      "away": 1.82
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.9249999999999998,
+      "under": 1.83
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "7e6aee294ea1a4792c59558791084528",
+    "home": "Senegal",
+    "away": "Iraq",
+    "commence_time": "2026-06-26T19:00:00Z",
+    "h2h": {
+      "home": 1.41,
+      "draw": 4.35,
+      "away": 7.65
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.89,
+      "under": 1.85
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "e07b1926be5a4d515c7eb108dbcee9c5",
+    "home": "Cabo Verde",
+    "away": "Saudi Arabia",
+    "commence_time": "2026-06-27T00:00:00Z",
+    "h2h": {
+      "home": 2.55,
+      "draw": 3.25,
+      "away": 2.75
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.15,
+      "under": 1.6749999999999998
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "dcff2e31c0bce001a4db5caaf4fa8822",
+    "home": "Uruguay",
+    "away": "Spain",
+    "commence_time": "2026-06-27T00:00:00Z",
+    "h2h": {
+      "home": 5.25,
+      "draw": 3.8,
+      "away": 1.62
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.85,
+      "under": 1.89
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "581691da05dcd75b5c6d3be91ee9d2ab",
+    "home": "New Zealand",
+    "away": "Belgium",
+    "commence_time": "2026-06-27T03:00:00Z",
+    "h2h": {
+      "home": 10.0,
+      "draw": 5.5,
+      "away": 1.28
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.66,
+      "under": 2.17
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "3e3b5fa2b3c963e74cf044c60db0b573",
+    "home": "Egypt",
+    "away": "IR Iran",
+    "commence_time": "2026-06-27T03:00:00Z",
+    "h2h": {
+      "home": 2.22,
+      "draw": 3.05,
+      "away": 3.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.5,
+      "under": 1.44
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "537c0997cd899394f47f16545b7068b2",
+    "home": "Croatia",
+    "away": "Ghana",
+    "commence_time": "2026-06-27T21:00:00Z",
+    "h2h": {
+      "home": 1.63,
+      "draw": 3.73,
+      "away": 5.5
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.06,
+      "under": 1.73
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "4be17c8e1ccfecb0f2a5ef79e045c415",
+    "home": "Panama",
+    "away": "England",
+    "commence_time": "2026-06-27T21:00:00Z",
+    "h2h": {
+      "home": 10.0,
+      "draw": 5.5,
+      "away": 1.28
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.56,
+      "under": 2.35
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "67ae5751c401a98409b8566ae4897069",
+    "home": "Colombia",
+    "away": "Portugal",
+    "commence_time": "2026-06-27T23:30:00Z",
+    "h2h": {
+      "home": 3.48,
+      "draw": 3.3,
+      "away": 2.1
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.04,
+      "under": 1.74
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "13eab94a136b9c264ba974cf437a5f71",
+    "home": "Congo DR",
+    "away": "Uzbekistan",
+    "commence_time": "2026-06-27T23:30:00Z",
+    "h2h": {
+      "home": 2.3,
+      "draw": 3.2,
+      "away": 3.1
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.2,
+      "under": 1.64
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "8756200e539155e571557c4f2e0d7f05",
+    "home": "Algeria",
+    "away": "Austria",
+    "commence_time": "2026-06-28T02:00:00Z",
+    "h2h": {
+      "home": 3.5,
+      "draw": 3.2,
+      "away": 2.15
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 2.14,
+      "under": 1.68
+    },
+    "anytime": {}
+  },
+  {
+    "match_id": "54697f453437ab26276d773be1d72e9b",
+    "home": "Jordan",
+    "away": "Argentina",
+    "commence_time": "2026-06-28T02:00:00Z",
+    "h2h": {
+      "home": 14.0,
+      "draw": 6.75,
+      "away": 1.19
+    },
+    "totals": {
+      "line": 2.5,
+      "over": 1.51,
+      "under": 2.45
+    },
+    "anytime": {}
+  }
+]
