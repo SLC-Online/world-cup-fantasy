@@ -106,7 +106,7 @@ def from_pool(players, momentum=None, trend_available=False, appearances=None) -
                     p_start = min(p_start, 0.20)       # falling fast: likely out/benched
             ap = appearances.get(p.id)                 # who ACTUALLY played last time
             if ap == "started":
-                p_start = 0.94                         # confirmed real starter
+                p_start = max(p_start, 0.90)            # confirmed real starter (nailed level)
             elif ap == "sub":
                 p_start = 0.40                         # came off the bench
             elif ap == "benched":
@@ -150,8 +150,13 @@ def merge_confirmed(prior: Lineups, confirmed_by_nation, players) -> Lineups:
     return Lineups(data)
 
 
-_APPEARANCE_PSTART = {"started": (0.94, 86.0), "sub": (0.40, 35.0),
-                      "benched": (0.15, 12.0)}
+# Override start probs from real appearances. 'started' is set to the SAME level
+# a top nailed starter gets from the prior (not higher) — the override's job is to
+# fix wrong priors (deweight a benched player, promote an under-rated starter), NOT
+# to grant a confirmed starter a bonus that re-ranks them above equally-nailed
+# players in better fixtures (which is how Mexico's keeper wrongly topped the list).
+_APPEARANCE_PSTART = {"started": (0.90, 80.0), "sub": (0.40, 40.0),
+                      "benched": (0.15, 20.0)}
 
 
 def apply_appearances(prior: Lineups, appearances) -> Lineups:
