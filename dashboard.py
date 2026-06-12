@@ -265,6 +265,31 @@ with tabs[0]:
                      f"${team['cost']}m · {team['expected_points']} projected pts")
         cap, vice = team["captain"], team["vice"]
 
+        # Make transfers explicit: only SQUAD changes cost a transfer; the XI is
+        # free to reshuffle each matchday, so a different-looking XI is NOT transfers.
+        _rkk = [r.key for r in config.ROUNDS]
+        _pvr = (_rkk[_rkk.index(sel_round) - 1]
+                if sel_round in _rkk and _rkk.index(sel_round) > 0 else None)
+        if _pvr and persistence.team_path(_pvr).exists():
+            try:
+                _pt = persistence.load_team(_pvr)
+                _pids = {p["id"]: p["name"] for p in _pt["starters"] + _pt["bench"]}
+                _cids = {p["id"]: p["name"] for p in team["starters"] + team["bench"]}
+                _out = [_pids[i] for i in _pids if i not in _cids]
+                _in = [_cids[i] for i in _cids if i not in _pids]
+                _ft = config.get_round(sel_round).free_transfers
+                _ftx = "unlimited" if _ft == config.UNLIMITED else str(_ft)
+                if _out:
+                    st.success(f"**{len(_out)} transfer(s) from {_pvr}** (allowed: {_ftx}) — "
+                               f"OUT: {', '.join(_out)} → IN: {', '.join(_in)}.  "
+                               f"The other {15 - len(_out)} players carry over; the XI just "
+                               f"reshuffles for {sel_round}'s fixtures (free).")
+                else:
+                    st.success(f"**No transfers from {_pvr}** — same 15; XI reshuffled "
+                               f"for {sel_round}'s fixtures (free).")
+            except Exception:
+                pass
+
         def card(p):
             fl = flags.flag(p["nation"])
             badge = (" <b style='color:#c0392b'>(C)</b>" if p["id"] == cap
