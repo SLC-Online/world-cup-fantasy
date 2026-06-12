@@ -21,7 +21,8 @@ from . import risk
 from . import notify
 from . import opportunities
 from .models import PlayerProjection, Selection
-from .optimizer import optimize_squad, optimize_horizon
+from .optimizer import (optimize_squad, optimize_horizon,
+                        optimize_from_existing_horizon, _build_selection)
 from .projections import build_projections
 from .providers import lineups as lineups_provider
 from .providers import odds_api
@@ -649,10 +650,14 @@ def cmd_optimize(args):
         free_transfers = (config.UNLIMITED if args.chip == "wildcard"
                           else spec.free_transfers)
 
-    sel = optimize_squad(
-        projections, budget=spec.budget, nation_limit=spec.nation_limit,
-        existing_squad=existing, free_transfers=free_transfers,
-        captain_positions=_cap_positions(args))
+    sel = None
+    if args.from_existing and horizon > 1 and args.chip != "wildcard":
+        sel = _plan_transfer_horizon(args, spec, projections, existing, horizon)
+    if sel is None:
+        sel = optimize_squad(
+            projections, budget=spec.budget, nation_limit=spec.nation_limit,
+            existing_squad=existing, free_transfers=free_transfers,
+            captain_positions=_cap_positions(args))
     sel.round = args.round
     sel.chip = args.chip
 
@@ -693,6 +698,39 @@ def _print_captaincy(scored, name_of, risk_level, top=4):
         print(f"  {name_of(i):<22}{st['mean'] * 2:>7.1f}{st['std'] * 2:>7.1f}"
               f"{st['ceiling'] * 2:>9.1f}{st['p_haul']:>8.0%}")
     print()
+
+
+def _plan_transfer_horizon(args, spec, projections, existing, horizon):
+    """Plan transfers across the remaining group rounds from the CURRENT squad
+    (so it won't churn a player it needs next round). Returns a Selection for
+    `args.round`, or None to fall back to the single-round optimiser."""
+    try:
+        players = _active_players()
+        exj = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions()
+        if exj:
+            players = [p for p in players if not _is_excluded(p.id, p.name, exj)]
+        matches = _ensure_odds(args.round)
+        lns = _resolve_lineups(args.round, players)
+        roles = setpieces.roles_for_players(players)
+        hz = multiround.build_horizon_projections(players, matches, lns, horizon=3,
+                                                  set_piece_roles=roles)
+        idx = {"MD1": 0, "MD2": 1, "MD3": 2}.get(args.round.upper(), 0)
+        ep_by_round = {pid: hz.ep[pid][idx:idx + horizon] for pid in hz.ep
+                       if len(hz.ep[pid]) > idx}
+        squad0, starters0, captain0, t0 = optimize_from_existing_horizon(
+            hz.meta, ep_by_round, existing, budget=spec.budget,
+            nation_limit=spec.nation_limit, free_transfers=spec.free_transfers,
+            hit_cost=config.TRANSFER_HIT_COST, captain_positions=_cap_positions(args),
+            transfer_value=config.TRANSFER_VALUE)
+        sel = _build_selection(projections, squad0, starters0, captain0,
+                               existing, spec.free_transfers, t0, _cap_positions(args))
+        print(f"[optimize] multi-round plan: {t0} transfer(s) for {args.round}, "
+              f"chosen to also fit the remaining group round(s).")
+        return sel
+    except Exception as e:
+        print(f"[optimize] multi-round planner unavailable ({e}); "
+              "using single-round transfer optimiser.")
+        return None
 
 
 def _optimize_horizon_cmd(args, spec, horizon):

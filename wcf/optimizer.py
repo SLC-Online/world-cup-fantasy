@@ -457,3 +457,106 @@ def optimize_horizon(meta, ep, round_labels, budget, nation_limit,
             "transfers_out": t_out,
         })
     return squad_by_round[0], plan
+
+
+# --------------------------------------------------------------------------- #
+# Multi-round transfer planner (from the CURRENT squad)
+# --------------------------------------------------------------------------- #
+def optimize_from_existing_horizon(meta, ep_by_round, existing_squad, budget,
+                                   nation_limit, free_transfers, hit_cost,
+                                   captain_positions, rollover_cap=1,
+                                   transfer_value=0.0, discounts=None,
+                                   bench_weight=BENCH_WEIGHT,
+                                   top_per_pos=42, cheap_per_pos=6):
+    """Plan transfers across the remaining group rounds STARTING from the current
+    squad, valuing players across rounds — so it won't churn a premium it needs
+    back next round. Round 0 is the round you're deciding now.
+
+    Per round: `free_transfers` free, one unused transfer banked into the next
+    group round (rollover_cap), extra transfers cost `hit_cost`. `transfer_value`
+    is a per-transfer opportunity cost so marginal moves are banked.
+
+    Returns (round0_squad_ids, round0_starters, round0_captain, round0_transfers).
+    Raises ImportError if PuLP is unavailable (caller should fall back).
+    """
+    import pulp
+
+    R = len(next(iter(ep_by_round.values())))
+    discounts = discounts or [1.0, 0.6, 0.4][:R]
+    if len(discounts) < R:
+        discounts = discounts + [discounts[-1]] * (R - len(discounts))
+
+    def hv(pid):
+        return sum(d * e for d, e in zip(discounts, ep_by_round.get(pid, [])))
+
+    cand = set(i for i in existing_squad if i in meta)   # always keepable
+    for position in config.POSITIONS:
+        ids_pos = [i for i in meta if meta[i]["position"] == position]
+        cand.update(sorted(ids_pos, key=hv, reverse=True)[:top_per_pos])
+        cand.update(sorted(ids_pos, key=lambda i: meta[i]["price"])[:cheap_per_pos])
+    ids = list(cand)
+
+    price = {i: meta[i]["price"] for i in ids}
+    pos = {i: meta[i]["position"] for i in ids}
+    nation = {i: meta[i]["nation"] for i in ids}
+    epr = {i: ep_by_round[i] for i in ids}
+    cap_pos = set(captain_positions)
+    owned0 = set(existing_squad)
+
+    prob = pulp.LpProblem("wc_transfer_horizon", pulp.LpMaximize)
+    x = {(i, r): pulp.LpVariable(f"x_{i}_{r}", cat="Binary") for i in ids for r in range(R)}
+    s = {(i, r): pulp.LpVariable(f"s_{i}_{r}", cat="Binary") for i in ids for r in range(R)}
+    c = {(i, r): pulp.LpVariable(f"c_{i}_{r}", cat="Binary") for i in ids for r in range(R)}
+    tin = {(i, r): pulp.LpVariable(f"tin_{i}_{r}", cat="Binary")
+           for i in ids for r in range(R)}
+
+    obj = pulp.lpSum(discounts[r] * epr[i][r] * (s[(i, r)] + c[(i, r)])
+                     for i in ids for r in range(R))
+    obj += bench_weight * pulp.lpSum(epr[i][0] * (x[(i, 0)] - s[(i, 0)]) for i in ids)
+
+    t = {}
+    for r in range(R):
+        for i in ids:
+            prev = x[(i, r - 1)] if r > 0 else (1 if i in owned0 else 0)
+            prob += tin[(i, r)] >= x[(i, r)] - prev
+        t[r] = pulp.lpSum(tin[(i, r)] for i in ids)
+
+    hits = {r: pulp.LpVariable(f"hits_{r}", lowBound=0, cat="Integer") for r in range(R)}
+    bank = {r: pulp.LpVariable(f"bank_{r}", lowBound=0, upBound=rollover_cap, cat="Integer")
+            for r in range(R - 1)}
+    prob += hits[0] >= t[0] - free_transfers
+    for r in range(R - 1):
+        prob += bank[r] <= free_transfers - t[r]            # bank only what's unused
+        prob += hits[r + 1] >= t[r + 1] - free_transfers - bank[r]
+    obj -= hit_cost * pulp.lpSum(hits.values())
+    obj -= transfer_value * pulp.lpSum(t[r] for r in range(R))
+    prob += obj
+
+    for r in range(R):
+        prob += pulp.lpSum(x[(i, r)] for i in ids) == config.SQUAD_SIZE
+        for position, count in config.SQUAD_COMPOSITION.items():
+            prob += pulp.lpSum(x[(i, r)] for i in ids if pos[i] == position) == count
+        prob += pulp.lpSum(price[i] * x[(i, r)] for i in ids) <= budget
+        for nat in set(nation.values()):
+            prob += pulp.lpSum(x[(i, r)] for i in ids if nation[i] == nat) <= nation_limit
+        for i in ids:
+            prob += s[(i, r)] <= x[(i, r)]
+            prob += c[(i, r)] <= s[(i, r)]
+            if pos[i] not in cap_pos:
+                prob += c[(i, r)] == 0
+        prob += pulp.lpSum(s[(i, r)] for i in ids) == config.STARTING_XI
+        prob += pulp.lpSum(c[(i, r)] for i in ids) == 1
+        for position, (lo, hi) in config.FORMATION_LIMITS.items():
+            cnt = pulp.lpSum(s[(i, r)] for i in ids if pos[i] == position)
+            prob += cnt >= lo
+            prob += cnt <= hi
+
+    status = prob.solve(pulp.PULP_CBC_CMD(msg=0))
+    if pulp.LpStatus[status] != "Optimal":
+        raise RuntimeError(f"Transfer-horizon status: {pulp.LpStatus[status]}")
+
+    squad0 = [i for i in ids if x[(i, 0)].value() > 0.5]
+    starters0 = [i for i in ids if s[(i, 0)].value() > 0.5]
+    captain0 = next(i for i in ids if c[(i, 0)].value() > 0.5)
+    transfers0 = int(round(pulp.value(t[0])))
+    return squad0, starters0, captain0, transfers0
