@@ -40,13 +40,15 @@ def optimize_squad(
     pool = [p for p in projections if p.price > 0]
     cap_pos = set(captain_positions)
     if force_heuristic:
-        return _heuristic(pool, budget, nation_limit, cap_pos)
+        return _heuristic(pool, budget, nation_limit, cap_pos,
+                          existing_squad, free_transfers)
     try:
         return _ilp(pool, budget, nation_limit, existing_squad,
                     free_transfers, bench_weight, cap_pos)
     except ImportError:
         print("[optimizer] PuLP not available — using heuristic fallback.")
-        return _heuristic(pool, budget, nation_limit, cap_pos)
+        return _heuristic(pool, budget, nation_limit, cap_pos,
+                          existing_squad, free_transfers)
 
 
 # --------------------------------------------------------------------------- #
@@ -134,11 +136,81 @@ def _ilp(pool, budget, nation_limit, existing_squad, free_transfers, bench_weigh
 # --------------------------------------------------------------------------- #
 # Heuristic fallback (used only if PuLP is unavailable)
 # --------------------------------------------------------------------------- #
-def _heuristic(pool, budget, nation_limit, captain_positions):
+def _heuristic_transfer(pool, budget, nation_limit, captain_positions,
+                        existing_squad, free_transfers):
+    """Start from the existing squad and apply at most `free_transfers` best
+    same-position swaps (within budget + nation cap). Keeps the team intact —
+    the squad-respecting equivalent of the ILP's transfer mode."""
+    by_id = {p.player_id: p for p in pool}
+    chosen = {pid: by_id[pid] for pid in existing_squad if pid in by_id}
+    nat_count: Dict[str, int] = {}
+    for p in chosen.values():
+        nat_count[p.nation] = nat_count.get(p.nation, 0) + 1
+
+    # Refill any composition gaps left by owned players missing from the pool
+    # (e.g. now unavailable) — those count as forced transfers.
+    forced = 0
+    for position in config.POSITIONS:
+        have = sum(1 for p in chosen.values() if p.position == position)
+        need = config.SQUAD_COMPOSITION[position] - have
+        if need <= 0:
+            continue
+        for p in sorted((q for q in pool if q.position == position
+                         and q.player_id not in chosen), key=lambda q: q.price):
+            if need <= 0:
+                break
+            if nat_count.get(p.nation, 0) >= nation_limit:
+                continue
+            chosen[p.player_id] = p
+            nat_count[p.nation] = nat_count.get(p.nation, 0) + 1
+            need -= 1
+            forced += 1
+
+    cost = sum(p.price for p in chosen.values())
+    for _ in range(max(0, free_transfers - forced)):
+        best_gain, best_swap = 1e-9, None
+        for out_p in list(chosen.values()):
+            for in_p in pool:
+                if in_p.player_id in chosen or in_p.position != out_p.position:
+                    continue
+                if (in_p.nation != out_p.nation
+                        and nat_count.get(in_p.nation, 0) >= nation_limit):
+                    continue
+                new_cost = cost - out_p.price + in_p.price
+                if new_cost > budget + 1e-6:
+                    continue
+                gain = in_p.exp_points - out_p.exp_points
+                if gain > best_gain:
+                    best_gain, best_swap = gain, (out_p, in_p, new_cost)
+        if not best_swap:
+            break
+        out_p, in_p, new_cost = best_swap
+        del chosen[out_p.player_id]
+        nat_count[out_p.nation] -= 1
+        chosen[in_p.player_id] = in_p
+        nat_count[in_p.nation] = nat_count.get(in_p.nation, 0) + 1
+        cost = new_cost
+        forced += 1  # count swaps toward transfers made
+
+    chosen_ids = list(chosen)
+    starters, captain = _best_xi(list(chosen.values()), captain_positions)
+    return _build_selection(pool, chosen_ids, starters, captain,
+                            existing_squad, free_transfers, forced, captain_positions)
+
+
+def _heuristic(pool, budget, nation_limit, captain_positions,
+               existing_squad=None, free_transfers=config.UNLIMITED):
     """Phase A: cheapest valid squad (guarantees feasibility).
     Phase B: repeatedly apply the best single same-position upgrade swap that
     stays within budget and the nation cap. Not provably optimal, but solid.
+
+    Transfer mode: if an existing squad is given with a finite free-transfer
+    allowance, START from that squad and make at most `free_transfers` best swaps
+    — so the fallback keeps your team instead of rebuilding it from scratch.
     """
+    if existing_squad is not None and free_transfers != config.UNLIMITED:
+        return _heuristic_transfer(pool, budget, nation_limit, captain_positions,
+                                   existing_squad, free_transfers)
     # Phase A — cheapest feasible squad.
     chosen: Dict[str, PlayerProjection] = {}
     nat_count: Dict[str, int] = {}
