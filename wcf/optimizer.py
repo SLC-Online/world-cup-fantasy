@@ -83,7 +83,11 @@ def _ilp(pool, budget, nation_limit, existing_squad, free_transfers, bench_weigh
         transfers_in = pulp.lpSum(x[i] for i in ids if i not in owned)
         hits = pulp.LpVariable("hits", lowBound=0, cat="Integer")
         prob += hits >= transfers_in - free_transfers
+        # Each transfer beyond free costs a points hit; every transfer also carries
+        # an opportunity cost (a banked transfer / not churning a player you'd want
+        # back), so a move is only made when its gain beats TRANSFER_VALUE.
         objective -= config.TRANSFER_HIT_COST * hits
+        objective -= config.TRANSFER_VALUE * transfers_in
         transfers_made_expr = transfers_in
 
     prob += objective
@@ -168,7 +172,9 @@ def _heuristic_transfer(pool, budget, nation_limit, captain_positions,
 
     cost = sum(p.price for p in chosen.values())
     for _ in range(max(0, free_transfers - forced)):
-        best_gain, best_swap = 1e-9, None
+        # Only spend a transfer if a swap improves the round by more than the
+        # opportunity cost of banking it; otherwise stop (keep the transfer).
+        best_gain, best_swap = config.TRANSFER_VALUE, None
         for out_p in list(chosen.values()):
             for in_p in pool:
                 if in_p.player_id in chosen or in_p.position != out_p.position:

@@ -126,3 +126,9 @@ def get_round(key: str) -> RoundSpec:
 
 # Hit cost for each transfer beyond the free allocation.
 TRANSFER_HIT_COST = 3
+
+# A free transfer has option value: one unused transfer rolls over (group stage),
+# and churning a player you'd want back wastes future transfers. So only make a
+# transfer when it improves the round by more than this many points; otherwise
+# bank it. Acts as a per-transfer opportunity cost in the optimiser.
+TRANSFER_VALUE = 1.5
