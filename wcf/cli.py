@@ -29,6 +29,7 @@ from .providers import odds_api
 from .providers import players as players_provider
 from .providers import schedule as schedule_provider
 from .providers import apifootball
+from .providers import availability as availability_provider
 from .providers import setpieces
 
 
@@ -635,7 +636,7 @@ def cmd_optimize(args):
         return _optimize_horizon_cmd(args, spec, horizon)
 
     projections = _ensure_projections(args.round)
-    ex = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions()
+    ex = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions() + availability_provider.out_tokens_for_round(args.round)
     if ex:
         before = len(projections)
         projections = [p for p in projections if not _is_excluded(p.player_id, p.name, ex)]
@@ -706,7 +707,7 @@ def _plan_transfer_horizon(args, spec, projections, existing, horizon):
     `args.round`, or None to fall back to the single-round optimiser."""
     try:
         players = _active_players()
-        exj = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions()
+        exj = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions() + availability_provider.out_tokens_for_round(args.round)
         if exj:
             players = [p for p in players if not _is_excluded(p.id, p.name, exj)]
         matches = _ensure_odds(args.round)
@@ -735,7 +736,7 @@ def _plan_transfer_horizon(args, spec, projections, existing, horizon):
 
 def _optimize_horizon_cmd(args, spec, horizon):
     players = _active_players()
-    ex = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions()
+    ex = _parse_exclude(getattr(args, "exclude", None)) + persistence.load_exclusions() + availability_provider.out_tokens_for_round(args.round)
     if ex:
         before = len(players)
         players = [p for p in players if not _is_excluded(p.id, p.name, ex)]

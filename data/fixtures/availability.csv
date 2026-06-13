@@ -1,0 +1,8 @@
+# Player availability (injuries/suspensions). The FIFA feed's "status" tracks
+# squad/transfer state, NOT fitness, and there's no free real-time injury API,
+# so this maintained list (from team news) is applied automatically: a player is
+# excluded from selection for every round BEFORE their `available_from` round.
+# available_from blank = out for the whole tournament. Rounds: MD1,MD2,MD3,R32,R16,QF,SF,FIN.
+# The appearances signal then auto-confirms from who actually plays once games start.
+name,nation,status,available_from,note
+Alphonso Davies,Canada,out,R32,hamstring (since 6 May); ruled out MD1, hopeful later in group — set R32 to be safe
