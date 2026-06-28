@@ -149,6 +149,34 @@ def extract_anytime(props_event: dict) -> Dict[str, float]:
 # --------------------------------------------------------------------------- #
 # Top-level fetch with snapshotting + fixture fallback
 # --------------------------------------------------------------------------- #
+def _alert_odds_failure(detail: str) -> None:
+    """Throttled alert when the odds API fails and we fall back to SAMPLE odds —
+    usually a used-up key that needs swapping for a fresh (free) one. Best-effort:
+    never let alerting break the fetch."""
+    try:
+        from .. import notify
+        stamp = config.ODDS_DIR.parent / "last_odds_alert.txt"
+        now = time.time()
+        if stamp.exists():
+            try:
+                if now - float(stamp.read_text().strip()) < 12 * 3600:
+                    return  # already alerted in the last 12h — don't spam
+            except ValueError:
+                pass
+        if "quota" in detail.lower() or "out_of_usage" in detail.lower():
+            title = "WC Fantasy: Odds API key used up"
+            body = ("Quota hit — the engine is on SAMPLE odds (unreliable). Mint a fresh "
+                    "free key at the-odds-api.com and update ODDS_API_KEY (.env + the "
+                    "GitHub secret) to restore live prices.")
+        else:
+            title = "WC Fantasy: Odds fetch failed"
+            body = f"Odds API error — using sample odds until it recovers. ({detail[:140]})"
+        notify.notify(title, body)
+        stamp.write_text(str(now))
+    except Exception:
+        pass
+
+
 def fetch_round_odds(round_key: str, client: Optional[OddsAPIClient] = None,
                      with_player_props: bool = True,
                      prop_regions: Optional[str] = None) -> List[dict]:
@@ -175,6 +203,7 @@ def fetch_round_odds(round_key: str, client: Optional[OddsAPIClient] = None,
         events = client.featured_odds()
     except OddsAPIError as e:
         print(f"[odds] API error ({e}); falling back to sample odds.")
+        _alert_odds_failure(str(e))
         return _load_sample_odds()
 
     fifa_names = _load_fifa_nation_names()

@@ -28,7 +28,6 @@ jobs:
     env:
       ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
       ODDS_REGIONS: uk,eu
-      ODDS_PROP_REGIONS: uk          # goalscorer props: one region only — ~halves credit cost
       API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -47,7 +46,7 @@ jobs:
           [ -f data/players/players.csv ] || python -m wcf.cli fetch-players
 
       - name: Run auto-pilot
-        run: python -m wcf.cli run-due --window 18 --odds-max-age 30 --notify
+        run: python -m wcf.cli run-due --window 18 --notify
 
       - name: Commit state back
         run: |
