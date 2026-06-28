@@ -1,0 +1,1246 @@
+player_id,name,nation,position,price,opponent,p_start,exp_minutes,exp_points,value,components
+38,Lionel Messi,Argentina,FWD,10.0,Cabo Verde,0.9,80.0,5.086,0.509,"{""appearance"": 1.695, ""goals"": 2.022, ""assists"": 0.263, ""shots_on_target"": 0.489, ""cards"": -0.089, ""set_pieces"": 0.707}"
+1092,Lamine Yamal,Spain,MID,10.0,Austria,0.9,80.0,5.04,0.504,"{""appearance"": 1.695, ""goals"": 1.145, ""assists"": 0.267, ""clean_sheet"": 0.441, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.569}"
+517,Michael Olise,France,MID,9.5,Sweden,0.9,80.0,4.92,0.518,"{""appearance"": 1.695, ""goals"": 0.956, ""assists"": 0.315, ""clean_sheet"": 0.359, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.67}"
+1274,Christian Pulisic,USA,MID,7.0,Bosnia and Herzegovina,0.9,80.0,4.892,0.699,"{""appearance"": 1.695, ""goals"": 1.046, ""assists"": 0.274, ""clean_sheet"": 0.386, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.567}"
+256,Luis Díaz,Colombia,MID,8.1,Ghana,0.9,80.0,4.752,0.587,"{""appearance"": 1.695, ""goals"": 1.536, ""assists"": 0.218, ""clean_sheet"": 0.378, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1366,Raphinha,Brazil,MID,8.2,Japan,0.9,80.0,4.52,0.551,"{""appearance"": 1.695, ""assists"": 0.209, ""clean_sheet"": 0.31, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""penalties"": 0.704, ""set_pieces"": 0.677}"
+469,Bukayo Saka,England,MID,9.5,Congo DR,0.84,75.2,4.469,0.47,"{""appearance"": 1.602, ""goals"": 0.747, ""assists"": 0.27, ""clean_sheet"": 0.412, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134, ""set_pieces"": 0.569}"
+270,James Rodríguez,Colombia,MID,6.5,Ghana,0.87,77.6,4.426,0.681,"{""appearance"": 1.648, ""goals"": 0.868, ""assists"": 0.206, ""clean_sheet"": 0.366, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.442}"
+939,Bruno Fernandes,Portugal,MID,8.5,Croatia,0.9,80.0,4.351,0.512,"{""appearance"": 1.695, ""goals"": 0.803, ""assists"": 0.197, ""clean_sheet"": 0.317, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.415}"
+45,Emiliano Martínez,Argentina,GK,5.0,Cabo Verde,0.9,80.0,4.348,0.87,"{""appearance"": 1.695, ""clean_sheet"": 2.39, ""goals_conceded"": -0.085, ""saves"": 0.392, ""cards"": -0.044}"
+501,Ousmane Dembélé,France,MID,10.0,Sweden,0.87,77.6,4.342,0.434,"{""appearance"": 1.648, ""goals"": 1.139, ""assists"": 0.311, ""clean_sheet"": 0.347, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+28,Cristian Romero,Argentina,DEF,4.9,Cabo Verde,0.9,80.0,4.34,0.886,"{""appearance"": 1.695, ""goals"": 0.368, ""assists"": 0.132, ""clean_sheet"": 2.39, ""goals_conceded"": -0.085, ""cards"": -0.16}"
+542,Joshua Kimmich,Germany,DEF,5.5,Paraguay,0.9,80.0,4.33,0.787,"{""appearance"": 1.695, ""goals"": 0.384, ""assists"": 0.11, ""clean_sheet"": 1.881, ""goals_conceded"": -0.179, ""cards"": -0.16, ""set_pieces"": 0.599}"
+1961,Alphonso Davies,Canada,DEF,4.9,South Africa,0.9,80.0,4.304,0.878,"{""appearance"": 1.695, ""goals"": 0.603, ""assists"": 0.093, ""clean_sheet"": 1.821, ""goals_conceded"": -0.194, ""cards"": -0.16, ""set_pieces"": 0.446}"
+1597,Mohamed Salah,Egypt,MID,10.0,Australia,0.9,80.0,4.248,0.425,"{""appearance"": 1.695, ""goals"": 0.858, ""assists"": 0.155, ""clean_sheet"": 0.305, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.311}"
+477,Jordan Pickford,England,GK,4.8,Congo DR,0.9,80.0,4.202,0.876,"{""appearance"": 1.695, ""clean_sheet"": 2.206, ""goals_conceded"": -0.113, ""saves"": 0.459, ""cards"": -0.044}"
+1098,David Raya,Spain,GK,5.0,Austria,0.9,80.0,4.2,0.84,"{""appearance"": 1.695, ""clean_sheet"": 2.203, ""goals_conceded"": -0.114, ""saves"": 0.46, ""cards"": -0.044}"
+30,Nahuel Molina,Argentina,DEF,4.4,Cabo Verde,0.87,77.6,4.127,0.938,"{""appearance"": 1.648, ""goals"": 0.278, ""assists"": 0.128, ""clean_sheet"": 2.31, ""goals_conceded"": -0.082, ""cards"": -0.155}"
+457,Nico O'Reilly,England,DEF,4.7,Congo DR,0.9,80.0,4.096,0.872,"{""appearance"": 1.695, ""goals"": 0.355, ""assists"": 0.113, ""clean_sheet"": 2.206, ""goals_conceded"": -0.113, ""cards"": -0.16}"
+491,Jude Bellingham,England,MID,8.3,Congo DR,0.9,80.0,4.094,0.493,"{""appearance"": 1.695, ""goals"": 0.75, ""assists"": 0.283, ""clean_sheet"": 0.441, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+543,Florian Wirtz,Germany,MID,7.5,Paraguay,0.9,80.0,4.091,0.545,"{""appearance"": 1.695, ""goals"": 0.819, ""assists"": 0.276, ""clean_sheet"": 0.376, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+57,Enzo Fernández,Argentina,MID,7.5,Cabo Verde,0.9,80.0,4.03,0.537,"{""appearance"": 1.695, ""goals"": 0.606, ""assists"": 0.327, ""clean_sheet"": 0.478, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+516,Rayan Cherki,France,MID,8.0,Sweden,0.84,75.2,4.009,0.501,"{""appearance"": 1.602, ""goals"": 0.902, ""assists"": 0.3, ""clean_sheet"": 0.335, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1318,Lisandro Martínez,Argentina,DEF,4.6,Cabo Verde,0.84,75.2,3.999,0.869,"{""appearance"": 1.602, ""goals"": 0.272, ""assists"": 0.125, ""clean_sheet"": 2.23, ""goals_conceded"": -0.08, ""cards"": -0.15}"
+1600,Jamal Musiala,Germany,MID,8.0,Paraguay,0.87,77.6,3.996,0.5,"{""appearance"": 1.648, ""goals"": 0.817, ""assists"": 0.27, ""clean_sheet"": 0.364, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+173,Vinícius Júnior,Brazil,MID,10.0,Japan,0.87,77.6,3.99,0.399,"{""appearance"": 1.648, ""goals"": 0.93, ""assists"": 0.215, ""clean_sheet"": 0.3, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1270,Matt Turner,USA,GK,4.0,Bosnia and Herzegovina,0.9,80.0,3.981,0.995,"{""appearance"": 1.695, ""clean_sheet"": 1.928, ""goals_conceded"": -0.168, ""saves"": 0.571, ""cards"": -0.044}"
+1088,Marc Cucurella,Spain,DEF,5.1,Austria,0.9,80.0,3.967,0.778,"{""appearance"": 1.695, ""goals"": 0.239, ""assists"": 0.103, ""clean_sheet"": 2.203, ""goals_conceded"": -0.114, ""cards"": -0.16}"
+262,Camilo Vargas,Colombia,GK,4.3,Ghana,0.9,80.0,3.952,0.919,"{""appearance"": 1.695, ""clean_sheet"": 1.891, ""goals_conceded"": -0.177, ""saves"": 0.587, ""cards"": -0.044}"
+1598,Manuel Neuer,Germany,GK,5.0,Paraguay,0.9,80.0,3.944,0.789,"{""appearance"": 1.695, ""clean_sheet"": 1.881, ""goals_conceded"": -0.179, ""saves"": 0.592, ""cards"": -0.044}"
+1158,Rubén Vargas,Switzerland,MID,6.8,Algeria,0.87,77.6,3.938,0.579,"{""appearance"": 1.648, ""goals"": 0.512, ""assists"": 0.194, ""clean_sheet"": 0.269, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.417}"
+138,Kevin De Bruyne,Belgium,MID,7.5,Senegal,0.87,77.6,3.898,0.52,"{""appearance"": 1.648, ""goals"": 0.567, ""assists"": 0.164, ""clean_sheet"": 0.271, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.35}"
+235,Maxime Crépeau,Canada,GK,4.0,South Africa,0.9,80.0,3.896,0.974,"{""appearance"": 1.695, ""clean_sheet"": 1.821, ""goals_conceded"": -0.194, ""saves"": 0.619, ""cards"": -0.044}"
+505,Désiré Doué,France,MID,7.5,Sweden,0.81,72.8,3.879,0.517,"{""appearance"": 1.555, ""goals"": 0.866, ""assists"": 0.293, ""clean_sheet"": 0.323, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+506,Mike Maignan,France,GK,5.0,Sweden,0.9,80.0,3.877,0.775,"{""appearance"": 1.695, ""clean_sheet"": 1.797, ""goals_conceded"": -0.2, ""saves"": 0.63, ""cards"": -0.044}"
+31,Nicolás Otamendi,Argentina,DEF,4.4,Cabo Verde,0.81,72.8,3.871,0.88,"{""appearance"": 1.555, ""goals"": 0.265, ""assists"": 0.122, ""clean_sheet"": 2.151, ""goals_conceded"": -0.077, ""cards"": -0.146}"
+461,Marc Guéhi,England,DEF,5.1,Congo DR,0.87,77.6,3.87,0.759,"{""appearance"": 1.648, ""goals"": 0.244, ""assists"": 0.109, ""clean_sheet"": 2.133, ""goals_conceded"": -0.11, ""cards"": -0.155}"
+500,Kylian Mbappé,France,FWD,10.5,Sweden,0.9,80.0,3.862,0.368,"{""appearance"": 1.695, ""goals"": 1.528, ""assists"": 0.239, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1085,Pedro Porro,Spain,DEF,5.5,Austria,0.87,77.6,3.861,0.702,"{""appearance"": 1.648, ""goals"": 0.247, ""assists"": 0.101, ""clean_sheet"": 2.129, ""goals_conceded"": -0.11, ""cards"": -0.155}"
+56,Alexis Mac Allister,Argentina,MID,6.6,Cabo Verde,0.87,77.6,3.851,0.583,"{""appearance"": 1.648, ""goals"": 0.525, ""assists"": 0.318, ""clean_sheet"": 0.462, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+529,Leroy Sané,Germany,MID,7.4,Paraguay,0.84,75.2,3.836,0.518,"{""appearance"": 1.602, ""goals"": 0.751, ""assists"": 0.263, ""clean_sheet"": 0.351, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+2000,Nico Williams,Spain,MID,7.8,Austria,0.84,75.2,3.815,0.489,"{""appearance"": 1.602, ""goals"": 0.684, ""assists"": 0.249, ""clean_sheet"": 0.411, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+248,Daniel Muñoz,Colombia,DEF,4.6,Ghana,0.9,80.0,3.815,0.829,"{""appearance"": 1.695, ""goals"": 0.481, ""assists"": 0.085, ""clean_sheet"": 1.891, ""goals_conceded"": -0.177, ""cards"": -0.16}"
+471,Marcus Rashford,England,MID,7.5,Congo DR,0.81,72.8,3.787,0.505,"{""appearance"": 1.555, ""goals"": 0.73, ""assists"": 0.264, ""clean_sheet"": 0.397, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1709,Reece James,England,DEF,5.2,Congo DR,0.84,75.2,3.782,0.727,"{""appearance"": 1.602, ""goals"": 0.27, ""assists"": 0.107, ""clean_sheet"": 2.059, ""goals_conceded"": -0.106, ""cards"": -0.15}"
+1369,Neymar,Brazil,MID,7.2,Japan,0.84,75.2,3.78,0.525,"{""appearance"": 1.602, ""goals"": 0.81, ""assists"": 0.209, ""clean_sheet"": 0.289, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1105,Dani Olmo,Spain,MID,7.7,Austria,0.81,72.8,3.744,0.486,"{""appearance"": 1.555, ""goals"": 0.707, ""assists"": 0.244, ""clean_sheet"": 0.396, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+2031,Sergiño Dest,USA,DEF,4.3,Bosnia and Herzegovina,0.87,77.6,3.732,0.868,"{""appearance"": 1.648, ""goals"": 0.432, ""assists"": 0.107, ""clean_sheet"": 1.864, ""goals_conceded"": -0.163, ""cards"": -0.155}"
+1086,Aymeric Laporte,Spain,DEF,5.5,Austria,0.84,75.2,3.716,0.676,"{""appearance"": 1.602, ""goals"": 0.217, ""assists"": 0.098, ""clean_sheet"": 2.056, ""goals_conceded"": -0.107, ""cards"": -0.15}"
+1569,Diogo Costa,Portugal,GK,4.9,Croatia,0.9,80.0,3.707,0.756,"{""appearance"": 1.695, ""clean_sheet"": 1.585, ""goals_conceded"": -0.263, ""saves"": 0.734, ""cards"": -0.044}"
+757,Raúl Rangel,Mexico,GK,3.9,Ecuador,0.9,80.0,3.704,0.95,"{""appearance"": 1.695, ""clean_sheet"": 1.581, ""goals_conceded"": -0.264, ""saves"": 0.736, ""cards"": -0.044}"
+183,Alisson Becker,Brazil,GK,5.0,Japan,0.9,80.0,3.68,0.736,"{""appearance"": 1.695, ""clean_sheet"": 1.551, ""goals_conceded"": -0.274, ""saves"": 0.752, ""cards"": -0.044}"
+468,Harry Kane,England,FWD,10.5,Congo DR,0.9,80.0,3.678,0.35,"{""appearance"": 1.695, ""goals"": 1.368, ""assists"": 0.214, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1574,Rafael Leão,Portugal,MID,7.8,Croatia,0.81,72.8,3.665,0.47,"{""appearance"": 1.555, ""goals"": 0.799, ""assists"": 0.184, ""clean_sheet"": 0.285, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1258,Antonee Robinson,USA,DEF,5.0,Bosnia and Herzegovina,0.9,80.0,3.661,0.732,"{""appearance"": 1.695, ""goals"": 0.259, ""assists"": 0.107, ""clean_sheet"": 1.928, ""goals_conceded"": -0.168, ""cards"": -0.16}"
+453,Mostafa Shobeir,Egypt,GK,3.5,Australia,0.9,80.0,3.657,1.045,"{""appearance"": 1.695, ""clean_sheet"": 1.523, ""goals_conceded"": -0.284, ""saves"": 0.767, ""cards"": -0.044}"
+269,Jhon Arias,Colombia,MID,6.3,Ghana,0.84,75.2,3.652,0.58,"{""appearance"": 1.602, ""goals"": 0.629, ""assists"": 0.199, ""clean_sheet"": 0.353, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1696,Sadio Mané,Senegal,MID,7.6,Belgium,0.9,80.0,3.643,0.479,"{""appearance"": 1.695, ""goals"": 0.426, ""assists"": 0.126, ""clean_sheet"": 0.202, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.27}"
+1603,Jamie Leweling,Germany,MID,6.4,Paraguay,0.81,72.8,3.624,0.566,"{""appearance"": 1.555, ""goals"": 0.634, ""assists"": 0.255, ""clean_sheet"": 0.339, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1102,Marcos Llorente,Spain,DEF,5.5,Austria,0.81,72.8,3.617,0.658,"{""appearance"": 1.555, ""goals"": 0.232, ""assists"": 0.096, ""clean_sheet"": 1.982, ""goals_conceded"": -0.103, ""cards"": -0.146}"
+1255,Weston McKennie,USA,MID,6.1,Bosnia and Herzegovina,0.87,77.6,3.613,0.592,"{""appearance"": 1.648, ""goals"": 0.436, ""assists"": 0.259, ""clean_sheet"": 0.373, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1106,Pedri,Spain,MID,8.1,Austria,0.87,77.6,3.604,0.445,"{""appearance"": 1.648, ""goals"": 0.382, ""assists"": 0.251, ""clean_sheet"": 0.426, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+488,Declan Rice,England,MID,7.0,Congo DR,0.87,77.6,3.595,0.514,"{""appearance"": 1.648, ""goals"": 0.352, ""assists"": 0.271, ""clean_sheet"": 0.427, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+463,Ezri Konsa,England,DEF,4.8,Congo DR,0.81,72.8,3.579,0.746,"{""appearance"": 1.555, ""goals"": 0.183, ""assists"": 0.104, ""clean_sheet"": 1.986, ""goals_conceded"": -0.103, ""cards"": -0.146}"
+39,Julián Alvarez,Argentina,FWD,8.6,Cabo Verde,0.87,77.6,3.576,0.416,"{""appearance"": 1.648, ""goals"": 1.296, ""assists"": 0.243, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1522,Thibaut Courtois,Belgium,GK,4.9,Senegal,0.9,80.0,3.559,0.726,"{""appearance"": 1.695, ""clean_sheet"": 1.401, ""goals_conceded"": -0.329, ""saves"": 0.837, ""cards"": -0.044}"
+1254,Malik Tillman,USA,MID,6.1,Bosnia and Herzegovina,0.84,75.2,3.558,0.583,"{""appearance"": 1.602, ""goals"": 0.473, ""assists"": 0.254, ""clean_sheet"": 0.36, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1573,Cristiano Ronaldo,Portugal,FWD,10.0,Croatia,0.9,80.0,3.555,0.355,"{""appearance"": 1.695, ""goals"": 1.312, ""assists"": 0.148, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+11,Riyad Mahrez,Algeria,MID,6.5,Switzerland,0.87,77.6,3.554,0.547,"{""appearance"": 1.648, ""goals"": 0.461, ""assists"": 0.132, ""clean_sheet"": 0.151, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.266}"
+855,Erling Haaland,Norway,FWD,10.5,Côte d'Ivoire,0.9,80.0,3.553,0.338,"{""appearance"": 1.695, ""goals"": 1.299, ""assists"": 0.159, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1153,Gregor Kobel,Switzerland,GK,4.7,Algeria,0.9,80.0,3.552,0.756,"{""appearance"": 1.695, ""clean_sheet"": 1.392, ""goals_conceded"": -0.333, ""saves"": 0.843, ""cards"": -0.044}"
+1265,Timothy Weah,USA,MID,5.8,Bosnia and Herzegovina,0.81,72.8,3.539,0.61,"{""appearance"": 1.555, ""goals"": 0.546, ""assists"": 0.249, ""clean_sheet"": 0.347, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+252,Johan Mojica,Colombia,DEF,3.9,Ghana,0.87,77.6,3.537,0.907,"{""appearance"": 1.648, ""goals"": 0.306, ""assists"": 0.082, ""clean_sheet"": 1.828, ""goals_conceded"": -0.171, ""cards"": -0.155}"
+50,Rodrigo De Paul,Argentina,MID,5.9,Cabo Verde,0.81,72.8,3.511,0.595,"{""appearance"": 1.555, ""goals"": 0.383, ""assists"": 0.302, ""clean_sheet"": 0.43, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1135,Granit Xhaka,Switzerland,MID,6.2,Algeria,0.9,80.0,3.507,0.566,"{""appearance"": 1.695, ""goals"": 0.411, ""assists"": 0.198, ""clean_sheet"": 0.278, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+809,Bart Verbruggen,Netherlands,GK,4.7,Morocco,0.9,80.0,3.505,0.746,"{""appearance"": 1.695, ""clean_sheet"": 1.334, ""goals_conceded"": -0.357, ""saves"": 0.878, ""cards"": -0.044}"
+346,Luka Modric,Croatia,MID,6.2,Portugal,0.9,80.0,3.497,0.564,"{""appearance"": 1.695, ""goals"": 0.369, ""assists"": 0.109, ""clean_sheet"": 0.163, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.237}"
+125,Jérémy Doku,Belgium,MID,7.5,Senegal,0.9,80.0,3.49,0.465,"{""appearance"": 1.695, ""goals"": 0.424, ""assists"": 0.167, ""clean_sheet"": 0.28, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1429,William Saliba,France,DEF,5.3,Sweden,0.9,80.0,3.485,0.657,"{""appearance"": 1.695, ""goals"": 0.23, ""assists"": 0.123, ""clean_sheet"": 1.797, ""goals_conceded"": -0.2, ""cards"": -0.16}"
+520,Antonio Rüdiger,Germany,DEF,5.5,Paraguay,0.87,77.6,3.48,0.633,"{""appearance"": 1.648, ""goals"": 0.236, ""assists"": 0.106, ""clean_sheet"": 1.818, ""goals_conceded"": -0.174, ""cards"": -0.155}"
+863,Antonio Nusa,Norway,MID,6.1,Côte d'Ivoire,0.87,77.6,3.465,0.568,"{""appearance"": 1.648, ""goals"": 0.471, ""assists"": 0.204, ""clean_sheet"": 0.245, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1572,Bernardo Silva,Portugal,MID,7.8,Croatia,0.84,75.2,3.461,0.444,"{""appearance"": 1.602, ""goals"": 0.509, ""assists"": 0.185, ""clean_sheet"": 0.296, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+859,Ørjan Nyland,Norway,GK,4.2,Côte d'Ivoire,0.9,80.0,3.453,0.822,"{""appearance"": 1.695, ""clean_sheet"": 1.27, ""goals_conceded"": -0.386, ""saves"": 0.919, ""cards"": -0.044}"
+1967,Stephen Eustaquio,Canada,MID,5.0,South Africa,0.9,80.0,3.45,0.69,"{""appearance"": 1.695, ""goals"": 0.245, ""assists"": 0.221, ""clean_sheet"": 0.364, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+456,Ibrahim Adel,Egypt,MID,5.9,Australia,0.87,77.6,3.45,0.585,"{""appearance"": 1.648, ""goals"": 0.461, ""assists"": 0.148, ""clean_sheet"": 0.294, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1458,Takefusa Kubo,Japan,MID,7.0,Brazil,0.9,80.0,3.445,0.492,"{""appearance"": 1.695, ""goals"": 0.327, ""assists"": 0.12, ""clean_sheet"": 0.137, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.243}"
+1711,Ollie Watkins,England,FWD,7.9,Congo DR,0.87,77.6,3.435,0.435,"{""appearance"": 1.648, ""goals"": 1.192, ""assists"": 0.207, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1684,Martin Ødegaard,Norway,MID,7.7,Côte d'Ivoire,0.9,80.0,3.433,0.446,"{""appearance"": 1.695, ""goals"": 0.353, ""assists"": 0.207, ""clean_sheet"": 0.254, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1259,Chris Richards,USA,DEF,4.1,Bosnia and Herzegovina,0.84,75.2,3.428,0.836,"{""appearance"": 1.602, ""goals"": 0.234, ""assists"": 0.102, ""clean_sheet"": 1.799, ""goals_conceded"": -0.158, ""cards"": -0.15}"
+1094,Mikel Oyarzabal,Spain,FWD,8.1,Austria,0.9,80.0,3.414,0.422,"{""appearance"": 1.695, ""goals"": 1.125, ""assists"": 0.194, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+2020,Brahim Díaz,Morocco,MID,6.4,Netherlands,0.9,80.0,3.41,0.533,"{""appearance"": 1.695, ""goals"": 0.461, ""assists"": 0.135, ""clean_sheet"": 0.194, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1430,Jules Koundé,France,DEF,5.4,Sweden,0.87,77.6,3.41,0.631,"{""appearance"": 1.648, ""goals"": 0.253, ""assists"": 0.12, ""clean_sheet"": 1.737, ""goals_conceded"": -0.194, ""cards"": -0.155}"
+76,Patrick Beach,Australia,GK,3.5,Egypt,0.9,80.0,3.398,0.971,"{""appearance"": 1.695, ""clean_sheet"": 1.202, ""goals_conceded"": -0.419, ""saves"": 0.964, ""cards"": -0.044}"
+250,Dávinson Sánchez,Colombia,DEF,4.3,Ghana,0.84,75.2,3.394,0.789,"{""appearance"": 1.602, ""goals"": 0.265, ""assists"": 0.079, ""clean_sheet"": 1.765, ""goals_conceded"": -0.166, ""cards"": -0.15}"
+523,Jonathan Tah,Germany,DEF,5.3,Paraguay,0.84,75.2,3.393,0.64,"{""appearance"": 1.602, ""goals"": 0.25, ""assists"": 0.104, ""clean_sheet"": 1.755, ""goals_conceded"": -0.168, ""cards"": -0.15}"
+758,Brian Gutiérrez,Mexico,MID,5.0,Ecuador,0.9,80.0,3.391,0.678,"{""appearance"": 1.695, ""goals"": 0.313, ""assists"": 0.142, ""clean_sheet"": 0.316, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+259,Luis Suárez,Colombia,FWD,5.7,Ghana,0.9,80.0,3.387,0.594,"{""appearance"": 1.695, ""goals"": 1.136, ""assists"": 0.156, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1526,Leandro Trossard,Belgium,MID,6.6,Senegal,0.84,75.2,3.386,0.513,"{""appearance"": 1.602, ""goals"": 0.493, ""assists"": 0.16, ""clean_sheet"": 0.262, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+21,Adil Boulbina,Algeria,MID,4.0,Switzerland,0.9,80.0,3.382,0.845,"{""appearance"": 1.695, ""goals"": 0.472, ""assists"": 0.135, ""clean_sheet"": 0.156, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+423,Hernán Galíndez,Ecuador,GK,4.2,Mexico,0.9,80.0,3.375,0.804,"{""appearance"": 1.695, ""clean_sheet"": 1.174, ""goals_conceded"": -0.434, ""saves"": 0.985, ""cards"": -0.044}"
+792,Ismael Saibari,Morocco,MID,6.8,Netherlands,0.87,77.6,3.374,0.496,"{""appearance"": 1.648, ""goals"": 0.509, ""assists"": 0.132, ""clean_sheet"": 0.188, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1963,Alistair Johnston,Canada,DEF,4.0,South Africa,0.87,77.6,3.361,0.84,"{""appearance"": 1.648, ""goals"": 0.208, ""assists"": 0.088, ""clean_sheet"": 1.76, ""goals_conceded"": -0.188, ""cards"": -0.155}"
+763,Álvaro Fidalgo,Mexico,MID,6.4,Ecuador,0.9,80.0,3.341,0.522,"{""appearance"": 1.695, ""goals"": 0.263, ""assists"": 0.142, ""clean_sheet"": 0.316, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+528,Kai Havertz,Germany,FWD,7.8,Paraguay,0.9,80.0,3.334,0.427,"{""appearance"": 1.695, ""goals"": 1.037, ""assists"": 0.203, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1264,Alexander Freeman,USA,DEF,4.0,Bosnia and Herzegovina,0.81,72.8,3.333,0.833,"{""appearance"": 1.555, ""goals"": 0.242, ""assists"": 0.1, ""clean_sheet"": 1.735, ""goals_conceded"": -0.153, ""cards"": -0.146}"
+2050,Cristian Volpato,Australia,MID,6.0,Egypt,0.9,80.0,3.324,0.554,"{""appearance"": 1.695, ""goals"": 0.342, ""assists"": 0.122, ""clean_sheet"": 0.24, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+241,Nathan Saliba,Canada,MID,5.1,South Africa,0.84,75.2,3.318,0.651,"{""appearance"": 1.602, ""goals"": 0.295, ""assists"": 0.212, ""clean_sheet"": 0.34, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+494,Dayot Upamecano,France,DEF,5.3,Sweden,0.84,75.2,3.311,0.625,"{""appearance"": 1.602, ""goals"": 0.253, ""assists"": 0.118, ""clean_sheet"": 1.677, ""goals_conceded"": -0.188, ""cards"": -0.15}"
+936,Vitinha,Portugal,MID,6.4,Croatia,0.87,77.6,3.31,0.517,"{""appearance"": 1.648, ""goals"": 0.271, ""assists"": 0.187, ""clean_sheet"": 0.306, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+238,Ali Ahmed,Canada,MID,4.9,South Africa,0.81,72.8,3.309,0.675,"{""appearance"": 1.555, ""goals"": 0.377, ""assists"": 0.208, ""clean_sheet"": 0.328, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1267,Folarin Balogun,USA,FWD,6.0,Bosnia and Herzegovina,0.9,80.0,3.293,0.549,"{""appearance"": 1.695, ""goals"": 1.0, ""assists"": 0.198, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+816,Tijjani Reijnders,Netherlands,MID,6.5,Morocco,0.87,77.6,3.292,0.506,"{""appearance"": 1.648, ""goals"": 0.325, ""assists"": 0.164, ""clean_sheet"": 0.258, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+249,Jhon Lucumí,Colombia,DEF,4.3,Ghana,0.81,72.8,3.286,0.764,"{""appearance"": 1.555, ""goals"": 0.258, ""assists"": 0.077, ""clean_sheet"": 1.702, ""goals_conceded"": -0.161, ""cards"": -0.146}"
+1707,Iqraam Rayners,South Africa,MID,5.3,Canada,0.9,80.0,3.271,0.617,"{""appearance"": 1.695, ""goals"": 0.405, ""assists"": 0.101, ""clean_sheet"": 0.146, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+843,Oscar Bobb,Norway,MID,5.1,Côte d'Ivoire,0.81,72.8,3.267,0.641,"{""appearance"": 1.555, ""goals"": 0.447, ""assists"": 0.194, ""clean_sheet"": 0.229, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1988,Ernest Nuamah,Ghana,MID,5.0,Colombia,0.9,80.0,3.265,0.653,"{""appearance"": 1.695, ""goals"": 0.405, ""assists"": 0.098, ""clean_sheet"": 0.142, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+492,Theo Hernández,France,DEF,5.0,Sweden,0.81,72.8,3.258,0.652,"{""appearance"": 1.555, ""goals"": 0.297, ""assists"": 0.116, ""clean_sheet"": 1.617, ""goals_conceded"": -0.182, ""cards"": -0.146}"
+502,Marcus Thuram,France,FWD,7.5,Sweden,0.87,77.6,3.257,0.434,"{""appearance"": 1.648, ""goals"": 0.996, ""assists"": 0.224, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+221,Derek Cornelius,Canada,DEF,4.0,South Africa,0.84,75.2,3.245,0.811,"{""appearance"": 1.602, ""goals"": 0.191, ""assists"": 0.085, ""clean_sheet"": 1.699, ""goals_conceded"": -0.182, ""cards"": -0.15}"
+1051,Édouard Mendy,Senegal,GK,4.5,Belgium,0.9,80.0,3.239,0.72,"{""appearance"": 1.695, ""clean_sheet"": 1.008, ""goals_conceded"": -0.531, ""saves"": 1.111, ""cards"": -0.044}"
+51,Nico Paz,Argentina,MID,5.9,Cabo Verde,0.84,75.2,3.219,0.546,"{""appearance"": 1.602, ""assists"": 0.302, ""clean_sheet"": 0.446, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+2010,Yassine Bounou,Morocco,GK,4.7,Netherlands,0.9,80.0,3.21,0.683,"{""appearance"": 1.695, ""clean_sheet"": 0.972, ""goals_conceded"": -0.555, ""saves"": 1.142, ""cards"": -0.044}"
+916,Nuno Mendes,Portugal,DEF,5.8,Croatia,0.9,80.0,3.205,0.553,"{""appearance"": 1.695, ""goals"": 0.27, ""assists"": 0.078, ""clean_sheet"": 1.585, ""goals_conceded"": -0.263, ""cards"": -0.16}"
+532,Nick Woltemade,Germany,FWD,7.2,Paraguay,0.87,77.6,3.201,0.445,"{""appearance"": 1.648, ""goals"": 0.967, ""assists"": 0.197, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+2040,Frenkie de Jong,Netherlands,MID,7.0,Morocco,0.9,80.0,3.194,0.456,"{""appearance"": 1.695, ""goals"": 0.142, ""assists"": 0.166, ""clean_sheet"": 0.267, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1140,Fabian Rieder,Switzerland,MID,6.2,Algeria,0.81,72.8,3.192,0.515,"{""appearance"": 1.555, ""goals"": 0.36, ""assists"": 0.184, ""clean_sheet"": 0.251, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+435,Emam Ashour,Egypt,MID,4.6,Australia,0.84,75.2,3.188,0.693,"{""appearance"": 1.602, ""goals"": 0.289, ""assists"": 0.144, ""clean_sheet"": 0.284, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+759,Érik Lira,Mexico,MID,5.6,Ecuador,0.9,80.0,3.172,0.566,"{""appearance"": 1.695, ""goals"": 0.095, ""assists"": 0.141, ""clean_sheet"": 0.316, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+917,João Cancelo,Portugal,DEF,5.3,Croatia,0.87,77.6,3.163,0.597,"{""appearance"": 1.648, ""goals"": 0.316, ""assists"": 0.076, ""clean_sheet"": 1.532, ""goals_conceded"": -0.255, ""cards"": -0.155}"
+669,Junya Ito,Japan,MID,5.0,Brazil,0.87,77.6,3.15,0.63,"{""appearance"": 1.648, ""goals"": 0.355, ""assists"": 0.117, ""clean_sheet"": 0.132, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+226,Jonathan David,Canada,FWD,7.0,South Africa,0.9,80.0,3.146,0.449,"{""appearance"": 1.695, ""goals"": 0.886, ""assists"": 0.165, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+225,Luc De Fougerolles,Canada,DEF,3.5,South Africa,0.81,72.8,3.146,0.899,"{""appearance"": 1.555, ""goals"": 0.19, ""assists"": 0.083, ""clean_sheet"": 1.639, ""goals_conceded"": -0.177, ""cards"": -0.146}"
+1361,Bruno Guimarães,Brazil,MID,6.8,Japan,0.81,72.8,3.144,0.462,"{""appearance"": 1.555, ""goals"": 0.27, ""assists"": 0.198, ""clean_sheet"": 0.279, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+420,Anthony Valencia,Ecuador,MID,4.2,Mexico,0.87,77.6,3.142,0.748,"{""appearance"": 1.648, ""goals"": 0.26, ""assists"": 0.11, ""clean_sheet"": 0.227, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1157,Denis Zakaria,Switzerland,MID,6.1,Algeria,0.84,75.2,3.134,0.514,"{""appearance"": 1.602, ""goals"": 0.217, ""assists"": 0.187, ""clean_sheet"": 0.26, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1266,Ricardo Pepi,USA,FWD,5.9,Bosnia and Herzegovina,0.87,77.6,3.132,0.531,"{""appearance"": 1.648, ""goals"": 0.903, ""assists"": 0.192, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1683,Fredrik Aursnes,Norway,MID,6.5,Côte d'Ivoire,0.84,75.2,3.128,0.481,"{""appearance"": 1.602, ""goals"": 0.224, ""assists"": 0.196, ""clean_sheet"": 0.237, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+2004,Jackson Irvine,Australia,MID,5.6,Egypt,0.87,77.6,3.127,0.558,"{""appearance"": 1.648, ""goals"": 0.231, ""assists"": 0.119, ""clean_sheet"": 0.232, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+137,Youri Tielemans,Belgium,MID,6.1,Senegal,0.81,72.8,3.127,0.513,"{""appearance"": 1.555, ""goals"": 0.323, ""assists"": 0.155, ""clean_sheet"": 0.252, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+107,Marcel Sabitzer,Austria,MID,6.8,Spain,0.9,80.0,3.126,0.46,"{""appearance"": 1.695, ""goals"": 0.197, ""assists"": 0.069, ""clean_sheet"": 0.092, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142, ""set_pieces"": 0.148}"
+323,Seko Fofana,Côte d'Ivoire,MID,6.8,Norway,0.9,80.0,3.12,0.459,"{""appearance"": 1.695, ""goals"": 0.204, ""assists"": 0.147, ""clean_sheet"": 0.149, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1058,Teboho Mokoena,South Africa,MID,4.3,Canada,0.9,80.0,3.117,0.725,"{""appearance"": 1.695, ""goals"": 0.252, ""assists"": 0.1, ""clean_sheet"": 0.146, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+741,César Montes,Mexico,DEF,4.7,Ecuador,0.9,80.0,3.114,0.663,"{""appearance"": 1.695, ""goals"": 0.204, ""assists"": 0.057, ""clean_sheet"": 1.581, ""goals_conceded"": -0.264, ""cards"": -0.16}"
+245,Ismaël Koné,Canada,MID,6.0,South Africa,0.87,77.6,3.111,0.518,"{""appearance"": 1.648, ""assists"": 0.214, ""clean_sheet"": 0.352, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+348,Martin Baturina,Croatia,MID,6.5,Portugal,0.87,77.6,3.104,0.478,"{""appearance"": 1.648, ""goals"": 0.295, ""assists"": 0.106, ""clean_sheet"": 0.158, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+437,Mohamed Abdelmonem,Egypt,DEF,4.0,Australia,0.9,80.0,3.096,0.774,"{""appearance"": 1.695, ""goals"": 0.26, ""assists"": 0.061, ""clean_sheet"": 1.523, ""goals_conceded"": -0.284, ""cards"": -0.16}"
+913,Diego Gómez,Paraguay,MID,6.8,Germany,0.87,77.6,3.088,0.454,"{""appearance"": 1.648, ""goals"": 0.19, ""assists"": 0.087, ""clean_sheet"": 0.079, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.186}"
+1093,Ferran Torres,Spain,FWD,7.8,Austria,0.87,77.6,3.087,0.396,"{""appearance"": 1.648, ""goals"": 0.865, ""assists"": 0.186, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+430,Moisés Caicedo,Ecuador,MID,6.8,Mexico,0.9,80.0,3.086,0.454,"{""appearance"": 1.695, ""goals"": 0.12, ""assists"": 0.112, ""clean_sheet"": 0.235, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+322,Franck Kessie,Côte d'Ivoire,MID,5.9,Norway,0.87,77.6,3.085,0.523,"{""appearance"": 1.648, ""goals"": 0.252, ""assists"": 0.144, ""clean_sheet"": 0.144, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+338,Dominik Livakovic,Croatia,GK,4.5,Portugal,0.9,80.0,3.079,0.684,"{""appearance"": 1.695, ""clean_sheet"": 0.815, ""goals_conceded"": -0.675, ""saves"": 1.289, ""cards"": -0.044}"
+2021,Azzedine Ounahi,Morocco,MID,6.2,Netherlands,0.84,75.2,3.078,0.496,"{""appearance"": 1.602, ""goals"": 0.298, ""assists"": 0.128, ""clean_sheet"": 0.181, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+164,Gabriel Magalhães,Brazil,DEF,5.5,Japan,0.9,80.0,3.076,0.559,"{""appearance"": 1.695, ""goals"": 0.179, ""assists"": 0.086, ""clean_sheet"": 1.551, ""goals_conceded"": -0.274, ""cards"": -0.16}"
+744,Israel Reyes,Mexico,DEF,4.0,Ecuador,0.9,80.0,3.073,0.768,"{""appearance"": 1.695, ""goals"": 0.163, ""assists"": 0.057, ""clean_sheet"": 1.581, ""goals_conceded"": -0.264, ""cards"": -0.16}"
+1114,Yasin Ayari,Sweden,MID,5.3,France,0.87,77.6,3.071,0.579,"{""appearance"": 1.648, ""goals"": 0.176, ""assists"": 0.091, ""clean_sheet"": 0.061, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138, ""set_pieces"": 0.198}"
+1570,Rúben Dias,Portugal,DEF,5.0,Croatia,0.84,75.2,3.067,0.613,"{""appearance"": 1.602, ""goals"": 0.309, ""assists"": 0.075, ""clean_sheet"": 1.479, ""goals_conceded"": -0.247, ""cards"": -0.15}"
+1056,Habib Diarra,Senegal,MID,6.2,Belgium,0.84,75.2,3.064,0.494,"{""appearance"": 1.602, ""goals"": 0.285, ""assists"": 0.12, ""clean_sheet"": 0.188, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1149,Breel Embolo,Switzerland,FWD,7.5,Algeria,0.9,80.0,3.061,0.408,"{""appearance"": 1.695, ""goals"": 0.82, ""assists"": 0.146, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+26,Houssem Aouar,Algeria,MID,6.0,Switzerland,0.84,75.2,3.058,0.51,"{""appearance"": 1.602, ""goals"": 0.314, ""assists"": 0.128, ""clean_sheet"": 0.146, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+2043,Memphis Depay,Netherlands,FWD,7.4,Morocco,0.87,77.6,3.058,0.413,"{""appearance"": 1.648, ""goals"": 0.544, ""assists"": 0.118, ""shots_on_target"": 0.474, ""cards"": -0.086, ""set_pieces"": 0.36}"
+742,Jesús Gallardo,Mexico,DEF,4.7,Ecuador,0.9,80.0,3.054,0.65,"{""appearance"": 1.695, ""goals"": 0.144, ""assists"": 0.057, ""clean_sheet"": 1.581, ""goals_conceded"": -0.264, ""cards"": -0.16}"
+19,Melvin Mastil,Algeria,GK,3.5,Switzerland,0.9,80.0,3.051,0.872,"{""appearance"": 1.695, ""clean_sheet"": 0.781, ""goals_conceded"": -0.705, ""saves"": 1.324, ""cards"": -0.044}"
+1983,Thomas Partey,Ghana,MID,6.2,Colombia,0.87,77.6,3.047,0.492,"{""appearance"": 1.648, ""goals"": 0.27, ""assists"": 0.095, ""clean_sheet"": 0.137, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+83,Ajdin Hrustic,Australia,MID,5.7,Egypt,0.81,72.8,3.046,0.534,"{""appearance"": 1.555, ""goals"": 0.319, ""assists"": 0.114, ""clean_sheet"": 0.216, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+740,Johan Vásquez,Mexico,DEF,4.7,Ecuador,0.9,80.0,3.038,0.646,"{""appearance"": 1.695, ""goals"": 0.129, ""assists"": 0.057, ""clean_sheet"": 1.581, ""goals_conceded"": -0.264, ""cards"": -0.16}"
+526,Nico Schlotterbeck,Germany,DEF,5.3,Paraguay,0.81,72.8,3.038,0.573,"{""appearance"": 1.555, ""assists"": 0.099, ""clean_sheet"": 1.693, ""goals_conceded"": -0.163, ""cards"": -0.146}"
+1030,Pape Matar Sarr,Senegal,MID,5.6,Belgium,0.87,77.6,3.037,0.542,"{""appearance"": 1.648, ""goals"": 0.175, ""assists"": 0.122, ""clean_sheet"": 0.195, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1057,Jayden Adams,South Africa,MID,4.0,Canada,0.9,80.0,3.033,0.758,"{""appearance"": 1.695, ""goals"": 0.169, ""assists"": 0.1, ""clean_sheet"": 0.146, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+124,Romelu Lukaku,Belgium,FWD,7.4,Senegal,0.9,80.0,3.026,0.409,"{""appearance"": 1.695, ""goals"": 0.809, ""assists"": 0.123, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1947,Nilson Angulo,Ecuador,MID,6.0,Mexico,0.84,75.2,3.024,0.504,"{""appearance"": 1.602, ""goals"": 0.227, ""assists"": 0.107, ""clean_sheet"": 0.219, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+901,Miguel Almirón,Paraguay,MID,6.0,Germany,0.9,80.0,3.021,0.504,"{""appearance"": 1.695, ""goals"": 0.231, ""assists"": 0.089, ""clean_sheet"": 0.082, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+317,Yahia Fofana,Côte d'Ivoire,GK,4.2,Norway,0.9,80.0,3.018,0.719,"{""appearance"": 1.695, ""clean_sheet"": 0.743, ""goals_conceded"": -0.741, ""saves"": 1.366, ""cards"": -0.044}"
+812,Ryan Gravenberch,Netherlands,MID,6.1,Morocco,0.84,75.2,3.017,0.495,"{""appearance"": 1.602, ""goals"": 0.139, ""assists"": 0.158, ""clean_sheet"": 0.249, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1077,Ronwen Williams,South Africa,GK,4.5,Canada,0.9,80.0,3.006,0.668,"{""appearance"": 1.695, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""saves"": 1.383, ""cards"": -0.044}"
+114,Maxim De Cuyper,Belgium,DEF,4.7,Senegal,0.9,80.0,2.996,0.638,"{""appearance"": 1.695, ""goals"": 0.322, ""assists"": 0.068, ""clean_sheet"": 1.401, ""goals_conceded"": -0.329, ""cards"": -0.16}"
+670,Daizen Maeda,Japan,MID,5.0,Brazil,0.84,75.2,2.996,0.599,"{""appearance"": 1.602, ""goals"": 0.284, ""assists"": 0.114, ""clean_sheet"": 0.127, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+427,Kendry Páez,Ecuador,MID,5.2,Mexico,0.81,72.8,2.994,0.576,"{""appearance"": 1.555, ""goals"": 0.281, ""assists"": 0.105, ""clean_sheet"": 0.211, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1971,Lawrence Ati Zigi,Ghana,GK,4.0,Colombia,0.9,80.0,2.991,0.748,"{""appearance"": 1.695, ""clean_sheet"": 0.711, ""goals_conceded"": -0.772, ""saves"": 1.403, ""cards"": -0.044}"
+817,Quinten Timber,Netherlands,MID,6.8,Morocco,0.81,72.8,2.991,0.44,"{""appearance"": 1.555, ""goals"": 0.199, ""assists"": 0.155, ""clean_sheet"": 0.24, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1062,Yaya Sithole,South Africa,MID,5.1,Canada,0.9,80.0,2.974,0.583,"{""appearance"": 1.695, ""goals"": 0.11, ""assists"": 0.099, ""clean_sheet"": 0.146, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+677,Zion Suzuki,Japan,GK,4.3,Brazil,0.9,80.0,2.968,0.69,"{""appearance"": 1.695, ""clean_sheet"": 0.683, ""goals_conceded"": -0.802, ""saves"": 1.436, ""cards"": -0.044}"
+2022,Bilal El Khannouss,Morocco,MID,6.2,Netherlands,0.81,72.8,2.954,0.476,"{""appearance"": 1.555, ""goals"": 0.258, ""assists"": 0.125, ""clean_sheet"": 0.175, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1532,Gilson Benchimol,Cabo Verde,MID,5.0,Argentina,0.9,80.0,2.95,0.59,"{""appearance"": 1.695, ""goals"": 0.216, ""assists"": 0.06, ""clean_sheet"": 0.055, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+165,Marquinhos,Brazil,DEF,5.2,Japan,0.87,77.6,2.944,0.566,"{""appearance"": 1.648, ""goals"": 0.134, ""assists"": 0.083, ""clean_sheet"": 1.499, ""goals_conceded"": -0.266, ""cards"": -0.155}"
+1113,Lucas Bergvall,Sweden,MID,5.1,France,0.9,80.0,2.938,0.576,"{""appearance"": 1.695, ""goals"": 0.163, ""assists"": 0.093, ""clean_sheet"": 0.063, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+227,Cyle Larin,Canada,FWD,6.2,South Africa,0.87,77.6,2.935,0.473,"{""appearance"": 1.648, ""goals"": 0.739, ""assists"": 0.16, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+271,Jorge Carrascal,Colombia,MID,6.1,Ghana,0.81,72.8,2.925,0.479,"{""appearance"": 1.555, ""assists"": 0.188, ""clean_sheet"": 0.34, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1345,Alex Sandro,Brazil,DEF,4.5,Japan,0.84,75.2,2.923,0.649,"{""appearance"": 1.602, ""goals"": 0.199, ""assists"": 0.082, ""clean_sheet"": 1.447, ""goals_conceded"": -0.258, ""cards"": -0.15}"
+439,Mohamed Hany,Egypt,DEF,3.6,Australia,0.87,77.6,2.916,0.81,"{""appearance"": 1.648, ""goals"": 0.166, ""assists"": 0.059, ""clean_sheet"": 1.472, ""goals_conceded"": -0.275, ""cards"": -0.155}"
+174,Matheus Cunha,Brazil,FWD,7.3,Japan,0.9,80.0,2.912,0.399,"{""appearance"": 1.695, ""goals"": 0.662, ""assists"": 0.156, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+297,Théo Bongonda,Congo DR,MID,6.2,England,0.87,77.6,2.912,0.47,"{""appearance"": 1.648, ""goals"": 0.216, ""assists"": 0.07, ""clean_sheet"": 0.081, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+81,Aiden O'Neill,Australia,MID,5.4,Egypt,0.84,75.2,2.911,0.539,"{""appearance"": 1.602, ""goals"": 0.101, ""assists"": 0.115, ""clean_sheet"": 0.224, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1537,Mateo Kovacic,Croatia,MID,6.0,Portugal,0.84,75.2,2.91,0.485,"{""appearance"": 1.602, ""goals"": 0.184, ""assists"": 0.103, ""clean_sheet"": 0.152, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+321,Ibrahim Sangaré,Côte d'Ivoire,MID,5.8,Norway,0.84,75.2,2.909,0.502,"{""appearance"": 1.602, ""goals"": 0.159, ""assists"": 0.14, ""clean_sheet"": 0.139, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+162,Amir Hadziahmetovic,Bosnia and Herzegovina,MID,5.5,USA,0.9,80.0,2.89,0.525,"{""appearance"": 1.695, ""goals"": 0.089, ""assists"": 0.088, ""clean_sheet"": 0.093, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1141,Manuel Akanji,Switzerland,DEF,5.0,Algeria,0.9,80.0,2.887,0.577,"{""appearance"": 1.695, ""goals"": 0.214, ""assists"": 0.079, ""clean_sheet"": 1.392, ""goals_conceded"": -0.333, ""cards"": -0.16}"
+117,Thomas Meunier,Belgium,DEF,4.8,Senegal,0.87,77.6,2.884,0.601,"{""appearance"": 1.648, ""goals"": 0.289, ""assists"": 0.066, ""clean_sheet"": 1.355, ""goals_conceded"": -0.319, ""cards"": -0.155}"
+27,Farès Chaïbi,Algeria,MID,6.2,Switzerland,0.81,72.8,2.883,0.465,"{""appearance"": 1.555, ""goals"": 0.222, ""assists"": 0.124, ""clean_sheet"": 0.141, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+102,Carney Chukwuemeka,Austria,MID,5.0,Spain,0.87,77.6,2.883,0.577,"{""appearance"": 1.648, ""goals"": 0.181, ""assists"": 0.068, ""clean_sheet"": 0.089, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+181,Endrick,Brazil,FWD,5.5,Japan,0.87,77.6,2.88,0.524,"{""appearance"": 1.648, ""goals"": 0.691, ""assists"": 0.153, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+298,Christ Inao Oulaï,Côte d'Ivoire,MID,4.6,Norway,0.81,72.8,2.872,0.624,"{""appearance"": 1.555, ""goals"": 0.204, ""assists"": 0.137, ""clean_sheet"": 0.134, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+294,Noah Sadiki,Congo DR,MID,5.3,England,0.9,80.0,2.869,0.541,"{""appearance"": 1.695, ""goals"": 0.095, ""assists"": 0.071, ""clean_sheet"": 0.083, ""tackles"": 0.533, ""chances"": 0.533, ""cards"": -0.142}"
+1032,Pape Gueye,Senegal,MID,5.9,Belgium,0.81,72.8,2.868,0.486,"{""appearance"": 1.555, ""goals"": 0.174, ""assists"": 0.116, ""clean_sheet"": 0.181, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+912,Julio Enciso,Paraguay,MID,6.6,Germany,0.84,75.2,2.855,0.433,"{""appearance"": 1.602, ""goals"": 0.222, ""assists"": 0.085, ""clean_sheet"": 0.077, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+161,Benjamin Tahirovic,Bosnia and Herzegovina,MID,5.3,USA,0.87,77.6,2.846,0.537,"{""appearance"": 1.648, ""goals"": 0.125, ""assists"": 0.087, ""clean_sheet"": 0.09, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+444,Yasser Ibrahim,Egypt,DEF,3.5,Australia,0.84,75.2,2.833,0.809,"{""appearance"": 1.602, ""goals"": 0.168, ""assists"": 0.058, ""clean_sheet"": 1.422, ""goals_conceded"": -0.267, ""cards"": -0.15}"
+167,Danilo,Brazil,DEF,4.3,Japan,0.81,72.8,2.831,0.658,"{""appearance"": 1.555, ""goals"": 0.195, ""assists"": 0.08, ""clean_sheet"": 1.396, ""goals_conceded"": -0.249, ""cards"": -0.146}"
+412,Enner Valencia,Ecuador,FWD,5.9,Mexico,0.9,80.0,2.83,0.48,"{""appearance"": 1.695, ""goals"": 0.417, ""assists"": 0.081, ""shots_on_target"": 0.489, ""cards"": -0.089, ""set_pieces"": 0.237}"
+924,João Félix,Portugal,FWD,6.5,Croatia,0.87,77.6,2.827,0.435,"{""appearance"": 1.648, ""goals"": 0.654, ""assists"": 0.137, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1111,Taha Ali,Sweden,MID,4.9,France,0.84,75.2,2.823,0.576,"{""appearance"": 1.602, ""goals"": 0.204, ""assists"": 0.089, ""clean_sheet"": 0.059, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+796,Virgil van Dijk,Netherlands,DEF,5.5,Morocco,0.9,80.0,2.822,0.513,"{""appearance"": 1.695, ""goals"": 0.243, ""assists"": 0.068, ""clean_sheet"": 1.334, ""goals_conceded"": -0.357, ""cards"": -0.16}"
+296,Edo Kayembe,Congo DR,MID,5.6,England,0.84,75.2,2.815,0.503,"{""appearance"": 1.602, ""goals"": 0.198, ""assists"": 0.068, ""clean_sheet"": 0.078, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1342,Ermin Mahmic,Bosnia and Herzegovina,MID,4.2,USA,0.81,72.8,2.813,0.67,"{""appearance"": 1.555, ""goals"": 0.25, ""assists"": 0.083, ""clean_sheet"": 0.083, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+455,Mohanad Lasheen,Egypt,MID,5.3,Australia,0.81,72.8,2.809,0.53,"{""appearance"": 1.555, ""assists"": 0.138, ""clean_sheet"": 0.274, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+681,Ao Tanaka,Japan,MID,5.0,Brazil,0.81,72.8,2.808,0.562,"{""appearance"": 1.555, ""goals"": 0.178, ""assists"": 0.111, ""clean_sheet"": 0.123, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+1984,Elisha Owusu,Ghana,MID,5.3,Colombia,0.84,75.2,2.797,0.528,"{""appearance"": 1.602, ""goals"": 0.102, ""assists"": 0.092, ""clean_sheet"": 0.133, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+889,Alejandro Romero,Paraguay,MID,4.7,Germany,0.81,72.8,2.793,0.594,"{""appearance"": 1.555, ""goals"": 0.24, ""assists"": 0.083, ""clean_sheet"": 0.074, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+856,Alexander Sørloth,Norway,FWD,6.8,Côte d'Ivoire,0.87,77.6,2.784,0.409,"{""appearance"": 1.648, ""goals"": 0.601, ""assists"": 0.147, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1143,Nico Elvedi,Switzerland,DEF,4.3,Algeria,0.87,77.6,2.784,0.647,"{""appearance"": 1.648, ""goals"": 0.191, ""assists"": 0.077, ""clean_sheet"": 1.345, ""goals_conceded"": -0.323, ""cards"": -0.155}"
+156,Amar Memic,Bosnia and Herzegovina,MID,4.7,USA,0.84,75.2,2.783,0.592,"{""appearance"": 1.602, ""goals"": 0.141, ""assists"": 0.085, ""clean_sheet"": 0.087, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+2067,Mladen Jurkas,Bosnia and Herzegovina,GK,3.5,USA,0.9,80.0,2.778,0.794,"{""appearance"": 1.695, ""clean_sheet"": 0.464, ""goals_conceded"": -1.095, ""saves"": 1.759, ""cards"": -0.044}"
+98,Alexander Schlager,Austria,GK,4.6,Spain,0.9,80.0,2.775,0.603,"{""appearance"": 1.695, ""clean_sheet"": 0.461, ""goals_conceded"": -1.1, ""saves"": 1.764, ""cards"": -0.044}"
+310,Amad Diallo,Côte d'Ivoire,FWD,5.9,Norway,0.87,77.6,2.759,0.468,"{""appearance"": 1.648, ""goals"": 0.33, ""assists"": 0.103, ""shots_on_target"": 0.474, ""cards"": -0.086, ""set_pieces"": 0.29}"
+445,Omar Marmoush,Egypt,FWD,7.8,Australia,0.9,80.0,2.751,0.353,"{""appearance"": 1.695, ""goals"": 0.547, ""assists"": 0.109, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+289,Lionel Mpasi,Congo DR,GK,4.0,England,0.9,80.0,2.736,0.684,"{""appearance"": 1.695, ""clean_sheet"": 0.417, ""goals_conceded"": -1.178, ""saves"": 1.847, ""cards"": -0.044}"
+910,Orlando Gill,Paraguay,GK,3.5,Germany,0.9,80.0,2.731,0.78,"{""appearance"": 1.695, ""clean_sheet"": 0.411, ""goals_conceded"": -1.19, ""saves"": 1.859, ""cards"": -0.044}"
+748,Raúl Jiménez,Mexico,FWD,7.0,Ecuador,0.9,80.0,2.729,0.39,"{""appearance"": 1.695, ""goals"": 0.532, ""assists"": 0.103, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+795,Denzel Dumfries,Netherlands,DEF,5.7,Morocco,0.87,77.6,2.727,0.478,"{""appearance"": 1.648, ""goals"": 0.225, ""assists"": 0.066, ""clean_sheet"": 1.289, ""goals_conceded"": -0.347, ""cards"": -0.155}"
+1142,Ricardo Rodríguez,Switzerland,DEF,4.5,Algeria,0.84,75.2,2.718,0.604,"{""appearance"": 1.602, ""goals"": 0.205, ""assists"": 0.076, ""clean_sheet"": 1.299, ""goals_conceded"": -0.313, ""cards"": -0.15}"
+103,Konrad Laimer,Austria,MID,5.8,Spain,0.84,75.2,2.709,0.467,"{""appearance"": 1.602, ""goals"": 0.086, ""assists"": 0.066, ""clean_sheet"": 0.086, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+195,João Paulo,Cabo Verde,MID,4.6,Argentina,0.87,77.6,2.709,0.589,"{""appearance"": 1.648, ""goals"": 0.052, ""assists"": 0.058, ""clean_sheet"": 0.053, ""tackles"": 0.517, ""chances"": 0.517, ""cards"": -0.138}"
+1992,Antoine Semenyo,Ghana,FWD,7.2,Colombia,0.9,80.0,2.705,0.376,"{""appearance"": 1.695, ""goals"": 0.54, ""assists"": 0.07, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1151,Dan Ndoye,Switzerland,FWD,6.8,Algeria,0.87,77.6,2.704,0.398,"{""appearance"": 1.648, ""goals"": 0.528, ""assists"": 0.139, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+108,Romano Schmid,Austria,MID,6.0,Spain,0.81,72.8,2.703,0.45,"{""appearance"": 1.555, ""goals"": 0.159, ""assists"": 0.064, ""clean_sheet"": 0.083, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+804,Cody Gakpo,Netherlands,FWD,7.7,Morocco,0.9,80.0,2.702,0.351,"{""appearance"": 1.695, ""goals"": 0.487, ""assists"": 0.12, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+847,Julian Ryerson,Norway,DEF,4.2,Côte d'Ivoire,0.9,80.0,2.687,0.64,"{""appearance"": 1.695, ""goals"": 0.186, ""assists"": 0.083, ""clean_sheet"": 1.27, ""goals_conceded"": -0.386, ""cards"": -0.16}"
+295,Charles Pickel,Congo DR,MID,5.3,England,0.81,72.8,2.686,0.507,"{""appearance"": 1.555, ""goals"": 0.147, ""assists"": 0.067, ""clean_sheet"": 0.075, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+332,Ante Budimir,Croatia,FWD,6.8,Portugal,0.87,77.6,2.684,0.395,"{""appearance"": 1.648, ""goals"": 0.57, ""assists"": 0.077, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1144,Silvan Widmer,Switzerland,DEF,4.2,Algeria,0.81,72.8,2.68,0.638,"{""appearance"": 1.555, ""goals"": 0.247, ""assists"": 0.074, ""clean_sheet"": 1.253, ""goals_conceded"": -0.303, ""cards"": -0.146}"
+1519,Ken Sema,Sweden,MID,6.0,France,0.81,72.8,2.678,0.446,"{""appearance"": 1.555, ""goals"": 0.139, ""assists"": 0.086, ""clean_sheet"": 0.057, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+447,Trezeguet,Egypt,FWD,5.6,Australia,0.87,77.6,2.677,0.478,"{""appearance"": 1.648, ""goals"": 0.534, ""assists"": 0.106, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+68,Nestory Irankunda,Australia,FWD,5.1,Egypt,0.87,77.6,2.676,0.525,"{""appearance"": 1.648, ""goals"": 0.313, ""assists"": 0.084, ""shots_on_target"": 0.474, ""cards"": -0.086, ""set_pieces"": 0.242}"
+918,Diogo Dalot,Portugal,DEF,5.0,Croatia,0.81,72.8,2.667,0.533,"{""appearance"": 1.555, ""assists"": 0.07, ""clean_sheet"": 1.426, ""goals_conceded"": -0.239, ""cards"": -0.146}"
+219,Laros Duarte,Cabo Verde,MID,5.1,Argentina,0.84,75.2,2.667,0.523,"{""appearance"": 1.602, ""goals"": 0.087, ""assists"": 0.057, ""clean_sheet"": 0.051, ""tackles"": 0.501, ""chances"": 0.501, ""cards"": -0.134}"
+1129,Kristoffer Nordfeldt,Sweden,GK,3.9,France,0.9,80.0,2.643,0.678,"{""appearance"": 1.695, ""clean_sheet"": 0.316, ""goals_conceded"": -1.402, ""saves"": 2.079, ""cards"": -0.044}"
+347,Mario Pasalic,Croatia,MID,6.4,Portugal,0.81,72.8,2.643,0.413,"{""appearance"": 1.555, ""assists"": 0.1, ""clean_sheet"": 0.147, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+115,Timothy Castagne,Belgium,DEF,4.7,Senegal,0.84,75.2,2.642,0.562,"{""appearance"": 1.602, ""goals"": 0.128, ""assists"": 0.063, ""clean_sheet"": 1.308, ""goals_conceded"": -0.31, ""cards"": -0.15}"
+1445,Augustine Boakye,Ghana,MID,4.9,Colombia,0.81,72.8,2.614,0.533,"{""appearance"": 1.555, ""assists"": 0.089, ""clean_sheet"": 0.128, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+850,David Møller Wolfe,Norway,DEF,4.0,Côte d'Ivoire,0.87,77.6,2.612,0.653,"{""appearance"": 1.648, ""goals"": 0.185, ""assists"": 0.081, ""clean_sheet"": 1.227, ""goals_conceded"": -0.375, ""cards"": -0.155}"
+797,Micky van de Ven,Netherlands,DEF,5.1,Morocco,0.84,75.2,2.606,0.511,"{""appearance"": 1.602, ""goals"": 0.181, ""assists"": 0.064, ""clean_sheet"": 1.245, ""goals_conceded"": -0.336, ""cards"": -0.15}"
+216,Márcio da Rosa,Cabo Verde,GK,3.5,Argentina,0.9,80.0,2.605,0.744,"{""appearance"": 1.695, ""clean_sheet"": 0.276, ""goals_conceded"": -1.513, ""saves"": 2.192, ""cards"": -0.044}"
+217,Telmo Arcanjo,Cabo Verde,MID,4.9,Argentina,0.81,72.8,2.599,0.53,"{""appearance"": 1.555, ""goals"": 0.097, ""assists"": 0.056, ""clean_sheet"": 0.05, ""tackles"": 0.485, ""chances"": 0.485, ""cards"": -0.129}"
+750,Julián Quiñones,Mexico,FWD,5.6,Ecuador,0.9,80.0,2.588,0.462,"{""appearance"": 1.695, ""goals"": 0.391, ""assists"": 0.102, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1124,Viktor Gyökeres,Sweden,FWD,7.8,France,0.9,80.0,2.584,0.331,"{""appearance"": 1.695, ""goals"": 0.422, ""assists"": 0.067, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+9,Mohammed Amoura,Algeria,FWD,6.2,Switzerland,0.87,77.6,2.579,0.416,"{""appearance"": 1.648, ""goals"": 0.449, ""assists"": 0.094, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+438,Ahmed Fatouh,Egypt,DEF,3.9,Australia,0.81,72.8,2.578,0.661,"{""appearance"": 1.555, ""assists"": 0.055, ""clean_sheet"": 1.371, ""goals_conceded"": -0.258, ""cards"": -0.146}"
+2006,Mohamed Touré,Australia,FWD,5.0,Egypt,0.9,80.0,2.578,0.516,"{""appearance"": 1.695, ""goals"": 0.396, ""assists"": 0.087, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+2012,Achraf Hakimi,Morocco,DEF,6.0,Netherlands,0.9,80.0,2.576,0.429,"{""appearance"": 1.695, ""goals"": 0.286, ""assists"": 0.054, ""clean_sheet"": 0.972, ""goals_conceded"": -0.555, ""cards"": -0.16, ""set_pieces"": 0.283}"
+672,Ayase Ueda,Japan,FWD,7.0,Brazil,0.9,80.0,2.571,0.367,"{""appearance"": 1.695, ""goals"": 0.391, ""assists"": 0.085, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+777,Ayoub El Kaabi,Morocco,FWD,5.9,Netherlands,0.87,77.6,2.563,0.434,"{""appearance"": 1.648, ""goals"": 0.433, ""assists"": 0.094, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1987,Iñaki Williams,Ghana,FWD,5.9,Colombia,0.87,77.6,2.555,0.433,"{""appearance"": 1.648, ""goals"": 0.451, ""assists"": 0.068, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+116,Arthur Theate,Belgium,DEF,4.5,Senegal,0.81,72.8,2.551,0.567,"{""appearance"": 1.555, ""goals"": 0.118, ""assists"": 0.062, ""clean_sheet"": 1.261, ""goals_conceded"": -0.3, ""cards"": -0.146}"
+334,Ivan Perisic,Croatia,FWD,5.4,Portugal,0.9,80.0,2.539,0.47,"{""appearance"": 1.695, ""goals"": 0.367, ""assists"": 0.077, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+66,Kai Trewin,Australia,DEF,3.5,Egypt,0.9,80.0,2.537,0.725,"{""appearance"": 1.695, ""goals"": 0.17, ""assists"": 0.049, ""clean_sheet"": 1.202, ""goals_conceded"": -0.419, ""cards"": -0.16}"
+307,Yan Diomande,Côte d'Ivoire,FWD,5.9,Norway,0.9,80.0,2.521,0.427,"{""appearance"": 1.695, ""goals"": 0.321, ""assists"": 0.105, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1071,Lyle Foster,South Africa,FWD,5.4,Canada,0.9,80.0,2.519,0.467,"{""appearance"": 1.695, ""goals"": 0.353, ""assists"": 0.071, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+673,Koki Ogawa,Japan,FWD,4.9,Brazil,0.87,77.6,2.507,0.512,"{""appearance"": 1.648, ""goals"": 0.387, ""assists"": 0.083, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1042,Iliman Ndiaye,Senegal,FWD,6.5,Belgium,0.9,80.0,2.499,0.384,"{""appearance"": 1.695, ""goals"": 0.315, ""assists"": 0.089, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+127,Dodi Lukébakio,Belgium,FWD,5.9,Senegal,0.87,77.6,2.497,0.423,"{""appearance"": 1.648, ""goals"": 0.345, ""assists"": 0.115, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+846,Kristoffer Ajer,Norway,DEF,4.3,Côte d'Ivoire,0.84,75.2,2.495,0.58,"{""appearance"": 1.602, ""goals"": 0.143, ""assists"": 0.079, ""clean_sheet"": 1.185, ""goals_conceded"": -0.363, ""cards"": -0.15}"
+1520,Alexander Isak,Sweden,FWD,8.0,France,0.87,77.6,2.491,0.311,"{""appearance"": 1.648, ""goals"": 0.389, ""assists"": 0.065, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+58,Jordan Bos,Australia,DEF,4.0,Egypt,0.87,77.6,2.481,0.62,"{""appearance"": 1.648, ""goals"": 0.184, ""assists"": 0.048, ""clean_sheet"": 1.162, ""goals_conceded"": -0.407, ""cards"": -0.155}"
+798,Nathan Aké,Netherlands,DEF,5.0,Morocco,0.81,72.8,2.478,0.496,"{""appearance"": 1.555, ""goals"": 0.13, ""assists"": 0.062, ""clean_sheet"": 1.201, ""goals_conceded"": -0.325, ""cards"": -0.146}"
+1043,Ismaïla Sarr,Senegal,FWD,6.2,Belgium,0.87,77.6,2.471,0.399,"{""appearance"": 1.648, ""goals"": 0.347, ""assists"": 0.087, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+782,Gessime Yassine,Morocco,FWD,4.0,Netherlands,0.9,80.0,2.468,0.617,"{""appearance"": 1.695, ""goals"": 0.279, ""assists"": 0.095, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+147,Edin Dzeko,Bosnia and Herzegovina,FWD,6.1,USA,0.9,80.0,2.459,0.403,"{""appearance"": 1.695, ""goals"": 0.3, ""assists"": 0.063, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+752,Roberto Alvarado,Mexico,FWD,5.3,Ecuador,0.9,80.0,2.458,0.464,"{""appearance"": 1.695, ""goals"": 0.263, ""assists"": 0.1, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+214,Vozinha,Cabo Verde,GK,3.9,Argentina,0.4,40.0,2.456,0.63,"{""appearance"": 0.92, ""clean_sheet"": 0.123, ""goals_conceded"": -0.757, ""saves"": 2.192, ""cards"": -0.022}"
+12,Ibrahim Maza,Algeria,FWD,5.4,Switzerland,0.9,80.0,2.448,0.453,"{""appearance"": 1.695, ""goals"": 0.258, ""assists"": 0.094, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+421,Jeremy Arévalo,Ecuador,FWD,4.0,Mexico,0.87,77.6,2.44,0.61,"{""appearance"": 1.648, ""goals"": 0.325, ""assists"": 0.078, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+849,Leo Østigård,Norway,DEF,4.1,Côte d'Ivoire,0.81,72.8,2.433,0.593,"{""appearance"": 1.555, ""goals"": 0.155, ""assists"": 0.077, ""clean_sheet"": 1.143, ""goals_conceded"": -0.352, ""cards"": -0.146}"
+1514,Viktor Johansson,Sweden,GK,3.9,France,0.4,40.0,2.416,0.62,"{""appearance"": 0.92, ""clean_sheet"": 0.14, ""goals_conceded"": -0.701, ""saves"": 2.079, ""cards"": -0.022}"
+95,Marko Arnautovic,Austria,FWD,6.0,Spain,0.9,80.0,2.407,0.401,"{""appearance"": 1.695, ""goals"": 0.263, ""assists"": 0.049, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+281,Yoane Wissa,Congo DR,FWD,6.2,England,0.9,80.0,2.395,0.386,"{""appearance"": 1.695, ""goals"": 0.249, ""assists"": 0.051, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+2053,Willian Pacho,Ecuador,DEF,4.4,Mexico,0.9,80.0,2.394,0.544,"{""appearance"": 1.695, ""goals"": 0.074, ""assists"": 0.045, ""clean_sheet"": 1.174, ""goals_conceded"": -0.434, ""cards"": -0.16}"
+902,Antonio Sanabria,Paraguay,FWD,6.5,Germany,0.9,80.0,2.376,0.366,"{""appearance"": 1.695, ""goals"": 0.218, ""assists"": 0.063, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+67,Lucas Herrington,Australia,DEF,3.5,Egypt,0.84,75.2,2.375,0.678,"{""appearance"": 1.602, ""goals"": 0.148, ""assists"": 0.047, ""clean_sheet"": 1.122, ""goals_conceded"": -0.394, ""cards"": -0.15}"
+215,CJ dos Santos,Cabo Verde,GK,3.6,Argentina,0.12,17.6,2.372,0.659,"{""appearance"": 0.486, ""clean_sheet"": 0.037, ""goals_conceded"": -0.333, ""saves"": 2.192, ""cards"": -0.01}"
+400,Pervis Estupiñán,Ecuador,DEF,4.8,Mexico,0.84,75.2,2.351,0.49,"{""appearance"": 1.602, ""goals"": 0.169, ""assists"": 0.043, ""clean_sheet"": 1.095, ""goals_conceded"": -0.408, ""cards"": -0.15}"
+2052,Piero Hincapié,Ecuador,DEF,4.7,Mexico,0.87,77.6,2.349,0.5,"{""appearance"": 1.648, ""goals"": 0.098, ""assists"": 0.044, ""clean_sheet"": 1.135, ""goals_conceded"": -0.421, ""cards"": -0.155}"
+207,Jovane Cabral,Cabo Verde,FWD,4.9,Argentina,0.87,77.6,2.346,0.479,"{""appearance"": 1.648, ""goals"": 0.145, ""assists"": 0.041, ""shots_on_target"": 0.474, ""cards"": -0.086, ""set_pieces"": 0.124}"
+904,Álex Arce,Paraguay,FWD,4.9,Germany,0.87,77.6,2.345,0.479,"{""appearance"": 1.648, ""goals"": 0.247, ""assists"": 0.061, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+908,Roberto Fernández,Paraguay,GK,4.0,Germany,0.4,40.0,2.345,0.586,"{""appearance"": 0.92, ""clean_sheet"": 0.183, ""goals_conceded"": -0.595, ""saves"": 1.859, ""cards"": -0.022}"
+290,Matthieu Epolo,Congo DR,GK,3.7,England,0.4,40.0,2.341,0.633,"{""appearance"": 0.92, ""clean_sheet"": 0.185, ""goals_conceded"": -0.589, ""saves"": 1.847, ""cards"": -0.022}"
+146,Ermedin Demirovic,Bosnia and Herzegovina,FWD,6.2,USA,0.87,77.6,2.338,0.377,"{""appearance"": 1.648, ""goals"": 0.24, ""assists"": 0.062, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+41,Giuliano Simeone,Argentina,MID,5.6,Cabo Verde,0.4,40.0,2.318,0.414,"{""appearance"": 0.92, ""goals"": 0.517, ""assists"": 0.206, ""clean_sheet"": 0.212, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+101,Florian Wiegele,Austria,GK,3.5,Spain,0.4,40.0,2.317,0.662,"{""appearance"": 0.92, ""clean_sheet"": 0.205, ""goals_conceded"": -0.55, ""saves"": 1.764, ""cards"": -0.022}"
+153,Nikola Vasilj,Bosnia and Herzegovina,GK,4.0,USA,0.4,40.0,2.315,0.579,"{""appearance"": 0.92, ""clean_sheet"": 0.206, ""goals_conceded"": -0.547, ""saves"": 1.759, ""cards"": -0.022}"
+96,Michael Gregoritsch,Austria,FWD,6.0,Spain,0.87,77.6,2.31,0.385,"{""appearance"": 1.648, ""goals"": 0.226, ""assists"": 0.048, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+46,Gerónimo Rulli,Argentina,GK,4.5,Cabo Verde,0.4,40.0,2.31,0.513,"{""appearance"": 0.92, ""clean_sheet"": 1.062, ""goals_conceded"": -0.042, ""saves"": 0.392, ""cards"": -0.022}"
+283,Cédric Bakambu,Congo DR,FWD,6.5,England,0.87,77.6,2.308,0.355,"{""appearance"": 1.648, ""goals"": 0.222, ""assists"": 0.049, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1431,Bradley Barcola,France,MID,8.0,Sweden,0.4,40.0,2.301,0.288,"{""appearance"": 0.92, ""goals"": 0.564, ""assists"": 0.196, ""clean_sheet"": 0.16, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+2002,Harry Souttar,Australia,DEF,4.1,Egypt,0.81,72.8,2.301,0.561,"{""appearance"": 1.555, ""goals"": 0.145, ""assists"": 0.045, ""clean_sheet"": 1.082, ""goals_conceded"": -0.381, ""cards"": -0.146}"
+1515,Jacob Widell Zetterström,Sweden,GK,3.7,France,0.12,17.6,2.289,0.619,"{""appearance"": 0.486, ""clean_sheet"": 0.042, ""goals_conceded"": -0.309, ""saves"": 2.079, ""cards"": -0.01}"
+478,Dean Henderson,England,GK,4.2,Congo DR,0.4,40.0,2.28,0.543,"{""appearance"": 0.92, ""clean_sheet"": 0.981, ""goals_conceded"": -0.056, ""saves"": 0.459, ""cards"": -0.022}"
+1099,Unai Simón,Spain,GK,5.0,Austria,0.4,40.0,2.28,0.456,"{""appearance"": 0.92, ""clean_sheet"": 0.979, ""goals_conceded"": -0.057, ""saves"": 0.46, ""cards"": -0.022}"
+206,Ryan Mendes,Cabo Verde,FWD,4.9,Argentina,0.9,80.0,2.275,0.464,"{""appearance"": 1.695, ""goals"": 0.138, ""assists"": 0.042, ""shots_on_target"": 0.489, ""cards"": -0.089}"
+1273,Chris Brady,USA,GK,3.5,Bosnia and Herzegovina,0.4,40.0,2.241,0.64,"{""appearance"": 0.92, ""clean_sheet"": 0.857, ""goals_conceded"": -0.084, ""saves"": 0.571, ""cards"": -0.022}"
+263,David Ospina,Colombia,GK,4.0,Ghana,0.4,40.0,2.237,0.559,"{""appearance"": 0.92, ""clean_sheet"": 0.84, ""goals_conceded"": -0.088, ""saves"": 0.587, ""cards"": -0.022}"
+678,Keisuke Osako,Japan,GK,4.0,Brazil,0.4,40.0,2.236,0.559,"{""appearance"": 0.92, ""clean_sheet"": 0.303, ""goals_conceded"": -0.401, ""saves"": 1.436, ""cards"": -0.022}"
+533,Alexander Nübel,Germany,GK,4.7,Paraguay,0.4,40.0,2.236,0.476,"{""appearance"": 0.92, ""clean_sheet"": 0.836, ""goals_conceded"": -0.09, ""saves"": 0.592, ""cards"": -0.022}"
+565,Benjamin Asare,Ghana,GK,3.8,Colombia,0.4,40.0,2.23,0.587,"{""appearance"": 0.92, ""clean_sheet"": 0.316, ""goals_conceded"": -0.386, ""saves"": 1.403, ""cards"": -0.022}"
+236,Dayne St. Clair,Canada,GK,3.8,South Africa,0.4,40.0,2.229,0.586,"{""appearance"": 0.92, ""clean_sheet"": 0.809, ""goals_conceded"": -0.097, ""saves"": 0.619, ""cards"": -0.022}"
+508,Brice Samba,France,GK,4.5,Sweden,0.4,40.0,2.226,0.495,"{""appearance"": 0.92, ""clean_sheet"": 0.799, ""goals_conceded"": -0.1, ""saves"": 0.63, ""cards"": -0.022}"
+316,Alban Lafont,Côte d'Ivoire,GK,4.1,Norway,0.4,40.0,2.223,0.542,"{""appearance"": 0.92, ""clean_sheet"": 0.33, ""goals_conceded"": -0.37, ""saves"": 1.366, ""cards"": -0.022}"
+1037,Kalidou Koulibaly,Senegal,DEF,4.9,Belgium,0.9,80.0,2.221,0.453,"{""appearance"": 1.695, ""goals"": 0.158, ""assists"": 0.05, ""clean_sheet"": 1.008, ""goals_conceded"": -0.531, ""cards"": -0.16}"
+18,Luca Zidane,Algeria,GK,3.8,Switzerland,0.4,40.0,2.216,0.583,"{""appearance"": 0.92, ""clean_sheet"": 0.347, ""goals_conceded"": -0.352, ""saves"": 1.324, ""cards"": -0.022}"
+404,Joel Ordóñez,Ecuador,DEF,3.9,Mexico,0.81,72.8,2.212,0.567,"{""appearance"": 1.555, ""goals"": 0.099, ""assists"": 0.042, ""clean_sheet"": 1.056, ""goals_conceded"": -0.395, ""cards"": -0.146}"
+1535,Dominik Kotarski,Croatia,GK,4.4,Portugal,0.4,40.0,2.211,0.503,"{""appearance"": 0.92, ""clean_sheet"": 0.362, ""goals_conceded"": -0.338, ""saves"": 1.289, ""cards"": -0.022}"
+931,Rui Silva,Portugal,GK,4.7,Croatia,0.4,40.0,2.205,0.469,"{""appearance"": 0.92, ""clean_sheet"": 0.704, ""goals_conceded"": -0.131, ""saves"": 0.734, ""cards"": -0.022}"
+182,Ederson,Brazil,GK,5.0,Japan,0.4,40.0,2.202,0.44,"{""appearance"": 0.92, ""clean_sheet"": 0.689, ""goals_conceded"": -0.137, ""saves"": 0.752, ""cards"": -0.022}"
+451,Mohamed El Shenawy,Egypt,GK,3.6,Australia,0.4,40.0,2.2,0.611,"{""appearance"": 0.92, ""clean_sheet"": 0.677, ""goals_conceded"": -0.142, ""saves"": 0.767, ""cards"": -0.022}"
+1253,Brenden Aaronson,USA,MID,5.7,Bosnia and Herzegovina,0.4,40.0,2.199,0.386,"{""appearance"": 0.92, ""goals"": 0.477, ""assists"": 0.168, ""clean_sheet"": 0.171, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+2009,Ahmed Tagnaouti,Morocco,GK,3.5,Netherlands,0.4,40.0,2.194,0.627,"{""appearance"": 0.92, ""clean_sheet"": 0.432, ""goals_conceded"": -0.277, ""saves"": 1.142, ""cards"": -0.022}"
+132,Senne Lammens,Belgium,GK,4.6,Senegal,0.4,40.0,2.193,0.477,"{""appearance"": 0.92, ""clean_sheet"": 0.623, ""goals_conceded"": -0.165, ""saves"": 0.837, ""cards"": -0.022}"
+1154,Yvon Mvogo,Switzerland,GK,4.2,Algeria,0.4,40.0,2.192,0.522,"{""appearance"": 0.92, ""clean_sheet"": 0.619, ""goals_conceded"": -0.167, ""saves"": 0.843, ""cards"": -0.022}"
+1052,Yehvann Diouf,Senegal,GK,3.9,Belgium,0.4,40.0,2.192,0.562,"{""appearance"": 0.92, ""clean_sheet"": 0.448, ""goals_conceded"": -0.265, ""saves"": 1.111, ""cards"": -0.022}"
+2036,Robin Roefs,Netherlands,GK,4.6,Morocco,0.4,40.0,2.19,0.476,"{""appearance"": 0.92, ""clean_sheet"": 0.593, ""goals_conceded"": -0.179, ""saves"": 0.878, ""cards"": -0.022}"
+1681,Sander Tangvik,Norway,GK,3.5,Côte d'Ivoire,0.4,40.0,2.188,0.625,"{""appearance"": 0.92, ""clean_sheet"": 0.564, ""goals_conceded"": -0.193, ""saves"": 0.919, ""cards"": -0.022}"
+74,Mathew Ryan,Australia,GK,4.1,Egypt,0.4,40.0,2.187,0.533,"{""appearance"": 0.92, ""clean_sheet"": 0.534, ""goals_conceded"": -0.21, ""saves"": 0.964, ""cards"": -0.022}"
+424,Moisés Ramírez,Ecuador,GK,3.9,Mexico,0.4,40.0,2.187,0.561,"{""appearance"": 0.92, ""clean_sheet"": 0.522, ""goals_conceded"": -0.217, ""saves"": 0.985, ""cards"": -0.022}"
+1035,El Hadji Malick Diouf,Senegal,DEF,4.1,Belgium,0.87,77.6,2.187,0.533,"{""appearance"": 1.648, ""goals"": 0.184, ""assists"": 0.049, ""clean_sheet"": 0.975, ""goals_conceded"": -0.515, ""cards"": -0.155}"
+1396,Cucho Hernández,Colombia,FWD,6.3,Ghana,0.87,77.6,2.174,0.345,"{""appearance"": 1.648, ""assists"": 0.138, ""shots_on_target"": 0.474, ""cards"": -0.086}"
+1710,Eberechi Eze,England,MID,8.0,Congo DR,0.4,40.0,2.163,0.27,"{""appearance"": 0.92, ""goals"": 0.409, ""assists"": 0.175, ""clean_sheet"": 0.196, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1338,Lautaro Martínez,Argentina,FWD,8.8,Cabo Verde,0.4,40.0,2.131,0.242,"{""appearance"": 0.92, ""goals"": 0.855, ""assists"": 0.156, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+909,Gastón Olveira,Paraguay,GK,3.8,Germany,0.12,17.6,2.129,0.56,"{""appearance"": 0.486, ""clean_sheet"": 0.055, ""goals_conceded"": -0.262, ""saves"": 1.859, ""cards"": -0.01}"
+291,Timothy Fayulu,Congo DR,GK,3.6,England,0.12,17.6,2.12,0.589,"{""appearance"": 0.486, ""clean_sheet"": 0.056, ""goals_conceded"": -0.259, ""saves"": 1.847, ""cards"": -0.01}"
+34,Nicolás Tagliafico,Argentina,DEF,4.3,Cabo Verde,0.4,40.0,2.117,0.492,"{""appearance"": 0.92, ""goals"": 0.175, ""assists"": 0.082, ""clean_sheet"": 1.062, ""goals_conceded"": -0.042, ""cards"": -0.08}"
+2014,Noussair Mazraoui,Morocco,DEF,4.4,Netherlands,0.87,77.6,2.074,0.471,"{""appearance"": 1.648, ""goals"": 0.127, ""assists"": 0.052, ""clean_sheet"": 0.94, ""goals_conceded"": -0.538, ""cards"": -0.155}"
+99,Patrick Pentz,Austria,GK,4.6,Spain,0.12,17.6,2.06,0.448,"{""appearance"": 0.486, ""clean_sheet"": 0.061, ""goals_conceded"": -0.242, ""saves"": 1.764, ""cards"": -0.01}"
+155,Martin Zlomislic,Bosnia and Herzegovina,GK,3.5,USA,0.12,17.6,2.056,0.587,"{""appearance"": 0.486, ""clean_sheet"": 0.062, ""goals_conceded"": -0.241, ""saves"": 1.759, ""cards"": -0.01}"
+1599,Nadiem Amiri,Germany,MID,6.3,Paraguay,0.4,40.0,2.05,0.325,"{""appearance"": 0.92, ""goals"": 0.331, ""assists"": 0.169, ""clean_sheet"": 0.167, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1033,Mamadou Sarr,Senegal,DEF,4.7,Belgium,0.84,75.2,2.044,0.435,"{""appearance"": 1.602, ""goals"": 0.102, ""assists"": 0.048, ""clean_sheet"": 0.941, ""goals_conceded"": -0.499, ""cards"": -0.15}"
+243,Jonathan Osorio,Canada,MID,5.6,South Africa,0.4,40.0,2.021,0.361,"{""appearance"": 0.92, ""goals"": 0.336, ""assists"": 0.14, ""clean_sheet"": 0.162, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1712,Ivan Toney,England,FWD,7.5,Congo DR,0.4,40.0,2.012,0.268,"{""appearance"": 0.92, ""goals"": 0.76, ""assists"": 0.132, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+2016,Issa Diop,Morocco,DEF,4.5,Netherlands,0.84,75.2,1.988,0.442,"{""appearance"": 1.602, ""goals"": 0.1, ""assists"": 0.051, ""clean_sheet"": 0.907, ""goals_conceded"": -0.521, ""cards"": -0.15}"
+1039,Antoine Mendy,Senegal,DEF,3.7,Belgium,0.81,72.8,1.981,0.535,"{""appearance"": 1.555, ""goals"": 0.1, ""assists"": 0.047, ""clean_sheet"": 0.907, ""goals_conceded"": -0.483, ""cards"": -0.146}"
+1536,Josko Gvardiol,Croatia,DEF,5.0,Portugal,0.9,80.0,1.973,0.395,"{""appearance"": 1.695, ""goals"": 0.254, ""assists"": 0.044, ""clean_sheet"": 0.815, ""goals_conceded"": -0.675, ""cards"": -0.16}"
+1089,Pau Cubarsí,Spain,DEF,5.0,Austria,0.4,40.0,1.966,0.393,"{""appearance"": 0.92, ""goals"": 0.14, ""assists"": 0.064, ""clean_sheet"": 0.979, ""goals_conceded"": -0.057, ""cards"": -0.08}"
+1104,Rodri,Spain,MID,7.5,Austria,0.4,40.0,1.963,0.262,"{""appearance"": 0.92, ""goals"": 0.226, ""assists"": 0.16, ""clean_sheet"": 0.196, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+466,John Stones,England,DEF,4.6,Congo DR,0.4,40.0,1.961,0.426,"{""appearance"": 0.92, ""goals"": 0.128, ""assists"": 0.069, ""clean_sheet"": 0.981, ""goals_conceded"": -0.056, ""cards"": -0.08}"
+129,Charles De Ketelaere,Belgium,MID,5.6,Senegal,0.4,40.0,1.952,0.349,"{""appearance"": 0.92, ""goals"": 0.341, ""assists"": 0.105, ""clean_sheet"": 0.125, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+2015,Redouane Halhal,Morocco,DEF,3.5,Netherlands,0.81,72.8,1.947,0.556,"{""appearance"": 1.555, ""goals"": 0.117, ""assists"": 0.05, ""clean_sheet"": 0.875, ""goals_conceded"": -0.505, ""cards"": -0.146}"
+864,Kristian Thorstvedt,Norway,MID,6.2,Côte d'Ivoire,0.4,40.0,1.945,0.314,"{""appearance"": 0.92, ""goals"": 0.32, ""assists"": 0.13, ""clean_sheet"": 0.113, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1432,Jean-Philippe Mateta,France,FWD,6.5,Sweden,0.4,40.0,1.942,0.299,"{""appearance"": 0.92, ""goals"": 0.678, ""assists"": 0.144, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+257,Jhon Córdoba,Colombia,FWD,6.1,Ghana,0.4,40.0,1.926,0.316,"{""appearance"": 0.92, ""goals"": 0.709, ""assists"": 0.097, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1095,Borja Iglesias,Spain,FWD,6.8,Austria,0.4,40.0,1.918,0.282,"{""appearance"": 0.92, ""goals"": 0.677, ""assists"": 0.121, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+937,João Neves,Portugal,MID,6.5,Croatia,0.4,40.0,1.888,0.29,"{""appearance"": 0.92, ""goals"": 0.245, ""assists"": 0.12, ""clean_sheet"": 0.141, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+531,Deniz Undav,Germany,FWD,6.6,Paraguay,0.4,40.0,1.883,0.285,"{""appearance"": 0.92, ""goals"": 0.636, ""assists"": 0.126, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+433,Zizo,Egypt,MID,4.3,Australia,0.4,40.0,1.877,0.436,"{""appearance"": 0.92, ""goals"": 0.265, ""assists"": 0.094, ""clean_sheet"": 0.135, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+2042,Justin Kluivert,Netherlands,MID,6.5,Morocco,0.4,40.0,1.873,0.288,"{""appearance"": 0.92, ""goals"": 0.267, ""assists"": 0.105, ""clean_sheet"": 0.119, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+521,David Raum,Germany,DEF,4.9,Paraguay,0.4,40.0,1.855,0.379,"{""appearance"": 0.92, ""goals"": 0.2, ""assists"": 0.068, ""clean_sheet"": 0.836, ""goals_conceded"": -0.09, ""cards"": -0.08}"
+2034,Haji Wright,USA,FWD,5.3,Bosnia and Herzegovina,0.4,40.0,1.837,0.347,"{""appearance"": 0.92, ""goals"": 0.594, ""assists"": 0.123, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1078,Ricardo Goss,South Africa,GK,3.7,Canada,0.15,20.0,1.837,0.496,"{""appearance"": 0.532, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""saves"": 1.383, ""cards"": -0.011}"
+1698,Sipho Chaine,South Africa,GK,3.7,Canada,0.15,20.0,1.837,0.496,"{""appearance"": 0.532, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""saves"": 1.383, ""cards"": -0.011}"
+679,Tomoki Hayakawa,Japan,GK,3.8,Brazil,0.12,17.6,1.827,0.481,"{""appearance"": 0.486, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""saves"": 1.436, ""cards"": -0.01}"
+188,Casemiro,Brazil,MID,6.3,Japan,0.4,40.0,1.825,0.29,"{""appearance"": 0.92, ""goals"": 0.173, ""assists"": 0.133, ""clean_sheet"": 0.138, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+7,Rafik Belghali,Algeria,DEF,3.5,Switzerland,0.9,80.0,1.812,0.518,"{""appearance"": 1.695, ""goals"": 0.147, ""assists"": 0.053, ""clean_sheet"": 0.781, ""goals_conceded"": -0.705, ""cards"": -0.16}"
+2032,Miles Robinson,USA,DEF,4.0,Bosnia and Herzegovina,0.4,40.0,1.81,0.452,"{""appearance"": 0.92, ""goals"": 0.131, ""assists"": 0.066, ""clean_sheet"": 0.857, ""goals_conceded"": -0.084, ""cards"": -0.08}"
+1972,Joseph Anang,Ghana,GK,3.6,Colombia,0.12,17.6,1.804,0.501,"{""appearance"": 0.486, ""clean_sheet"": 0.095, ""goals_conceded"": -0.17, ""saves"": 1.403, ""cards"": -0.01}"
+1156,Djibril Sow,Switzerland,MID,6.1,Algeria,0.4,40.0,1.789,0.293,"{""appearance"": 0.92, ""goals"": 0.16, ""assists"": 0.122, ""clean_sheet"": 0.124, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+82,Awer Mabil,Australia,MID,5.6,Egypt,0.4,40.0,1.778,0.318,"{""appearance"": 0.92, ""goals"": 0.213, ""assists"": 0.076, ""clean_sheet"": 0.107, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+318,Mohamed Koné,Côte d'Ivoire,GK,3.7,Norway,0.12,17.6,1.778,0.481,"{""appearance"": 0.486, ""clean_sheet"": 0.099, ""goals_conceded"": -0.163, ""saves"": 1.366, ""cards"": -0.01}"
+325,Josip Stanisic,Croatia,DEF,4.3,Portugal,0.84,75.2,1.762,0.41,"{""appearance"": 1.602, ""goals"": 0.143, ""assists"": 0.042, ""clean_sheet"": 0.76, ""goals_conceded"": -0.635, ""cards"": -0.15}"
+684,Ritsu Doan,Japan,DEF,5.1,Brazil,0.9,80.0,1.755,0.344,"{""appearance"": 1.695, ""goals"": 0.291, ""assists"": 0.049, ""clean_sheet"": 0.683, ""goals_conceded"": -0.802, ""cards"": -0.16}"
+680,Yuito Suzuki,Japan,MID,5.0,Brazil,0.4,40.0,1.755,0.351,"{""appearance"": 0.92, ""goals"": 0.237, ""assists"": 0.075, ""clean_sheet"": 0.061, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+2046,Oussama Benbot,Algeria,GK,4.2,Switzerland,0.12,17.6,1.749,0.416,"{""appearance"": 0.486, ""clean_sheet"": 0.104, ""goals_conceded"": -0.155, ""saves"": 1.324, ""cards"": -0.01}"
+1,Rayan Aït-Nouri,Algeria,DEF,4.9,Switzerland,0.87,77.6,1.746,0.356,"{""appearance"": 1.648, ""goals"": 0.129, ""assists"": 0.052, ""clean_sheet"": 0.755, ""goals_conceded"": -0.684, ""cards"": -0.155}"
+496,Lucas Hernández,France,DEF,5.2,Sweden,0.4,40.0,1.743,0.335,"{""appearance"": 0.92, ""goals"": 0.128, ""assists"": 0.076, ""clean_sheet"": 0.799, ""goals_conceded"": -0.1, ""cards"": -0.08}"
+1964,Moïse Bombito,Canada,DEF,4.1,South Africa,0.4,40.0,1.727,0.421,"{""appearance"": 0.92, ""goals"": 0.12, ""assists"": 0.056, ""clean_sheet"": 0.809, ""goals_conceded"": -0.097, ""cards"": -0.08}"
+339,Ivor Pandur,Croatia,GK,3.9,Portugal,0.12,17.6,1.725,0.442,"{""appearance"": 0.486, ""clean_sheet"": 0.109, ""goals_conceded"": -0.149, ""saves"": 1.289, ""cards"": -0.01}"
+303,Guéla Doué,Côte d'Ivoire,DEF,3.9,Norway,0.9,80.0,1.711,0.439,"{""appearance"": 1.695, ""goals"": 0.115, ""assists"": 0.059, ""clean_sheet"": 0.743, ""goals_conceded"": -0.741, ""cards"": -0.16}"
+1063,Aubrey Modiba,South Africa,DEF,3.7,Canada,0.9,80.0,1.696,0.458,"{""appearance"": 1.695, ""goals"": 0.149, ""assists"": 0.04, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""cards"": -0.16}"
+1979,Marvin Senaya,Ghana,DEF,3.5,Colombia,0.9,80.0,1.677,0.479,"{""appearance"": 1.695, ""goals"": 0.165, ""assists"": 0.039, ""clean_sheet"": 0.711, ""goals_conceded"": -0.772, ""cards"": -0.16}"
+267,Juan Fernando Quintero,Colombia,MID,5.6,Ghana,0.4,40.0,1.676,0.299,"{""appearance"": 0.92, ""assists"": 0.125, ""clean_sheet"": 0.168, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1065,Khuliso Mudau,South Africa,DEF,3.6,Canada,0.9,80.0,1.675,0.465,"{""appearance"": 1.695, ""goals"": 0.128, ""assists"": 0.04, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""cards"": -0.16}"
+301,Ousmane Diomande,Côte d'Ivoire,DEF,4.3,Norway,0.87,77.6,1.673,0.389,"{""appearance"": 1.648, ""goals"": 0.123, ""assists"": 0.058, ""clean_sheet"": 0.718, ""goals_conceded"": -0.718, ""cards"": -0.155}"
+1982,Caleb Yirenkyi,Ghana,MID,4.7,Colombia,0.4,40.0,1.671,0.355,"{""appearance"": 0.92, ""goals"": 0.165, ""assists"": 0.061, ""clean_sheet"": 0.063, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+178,Igor Thiago,Brazil,FWD,5.9,Japan,0.4,40.0,1.669,0.283,"{""appearance"": 0.92, ""goals"": 0.451, ""assists"": 0.098, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+330,Luka Vuskovic,Croatia,DEF,3.7,Portugal,0.87,77.6,1.668,0.451,"{""appearance"": 1.648, ""assists"": 0.042, ""clean_sheet"": 0.788, ""goals_conceded"": -0.655, ""cards"": -0.155}"
+1066,Nkosinathi Sibisi,South Africa,DEF,3.6,Canada,0.9,80.0,1.662,0.462,"{""appearance"": 1.695, ""goals"": 0.114, ""assists"": 0.04, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""cards"": -0.16}"
+320,Jean Michaël Seri,Côte d'Ivoire,MID,5.5,Norway,0.4,40.0,1.66,0.302,"{""appearance"": 0.92, ""goals"": 0.119, ""assists"": 0.092, ""clean_sheet"": 0.066, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1069,Ime Okon,South Africa,DEF,3.5,Canada,0.9,80.0,1.659,0.474,"{""appearance"": 1.695, ""goals"": 0.111, ""assists"": 0.04, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""cards"": -0.16}"
+8,Achref Abada,Algeria,DEF,3.5,Switzerland,0.84,75.2,1.658,0.474,"{""appearance"": 1.602, ""goals"": 0.089, ""assists"": 0.051, ""clean_sheet"": 0.729, ""goals_conceded"": -0.662, ""cards"": -0.15}"
+2,Ramy Bensebaini,Algeria,DEF,4.4,Switzerland,0.81,72.8,1.654,0.376,"{""appearance"": 1.555, ""goals"": 0.132, ""assists"": 0.05, ""clean_sheet"": 0.703, ""goals_conceded"": -0.641, ""cards"": -0.146}"
+1067,Mbekezeli Mbokazi,South Africa,DEF,3.5,Canada,0.9,80.0,1.653,0.472,"{""appearance"": 1.695, ""goals"": 0.106, ""assists"": 0.04, ""clean_sheet"": 0.728, ""goals_conceded"": -0.755, ""cards"": -0.16}"
+1055,Lamine Camara,Senegal,MID,6.2,Belgium,0.4,40.0,1.646,0.265,"{""appearance"": 0.92, ""goals"": 0.096, ""assists"": 0.078, ""clean_sheet"": 0.09, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1374,Yerry Mina,Colombia,DEF,4.2,Ghana,0.4,40.0,1.642,0.391,"{""appearance"": 0.92, ""assists"": 0.05, ""clean_sheet"": 0.84, ""goals_conceded"": -0.088, ""cards"": -0.08}"
+299,Evan Ndicka,Côte d'Ivoire,DEF,4.4,Norway,0.84,75.2,1.642,0.373,"{""appearance"": 1.602, ""goals"": 0.136, ""assists"": 0.057, ""clean_sheet"": 0.693, ""goals_conceded"": -0.696, ""cards"": -0.15}"
+2018,Sofyan Amrabat,Morocco,MID,5.9,Netherlands,0.4,40.0,1.636,0.277,"{""appearance"": 0.92, ""goals"": 0.085, ""assists"": 0.083, ""clean_sheet"": 0.086, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+428,Alan Franco,Ecuador,MID,5.6,Mexico,0.4,40.0,1.634,0.292,"{""appearance"": 0.92, ""goals"": 0.078, ""assists"": 0.07, ""clean_sheet"": 0.104, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+24,Hicham Boudaoui,Algeria,MID,5.5,Switzerland,0.4,40.0,1.627,0.296,"{""appearance"": 0.92, ""goals"": 0.093, ""assists"": 0.083, ""clean_sheet"": 0.069, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1665,Munir El Kajoui,Morocco,GK,4.0,Netherlands,0.12,17.6,1.625,0.406,"{""appearance"": 0.486, ""clean_sheet"": 0.13, ""goals_conceded"": -0.122, ""saves"": 1.142, ""cards"": -0.01}"
+324,Petar Sucic,Croatia,MID,4.2,Portugal,0.4,40.0,1.606,0.382,"{""appearance"": 0.92, ""goals"": 0.084, ""assists"": 0.067, ""clean_sheet"": 0.072, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1053,Mory Diaw,Senegal,GK,3.8,Belgium,0.12,17.6,1.605,0.422,"{""appearance"": 0.486, ""clean_sheet"": 0.134, ""goals_conceded"": -0.117, ""saves"": 1.111, ""cards"": -0.01}"
+166,Ibañez,Brazil,DEF,4.4,Japan,0.4,40.0,1.586,0.36,"{""appearance"": 0.92, ""goals"": 0.14, ""assists"": 0.054, ""clean_sheet"": 0.689, ""goals_conceded"": -0.137, ""cards"": -0.08}"
+440,Ramy Rabia,Egypt,DEF,3.6,Australia,0.4,40.0,1.575,0.438,"{""appearance"": 0.92, ""goals"": 0.162, ""assists"": 0.038, ""clean_sheet"": 0.677, ""goals_conceded"": -0.142, ""cards"": -0.08}"
+300,Wilfried Singo,Côte d'Ivoire,DEF,4.4,Norway,0.81,72.8,1.574,0.358,"{""appearance"": 1.555, ""goals"": 0.115, ""assists"": 0.055, ""clean_sheet"": 0.668, ""goals_conceded"": -0.674, ""cards"": -0.146}"
+109,Patrick Wimmer,Austria,MID,6.0,Spain,0.4,40.0,1.57,0.262,"{""appearance"": 0.92, ""goals"": 0.103, ""assists"": 0.043, ""clean_sheet"": 0.041, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+327,Duje Caleta-Car,Croatia,DEF,4.0,Portugal,0.81,72.8,1.569,0.392,"{""appearance"": 1.555, ""assists"": 0.04, ""clean_sheet"": 0.733, ""goals_conceded"": -0.614, ""cards"": -0.146}"
+2062,Herman Johansson,Sweden,MID,4.4,France,0.4,40.0,1.561,0.355,"{""appearance"": 0.92, ""goals"": 0.093, ""assists"": 0.058, ""clean_sheet"": 0.028, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+1976,Jonas Adjetey,Ghana,DEF,3.5,Colombia,0.84,75.2,1.559,0.445,"{""appearance"": 1.602, ""goals"": 0.133, ""assists"": 0.037, ""clean_sheet"": 0.663, ""goals_conceded"": -0.726, ""cards"": -0.15}"
+1150,Noah Okafor,Switzerland,FWD,5.9,Algeria,0.4,40.0,1.558,0.264,"{""appearance"": 0.92, ""goals"": 0.349, ""assists"": 0.089, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+158,Ivan Sunjic,Bosnia and Herzegovina,MID,5.1,USA,0.4,40.0,1.552,0.304,"{""appearance"": 0.92, ""goals"": 0.073, ""assists"": 0.055, ""clean_sheet"": 0.041, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+892,Braian Ojeda,Paraguay,MID,5.6,Germany,0.4,40.0,1.542,0.275,"{""appearance"": 0.92, ""goals"": 0.068, ""assists"": 0.055, ""clean_sheet"": 0.037, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+228,Tajon Buchanan,Canada,FWD,5.5,South Africa,0.4,40.0,1.536,0.279,"{""appearance"": 0.92, ""goals"": 0.316, ""assists"": 0.1, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+293,Samuel Moutoussamy,Congo DR,MID,5.1,England,0.4,40.0,1.526,0.299,"{""appearance"": 0.92, ""goals"": 0.063, ""assists"": 0.044, ""clean_sheet"": 0.037, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+425,Gonzalo Valle,Ecuador,GK,3.6,Mexico,0.12,17.6,1.522,0.423,"{""appearance"": 0.486, ""clean_sheet"": 0.156, ""goals_conceded"": -0.095, ""saves"": 0.985, ""cards"": -0.01}"
+1455,Takehiro Tomiyasu,Japan,DEF,4.9,Brazil,0.87,77.6,1.515,0.309,"{""appearance"": 1.648, ""goals"": 0.093, ""assists"": 0.046, ""clean_sheet"": 0.66, ""goals_conceded"": -0.778, ""cards"": -0.155}"
+75,Paul Izzo,Australia,GK,3.6,Egypt,0.12,17.6,1.509,0.419,"{""appearance"": 0.486, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""saves"": 0.964, ""cards"": -0.01}"
+333,Andrej Kramaric,Croatia,FWD,6.2,Portugal,0.4,40.0,1.496,0.241,"{""appearance"": 0.92, ""goals"": 0.327, ""assists"": 0.049, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+218,Deroy Duarte,Cabo Verde,MID,4.9,Argentina,0.4,40.0,1.492,0.305,"{""appearance"": 0.92, ""goals"": 0.048, ""assists"": 0.037, ""clean_sheet"": 0.025, ""tackles"": 0.267, ""chances"": 0.267, ""cards"": -0.071}"
+668,Junnosuke Suzuki,Japan,DEF,3.5,Brazil,0.84,75.2,1.491,0.426,"{""appearance"": 1.602, ""goals"": 0.11, ""assists"": 0.045, ""clean_sheet"": 0.637, ""goals_conceded"": -0.754, ""cards"": -0.15}"
+805,Donyell Malen,Netherlands,FWD,6.1,Morocco,0.4,40.0,1.484,0.243,"{""appearance"": 0.92, ""goals"": 0.289, ""assists"": 0.075, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+860,Egil Selvik,Norway,GK,3.8,Côte d'Ivoire,0.12,17.6,1.479,0.389,"{""appearance"": 0.486, ""clean_sheet"": 0.169, ""goals_conceded"": -0.085, ""saves"": 0.919, ""cards"": -0.01}"
+1525,Matias Fernandez-Pardo,Belgium,FWD,5.6,Senegal,0.4,40.0,1.478,0.264,"{""appearance"": 0.92, ""goals"": 0.284, ""assists"": 0.074, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+857,Andreas Schjelderup,Norway,FWD,6.2,Côte d'Ivoire,0.4,40.0,1.472,0.237,"{""appearance"": 0.92, ""goals"": 0.26, ""assists"": 0.092, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1975,Kojo Peprah Oppong,Ghana,DEF,3.5,Colombia,0.87,77.6,1.468,0.42,"{""appearance"": 1.648, ""assists"": 0.037, ""clean_sheet"": 0.687, ""goals_conceded"": -0.749, ""cards"": -0.155}"
+1145,Miro Muheim,Switzerland,DEF,4.0,Algeria,0.4,40.0,1.463,0.366,"{""appearance"": 0.92, ""goals"": 0.122, ""assists"": 0.049, ""clean_sheet"": 0.619, ""goals_conceded"": -0.167, ""cards"": -0.08}"
+919,Gonçalo Inácio,Portugal,DEF,4.6,Croatia,0.4,40.0,1.46,0.317,"{""appearance"": 0.92, ""assists"": 0.047, ""clean_sheet"": 0.704, ""goals_conceded"": -0.131, ""cards"": -0.08}"
+1454,Ko Itakura,Japan,DEF,4.5,Brazil,0.81,72.8,1.457,0.324,"{""appearance"": 1.555, ""goals"": 0.118, ""assists"": 0.044, ""clean_sheet"": 0.614, ""goals_conceded"": -0.729, ""cards"": -0.146}"
+755,Guillermo Ochoa,Mexico,GK,4.2,Ecuador,0.15,20.0,1.455,0.346,"{""appearance"": 0.532, ""clean_sheet"": 0.264, ""goals_conceded"": -0.066, ""saves"": 0.736, ""cards"": -0.011}"
+756,Carlos Acevedo,Mexico,GK,4.0,Ecuador,0.15,20.0,1.455,0.364,"{""appearance"": 0.532, ""clean_sheet"": 0.264, ""goals_conceded"": -0.066, ""saves"": 0.736, ""cards"": -0.011}"
+810,Mark Flekken,Netherlands,GK,4.7,Morocco,0.12,17.6,1.453,0.309,"{""appearance"": 0.486, ""clean_sheet"": 0.178, ""goals_conceded"": -0.079, ""saves"": 0.878, ""cards"": -0.01}"
+2023,Soufiane Rahimi,Morocco,FWD,5.6,Netherlands,0.4,40.0,1.452,0.259,"{""appearance"": 0.92, ""goals"": 0.272, ""assists"": 0.06, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+10,Amine Gouiri,Algeria,FWD,6.2,Switzerland,0.4,40.0,1.448,0.234,"{""appearance"": 0.92, ""goals"": 0.268, ""assists"": 0.06, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1155,Marvin Keller,Switzerland,GK,3.7,Algeria,0.12,17.6,1.431,0.387,"{""appearance"": 0.486, ""clean_sheet"": 0.186, ""goals_conceded"": -0.073, ""saves"": 0.843, ""cards"": -0.01}"
+1041,Nicolas Jackson,Senegal,FWD,6.7,Belgium,0.4,40.0,1.429,0.213,"{""appearance"": 0.92, ""goals"": 0.253, ""assists"": 0.056, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1523,Mike Penders,Belgium,GK,3.5,Senegal,0.12,17.6,1.427,0.408,"{""appearance"": 0.486, ""clean_sheet"": 0.187, ""goals_conceded"": -0.072, ""saves"": 0.837, ""cards"": -0.01}"
+851,Fredrik Bjørkan,Norway,DEF,4.0,Côte d'Ivoire,0.4,40.0,1.416,0.354,"{""appearance"": 0.92, ""goals"": 0.152, ""assists"": 0.052, ""clean_sheet"": 0.564, ""goals_conceded"": -0.193, ""cards"": -0.08}"
+415,Kevin Rodríguez,Ecuador,FWD,4.9,Mexico,0.4,40.0,1.415,0.289,"{""appearance"": 0.92, ""goals"": 0.245, ""assists"": 0.05, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+118,Zeno Debast,Belgium,DEF,4.3,Senegal,0.4,40.0,1.407,0.327,"{""appearance"": 0.92, ""goals"": 0.067, ""assists"": 0.041, ""clean_sheet"": 0.623, ""goals_conceded"": -0.165, ""cards"": -0.08}"
+802,Jan Paul van Hecke,Netherlands,DEF,4.3,Morocco,0.4,40.0,1.399,0.325,"{""appearance"": 0.92, ""goals"": 0.104, ""assists"": 0.042, ""clean_sheet"": 0.593, ""goals_conceded"": -0.179, ""cards"": -0.08}"
+308,Nicolas Pépé,Côte d'Ivoire,FWD,5.9,Norway,0.4,40.0,1.398,0.237,"{""appearance"": 0.92, ""goals"": 0.213, ""assists"": 0.066, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+152,Kerim Alajbegovic,Bosnia and Herzegovina,FWD,4.2,USA,0.4,40.0,1.386,0.33,"{""appearance"": 0.92, ""goals"": 0.113, ""assists"": 0.039, ""shots_on_target"": 0.244, ""cards"": -0.044, ""set_pieces"": 0.115}"
+676,Kento Shiogai,Japan,FWD,4.0,Brazil,0.4,40.0,1.386,0.346,"{""appearance"": 0.92, ""goals"": 0.213, ""assists"": 0.053, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+452,El Mahdy Soliman,Egypt,GK,3.6,Australia,0.12,17.6,1.384,0.385,"{""appearance"": 0.486, ""clean_sheet"": 0.203, ""goals_conceded"": -0.062, ""saves"": 0.767, ""cards"": -0.01}"
+454,Mohamed Alaa,Egypt,GK,3.5,Australia,0.12,17.6,1.384,0.396,"{""appearance"": 0.486, ""clean_sheet"": 0.203, ""goals_conceded"": -0.062, ""saves"": 0.767, ""cards"": -0.01}"
+1973,Abdul Baba,Ghana,DEF,3.9,Colombia,0.81,72.8,1.382,0.354,"{""appearance"": 1.555, ""assists"": 0.036, ""clean_sheet"": 0.64, ""goals_conceded"": -0.703, ""cards"": -0.146}"
+1343,Weverton,Brazil,GK,4.5,Japan,0.12,17.6,1.375,0.306,"{""appearance"": 0.486, ""clean_sheet"": 0.207, ""goals_conceded"": -0.06, ""saves"": 0.752, ""cards"": -0.01}"
+932,José Sá,Portugal,GK,4.7,Croatia,0.12,17.6,1.364,0.29,"{""appearance"": 0.486, ""clean_sheet"": 0.211, ""goals_conceded"": -0.058, ""saves"": 0.734, ""cards"": -0.01}"
+70,Nishan Velupillay,Australia,FWD,4.4,Egypt,0.4,40.0,1.351,0.307,"{""appearance"": 0.92, ""goals"": 0.178, ""assists"": 0.054, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+97,Sasa Kalajdzic,Austria,FWD,6.0,Spain,0.4,40.0,1.333,0.222,"{""appearance"": 0.92, ""goals"": 0.183, ""assists"": 0.031, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+448,Haissem Hassan,Egypt,FWD,4.6,Australia,0.4,40.0,1.324,0.288,"{""appearance"": 0.92, ""goals"": 0.138, ""assists"": 0.066, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+72,Jacob Italiano,Australia,DEF,4.2,Egypt,0.4,40.0,1.313,0.313,"{""appearance"": 0.92, ""goals"": 0.117, ""assists"": 0.031, ""clean_sheet"": 0.534, ""goals_conceded"": -0.21, ""cards"": -0.08}"
+905,Gabriel Ávalos,Paraguay,FWD,4.9,Germany,0.4,40.0,1.305,0.266,"{""appearance"": 0.92, ""goals"": 0.146, ""assists"": 0.039, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+1428,Robin Risser,France,GK,3.5,Sweden,0.12,17.6,1.301,0.372,"{""appearance"": 0.486, ""clean_sheet"": 0.24, ""goals_conceded"": -0.044, ""saves"": 0.63, ""cards"": -0.01}"
+1125,Anthony Elanga,Sweden,FWD,5.8,France,0.4,40.0,1.298,0.224,"{""appearance"": 0.92, ""goals"": 0.137, ""assists"": 0.041, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+237,Owen Goodman,Canada,GK,3.5,South Africa,0.12,17.6,1.295,0.37,"{""appearance"": 0.486, ""clean_sheet"": 0.243, ""goals_conceded"": -0.043, ""saves"": 0.619, ""cards"": -0.01}"
+403,Ángelo Preciado,Ecuador,DEF,4.3,Mexico,0.4,40.0,1.295,0.301,"{""appearance"": 0.92, ""goals"": 0.122, ""assists"": 0.028, ""clean_sheet"": 0.522, ""goals_conceded"": -0.217, ""cards"": -0.08}"
+285,Fiston Mayele,Congo DR,FWD,4.9,England,0.4,40.0,1.284,0.262,"{""appearance"": 0.92, ""goals"": 0.133, ""assists"": 0.032, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+534,Oliver Baumann,Germany,GK,4.3,Paraguay,0.12,17.6,1.279,0.297,"{""appearance"": 0.486, ""clean_sheet"": 0.251, ""goals_conceded"": -0.039, ""saves"": 0.592, ""cards"": -0.01}"
+264,Álvaro Montero,Colombia,GK,3.8,Ghana,0.12,17.6,1.277,0.336,"{""appearance"": 0.486, ""clean_sheet"": 0.252, ""goals_conceded"": -0.039, ""saves"": 0.587, ""cards"": -0.01}"
+1271,Matt Freese,USA,GK,4.2,Bosnia and Herzegovina,0.12,17.6,1.267,0.302,"{""appearance"": 0.486, ""clean_sheet"": 0.257, ""goals_conceded"": -0.037, ""saves"": 0.571, ""cards"": -0.01}"
+208,Dailon Livramento,Cabo Verde,FWD,4.9,Argentina,0.4,40.0,1.258,0.257,"{""appearance"": 0.92, ""goals"": 0.112, ""assists"": 0.026, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+55,Thiago Almada,Argentina,MID,6.5,Cabo Verde,0.12,17.6,1.247,0.192,"{""appearance"": 0.486, ""goals"": 0.357, ""assists"": 0.137, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+268,Jaminton Campaz,Colombia,MID,5.5,Ghana,0.12,17.6,1.216,0.221,"{""appearance"": 0.486, ""goals"": 0.389, ""assists"": 0.087, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1256,Giovanni Reyna,USA,MID,5.5,Bosnia and Herzegovina,0.12,17.6,1.205,0.219,"{""appearance"": 0.486, ""goals"": 0.352, ""assists"": 0.112, ""clean_sheet"": 0.051, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1101,Joan García,Spain,GK,4.0,Austria,0.12,17.6,1.205,0.301,"{""appearance"": 0.486, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""saves"": 0.46, ""cards"": -0.01}"
+479,James Trafford,England,GK,4.0,Congo DR,0.12,17.6,1.204,0.301,"{""appearance"": 0.486, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""saves"": 0.459, ""cards"": -0.01}"
+514,Maghnes Akliouche,France,MID,6.4,Sweden,0.12,17.6,1.204,0.188,"{""appearance"": 0.486, ""goals"": 0.338, ""assists"": 0.129, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+923,Gonçalo Ramos,Portugal,FWD,7.5,Croatia,0.4,40.0,1.202,0.16,"{""appearance"": 0.92, ""assists"": 0.082, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+2035,Álex Zendejas,USA,MID,5.5,Bosnia and Herzegovina,0.12,17.6,1.185,0.215,"{""appearance"": 0.486, ""goals"": 0.332, ""assists"": 0.112, ""clean_sheet"": 0.051, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+47,Juan Musso,Argentina,GK,4.3,Cabo Verde,0.12,17.6,1.168,0.272,"{""appearance"": 0.486, ""clean_sheet"": 0.319, ""goals_conceded"": -0.019, ""saves"": 0.392, ""cards"": -0.01}"
+474,Anthony Gordon,England,MID,7.0,Congo DR,0.12,17.6,1.162,0.166,"{""appearance"": 0.486, ""goals"": 0.298, ""assists"": 0.117, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1990,Abdul Fatawu,Ghana,FWD,6.4,Colombia,0.4,40.0,1.162,0.182,"{""appearance"": 0.92, ""assists"": 0.042, ""shots_on_target"": 0.244, ""cards"": -0.044}"
+42,Nico González,Argentina,MID,5.6,Cabo Verde,0.12,17.6,1.155,0.206,"{""appearance"": 0.486, ""goals"": 0.266, ""assists"": 0.135, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+475,Morgan Rogers,England,MID,7.2,Congo DR,0.12,17.6,1.151,0.16,"{""appearance"": 0.486, ""goals"": 0.286, ""assists"": 0.116, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2017,Zakaria El Ouahdi,Morocco,DEF,4.1,Netherlands,0.4,40.0,1.144,0.279,"{""appearance"": 0.92, ""goals"": 0.116, ""assists"": 0.034, ""clean_sheet"": 0.432, ""goals_conceded"": -0.277, ""cards"": -0.08}"
+1326,Giovani Lo Celso,Argentina,MID,6.2,Cabo Verde,0.12,17.6,1.138,0.184,"{""appearance"": 0.486, ""goals"": 0.25, ""assists"": 0.135, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2072,Assan Ouédraogo,Germany,MID,4.5,Paraguay,0.12,17.6,1.133,0.252,"{""appearance"": 0.486, ""goals"": 0.281, ""assists"": 0.113, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+43,José Manuel López,Argentina,FWD,5.3,Cabo Verde,0.12,17.6,1.13,0.213,"{""appearance"": 0.486, ""goals"": 0.455, ""assists"": 0.101, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1034,Moussa Niakhaté,Senegal,DEF,4.3,Belgium,0.4,40.0,1.117,0.26,"{""appearance"": 0.92, ""goals"": 0.063, ""assists"": 0.031, ""clean_sheet"": 0.448, ""goals_conceded"": -0.265, ""cards"": -0.08}"
+1997,Mikel Merino,Spain,MID,6.2,Austria,0.12,17.6,1.117,0.18,"{""appearance"": 0.486, ""goals"": 0.262, ""assists"": 0.107, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+928,Francisco Conceição,Portugal,MID,5.7,Croatia,0.12,17.6,1.115,0.196,"{""appearance"": 0.486, ""goals"": 0.303, ""assists"": 0.081, ""clean_sheet"": 0.042, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1081,Yéremy Pino,Spain,MID,5.9,Austria,0.12,17.6,1.086,0.184,"{""appearance"": 0.486, ""goals"": 0.231, ""assists"": 0.107, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1968,Jacob Shaffelburg,Canada,MID,5.2,South Africa,0.12,17.6,1.084,0.208,"{""appearance"": 0.486, ""goals"": 0.253, ""assists"": 0.093, ""clean_sheet"": 0.049, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+48,Leandro Paredes,Argentina,MID,5.6,Cabo Verde,0.12,17.6,1.076,0.192,"{""appearance"": 0.486, ""goals"": 0.189, ""assists"": 0.134, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+53,Valentín Barco,Argentina,MID,6.2,Cabo Verde,0.12,17.6,1.076,0.173,"{""appearance"": 0.486, ""goals"": 0.189, ""assists"": 0.134, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+510,Adrien Rabiot,France,MID,6.4,Sweden,0.12,17.6,1.074,0.168,"{""appearance"": 0.486, ""goals"": 0.209, ""assists"": 0.127, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+862,Jens Petter Hauge,Norway,MID,5.9,Côte d'Ivoire,0.12,17.6,1.064,0.18,"{""appearance"": 0.486, ""goals"": 0.255, ""assists"": 0.087, ""clean_sheet"": 0.034, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+140,Amar Dedic,Bosnia and Herzegovina,DEF,4.3,USA,0.87,77.6,1.06,0.247,"{""appearance"": 1.648, ""goals"": 0.146, ""assists"": 0.035, ""clean_sheet"": 0.448, ""goals_conceded"": -1.062, ""cards"": -0.155}"
+925,Pedro Neto,Portugal,MID,6.4,Croatia,0.12,17.6,1.052,0.164,"{""appearance"": 0.486, ""goals"": 0.24, ""assists"": 0.08, ""clean_sheet"": 0.042, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+54,Exequiel Palacios,Argentina,MID,6.0,Cabo Verde,0.12,17.6,1.046,0.174,"{""appearance"": 0.486, ""goals"": 0.16, ""assists"": 0.133, ""clean_sheet"": 0.064, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1581,Christian Fassnacht,Switzerland,MID,6.1,Algeria,0.12,17.6,1.045,0.171,"{""appearance"": 0.486, ""goals"": 0.236, ""assists"": 0.082, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+176,Gabriel Martinelli,Brazil,MID,6.5,Japan,0.12,17.6,1.043,0.16,"{""appearance"": 0.486, ""goals"": 0.223, ""assists"": 0.089, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+540,Leon Goretzka,Germany,MID,6.1,Paraguay,0.12,17.6,1.041,0.171,"{""appearance"": 0.486, ""goals"": 0.19, ""assists"": 0.112, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+762,Orbelín Pineda,Mexico,MID,6.2,Ecuador,0.15,20.0,1.04,0.168,"{""appearance"": 0.532, ""goals"": 0.162, ""assists"": 0.062, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+1998,Fabián Ruiz,Spain,MID,6.8,Austria,0.12,17.6,1.034,0.152,"{""appearance"": 0.486, ""goals"": 0.179, ""assists"": 0.106, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1473,César Huerta,Mexico,MID,6.3,Ecuador,0.15,20.0,1.031,0.164,"{""appearance"": 0.532, ""goals"": 0.153, ""assists"": 0.062, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+1476,Gilberto Mora,Mexico,MID,4.5,Ecuador,0.15,20.0,1.031,0.229,"{""appearance"": 0.532, ""goals"": 0.153, ""assists"": 0.062, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+1133,Johan Manzambi,Switzerland,MID,5.6,Algeria,0.12,17.6,1.031,0.184,"{""appearance"": 0.486, ""goals"": 0.222, ""assists"": 0.082, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+509,N'Golo Kanté,France,MID,5.1,Sweden,0.12,17.6,1.031,0.202,"{""appearance"": 0.486, ""goals"": 0.167, ""assists"": 0.126, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+511,Warren Zaïre-Emery,France,MID,6.1,Sweden,0.12,17.6,1.031,0.169,"{""appearance"": 0.486, ""goals"": 0.167, ""assists"": 0.126, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1682,Thelo Aasgaard,Norway,MID,5.5,Côte d'Ivoire,0.12,17.6,1.025,0.186,"{""appearance"": 0.486, ""goals"": 0.216, ""assists"": 0.086, ""clean_sheet"": 0.034, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1250,Sebastian Berhalter,USA,MID,4.7,Bosnia and Herzegovina,0.12,17.6,1.024,0.218,"{""appearance"": 0.486, ""goals"": 0.174, ""assists"": 0.109, ""clean_sheet"": 0.051, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+190,Lucas Paquetá,Brazil,MID,6.5,Japan,0.12,17.6,1.019,0.157,"{""appearance"": 0.486, ""goals"": 0.199, ""assists"": 0.089, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2073,Éderson,Brazil,MID,6.3,Japan,0.12,17.6,1.014,0.161,"{""appearance"": 0.486, ""goals"": 0.195, ""assists"": 0.089, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2038,Guus Til,Netherlands,MID,4.9,Morocco,0.12,17.6,1.013,0.207,"{""appearance"": 0.486, ""goals"": 0.219, ""assists"": 0.07, ""clean_sheet"": 0.036, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+265,Jefferson Lerma,Colombia,MID,4.9,Ghana,0.12,17.6,1.01,0.206,"{""appearance"": 0.486, ""goals"": 0.185, ""assists"": 0.085, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+266,Gustavo Puerta,Colombia,MID,5.3,Ghana,0.12,17.6,1.01,0.191,"{""appearance"": 0.486, ""goals"": 0.185, ""assists"": 0.085, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+85,David Alaba,Austria,DEF,4.6,Spain,0.9,80.0,1.007,0.219,"{""appearance"": 1.695, ""goals"": 0.084, ""assists"": 0.028, ""clean_sheet"": 0.461, ""goals_conceded"": -1.1, ""cards"": -0.16}"
+1084,Martín Zubimendi,Spain,MID,6.1,Austria,0.12,17.6,1.006,0.165,"{""appearance"": 0.486, ""goals"": 0.152, ""assists"": 0.106, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1601,Felix Nmecha,Germany,MID,5.6,Paraguay,0.12,17.6,1.006,0.18,"{""appearance"": 0.486, ""goals"": 0.155, ""assists"": 0.111, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+538,Pascal Groß,Germany,MID,5.6,Paraguay,0.12,17.6,1.003,0.179,"{""appearance"": 0.486, ""goals"": 0.152, ""assists"": 0.111, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+512,Manu Koné,France,MID,6.1,Sweden,0.12,17.6,1.002,0.164,"{""appearance"": 0.486, ""goals"": 0.139, ""assists"": 0.126, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1999,Gavi,Spain,MID,6.5,Austria,0.12,17.6,1.0,0.154,"{""appearance"": 0.486, ""goals"": 0.147, ""assists"": 0.106, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+187,Danilo,Brazil,MID,5.6,Japan,0.12,17.6,0.996,0.178,"{""appearance"": 0.486, ""goals"": 0.177, ""assists"": 0.088, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1604,Maximilian Beier,Germany,FWD,6.5,Paraguay,0.12,17.6,0.99,0.152,"{""appearance"": 0.486, ""goals"": 0.334, ""assists"": 0.082, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1323,Gonzalo Montiel,Argentina,DEF,4.3,Cabo Verde,0.12,17.6,0.985,0.229,"{""appearance"": 0.486, ""goals"": 0.18, ""assists"": 0.055, ""clean_sheet"": 0.319, ""goals_conceded"": -0.019, ""cards"": -0.035}"
+1477,Luis Chávez,Mexico,MID,6.3,Ecuador,0.15,20.0,0.984,0.156,"{""appearance"": 0.532, ""goals"": 0.106, ""assists"": 0.062, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+486,Elliot Anderson,England,MID,6.5,Congo DR,0.12,17.6,0.983,0.151,"{""appearance"": 0.486, ""goals"": 0.121, ""assists"": 0.114, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+485,Kobbie Mainoo,England,MID,6.1,Congo DR,0.12,17.6,0.98,0.161,"{""appearance"": 0.486, ""goals"": 0.118, ""assists"": 0.114, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2044,Crysencio Summerville,Netherlands,MID,5.3,Morocco,0.12,17.6,0.98,0.185,"{""appearance"": 0.486, ""goals"": 0.185, ""assists"": 0.07, ""clean_sheet"": 0.036, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+515,Aurélien Tchouaméni,France,MID,6.5,Sweden,0.12,17.6,0.979,0.151,"{""appearance"": 0.486, ""goals"": 0.117, ""assists"": 0.125, ""clean_sheet"": 0.048, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+141,Tarik Muharemovic,Bosnia and Herzegovina,DEF,3.9,USA,0.84,75.2,0.978,0.251,"{""appearance"": 1.602, ""goals"": 0.089, ""assists"": 0.034, ""clean_sheet"": 0.433, ""goals_conceded"": -1.029, ""cards"": -0.15}"
+328,Marin Pongracic,Croatia,DEF,4.0,Portugal,0.4,40.0,0.976,0.244,"{""appearance"": 0.92, ""goals"": 0.085, ""assists"": 0.027, ""clean_sheet"": 0.362, ""goals_conceded"": -0.338, ""cards"": -0.08}"
+1524,Hans Vanaken,Belgium,MID,5.5,Senegal,0.12,17.6,0.971,0.176,"{""appearance"": 0.486, ""goals"": 0.175, ""assists"": 0.069, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1602,Aleksandar Pavlovic,Germany,MID,5.5,Paraguay,0.12,17.6,0.97,0.176,"{""appearance"": 0.486, ""goals"": 0.119, ""assists"": 0.111, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1249,Cristian Roldan,USA,MID,4.7,Bosnia and Herzegovina,0.12,17.6,0.97,0.206,"{""appearance"": 0.486, ""goals"": 0.12, ""assists"": 0.109, ""clean_sheet"": 0.051, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+88,Kevin Danso,Austria,DEF,4.3,Spain,0.87,77.6,0.969,0.225,"{""appearance"": 1.648, ""goals"": 0.07, ""assists"": 0.027, ""clean_sheet"": 0.445, ""goals_conceded"": -1.067, ""cards"": -0.155}"
+482,Jordan Henderson,England,MID,5.1,Congo DR,0.12,17.6,0.964,0.189,"{""appearance"": 0.486, ""goals"": 0.102, ""assists"": 0.114, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+273,Arthur Masuaku,Congo DR,DEF,4.2,England,0.81,72.8,0.96,0.228,"{""appearance"": 1.555, ""goals"": 0.082, ""assists"": 0.027, ""clean_sheet"": 0.375, ""goals_conceded"": -1.072, ""cards"": -0.146, ""set_pieces"": 0.138}"
+1478,Luis Romo,Mexico,MID,5.5,Ecuador,0.15,20.0,0.959,0.174,"{""appearance"": 0.532, ""goals"": 0.081, ""assists"": 0.062, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+844,Morten Thorsby,Norway,MID,5.6,Côte d'Ivoire,0.12,17.6,0.958,0.171,"{""appearance"": 0.486, ""goals"": 0.15, ""assists"": 0.085, ""clean_sheet"": 0.034, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+90,Stefan Posch,Austria,DEF,4.3,Spain,0.84,75.2,0.958,0.223,"{""appearance"": 1.602, ""goals"": 0.084, ""assists"": 0.026, ""clean_sheet"": 0.43, ""goals_conceded"": -1.034, ""cards"": -0.15}"
+1970,Promise David,Canada,FWD,5.4,South Africa,0.12,17.6,0.957,0.177,"{""appearance"": 0.486, ""goals"": 0.316, ""assists"": 0.068, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+436,Mahmoud Saber,Egypt,MID,4.9,Australia,0.12,17.6,0.952,0.194,"{""appearance"": 0.486, ""goals"": 0.159, ""assists"": 0.062, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+814,Teun Koopmeiners,Netherlands,MID,6.2,Morocco,0.12,17.6,0.952,0.153,"{""appearance"": 0.486, ""goals"": 0.157, ""assists"": 0.069, ""clean_sheet"": 0.036, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2047,Samir Chergui,Algeria,DEF,4.0,Switzerland,0.4,40.0,0.95,0.238,"{""appearance"": 0.92, ""goals"": 0.082, ""assists"": 0.033, ""clean_sheet"": 0.347, ""goals_conceded"": -0.352, ""cards"": -0.08}"
+519,Angelo Stiller,Germany,MID,5.8,Paraguay,0.12,17.6,0.948,0.163,"{""appearance"": 0.486, ""goals"": 0.098, ""assists"": 0.11, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2033,Tyler Adams,USA,MID,5.3,Bosnia and Herzegovina,0.12,17.6,0.947,0.179,"{""appearance"": 0.486, ""goals"": 0.098, ""assists"": 0.108, ""clean_sheet"": 0.051, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1061,Tshepang Moremi,South Africa,MID,4.9,Canada,0.15,20.0,0.945,0.193,"{""appearance"": 0.532, ""goals"": 0.113, ""assists"": 0.044, ""clean_sheet"": 0.024, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+242,Mathieu Choinière,Canada,MID,5.3,South Africa,0.12,17.6,0.943,0.178,"{""appearance"": 0.486, ""goals"": 0.113, ""assists"": 0.092, ""clean_sheet"": 0.049, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+139,Sead Kolasinac,Bosnia and Herzegovina,DEF,4.3,USA,0.81,72.8,0.942,0.219,"{""appearance"": 1.555, ""goals"": 0.078, ""assists"": 0.033, ""clean_sheet"": 0.417, ""goals_conceded"": -0.996, ""cards"": -0.146}"
+751,Alexis Vega,Mexico,FWD,5.3,Ecuador,0.15,20.0,0.942,0.178,"{""appearance"": 0.532, ""goals"": 0.127, ""assists"": 0.044, ""shots_on_target"": 0.122, ""cards"": -0.022, ""set_pieces"": 0.138}"
+1138,Remo Freuler,Switzerland,MID,5.9,Algeria,0.12,17.6,0.941,0.159,"{""appearance"": 0.486, ""goals"": 0.133, ""assists"": 0.081, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+145,Nidal Celik,Bosnia and Herzegovina,DEF,3.5,USA,0.9,80.0,0.939,0.268,"{""appearance"": 1.695, ""assists"": 0.035, ""clean_sheet"": 0.464, ""goals_conceded"": -1.095, ""cards"": -0.16}"
+1527,Diego Moreira,Belgium,MID,4.7,Senegal,0.12,17.6,0.938,0.2,"{""appearance"": 0.486, ""goals"": 0.143, ""assists"": 0.069, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1474,Edson Álvarez,Mexico,MID,6.0,Ecuador,0.15,20.0,0.937,0.156,"{""appearance"": 0.532, ""goals"": 0.06, ""assists"": 0.061, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+319,Parfait Guiagon,Côte d'Ivoire,MID,4.9,Norway,0.12,17.6,0.937,0.191,"{""appearance"": 0.486, ""goals"": 0.166, ""assists"": 0.061, ""clean_sheet"": 0.02, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+230,Tani Oluwaseyi,Canada,FWD,4.9,South Africa,0.12,17.6,0.934,0.191,"{""appearance"": 0.486, ""goals"": 0.292, ""assists"": 0.067, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+305,Ghislain Konan,Côte d'Ivoire,DEF,4.0,Norway,0.4,40.0,0.93,0.232,"{""appearance"": 0.92, ""goals"": 0.093, ""assists"": 0.037, ""clean_sheet"": 0.33, ""goals_conceded"": -0.37, ""cards"": -0.08}"
+1583,Cedric Itten,Switzerland,FWD,5.4,Algeria,0.12,17.6,0.926,0.172,"{""appearance"": 0.486, ""goals"": 0.293, ""assists"": 0.06, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+934,Rúben Neves,Portugal,MID,5.9,Croatia,0.12,17.6,0.925,0.157,"{""appearance"": 0.486, ""goals"": 0.114, ""assists"": 0.079, ""clean_sheet"": 0.042, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+240,Niko Sigur,Canada,MID,4.9,South Africa,0.12,17.6,0.924,0.188,"{""appearance"": 0.486, ""goals"": 0.094, ""assists"": 0.091, ""clean_sheet"": 0.049, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1704,Kamogelo Sebelebele,South Africa,MID,4.5,Canada,0.15,20.0,0.919,0.204,"{""appearance"": 0.532, ""goals"": 0.088, ""assists"": 0.043, ""clean_sheet"": 0.024, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+738,Obed Vargas,Mexico,MID,4.7,Ecuador,0.15,20.0,0.919,0.196,"{""appearance"": 0.532, ""goals"": 0.042, ""assists"": 0.061, ""clean_sheet"": 0.053, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+845,Patrick Berg,Norway,MID,5.6,Côte d'Ivoire,0.12,17.6,0.918,0.164,"{""appearance"": 0.486, ""goals"": 0.11, ""assists"": 0.085, ""clean_sheet"": 0.034, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+86,Philipp Lienhart,Austria,DEF,4.3,Spain,0.81,72.8,0.917,0.213,"{""appearance"": 1.555, ""goals"": 0.067, ""assists"": 0.026, ""clean_sheet"": 0.415, ""goals_conceded"": -1.001, ""cards"": -0.146}"
+128,Alexis Saelemaekers,Belgium,MID,5.7,Senegal,0.12,17.6,0.916,0.161,"{""appearance"": 0.486, ""goals"": 0.121, ""assists"": 0.068, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1320,Facundo Medina,Argentina,DEF,4.0,Cabo Verde,0.12,17.6,0.914,0.229,"{""appearance"": 0.486, ""goals"": 0.11, ""assists"": 0.054, ""clean_sheet"": 0.319, ""goals_conceded"": -0.019, ""cards"": -0.035}"
+1582,Zeki Amdouni,Switzerland,FWD,4.9,Algeria,0.12,17.6,0.914,0.186,"{""appearance"": 0.486, ""goals"": 0.28, ""assists"": 0.059, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+858,Jørgen Strand Larsen,Norway,FWD,5.6,Côte d'Ivoire,0.12,17.6,0.914,0.163,"{""appearance"": 0.486, ""goals"": 0.277, ""assists"": 0.062, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+2005,Mathew Leckie,Australia,MID,4.7,Egypt,0.12,17.6,0.913,0.194,"{""appearance"": 0.486, ""goals"": 0.141, ""assists"": 0.05, ""clean_sheet"": 0.032, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+893,Gustavo Gómez,Paraguay,DEF,4.6,Germany,0.9,80.0,0.909,0.198,"{""appearance"": 1.695, ""goals"": 0.117, ""assists"": 0.036, ""clean_sheet"": 0.411, ""goals_conceded"": -1.19, ""cards"": -0.16}"
+1137,Michel Aebischer,Switzerland,MID,5.9,Algeria,0.12,17.6,0.906,0.154,"{""appearance"": 0.486, ""goals"": 0.098, ""assists"": 0.081, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+186,Fabinho,Brazil,MID,5.2,Japan,0.12,17.6,0.904,0.174,"{""appearance"": 0.486, ""goals"": 0.086, ""assists"": 0.087, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+926,Trincão,Portugal,FWD,5.9,Croatia,0.12,17.6,0.9,0.152,"{""appearance"": 0.486, ""goals"": 0.268, ""assists"": 0.058, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1060,Thalente Mbatha,South Africa,MID,4.9,Canada,0.15,20.0,0.896,0.183,"{""appearance"": 0.532, ""goals"": 0.065, ""assists"": 0.043, ""clean_sheet"": 0.024, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+1097,Víctor Muñoz,Spain,FWD,4.0,Austria,0.12,17.6,0.892,0.223,"{""appearance"": 0.486, ""goals"": 0.242, ""assists"": 0.077, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1139,Ardon Jashari,Switzerland,MID,5.2,Algeria,0.12,17.6,0.891,0.171,"{""appearance"": 0.486, ""goals"": 0.084, ""assists"": 0.081, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+345,Nikola Vlasic,Croatia,MID,6.1,Portugal,0.12,17.6,0.89,0.146,"{""appearance"": 0.486, ""goals"": 0.134, ""assists"": 0.045, ""clean_sheet"": 0.022, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2039,Mats Wieffer,Netherlands,MID,4.8,Morocco,0.12,17.6,0.888,0.185,"{""appearance"": 0.486, ""goals"": 0.094, ""assists"": 0.069, ""clean_sheet"": 0.036, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+754,Armando González,Mexico,FWD,4.4,Ecuador,0.15,20.0,0.887,0.202,"{""appearance"": 0.532, ""goals"": 0.21, ""assists"": 0.045, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+841,Sander Berge,Norway,MID,4.7,Côte d'Ivoire,0.12,17.6,0.886,0.189,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.085, ""clean_sheet"": 0.034, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+434,Hamdi Fathy,Egypt,MID,4.4,Australia,0.12,17.6,0.884,0.201,"{""appearance"": 0.486, ""goals"": 0.092, ""assists"": 0.062, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+476,Noni Madueke,England,FWD,6.1,Congo DR,0.12,17.6,0.882,0.145,"{""appearance"": 0.486, ""goals"": 0.226, ""assists"": 0.083, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1981,Gideon Mensah,Ghana,DEF,3.9,Colombia,0.4,40.0,0.881,0.226,"{""appearance"": 0.92, ""goals"": 0.087, ""assists"": 0.024, ""clean_sheet"": 0.316, ""goals_conceded"": -0.386, ""cards"": -0.08}"
+1087,Alejandro Grimaldo,Spain,DEF,4.9,Austria,0.12,17.6,0.88,0.18,"{""appearance"": 0.486, ""goals"": 0.117, ""assists"": 0.043, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+671,Keito Nakamura,Japan,MID,5.5,Brazil,0.12,17.6,0.88,0.16,"{""appearance"": 0.486, ""goals"": 0.123, ""assists"": 0.049, ""clean_sheet"": 0.018, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1986,Jordan Ayew,Ghana,FWD,5.3,Colombia,0.12,17.6,0.879,0.166,"{""appearance"": 0.486, ""goals"": 0.198, ""assists"": 0.029, ""shots_on_target"": 0.108, ""cards"": -0.02, ""set_pieces"": 0.078}"
+119,Axel Witsel,Belgium,MID,5.0,Senegal,0.12,17.6,0.877,0.175,"{""appearance"": 0.486, ""goals"": 0.083, ""assists"": 0.068, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+135,Nicolas Raskin,Belgium,MID,5.3,Senegal,0.12,17.6,0.877,0.166,"{""appearance"": 0.486, ""goals"": 0.083, ""assists"": 0.068, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+136,Amadou Onana,Belgium,MID,5.9,Senegal,0.12,17.6,0.877,0.149,"{""appearance"": 0.486, ""goals"": 0.083, ""assists"": 0.068, ""clean_sheet"": 0.037, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+80,Connor Metcalfe,Australia,MID,5.3,Egypt,0.12,17.6,0.877,0.166,"{""appearance"": 0.486, ""goals"": 0.106, ""assists"": 0.05, ""clean_sheet"": 0.032, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+414,John Yeboah,Ecuador,MID,5.1,Mexico,0.12,17.6,0.877,0.172,"{""appearance"": 0.486, ""goals"": 0.11, ""assists"": 0.046, ""clean_sheet"": 0.031, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+753,Guillermo Martínez,Mexico,FWD,4.7,Ecuador,0.15,20.0,0.876,0.186,"{""appearance"": 0.532, ""goals"": 0.199, ""assists"": 0.044, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+1485,Santiago Giménez,Mexico,FWD,6.8,Ecuador,0.15,20.0,0.876,0.129,"{""appearance"": 0.532, ""goals"": 0.199, ""assists"": 0.044, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+1593,Nabil Emad Dunga,Egypt,MID,4.3,Australia,0.12,17.6,0.875,0.204,"{""appearance"": 0.486, ""goals"": 0.083, ""assists"": 0.062, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2041,Marten de Roon,Netherlands,MID,5.1,Morocco,0.12,17.6,0.868,0.17,"{""appearance"": 0.486, ""goals"": 0.074, ""assists"": 0.069, ""clean_sheet"": 0.036, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1995,Eric García,Spain,DEF,4.5,Austria,0.12,17.6,0.867,0.193,"{""appearance"": 0.486, ""goals"": 0.104, ""assists"": 0.043, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+272,Aaron Wan-Bissaka,Congo DR,DEF,4.3,England,0.9,80.0,0.864,0.201,"{""appearance"": 1.695, ""goals"": 0.061, ""assists"": 0.029, ""clean_sheet"": 0.417, ""goals_conceded"": -1.178, ""cards"": -0.16}"
+1073,Oswin Appollis,South Africa,FWD,4.9,Canada,0.15,20.0,0.863,0.176,"{""appearance"": 0.532, ""goals"": 0.113, ""assists"": 0.031, ""shots_on_target"": 0.122, ""cards"": -0.022, ""set_pieces"": 0.087}"
+525,Nathaniel Brown,Germany,DEF,4.7,Paraguay,0.12,17.6,0.861,0.183,"{""appearance"": 0.486, ""goals"": 0.154, ""assists"": 0.046, ""clean_sheet"": 0.251, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+765,Samir El Mourabet,Morocco,MID,4.7,Netherlands,0.12,17.6,0.86,0.183,"{""appearance"": 0.486, ""goals"": 0.089, ""assists"": 0.055, ""clean_sheet"": 0.026, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2019,Neil El Aynaoui,Morocco,MID,5.6,Netherlands,0.12,17.6,0.859,0.153,"{""appearance"": 0.486, ""goals"": 0.088, ""assists"": 0.055, ""clean_sheet"": 0.026, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+896,Fabián Balbuena,Paraguay,DEF,4.0,Germany,0.84,75.2,0.855,0.214,"{""appearance"": 1.602, ""goals"": 0.104, ""assists"": 0.034, ""clean_sheet"": 0.383, ""goals_conceded"": -1.118, ""cards"": -0.15}"
+895,Omar Alderete,Paraguay,DEF,4.1,Germany,0.87,77.6,0.855,0.208,"{""appearance"": 1.648, ""goals"": 0.084, ""assists"": 0.035, ""clean_sheet"": 0.397, ""goals_conceded"": -1.154, ""cards"": -0.155}"
+432,Marwan Attia,Egypt,MID,4.3,Australia,0.12,17.6,0.854,0.199,"{""appearance"": 0.486, ""goals"": 0.062, ""assists"": 0.062, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+177,Luiz Henrique,Brazil,FWD,6.1,Japan,0.12,17.6,0.853,0.14,"{""appearance"": 0.486, ""goals"": 0.216, ""assists"": 0.063, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+275,Axel Tuanzebe,Congo DR,DEF,4.0,England,0.87,77.6,0.853,0.213,"{""appearance"": 1.648, ""goals"": 0.071, ""assists"": 0.028, ""clean_sheet"": 0.403, ""goals_conceded"": -1.143, ""cards"": -0.155}"
+1082,Álex Baena,Spain,MID,6.0,Austria,0.12,17.6,0.852,0.142,"{""appearance"": 0.486, ""assists"": 0.104, ""clean_sheet"": 0.059, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1996,Marc Pubill,Spain,DEF,4.2,Austria,0.12,17.6,0.851,0.203,"{""appearance"": 0.486, ""goals"": 0.089, ""assists"": 0.043, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+1695,Bara Sapoko Ndiaye,Senegal,MID,4.5,Belgium,0.12,17.6,0.85,0.189,"{""appearance"": 0.486, ""goals"": 0.082, ""assists"": 0.052, ""clean_sheet"": 0.027, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1117,Mattias Svanberg,Sweden,MID,6.1,France,0.12,17.6,0.845,0.139,"{""appearance"": 0.486, ""goals"": 0.109, ""assists"": 0.038, ""clean_sheet"": 0.008, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+22,Yacine Titraoui,Algeria,MID,4.7,Switzerland,0.12,17.6,0.845,0.18,"{""appearance"": 0.486, ""goals"": 0.08, ""assists"": 0.055, ""clean_sheet"": 0.021, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+462,Dan Burn,England,DEF,4.5,Congo DR,0.12,17.6,0.844,0.187,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.046, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+274,Chancel Mbemba,Congo DR,DEF,4.2,England,0.84,75.2,0.843,0.201,"{""appearance"": 1.602, ""goals"": 0.082, ""assists"": 0.027, ""clean_sheet"": 0.389, ""goals_conceded"": -1.107, ""cards"": -0.15}"
+467,Djed Spence,England,DEF,4.5,Congo DR,0.12,17.6,0.842,0.187,"{""appearance"": 0.486, ""goals"": 0.076, ""assists"": 0.046, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+251,Déiver Machado,Colombia,DEF,3.9,Ghana,0.12,17.6,0.84,0.215,"{""appearance"": 0.486, ""goals"": 0.142, ""assists"": 0.035, ""clean_sheet"": 0.252, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+253,Santiago Arias,Colombia,DEF,3.9,Ghana,0.12,17.6,0.84,0.215,"{""appearance"": 0.486, ""goals"": 0.142, ""assists"": 0.035, ""clean_sheet"": 0.252, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+808,Wout Weghorst,Netherlands,FWD,5.5,Morocco,0.12,17.6,0.84,0.153,"{""appearance"": 0.486, ""goals"": 0.216, ""assists"": 0.05, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+179,Rayan,Brazil,FWD,5.6,Japan,0.12,17.6,0.838,0.15,"{""appearance"": 0.486, ""goals"": 0.2, ""assists"": 0.063, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1708,Jarell Quansah,England,DEF,4.4,Congo DR,0.12,17.6,0.837,0.19,"{""appearance"": 0.486, ""goals"": 0.071, ""assists"": 0.046, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+429,Pedro Vite,Ecuador,MID,5.2,Mexico,0.12,17.6,0.837,0.161,"{""appearance"": 0.486, ""goals"": 0.07, ""assists"": 0.046, ""clean_sheet"": 0.031, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+399,Jordy Alcívar,Ecuador,MID,4.9,Mexico,0.12,17.6,0.836,0.171,"{""appearance"": 0.486, ""goals"": 0.069, ""assists"": 0.046, ""clean_sheet"": 0.031, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+682,Daichi Kamada,Japan,MID,5.8,Brazil,0.12,17.6,0.834,0.144,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.049, ""clean_sheet"": 0.018, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1031,Pathé Ciss,Senegal,MID,5.6,Belgium,0.12,17.6,0.834,0.149,"{""appearance"": 0.486, ""goals"": 0.067, ""assists"": 0.051, ""clean_sheet"": 0.027, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1054,Krépin Diatta,Senegal,MID,6.1,Belgium,0.12,17.6,0.834,0.137,"{""appearance"": 0.486, ""goals"": 0.067, ""assists"": 0.051, ""clean_sheet"": 0.027, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+807,Brian Brobbey,Netherlands,FWD,5.7,Morocco,0.12,17.6,0.832,0.146,"{""appearance"": 0.486, ""goals"": 0.208, ""assists"": 0.05, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+2003,Cameron Devlin,Australia,MID,4.7,Egypt,0.12,17.6,0.832,0.177,"{""appearance"": 0.486, ""goals"": 0.06, ""assists"": 0.05, ""clean_sheet"": 0.032, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1059,Themba Zwane,South Africa,MID,4.3,Canada,0.15,20.0,0.831,0.193,"{""appearance"": 0.532, ""assists"": 0.043, ""clean_sheet"": 0.024, ""tackles"": 0.133, ""chances"": 0.133, ""cards"": -0.036}"
+1675,Marwane Saadane,Morocco,MID,4.7,Netherlands,0.12,17.6,0.831,0.177,"{""appearance"": 0.486, ""goals"": 0.061, ""assists"": 0.055, ""clean_sheet"": 0.026, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+665,Hiroki Ito,Japan,DEF,3.9,Brazil,0.4,40.0,0.83,0.213,"{""appearance"": 0.92, ""goals"": 0.058, ""assists"": 0.03, ""clean_sheet"": 0.303, ""goals_conceded"": -0.401, ""cards"": -0.08}"
+398,Denil Castillo,Ecuador,MID,4.9,Mexico,0.12,17.6,0.829,0.169,"{""appearance"": 0.486, ""goals"": 0.063, ""assists"": 0.046, ""clean_sheet"": 0.031, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1263,Auston Trusty,USA,DEF,3.9,Bosnia and Herzegovina,0.12,17.6,0.829,0.213,"{""appearance"": 0.486, ""goals"": 0.114, ""assists"": 0.044, ""clean_sheet"": 0.257, ""goals_conceded"": -0.037, ""cards"": -0.035}"
+77,Paul Okon,Australia,MID,4.7,Egypt,0.12,17.6,0.826,0.176,"{""appearance"": 0.486, ""goals"": 0.055, ""assists"": 0.05, ""clean_sheet"": 0.032, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1674,Ayyoub Bouaddi,Morocco,MID,5.5,Netherlands,0.12,17.6,0.826,0.15,"{""appearance"": 0.486, ""goals"": 0.056, ""assists"": 0.055, ""clean_sheet"": 0.026, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+23,Ramiz Zerrouki,Algeria,MID,5.3,Switzerland,0.12,17.6,0.824,0.155,"{""appearance"": 0.486, ""goals"": 0.059, ""assists"": 0.055, ""clean_sheet"": 0.021, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2049,Nabil Bentaleb,Algeria,MID,5.5,Switzerland,0.12,17.6,0.824,0.15,"{""appearance"": 0.486, ""goals"": 0.059, ""assists"": 0.055, ""clean_sheet"": 0.021, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+890,Matías Galarza,Paraguay,MID,4.8,Germany,0.12,17.6,0.823,0.172,"{""appearance"": 0.486, ""goals"": 0.086, ""assists"": 0.037, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+246,Kevin Castaño,Colombia,MID,4.3,Ghana,0.12,17.6,0.823,0.191,"{""appearance"": 0.486, ""assists"": 0.083, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+247,Richard Ríos,Colombia,MID,4.7,Ghana,0.12,17.6,0.823,0.175,"{""appearance"": 0.486, ""assists"": 0.083, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1385,Juan Portilla,Colombia,MID,4.7,Ghana,0.12,17.6,0.823,0.175,"{""appearance"": 0.486, ""assists"": 0.083, ""clean_sheet"": 0.05, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+336,Petar Musa,Croatia,FWD,5.1,Portugal,0.12,17.6,0.823,0.161,"{""appearance"": 0.486, ""goals"": 0.217, ""assists"": 0.032, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+337,Igor Matanovic,Croatia,FWD,4.9,Portugal,0.12,17.6,0.823,0.168,"{""appearance"": 0.486, ""goals"": 0.217, ""assists"": 0.032, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1985,Kwasi Sibo,Ghana,MID,4.7,Colombia,0.12,17.6,0.82,0.174,"{""appearance"": 0.486, ""goals"": 0.072, ""assists"": 0.04, ""clean_sheet"": 0.019, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1261,Tim Ream,USA,DEF,3.9,Bosnia and Herzegovina,0.12,17.6,0.816,0.209,"{""appearance"": 0.486, ""goals"": 0.101, ""assists"": 0.044, ""clean_sheet"": 0.257, ""goals_conceded"": -0.037, ""cards"": -0.035}"
+1557,Gaël Kakuta,Congo DR,MID,4.6,England,0.12,17.6,0.816,0.177,"{""appearance"": 0.486, ""goals"": 0.086, ""assists"": 0.03, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1260,Joe Scally,USA,DEF,4.1,Bosnia and Herzegovina,0.12,17.6,0.811,0.198,"{""appearance"": 0.486, ""goals"": 0.096, ""assists"": 0.044, ""clean_sheet"": 0.257, ""goals_conceded"": -0.037, ""cards"": -0.035}"
+1109,Besfort Zeneli,Sweden,MID,4.7,France,0.12,17.6,0.81,0.172,"{""appearance"": 0.486, ""goals"": 0.074, ""assists"": 0.038, ""clean_sheet"": 0.008, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+229,Liam Millar,Canada,FWD,5.1,South Africa,0.12,17.6,0.81,0.159,"{""appearance"": 0.486, ""goals"": 0.17, ""assists"": 0.066, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1029,Idrissa Gueye,Senegal,MID,4.9,Belgium,0.12,17.6,0.81,0.165,"{""appearance"": 0.486, ""goals"": 0.042, ""assists"": 0.051, ""clean_sheet"": 0.027, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+159,Armin Gigovic,Bosnia and Herzegovina,MID,5.1,USA,0.12,17.6,0.81,0.159,"{""appearance"": 0.486, ""goals"": 0.072, ""assists"": 0.037, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+522,Malick Thiaw,Germany,DEF,4.7,Paraguay,0.12,17.6,0.81,0.172,"{""appearance"": 0.486, ""goals"": 0.103, ""assists"": 0.045, ""clean_sheet"": 0.251, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+915,Samú Costa,Portugal,MID,5.6,Croatia,0.12,17.6,0.809,0.145,"{""appearance"": 0.486, ""assists"": 0.078, ""clean_sheet"": 0.042, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+935,Matheus Nunes,Portugal,MID,6.1,Croatia,0.12,17.6,0.809,0.133,"{""appearance"": 0.486, ""assists"": 0.078, ""clean_sheet"": 0.042, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+888,Maurício Magalhães Prado,Paraguay,MID,4.6,Germany,0.12,17.6,0.809,0.176,"{""appearance"": 0.486, ""goals"": 0.072, ""assists"": 0.037, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2075,Dejan Ljubicic,Austria,MID,5.0,Spain,0.12,17.6,0.807,0.161,"{""appearance"": 0.486, ""goals"": 0.077, ""assists"": 0.029, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1110,Elliot Stroud,Sweden,MID,4.7,France,0.12,17.6,0.803,0.171,"{""appearance"": 0.486, ""goals"": 0.067, ""assists"": 0.038, ""clean_sheet"": 0.008, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+911,Damián Bobadilla,Paraguay,MID,5.5,Germany,0.12,17.6,0.803,0.146,"{""appearance"": 0.486, ""goals"": 0.066, ""assists"": 0.037, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+894,Júnior Alonso,Paraguay,DEF,4.1,Germany,0.81,72.8,0.802,0.196,"{""appearance"": 1.555, ""goals"": 0.072, ""assists"": 0.033, ""clean_sheet"": 0.37, ""goals_conceded"": -1.083, ""cards"": -0.146}"
+1596,Hamza Abdelkarim,Egypt,FWD,4.3,Australia,0.12,17.6,0.802,0.186,"{""appearance"": 0.486, ""goals"": 0.183, ""assists"": 0.045, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1262,Mark McKenzie,USA,DEF,3.9,Bosnia and Herzegovina,0.12,17.6,0.801,0.205,"{""appearance"": 0.486, ""goals"": 0.087, ""assists"": 0.044, ""clean_sheet"": 0.257, ""goals_conceded"": -0.037, ""cards"": -0.035}"
+659,Kaishu Sano,Japan,MID,4.9,Brazil,0.12,17.6,0.8,0.163,"{""appearance"": 0.486, ""goals"": 0.043, ""assists"": 0.049, ""clean_sheet"": 0.018, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+527,Waldemar Anton,Germany,DEF,3.9,Paraguay,0.12,17.6,0.8,0.205,"{""appearance"": 0.486, ""goals"": 0.093, ""assists"": 0.045, ""clean_sheet"": 0.251, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+493,Maxence Lacroix,France,DEF,4.5,Sweden,0.12,17.6,0.8,0.178,"{""appearance"": 0.486, ""goals"": 0.102, ""assists"": 0.051, ""clean_sheet"": 0.24, ""goals_conceded"": -0.044, ""cards"": -0.035}"
+498,Lucas Digne,France,DEF,5.0,Sweden,0.12,17.6,0.8,0.16,"{""appearance"": 0.486, ""goals"": 0.102, ""assists"": 0.051, ""clean_sheet"": 0.24, ""goals_conceded"": -0.044, ""cards"": -0.035}"
+499,Malo Gusto,France,DEF,5.1,Sweden,0.12,17.6,0.8,0.157,"{""appearance"": 0.486, ""goals"": 0.102, ""assists"": 0.051, ""clean_sheet"": 0.24, ""goals_conceded"": -0.044, ""cards"": -0.035}"
+104,Alessandro Schöpf,Austria,MID,5.3,Spain,0.12,17.6,0.799,0.151,"{""appearance"": 0.486, ""goals"": 0.068, ""assists"": 0.029, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+312,Evann Guessand,Côte d'Ivoire,FWD,5.3,Norway,0.12,17.6,0.795,0.15,"{""appearance"": 0.486, ""goals"": 0.177, ""assists"": 0.044, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+220,Richie Laryea,Canada,DEF,3.9,South Africa,0.12,17.6,0.792,0.203,"{""appearance"": 0.486, ""goals"": 0.104, ""assists"": 0.037, ""clean_sheet"": 0.243, ""goals_conceded"": -0.043, ""cards"": -0.035}"
+1966,Alfie Jones,Canada,DEF,3.8,South Africa,0.12,17.6,0.792,0.208,"{""appearance"": 0.486, ""goals"": 0.104, ""assists"": 0.037, ""clean_sheet"": 0.243, ""goals_conceded"": -0.043, ""cards"": -0.035}"
+1075,Evidence Makgopa,South Africa,FWD,4.5,Canada,0.15,20.0,0.792,0.176,"{""appearance"": 0.532, ""goals"": 0.128, ""assists"": 0.031, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+1594,Mostafa Zico,Egypt,MID,4.2,Australia,0.12,17.6,0.791,0.188,"{""appearance"": 0.486, ""assists"": 0.061, ""clean_sheet"": 0.041, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+157,Dzenis Burnic,Bosnia and Herzegovina,MID,4.9,USA,0.12,17.6,0.791,0.161,"{""appearance"": 0.486, ""goals"": 0.053, ""assists"": 0.037, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1531,Hélio Varela,Cabo Verde,MID,4.9,Argentina,0.12,17.6,0.791,0.161,"{""appearance"": 0.486, ""goals"": 0.069, ""assists"": 0.025, ""clean_sheet"": 0.007, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1533,Oumar Diakité,Côte d'Ivoire,FWD,5.3,Norway,0.12,17.6,0.784,0.148,"{""appearance"": 0.486, ""goals"": 0.166, ""assists"": 0.044, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+110,Paul Wanner,Austria,MID,5.6,Spain,0.12,17.6,0.782,0.14,"{""appearance"": 0.486, ""goals"": 0.052, ""assists"": 0.028, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+495,Ibrahima Konaté,France,DEF,4.9,Sweden,0.12,17.6,0.782,0.159,"{""appearance"": 0.486, ""goals"": 0.085, ""assists"": 0.051, ""clean_sheet"": 0.24, ""goals_conceded"": -0.044, ""cards"": -0.035}"
+160,Ivan Basic,Bosnia and Herzegovina,MID,5.1,USA,0.12,17.6,0.777,0.152,"{""appearance"": 0.486, ""goals"": 0.039, ""assists"": 0.036, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1530,Jamiro Monteiro,Cabo Verde,MID,4.6,Argentina,0.12,17.6,0.776,0.169,"{""appearance"": 0.486, ""goals"": 0.054, ""assists"": 0.025, ""clean_sheet"": 0.007, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1112,Eric Smith,Sweden,MID,4.9,France,0.12,17.6,0.774,0.158,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.038, ""clean_sheet"": 0.008, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+806,Noa Lang,Netherlands,FWD,5.9,Morocco,0.12,17.6,0.771,0.131,"{""appearance"": 0.486, ""goals"": 0.148, ""assists"": 0.049, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1116,Jesper Karlström,Sweden,MID,5.6,France,0.12,17.6,0.77,0.138,"{""appearance"": 0.486, ""goals"": 0.034, ""assists"": 0.038, ""clean_sheet"": 0.008, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+309,Elye Wahi,Côte d'Ivoire,FWD,5.9,Norway,0.12,17.6,0.77,0.131,"{""appearance"": 0.486, ""goals"": 0.153, ""assists"": 0.044, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1269,Max Arfsten,USA,FWD,4.4,Bosnia and Herzegovina,0.12,17.6,0.769,0.175,"{""appearance"": 0.486, ""goals"": 0.118, ""assists"": 0.077, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1534,Ange-Yoan Bonny,Côte d'Ivoire,FWD,4.9,Norway,0.12,17.6,0.769,0.157,"{""appearance"": 0.486, ""goals"": 0.152, ""assists"": 0.044, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+111,Xaver Schlager,Austria,MID,5.5,Spain,0.12,17.6,0.767,0.139,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.028, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+223,Joel Waterman,Canada,DEF,3.7,South Africa,0.12,17.6,0.767,0.207,"{""appearance"": 0.486, ""goals"": 0.079, ""assists"": 0.037, ""clean_sheet"": 0.243, ""goals_conceded"": -0.043, ""cards"": -0.035}"
+292,Ngal'ayel Mukau,Congo DR,MID,4.9,England,0.12,17.6,0.767,0.156,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.029, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1591,Aaron Tshibola,Congo DR,MID,4.9,England,0.12,17.6,0.767,0.156,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.029, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+105,Florian Grillitsch,Austria,MID,5.5,Spain,0.12,17.6,0.765,0.139,"{""appearance"": 0.486, ""goals"": 0.035, ""assists"": 0.028, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+459,Tino Livramento,England,DEF,4.6,Congo DR,0.12,17.6,0.765,0.166,"{""appearance"": 0.486, ""assists"": 0.045, ""clean_sheet"": 0.294, ""goals_conceded"": -0.025, ""cards"": -0.035}"
+198,Kevin Pina,Cabo Verde,MID,4.7,Argentina,0.12,17.6,0.764,0.163,"{""appearance"": 0.486, ""goals"": 0.043, ""assists"": 0.025, ""clean_sheet"": 0.007, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1046,Assane Diao,Senegal,FWD,4.9,Belgium,0.12,17.6,0.764,0.156,"{""appearance"": 0.486, ""goals"": 0.153, ""assists"": 0.037, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1048,Bamba Dieng,Senegal,FWD,4.9,Belgium,0.12,17.6,0.764,0.156,"{""appearance"": 0.486, ""goals"": 0.153, ""assists"": 0.037, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+743,Jorge Sánchez,Mexico,DEF,4.0,Ecuador,0.15,20.0,0.763,0.191,"{""appearance"": 0.532, ""goals"": 0.048, ""assists"": 0.025, ""clean_sheet"": 0.264, ""goals_conceded"": -0.066, ""cards"": -0.04}"
+1465,Mateo Chávez,Mexico,DEF,3.5,Ecuador,0.15,20.0,0.763,0.218,"{""appearance"": 0.532, ""goals"": 0.048, ""assists"": 0.025, ""clean_sheet"": 0.264, ""goals_conceded"": -0.066, ""cards"": -0.04}"
+15,Ahmed Benbouali,Algeria,FWD,4.2,Switzerland,0.12,17.6,0.763,0.182,"{""appearance"": 0.486, ""goals"": 0.149, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1616,Andrés Cubas,Paraguay,MID,4.7,Germany,0.12,17.6,0.762,0.162,"{""appearance"": 0.486, ""goals"": 0.025, ""assists"": 0.036, ""clean_sheet"": 0.011, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+2007,Tete Yengi,Australia,FWD,4.3,Egypt,0.12,17.6,0.761,0.177,"{""appearance"": 0.486, ""goals"": 0.152, ""assists"": 0.036, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1047,Cherif Ndiaye,Senegal,FWD,4.9,Belgium,0.12,17.6,0.761,0.155,"{""appearance"": 0.486, ""goals"": 0.15, ""assists"": 0.037, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1713,Amine Sbaï,Morocco,FWD,4.8,Netherlands,0.12,17.6,0.761,0.159,"{""appearance"": 0.486, ""goals"": 0.147, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+106,Nicolas Seiwald,Austria,MID,5.6,Spain,0.12,17.6,0.76,0.136,"{""appearance"": 0.486, ""goals"": 0.03, ""assists"": 0.028, ""clean_sheet"": 0.012, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+196,Yannick Semedo,Cabo Verde,MID,4.7,Argentina,0.12,17.6,0.759,0.162,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.025, ""clean_sheet"": 0.007, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1457,Wataru Endo,Japan,MID,6.0,Brazil,0.12,17.6,0.756,0.126,"{""appearance"": 0.486, ""assists"": 0.049, ""clean_sheet"": 0.018, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1076,Thapelo Maseko,South Africa,FWD,4.2,Canada,0.15,20.0,0.755,0.18,"{""appearance"": 0.532, ""goals"": 0.092, ""assists"": 0.031, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+341,Luka Sucic,Croatia,MID,4.9,Portugal,0.12,17.6,0.755,0.154,"{""appearance"": 0.486, ""assists"": 0.044, ""clean_sheet"": 0.022, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+342,Toni Fruk,Croatia,MID,4.9,Portugal,0.12,17.6,0.755,0.154,"{""appearance"": 0.486, ""assists"": 0.044, ""clean_sheet"": 0.022, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+343,Nikola Moro,Croatia,MID,5.6,Portugal,0.12,17.6,0.755,0.135,"{""appearance"": 0.486, ""assists"": 0.044, ""clean_sheet"": 0.022, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+344,Kristijan Jakic,Croatia,MID,5.6,Portugal,0.12,17.6,0.755,0.135,"{""appearance"": 0.486, ""assists"": 0.044, ""clean_sheet"": 0.022, ""tackles"": 0.117, ""chances"": 0.117, ""cards"": -0.031}"
+1072,Relebohile Mofokeng,South Africa,FWD,4.9,Canada,0.15,20.0,0.752,0.153,"{""appearance"": 0.532, ""goals"": 0.088, ""assists"": 0.031, ""shots_on_target"": 0.122, ""cards"": -0.022}"
+311,Simon Adingra,Côte d'Ivoire,FWD,5.6,Norway,0.12,17.6,0.75,0.134,"{""appearance"": 0.486, ""goals"": 0.132, ""assists"": 0.043, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+921,Renato Veiga,Portugal,DEF,4.3,Croatia,0.12,17.6,0.748,0.174,"{""appearance"": 0.486, ""goals"": 0.112, ""assists"": 0.032, ""clean_sheet"": 0.211, ""goals_conceded"": -0.058, ""cards"": -0.035}"
+169,Bremer,Brazil,DEF,4.3,Japan,0.12,17.6,0.746,0.174,"{""appearance"": 0.486, ""goals"": 0.113, ""assists"": 0.036, ""clean_sheet"": 0.207, ""goals_conceded"": -0.06, ""cards"": -0.035}"
+314,Bazoumana Touré,Côte d'Ivoire,FWD,4.5,Norway,0.12,17.6,0.735,0.163,"{""appearance"": 0.486, ""goals"": 0.118, ""assists"": 0.043, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+675,Keisuke Goto,Japan,FWD,4.2,Brazil,0.12,17.6,0.734,0.175,"{""appearance"": 0.486, ""goals"": 0.125, ""assists"": 0.035, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1127,Gustaf Nilsson,Sweden,FWD,4.9,France,0.12,17.6,0.733,0.15,"{""appearance"": 0.486, ""goals"": 0.131, ""assists"": 0.027, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+417,Jordy Caicedo,Ecuador,FWD,4.9,Mexico,0.12,17.6,0.729,0.149,"{""appearance"": 0.486, ""goals"": 0.122, ""assists"": 0.033, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+170,Léo Pereira,Brazil,DEF,4.2,Japan,0.12,17.6,0.728,0.173,"{""appearance"": 0.486, ""goals"": 0.095, ""assists"": 0.036, ""clean_sheet"": 0.207, ""goals_conceded"": -0.06, ""cards"": -0.035}"
+149,Haris Tabakovic,Bosnia and Herzegovina,FWD,5.1,USA,0.12,17.6,0.727,0.143,"{""appearance"": 0.486, ""goals"": 0.127, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+14,Farès Ghedjemis,Algeria,FWD,4.4,Switzerland,0.12,17.6,0.726,0.165,"{""appearance"": 0.486, ""goals"": 0.113, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+13,Anis Hadj Moussa,Algeria,FWD,5.3,Switzerland,0.12,17.6,0.72,0.136,"{""appearance"": 0.486, ""goals"": 0.107, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1049,Ibrahim Mbaye,Senegal,FWD,4.4,Belgium,0.12,17.6,0.719,0.163,"{""appearance"": 0.486, ""goals"": 0.108, ""assists"": 0.037, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1676,Ayoube Amaimouni-Echghouyab,Morocco,FWD,4.3,Netherlands,0.12,17.6,0.718,0.167,"{""appearance"": 0.486, ""goals"": 0.105, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+2025,Chemsdine Talbi,Morocco,FWD,4.4,Netherlands,0.12,17.6,0.718,0.163,"{""appearance"": 0.486, ""goals"": 0.105, ""assists"": 0.039, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1688,Isidro Pitta,Paraguay,FWD,5.9,Germany,0.12,17.6,0.717,0.122,"{""appearance"": 0.486, ""goals"": 0.117, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+441,Hossam Abdelmaguid,Egypt,DEF,3.6,Australia,0.12,17.6,0.714,0.198,"{""appearance"": 0.486, ""goals"": 0.097, ""assists"": 0.025, ""clean_sheet"": 0.203, ""goals_conceded"": -0.062, ""cards"": -0.035}"
+1592,Karim Hafez,Egypt,DEF,3.9,Australia,0.12,17.6,0.714,0.183,"{""appearance"": 0.486, ""goals"": 0.097, ""assists"": 0.025, ""clean_sheet"": 0.203, ""goals_conceded"": -0.062, ""cards"": -0.035}"
+413,Gonzalo Plata,Ecuador,FWD,5.6,Mexico,0.12,17.6,0.713,0.127,"{""appearance"": 0.486, ""goals"": 0.107, ""assists"": 0.033, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+148,Jovo Lukic,Bosnia and Herzegovina,FWD,5.6,USA,0.12,17.6,0.713,0.127,"{""appearance"": 0.486, ""goals"": 0.113, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+442,Tarek Alaa,Egypt,DEF,3.5,Australia,0.12,17.6,0.705,0.201,"{""appearance"": 0.486, ""goals"": 0.089, ""assists"": 0.025, ""clean_sheet"": 0.203, ""goals_conceded"": -0.062, ""cards"": -0.035}"
+168,Douglas Santos,Brazil,DEF,4.3,Japan,0.12,17.6,0.702,0.163,"{""appearance"": 0.486, ""goals"": 0.07, ""assists"": 0.035, ""clean_sheet"": 0.207, ""goals_conceded"": -0.06, ""cards"": -0.035}"
+416,Alan Minda,Ecuador,FWD,4.9,Mexico,0.12,17.6,0.698,0.142,"{""appearance"": 0.486, ""goals"": 0.091, ""assists"": 0.033, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1994,Kamaldeen Sulemana,Ghana,FWD,5.1,Colombia,0.12,17.6,0.697,0.137,"{""appearance"": 0.486, ""goals"": 0.095, ""assists"": 0.028, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1379,Willer Ditta,Colombia,DEF,3.7,Ghana,0.12,17.6,0.697,0.188,"{""appearance"": 0.486, ""assists"": 0.033, ""clean_sheet"": 0.252, ""goals_conceded"": -0.039, ""cards"": -0.035}"
+151,Samed Bazdar,Bosnia and Herzegovina,FWD,4.5,USA,0.12,17.6,0.692,0.154,"{""appearance"": 0.486, ""goals"": 0.092, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+150,Esmir Bajraktarevic,Bosnia and Herzegovina,FWD,4.7,USA,0.12,17.6,0.681,0.145,"{""appearance"": 0.486, ""goals"": 0.081, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1126,Benjamin Nygren,Sweden,FWD,4.9,France,0.12,17.6,0.68,0.139,"{""appearance"": 0.486, ""goals"": 0.079, ""assists"": 0.027, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+903,Ramón Sosa,Paraguay,FWD,5.3,Germany,0.12,17.6,0.678,0.128,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+906,Gustavo Caballero,Paraguay,FWD,4.2,Germany,0.12,17.6,0.678,0.161,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+282,Simon Banza,Congo DR,FWD,5.6,England,0.12,17.6,0.676,0.121,"{""appearance"": 0.486, ""goals"": 0.082, ""assists"": 0.021, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+854,Henrik Falchener,Norway,DEF,3.5,Côte d'Ivoire,0.12,17.6,0.676,0.193,"{""appearance"": 0.486, ""goals"": 0.107, ""assists"": 0.035, ""clean_sheet"": 0.169, ""goals_conceded"": -0.085, ""cards"": -0.035}"
+121,Brandon Mechele,Belgium,DEF,3.9,Senegal,0.12,17.6,0.672,0.172,"{""appearance"": 0.486, ""goals"": 0.08, ""assists"": 0.028, ""clean_sheet"": 0.187, ""goals_conceded"": -0.072, ""cards"": -0.035}"
+122,Joaquin Seys,Belgium,DEF,3.9,Senegal,0.12,17.6,0.672,0.172,"{""appearance"": 0.486, ""goals"": 0.08, ""assists"": 0.028, ""clean_sheet"": 0.187, ""goals_conceded"": -0.072, ""cards"": -0.035}"
+1148,Luca Jaquez,Switzerland,DEF,3.5,Algeria,0.12,17.6,0.67,0.191,"{""appearance"": 0.486, ""goals"": 0.074, ""assists"": 0.033, ""clean_sheet"": 0.186, ""goals_conceded"": -0.073, ""cards"": -0.035}"
+2074,Lutsharel Geertruida,Netherlands,DEF,4.3,Morocco,0.12,17.6,0.664,0.155,"{""appearance"": 0.486, ""goals"": 0.087, ""assists"": 0.028, ""clean_sheet"": 0.178, ""goals_conceded"": -0.079, ""cards"": -0.035}"
+848,Marcus Pedersen,Norway,DEF,4.1,Côte d'Ivoire,0.12,17.6,0.661,0.161,"{""appearance"": 0.486, ""goals"": 0.091, ""assists"": 0.034, ""clean_sheet"": 0.169, ""goals_conceded"": -0.085, ""cards"": -0.035}"
+1521,Alexander Bernhardsson,Sweden,FWD,4.9,France,0.12,17.6,0.66,0.135,"{""appearance"": 0.486, ""goals"": 0.059, ""assists"": 0.027, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1147,Aurèle Amenda,Switzerland,DEF,3.7,Algeria,0.12,17.6,0.66,0.178,"{""appearance"": 0.486, ""goals"": 0.064, ""assists"": 0.033, ""clean_sheet"": 0.186, ""goals_conceded"": -0.073, ""cards"": -0.035}"
+120,Koni De Winter,Belgium,DEF,4.2,Senegal,0.12,17.6,0.656,0.156,"{""appearance"": 0.486, ""goals"": 0.063, ""assists"": 0.027, ""clean_sheet"": 0.187, ""goals_conceded"": -0.072, ""cards"": -0.035}"
+288,Brian Cipenga,Congo DR,FWD,4.2,England,0.12,17.6,0.655,0.156,"{""appearance"": 0.486, ""goals"": 0.06, ""assists"": 0.021, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+209,Nuno da Costa,Cabo Verde,FWD,4.7,Argentina,0.12,17.6,0.653,0.139,"{""appearance"": 0.486, ""goals"": 0.061, ""assists"": 0.017, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+210,Garry Rodrigues,Cabo Verde,FWD,4.7,Argentina,0.12,17.6,0.653,0.139,"{""appearance"": 0.486, ""goals"": 0.061, ""assists"": 0.017, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+907,Alexandro Maidana,Paraguay,FWD,4.0,Germany,0.12,17.6,0.649,0.162,"{""appearance"": 0.486, ""goals"": 0.049, ""assists"": 0.026, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+123,Nathan Ngoy,Belgium,DEF,3.7,Senegal,0.12,17.6,0.648,0.175,"{""appearance"": 0.486, ""goals"": 0.055, ""assists"": 0.027, ""clean_sheet"": 0.187, ""goals_conceded"": -0.072, ""cards"": -0.035}"
+211,Willy Semedo,Cabo Verde,FWD,4.5,Argentina,0.12,17.6,0.646,0.144,"{""appearance"": 0.486, ""goals"": 0.055, ""assists"": 0.017, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1714,Sondre Langås,Norway,DEF,4.0,Côte d'Ivoire,0.12,17.6,0.646,0.162,"{""appearance"": 0.486, ""goals"": 0.077, ""assists"": 0.034, ""clean_sheet"": 0.169, ""goals_conceded"": -0.085, ""cards"": -0.035}"
+852,Torbjørn Heggem,Norway,DEF,3.7,Côte d'Ivoire,0.12,17.6,0.644,0.174,"{""appearance"": 0.486, ""goals"": 0.075, ""assists"": 0.034, ""clean_sheet"": 0.169, ""goals_conceded"": -0.085, ""cards"": -0.035}"
+803,Jorrel Hato,Netherlands,DEF,4.3,Morocco,0.12,17.6,0.644,0.15,"{""appearance"": 0.486, ""goals"": 0.066, ""assists"": 0.028, ""clean_sheet"": 0.178, ""goals_conceded"": -0.079, ""cards"": -0.035}"
+922,Tomás Araújo,Portugal,DEF,4.1,Croatia,0.12,17.6,0.635,0.155,"{""appearance"": 0.486, ""assists"": 0.031, ""clean_sheet"": 0.211, ""goals_conceded"": -0.058, ""cards"": -0.035}"
+1571,Nélson Semedo,Portugal,DEF,4.3,Croatia,0.12,17.6,0.635,0.148,"{""appearance"": 0.486, ""assists"": 0.031, ""clean_sheet"": 0.211, ""goals_conceded"": -0.058, ""cards"": -0.035}"
+261,Andrés Gómez,Colombia,FWD,4.9,Ghana,0.12,17.6,0.632,0.129,"{""appearance"": 0.486, ""assists"": 0.058, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+287,Nathanaël Mbuku,Congo DR,FWD,4.5,England,0.12,17.6,0.631,0.14,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.021, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+927,Gonçalo Guedes,Portugal,FWD,5.8,Croatia,0.12,17.6,0.628,0.108,"{""appearance"": 0.486, ""assists"": 0.054, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+63,Aziz Behich,Australia,DEF,3.8,Egypt,0.12,17.6,0.617,0.162,"{""appearance"": 0.486, ""goals"": 0.078, ""assists"": 0.02, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""cards"": -0.035}"
+335,Marco Pasalic,Croatia,FWD,5.3,Portugal,0.12,17.6,0.605,0.114,"{""appearance"": 0.486, ""assists"": 0.031, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1989,Prince Adu,Ghana,FWD,4.0,Colombia,0.12,17.6,0.602,0.15,"{""appearance"": 0.486, ""assists"": 0.028, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1991,Christopher Bonsu Baah,Ghana,FWD,4.5,Colombia,0.12,17.6,0.602,0.134,"{""appearance"": 0.486, ""assists"": 0.028, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1993,Brandon Thomas-Asante,Ghana,FWD,5.1,Colombia,0.12,17.6,0.602,0.118,"{""appearance"": 0.486, ""assists"": 0.028, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+1146,Eray Cömert,Switzerland,DEF,3.9,Algeria,0.12,17.6,0.595,0.153,"{""appearance"": 0.486, ""assists"": 0.032, ""clean_sheet"": 0.186, ""goals_conceded"": -0.073, ""cards"": -0.035}"
+284,Meschack Elia,Congo DR,FWD,4.9,England,0.12,17.6,0.594,0.121,"{""appearance"": 0.486, ""assists"": 0.02, ""shots_on_target"": 0.108, ""cards"": -0.02}"
+62,Milos Degenek,Australia,DEF,3.8,Egypt,0.12,17.6,0.584,0.154,"{""appearance"": 0.486, ""goals"": 0.045, ""assists"": 0.02, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""cards"": -0.035}"
+64,Jason Geria,Australia,DEF,3.7,Egypt,0.12,17.6,0.584,0.158,"{""appearance"": 0.486, ""goals"": 0.045, ""assists"": 0.02, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""cards"": -0.035}"
+142,Nikola Katic,Bosnia and Herzegovina,DEF,3.8,USA,0.4,40.0,0.582,0.153,"{""appearance"": 0.92, ""goals"": 0.061, ""assists"": 0.022, ""clean_sheet"": 0.206, ""goals_conceded"": -0.547, ""cards"": -0.08}"
+60,Alessandro Circati,Australia,DEF,3.9,Egypt,0.12,17.6,0.581,0.149,"{""appearance"": 0.486, ""goals"": 0.042, ""assists"": 0.02, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""cards"": -0.035}"
+1118,Daniel Svensson,Sweden,DEF,4.5,France,0.87,77.6,0.58,0.129,"{""appearance"": 1.648, ""goals"": 0.105, ""assists"": 0.036, ""clean_sheet"": 0.305, ""goals_conceded"": -1.36, ""cards"": -0.155}"
+61,Cameron Burgess,Australia,DEF,3.8,Egypt,0.12,17.6,0.579,0.152,"{""appearance"": 0.486, ""goals"": 0.04, ""assists"": 0.02, ""clean_sheet"": 0.16, ""goals_conceded"": -0.092, ""cards"": -0.035}"
+407,Jackson Porozo,Ecuador,DEF,3.8,Mexico,0.12,17.6,0.577,0.152,"{""appearance"": 0.486, ""goals"": 0.046, ""assists"": 0.019, ""clean_sheet"": 0.156, ""goals_conceded"": -0.095, ""cards"": -0.035}"
+411,Yaimar Medina,Ecuador,DEF,3.5,Mexico,0.12,17.6,0.577,0.165,"{""appearance"": 0.486, ""goals"": 0.046, ""assists"": 0.019, ""clean_sheet"": 0.156, ""goals_conceded"": -0.095, ""cards"": -0.035}"
+87,Alexander Prass,Austria,DEF,4.3,Spain,0.4,40.0,0.574,0.133,"{""appearance"": 0.92, ""goals"": 0.062, ""assists"": 0.017, ""clean_sheet"": 0.205, ""goals_conceded"": -0.55, ""cards"": -0.08}"
+1121,Victor Lindelöf,Sweden,DEF,4.0,France,0.9,80.0,0.568,0.142,"{""appearance"": 1.695, ""goals"": 0.083, ""assists"": 0.037, ""clean_sheet"": 0.316, ""goals_conceded"": -1.402, ""cards"": -0.16}"
+405,Félix Torres,Ecuador,DEF,3.9,Mexico,0.12,17.6,0.564,0.145,"{""appearance"": 0.486, ""goals"": 0.034, ""assists"": 0.018, ""clean_sheet"": 0.156, ""goals_conceded"": -0.095, ""cards"": -0.035}"
+1119,Gabriel Gudmundsson,Sweden,DEF,4.2,France,0.84,75.2,0.556,0.132,"{""appearance"": 1.602, ""goals"": 0.093, ""assists"": 0.035, ""clean_sheet"": 0.294, ""goals_conceded"": -1.318, ""cards"": -0.15}"
+1036,Ismail Jakobs,Senegal,DEF,4.1,Belgium,0.12,17.6,0.546,0.133,"{""appearance"": 0.486, ""goals"": 0.056, ""assists"": 0.021, ""clean_sheet"": 0.134, ""goals_conceded"": -0.117, ""cards"": -0.035}"
+1038,Abdoulaye Seck,Senegal,DEF,3.8,Belgium,0.12,17.6,0.546,0.144,"{""appearance"": 0.486, ""goals"": 0.056, ""assists"": 0.021, ""clean_sheet"": 0.134, ""goals_conceded"": -0.117, ""cards"": -0.035}"
+1120,Carl Starfelt,Sweden,DEF,4.1,France,0.81,72.8,0.543,0.132,"{""appearance"": 1.555, ""goals"": 0.091, ""assists"": 0.035, ""clean_sheet"": 0.284, ""goals_conceded"": -1.276, ""cards"": -0.146}"
+1668,Youssef Belammari,Morocco,DEF,3.6,Netherlands,0.12,17.6,0.542,0.15,"{""appearance"": 0.486, ""goals"": 0.061, ""assists"": 0.022, ""clean_sheet"": 0.13, ""goals_conceded"": -0.122, ""cards"": -0.035}"
+1064,Thabang Matuludi,South Africa,DEF,3.7,Canada,0.15,20.0,0.53,0.143,"{""appearance"": 0.532, ""goals"": 0.088, ""assists"": 0.018, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""cards"": -0.04}"
+2013,Chadi Riad,Morocco,DEF,3.9,Netherlands,0.12,17.6,0.527,0.135,"{""appearance"": 0.486, ""goals"": 0.047, ""assists"": 0.022, ""clean_sheet"": 0.13, ""goals_conceded"": -0.122, ""cards"": -0.035}"
+773,Anass Salah-Eddine,Morocco,DEF,3.9,Netherlands,0.12,17.6,0.525,0.135,"{""appearance"": 0.486, ""goals"": 0.044, ""assists"": 0.022, ""clean_sheet"": 0.13, ""goals_conceded"": -0.122, ""cards"": -0.035}"
+276,Joris Kayembe,Congo DR,DEF,3.9,England,0.4,40.0,0.513,0.132,"{""appearance"": 0.92, ""goals"": 0.059, ""assists"": 0.018, ""clean_sheet"": 0.185, ""goals_conceded"": -0.589, ""cards"": -0.08}"
+899,Juan José Cáceres,Paraguay,DEF,3.8,Germany,0.4,40.0,0.498,0.131,"{""appearance"": 0.92, ""goals"": 0.048, ""assists"": 0.022, ""clean_sheet"": 0.183, ""goals_conceded"": -0.595, ""cards"": -0.08}"
+2066,Jaouen Hadjam,Algeria,DEF,3.8,Switzerland,0.12,17.6,0.497,0.131,"{""appearance"": 0.486, ""goals"": 0.075, ""assists"": 0.022, ""clean_sheet"": 0.104, ""goals_conceded"": -0.155, ""cards"": -0.035}"
+1070,Samukele Kabini,South Africa,DEF,3.5,Canada,0.15,20.0,0.487,0.139,"{""appearance"": 0.532, ""goals"": 0.045, ""assists"": 0.017, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""cards"": -0.04}"
+1701,Bradley Cross,South Africa,DEF,3.6,Canada,0.15,20.0,0.487,0.135,"{""appearance"": 0.532, ""goals"": 0.045, ""assists"": 0.017, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""cards"": -0.04}"
+2048,Mohamed Tougaï,Algeria,DEF,4.0,Switzerland,0.12,17.6,0.485,0.121,"{""appearance"": 0.486, ""goals"": 0.063, ""assists"": 0.022, ""clean_sheet"": 0.104, ""goals_conceded"": -0.155, ""cards"": -0.035}"
+1700,Olwethu Makhanya,South Africa,DEF,3.5,Canada,0.15,20.0,0.485,0.139,"{""appearance"": 0.532, ""goals"": 0.043, ""assists"": 0.017, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""cards"": -0.04}"
+326,Josip Sutalo,Croatia,DEF,4.3,Portugal,0.12,17.6,0.478,0.111,"{""appearance"": 0.486, ""goals"": 0.049, ""assists"": 0.018, ""clean_sheet"": 0.109, ""goals_conceded"": -0.149, ""cards"": -0.035}"
+5,Zinéddine Belaïd,Algeria,DEF,3.7,Switzerland,0.12,17.6,0.476,0.129,"{""appearance"": 0.486, ""goals"": 0.054, ""assists"": 0.022, ""clean_sheet"": 0.104, ""goals_conceded"": -0.155, ""cards"": -0.035}"
+304,Emmanuel Agbadou,Côte d'Ivoire,DEF,3.9,Norway,0.12,17.6,0.473,0.121,"{""appearance"": 0.486, ""goals"": 0.061, ""assists"": 0.024, ""clean_sheet"": 0.099, ""goals_conceded"": -0.163, ""cards"": -0.035}"
+3,Aïssa Mandi,Algeria,DEF,3.9,Switzerland,0.12,17.6,0.47,0.12,"{""appearance"": 0.486, ""goals"": 0.048, ""assists"": 0.022, ""clean_sheet"": 0.104, ""goals_conceded"": -0.155, ""cards"": -0.035}"
+1068,Khulumani Ndamane,South Africa,DEF,3.5,Canada,0.15,20.0,0.47,0.134,"{""appearance"": 0.532, ""goals"": 0.028, ""assists"": 0.017, ""clean_sheet"": 0.121, ""goals_conceded"": -0.189, ""cards"": -0.04}"
+2051,Christopher Opéri,Côte d'Ivoire,DEF,4.0,Norway,0.12,17.6,0.469,0.117,"{""appearance"": 0.486, ""goals"": 0.058, ""assists"": 0.024, ""clean_sheet"": 0.099, ""goals_conceded"": -0.163, ""cards"": -0.035}"
+1980,Jerome Opoku,Ghana,DEF,3.8,Colombia,0.12,17.6,0.467,0.123,"{""appearance"": 0.486, ""goals"": 0.075, ""assists"": 0.016, ""clean_sheet"": 0.095, ""goals_conceded"": -0.17, ""cards"": -0.035}"
+302,Odilon Kossounou,Côte d'Ivoire,DEF,4.3,Norway,0.12,17.6,0.457,0.106,"{""appearance"": 0.486, ""goals"": 0.046, ""assists"": 0.024, ""clean_sheet"": 0.099, ""goals_conceded"": -0.163, ""cards"": -0.035}"
+1456,Yuto Nagatomo,Japan,DEF,3.7,Brazil,0.12,17.6,0.454,0.123,"{""appearance"": 0.486, ""goals"": 0.068, ""assists"": 0.02, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""cards"": -0.035}"
+2068,Derrick Luckassen,Ghana,DEF,3.7,Colombia,0.12,17.6,0.449,0.121,"{""appearance"": 0.486, ""goals"": 0.057, ""assists"": 0.016, ""clean_sheet"": 0.095, ""goals_conceded"": -0.17, ""cards"": -0.035}"
+662,Yukinari Sugawara,Japan,DEF,4.4,Brazil,0.12,17.6,0.447,0.102,"{""appearance"": 0.486, ""goals"": 0.062, ""assists"": 0.02, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""cards"": -0.035}"
+663,Tsuyoshi Watanabe,Japan,DEF,4.3,Brazil,0.12,17.6,0.439,0.102,"{""appearance"": 0.486, ""goals"": 0.054, ""assists"": 0.02, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""cards"": -0.035}"
+666,Shogo Taniguchi,Japan,DEF,3.9,Brazil,0.12,17.6,0.429,0.11,"{""appearance"": 0.486, ""goals"": 0.044, ""assists"": 0.02, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""cards"": -0.035}"
+329,Martin Erlic,Croatia,DEF,3.9,Portugal,0.12,17.6,0.429,0.11,"{""appearance"": 0.486, ""assists"": 0.018, ""clean_sheet"": 0.109, ""goals_conceded"": -0.149, ""cards"": -0.035}"
+203,Sidny Cabral,Cabo Verde,DEF,3.5,Argentina,0.9,80.0,0.428,0.122,"{""appearance"": 1.695, ""goals"": 0.107, ""assists"": 0.024, ""clean_sheet"": 0.276, ""goals_conceded"": -1.513, ""cards"": -0.16}"
+667,Ayumu Seko,Japan,DEF,3.8,Brazil,0.12,17.6,0.423,0.111,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.02, ""clean_sheet"": 0.091, ""goals_conceded"": -0.176, ""cards"": -0.035}"
+1528,Stopira,Cabo Verde,DEF,3.5,Argentina,0.84,75.2,0.4,0.114,"{""appearance"": 1.602, ""goals"": 0.091, ""assists"": 0.023, ""clean_sheet"": 0.257, ""goals_conceded"": -1.422, ""cards"": -0.15}"
+1974,Alidu Seidu,Ghana,DEF,3.9,Colombia,0.12,17.6,0.391,0.1,"{""appearance"": 0.486, ""assists"": 0.016, ""clean_sheet"": 0.095, ""goals_conceded"": -0.17, ""cards"": -0.035}"
+1977,Abdul Mumin,Ghana,DEF,3.7,Colombia,0.12,17.6,0.391,0.106,"{""appearance"": 0.486, ""assists"": 0.016, ""clean_sheet"": 0.095, ""goals_conceded"": -0.17, ""cards"": -0.035}"
+205,Diney,Cabo Verde,DEF,3.5,Argentina,0.87,77.6,0.376,0.107,"{""appearance"": 1.648, ""goals"": 0.06, ""assists"": 0.023, ""clean_sheet"": 0.266, ""goals_conceded"": -1.468, ""cards"": -0.155}"
+1529,Logan Costa,Cabo Verde,DEF,3.5,Argentina,0.81,72.8,0.368,0.105,"{""appearance"": 1.555, ""goals"": 0.064, ""assists"": 0.022, ""clean_sheet"": 0.248, ""goals_conceded"": -1.377, ""cards"": -0.146}"
+1518,Isak Hien,Sweden,DEF,4.1,France,0.4,40.0,0.342,0.083,"{""appearance"": 0.92, ""goals"": 0.04, ""assists"": 0.023, ""clean_sheet"": 0.14, ""goals_conceded"": -0.701, ""cards"": -0.08}"
+143,Stjepan Radeljic,Bosnia and Herzegovina,DEF,3.7,USA,0.12,17.6,0.325,0.088,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.015, ""clean_sheet"": 0.062, ""goals_conceded"": -0.241, ""cards"": -0.035}"
+144,Nihad Mujakic,Bosnia and Herzegovina,DEF,3.6,USA,0.12,17.6,0.325,0.09,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.015, ""clean_sheet"": 0.062, ""goals_conceded"": -0.241, ""cards"": -0.035}"
+1341,Dennis Hadzikadunic,Bosnia and Herzegovina,DEF,3.7,USA,0.12,17.6,0.325,0.088,"{""appearance"": 0.486, ""goals"": 0.038, ""assists"": 0.015, ""clean_sheet"": 0.062, ""goals_conceded"": -0.241, ""cards"": -0.035}"
+94,Michael Svoboda,Austria,DEF,3.8,Spain,0.12,17.6,0.319,0.084,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.011, ""clean_sheet"": 0.061, ""goals_conceded"": -0.242, ""cards"": -0.035}"
+92,Marco Friedl,Austria,DEF,4.3,Spain,0.12,17.6,0.311,0.072,"{""appearance"": 0.486, ""goals"": 0.03, ""assists"": 0.011, ""clean_sheet"": 0.061, ""goals_conceded"": -0.242, ""cards"": -0.035}"
+93,David Affengruber,Austria,DEF,3.9,Spain,0.12,17.6,0.311,0.08,"{""appearance"": 0.486, ""goals"": 0.03, ""assists"": 0.011, ""clean_sheet"": 0.061, ""goals_conceded"": -0.242, ""cards"": -0.035}"
+91,Phillipp Mwene,Austria,DEF,3.9,Spain,0.12,17.6,0.304,0.078,"{""appearance"": 0.486, ""goals"": 0.023, ""assists"": 0.011, ""clean_sheet"": 0.061, ""goals_conceded"": -0.242, ""cards"": -0.035}"
+1556,Gédéon Kalulu,Congo DR,DEF,3.9,England,0.12,17.6,0.302,0.077,"{""appearance"": 0.486, ""goals"": 0.043, ""assists"": 0.012, ""clean_sheet"": 0.056, ""goals_conceded"": -0.259, ""cards"": -0.035}"
+900,José Canale,Paraguay,DEF,3.6,Germany,0.12,17.6,0.298,0.083,"{""appearance"": 0.486, ""goals"": 0.04, ""assists"": 0.015, ""clean_sheet"": 0.055, ""goals_conceded"": -0.262, ""cards"": -0.035}"
+898,Gustavo Velázquez,Paraguay,DEF,3.8,Germany,0.12,17.6,0.29,0.076,"{""appearance"": 0.486, ""goals"": 0.032, ""assists"": 0.015, ""clean_sheet"": 0.055, ""goals_conceded"": -0.262, ""cards"": -0.035}"
+277,Dylan Batubinsika,Congo DR,DEF,3.8,England,0.12,17.6,0.29,0.076,"{""appearance"": 0.486, ""goals"": 0.031, ""assists"": 0.012, ""clean_sheet"": 0.056, ""goals_conceded"": -0.259, ""cards"": -0.035}"
+278,Steve Kapuadi,Congo DR,DEF,3.7,England,0.12,17.6,0.287,0.078,"{""appearance"": 0.486, ""goals"": 0.028, ""assists"": 0.012, ""clean_sheet"": 0.056, ""goals_conceded"": -0.259, ""cards"": -0.035}"
+199,Steven Moreira,Cabo Verde,DEF,3.9,Argentina,0.4,40.0,0.264,0.068,"{""appearance"": 0.92, ""goals"": 0.043, ""assists"": 0.015, ""clean_sheet"": 0.123, ""goals_conceded"": -0.757, ""cards"": -0.08}"
+1122,Gustaf Lagerbielke,Sweden,DEF,3.7,France,0.12,17.6,0.242,0.065,"{""appearance"": 0.486, ""goals"": 0.042, ""assists"": 0.015, ""clean_sheet"": 0.042, ""goals_conceded"": -0.309, ""cards"": -0.035}"
+1516,Hjalmar Ekdal,Sweden,DEF,3.7,France,0.12,17.6,0.236,0.064,"{""appearance"": 0.486, ""goals"": 0.037, ""assists"": 0.015, ""clean_sheet"": 0.042, ""goals_conceded"": -0.309, ""cards"": -0.035}"
+201,Pico,Cabo Verde,DEF,3.7,Argentina,0.12,17.6,0.194,0.052,"{""appearance"": 0.486, ""goals"": 0.03, ""assists"": 0.01, ""clean_sheet"": 0.037, ""goals_conceded"": -0.333, ""cards"": -0.035}"
+202,Kelvin Pires,Cabo Verde,DEF,3.6,Argentina,0.12,17.6,0.193,0.054,"{""appearance"": 0.486, ""goals"": 0.028, ""assists"": 0.01, ""clean_sheet"": 0.037, ""goals_conceded"": -0.333, ""cards"": -0.035}"
+200,Wagner Pina,Cabo Verde,DEF,3.8,Argentina,0.12,17.6,0.19,0.05,"{""appearance"": 0.486, ""goals"": 0.025, ""assists"": 0.01, ""clean_sheet"": 0.037, ""goals_conceded"": -0.333, ""cards"": -0.035}"
+350,Tahith Chong,Curaçao,MID,4.2,,0.0,0.0,0.0,0.0,{}
+351,Godfried Roemeratoe,Curaçao,MID,4.7,,0.0,0.0,0.0,0.0,{}
+352,Leandro Bacuna,Curaçao,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+353,Riechedly Bazoer,Curaçao,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+354,Joshua Brenet,Curaçao,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+355,Shurandy Sambo,Curaçao,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+356,Sherel Floranus,Curaçao,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+357,Roshon van Eijma,Curaçao,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+358,Ar'Jany Martha,Curaçao,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+359,Juriën Gaari,Curaçao,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+360,Livano Comenencia,Curaçao,DEF,4.5,,0.0,0.0,0.0,0.0,{}
+361,Tyrese Noslin,Curaçao,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+362,Brandley Kuwas,Curaçao,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+363,Sontje Hansen,Curaçao,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+364,Kenji Gorré,Curaçao,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+365,Jearl Margaritha,Curaçao,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+366,Gervane Kastaneer,Curaçao,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+367,Jeremy Antonisse,Curaçao,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+368,Eloy Room,Curaçao,GK,3.9,,0.0,0.0,0.0,0.0,{}
+369,Trevor Doornbusch,Curaçao,GK,3.6,,0.0,0.0,0.0,0.0,{}
+370,Tyrick Bodak,Curaçao,GK,3.5,,0.0,0.0,0.0,0.0,{}
+371,Kevin Felida,Curaçao,MID,4.5,,0.0,0.0,0.0,0.0,{}
+372,Juninho Bacuna,Curaçao,MID,5.1,,0.0,0.0,0.0,0.0,{}
+373,Denis Visinsky,Czechia,MID,4.9,,0.0,0.0,0.0,0.0,{}
+374,Ladislav Krejcí,Czechia,DEF,4.4,,0.0,0.0,0.0,0.0,{}
+375,Tomás Holes,Czechia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+376,David Jurásek,Czechia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+378,Robin Hranác,Czechia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+379,Jaroslav Zeleny,Czechia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+380,Vladimír Coufal,Czechia,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+381,Stepán Chaloupek,Czechia,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+382,Patrik Schick,Czechia,FWD,7.3,,0.0,0.0,0.0,0.0,{}
+383,Tomás Chory,Czechia,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+384,Mojmír Chytil,Czechia,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+387,Matej Kovár,Czechia,GK,4.1,,0.0,0.0,0.0,0.0,{}
+388,Lukás Hornícek,Czechia,GK,3.8,,0.0,0.0,0.0,0.0,{}
+390,Lukás Cerv,Czechia,MID,5.3,,0.0,0.0,0.0,0.0,{}
+391,Vladimír Darida,Czechia,MID,5.3,,0.0,0.0,0.0,0.0,{}
+393,Tomás Soucek,Czechia,MID,5.6,,0.0,0.0,0.0,0.0,{}
+395,Michal Sadílek,Czechia,MID,5.6,,0.0,0.0,0.0,0.0,{}
+396,Lukás Provod,Czechia,MID,5.9,,0.0,0.0,0.0,0.0,{}
+397,Pavel Sulc,Czechia,MID,5.9,,0.0,0.0,0.0,0.0,{}
+569,Woodensky Pierre,Haiti,MID,4.2,,0.0,0.0,0.0,0.0,{}
+571,Jean-Ricner Bellegarde,Haiti,MID,4.7,,0.0,0.0,0.0,0.0,{}
+572,Carl Sainté,Haiti,MID,4.7,,0.0,0.0,0.0,0.0,{}
+573,Danley Jean Jacques,Haiti,MID,4.7,,0.0,0.0,0.0,0.0,{}
+574,Jean-Kévin Duverne,Haiti,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+575,Carlens Arcus,Haiti,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+576,Hannes Delcroix,Haiti,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+577,Ricardo Adé,Haiti,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+578,Martin Expérience,Haiti,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+580,Wilguens Paugain,Haiti,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+581,Duke Lacroix,Haiti,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+582,Wilson Isidor,Haiti,FWD,5.0,,0.0,0.0,0.0,0.0,{}
+583,Duckens Nazon,Haiti,FWD,6.0,,0.0,0.0,0.0,0.0,{}
+584,Frantzdy Pierrot,Haiti,FWD,4.7,,0.0,0.0,0.0,0.0,{}
+585,Derrick Etienne,Haiti,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+586,Louicius Deedson,Haiti,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+588,Yassin Fortuné,Haiti,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+589,Josué Casimir,Haiti,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+590,Ruben Providence,Haiti,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+591,Johny Placide,Haiti,GK,3.9,,0.0,0.0,0.0,0.0,{}
+592,Alexandre Pierre,Haiti,GK,3.6,,0.0,0.0,0.0,0.0,{}
+593,Josué Duverger,Haiti,GK,3.5,,0.0,0.0,0.0,0.0,{}
+594,Amir Mohammad Razzaghinia,IR Iran,MID,4.2,,0.0,0.0,0.0,0.0,{}
+596,Mohammad Ghorbani,IR Iran,MID,5.1,,0.0,0.0,0.0,0.0,{}
+597,Ramin Rezaeian,IR Iran,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+598,Hossein Kanani,IR Iran,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+599,Milad Mohammadi,IR Iran,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+600,Shoja Khalilzadeh,IR Iran,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+601,Ehsan Hajisafi,IR Iran,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+603,Saleh Hardani,IR Iran,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+606,Ali Nemati,IR Iran,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+608,Aria Yousefi,IR Iran,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+609,Danial Eiri,IR Iran,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+610,Mehdi Taremi,IR Iran,FWD,6.1,,0.0,0.0,0.0,0.0,{}
+611,Alireza Jahanbakhsh,IR Iran,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+612,Saman Ghoddos,IR Iran,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+614,Ali Alipour,IR Iran,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+615,Dennis Dargahi,IR Iran,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+616,Amirhossein Hosseinzadeh,IR Iran,FWD,4.5,,0.0,0.0,0.0,0.0,{}
+620,Alireza Beiranvand,IR Iran,GK,4.2,,0.0,0.0,0.0,0.0,{}
+621,Payam Niazmand,IR Iran,GK,3.9,,0.0,0.0,0.0,0.0,{}
+622,Hossein Hosseini,IR Iran,GK,3.8,,0.0,0.0,0.0,0.0,{}
+625,Mehdi Torabi,IR Iran,MID,5.6,,0.0,0.0,0.0,0.0,{}
+626,Saeid Ezatolahi,IR Iran,MID,5.6,,0.0,0.0,0.0,0.0,{}
+627,Mohammad Mohebi,IR Iran,MID,5.9,,0.0,0.0,0.0,0.0,{}
+629,Mehdi Ghayedi,IR Iran,MID,5.9,,0.0,0.0,0.0,0.0,{}
+630,Zaid Ismael,Iraq,MID,4.4,,0.0,0.0,0.0,0.0,{}
+631,Marko Farji,Iraq,MID,4.4,,0.0,0.0,0.0,0.0,{}
+634,Kevin Yakob,Iraq,MID,5.1,,0.0,0.0,0.0,0.0,{}
+635,Amir Al Ammari,Iraq,MID,5.3,,0.0,0.0,0.0,0.0,{}
+636,Aimar Sher,Iraq,MID,5.3,,0.0,0.0,0.0,0.0,{}
+637,Merchas Doski,Iraq,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+638,Frans Putros,Iraq,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+639,Rebin Sulaka,Iraq,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+641,Hussein Ali,Iraq,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+642,Zaid Tahseen,Iraq,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+643,Munaf Younus,Iraq,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+644,Akam Hashim,Iraq,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+645,Ahmed Maknzi,Iraq,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+646,Aymen Hussein,Iraq,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+647,Mohanad Ali,Iraq,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+648,Ali Jasim,Iraq,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+649,Ali Al Hamadi,Iraq,FWD,4.7,,0.0,0.0,0.0,0.0,{}
+650,Youssef Amyn,Iraq,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+651,Ali Yousif,Iraq,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+653,Ahmed Basil,Iraq,GK,3.8,,0.0,0.0,0.0,0.0,{}
+654,Fahad Talib,Iraq,GK,3.7,,0.0,0.0,0.0,0.0,{}
+656,Zidane Iqbal,Iraq,MID,5.6,,0.0,0.0,0.0,0.0,{}
+657,Ibrahim Bayesh,Iraq,MID,5.6,,0.0,0.0,0.0,0.0,{}
+686,Ibrahim Sadeh,Jordan,MID,4.4,,0.0,0.0,0.0,0.0,{}
+687,Mohammad Al Daoud,Jordan,MID,4.7,,0.0,0.0,0.0,0.0,{}
+688,Noor Al Rawabdeh,Jordan,MID,4.7,,0.0,0.0,0.0,0.0,{}
+689,Nizar Al Rashdan,Jordan,MID,4.9,,0.0,0.0,0.0,0.0,{}
+690,Yazan Al Arab,Jordan,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+691,Abdallah Nasib,Jordan,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+692,Mohannad Abu Taha,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+693,Mohammad Abu Hasheesh,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+695,Husam Abu Al Dahab,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+696,Mohammad Abu Ghoush,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+698,Saleem Obaid,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+699,Mohammad Abu Al Nadi,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+700,Amer Jamous,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+701,Mousa Al Tamari,Jordan,FWD,5.6,,0.0,0.0,0.0,0.0,{}
+702,Mohammad Abu Zraiq,Jordan,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+703,Mahmoud Al Mardi,Jordan,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+707,Ali Azaizeh,Jordan,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+708,Odeh Fakhoury,Jordan,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+709,Yazeed  Abulaila,Jordan,GK,3.9,,0.0,0.0,0.0,0.0,{}
+710,Abdallah Al Fakhouri,Jordan,GK,3.6,,0.0,0.0,0.0,0.0,{}
+713,Park Jin-Seob,Korea Republic,MID,4.9,,0.0,0.0,0.0,0.0,{}
+714,Kim Jin-Gyu,Korea Republic,MID,4.9,,0.0,0.0,0.0,0.0,{}
+715,Kim Min-Jae,Korea Republic,DEF,5.0,,0.0,0.0,0.0,0.0,{}
+716,Seol Young-Woo,Korea Republic,DEF,4.2,,0.0,0.0,0.0,0.0,{}
+718,Kim Moon-Hwan,Korea Republic,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+719,Lee Han-Beom,Korea Republic,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+720,Lee Tae-Seok,Korea Republic,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+722,Kim Tae-Hyeon,Korea Republic,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+723,Son Heung-Min,Korea Republic,FWD,7.4,,0.0,0.0,0.0,0.0,{}
+724,Hwang Hee-Chan,Korea Republic,FWD,6.1,,0.0,0.0,0.0,0.0,{}
+725,Cho Gue-Sung,Korea Republic,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+726,Oh Hyeon-Gyu,Korea Republic,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+727,Yang Hyun-Jun,Korea Republic,FWD,4.7,,0.0,0.0,0.0,0.0,{}
+728,Eom Ji-Sung,Korea Republic,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+729,Jo Hyeon-Woo,Korea Republic,GK,4.6,,0.0,0.0,0.0,0.0,{}
+730,Kim Seung-Gyu,Korea Republic,GK,4.1,,0.0,0.0,0.0,0.0,{}
+731,Song Bum-Keun,Korea Republic,GK,3.9,,0.0,0.0,0.0,0.0,{}
+732,Paik Seung-Ho,Korea Republic,MID,5.6,,0.0,0.0,0.0,0.0,{}
+733,Jens Castrop,Korea Republic,MID,5.6,,0.0,0.0,0.0,0.0,{}
+735,Bae Jun-Ho,Korea Republic,MID,5.9,,0.0,0.0,0.0,0.0,{}
+736,Lee Kang-In,Korea Republic,MID,6.1,,0.0,0.0,0.0,0.0,{}
+737,Lee Jae-Sung,Korea Republic,MID,6.2,,0.0,0.0,0.0,0.0,{}
+818,Callum McCowatt,New Zealand,MID,4.7,,0.0,0.0,0.0,0.0,{}
+820,Alex Rufer,New Zealand,MID,4.9,,0.0,0.0,0.0,0.0,{}
+821,Joe Bell,New Zealand,MID,5.1,,0.0,0.0,0.0,0.0,{}
+822,Ryan Thomas,New Zealand,MID,5.3,,0.0,0.0,0.0,0.0,{}
+823,Marko Stamenic,New Zealand,MID,5.6,,0.0,0.0,0.0,0.0,{}
+825,Tyler Bindon,New Zealand,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+826,Francis de Vries,New Zealand,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+827,Tim Payne,New Zealand,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+829,Callan Elliot,New Zealand,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+830,Finn Surman,New Zealand,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+831,Kosta Barbarouses,New Zealand,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+832,Elijah Just,New Zealand,MID,4.2,,0.0,0.0,0.0,0.0,{}
+833,Ben Waine,New Zealand,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+834,Ben Old,New Zealand,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+835,Jesse Randall,New Zealand,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+836,Lachlan Bayliss,New Zealand,MID,4.0,,0.0,0.0,0.0,0.0,{}
+838,Max Crocombe,New Zealand,GK,3.9,,0.0,0.0,0.0,0.0,{}
+839,Alex Paulsen,New Zealand,GK,3.8,,0.0,0.0,0.0,0.0,{}
+840,Michael Woud,New Zealand,GK,3.7,,0.0,0.0,0.0,0.0,{}
+865,Carlos Harvey,Panama,MID,4.9,,0.0,0.0,0.0,0.0,{}
+866,Cristian Martínez,Panama,MID,5.3,,0.0,0.0,0.0,0.0,{}
+867,Yoel Bárcenas,Panama,MID,5.6,,0.0,0.0,0.0,0.0,{}
+868,José Luis Rodríguez,Panama,MID,5.6,,0.0,0.0,0.0,0.0,{}
+869,Aníbal Godoy,Panama,MID,5.6,,0.0,0.0,0.0,0.0,{}
+870,Amir Murillo,Panama,DEF,5.0,,0.0,0.0,0.0,0.0,{}
+871,José Córdoba,Panama,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+872,Éric Davis,Panama,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+873,César Blackman,Panama,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+874,Andrés Andrade,Panama,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+875,Roderick Miller,Panama,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+876,Jiovany Ramos,Panama,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+878,Jorge Gutiérrez,Panama,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+879,Ismael Díaz,Panama,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+880,José Fajardo,Panama,FWD,4.7,,0.0,0.0,0.0,0.0,{}
+881,Cecilio Waterman,Panama,FWD,5.0,,0.0,0.0,0.0,0.0,{}
+882,César Yanis,Panama,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+884,Luis Mejía,Panama,GK,4.0,,0.0,0.0,0.0,0.0,{}
+885,Orlando Mosquera,Panama,GK,3.9,,0.0,0.0,0.0,0.0,{}
+886,César Samudio,Panama,GK,3.6,,0.0,0.0,0.0,0.0,{}
+887,Adalberto Carrasquilla,Panama,MID,6.5,,0.0,0.0,0.0,0.0,{}
+942,Mohammad Al Mannai,Qatar,MID,4.2,,0.0,0.0,0.0,0.0,{}
+943,Ayoub Al Oui,Qatar,MID,4.4,,0.0,0.0,0.0,0.0,{}
+944,Ahmed Fathy,Qatar,MID,4.7,,0.0,0.0,0.0,0.0,{}
+946,Karim Boudiaf,Qatar,MID,4.9,,0.0,0.0,0.0,0.0,{}
+947,Assim Madibo,Qatar,MID,5.1,,0.0,0.0,0.0,0.0,{}
+949,Pedro Miguel,Qatar,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+951,Lucas Mendes,Qatar,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+952,Boualem Khoukhi,Qatar,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+955,Hashmi Al Hussain,Qatar,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+957,Issa Laye,Qatar,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+958,Akram Afif,Qatar,FWD,5.9,,0.0,0.0,0.0,0.0,{}
+959,Almoez Ali,Qatar,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+960,Edmílson Junior,Qatar,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+961,Hassan Al Haydos,Qatar,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+962,Yusuf Abdurisag,Qatar,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+963,Ahmed Al Ganehi,Qatar,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+968,Meshaal Barsham,Qatar,GK,4.1,,0.0,0.0,0.0,0.0,{}
+969,Salah Zakaria,Qatar,GK,3.7,,0.0,0.0,0.0,0.0,{}
+971,Mahmud Abunada,Qatar,GK,3.5,,0.0,0.0,0.0,0.0,{}
+972,Musab Al Juwayr,Saudi Arabia,MID,4.1,,0.0,0.0,0.0,0.0,{}
+977,Ziyad Al Johani,Saudi Arabia,MID,4.9,,0.0,0.0,0.0,0.0,{}
+978,Mohamed Kanno,Saudi Arabia,MID,5.1,,0.0,0.0,0.0,0.0,{}
+980,Abdullah Al Khaibari,Saudi Arabia,MID,5.1,,0.0,0.0,0.0,0.0,{}
+982,Aiman Yahya,Saudi Arabia,MID,5.6,,0.0,0.0,0.0,0.0,{}
+983,Saud Abdulhamid,Saudi Arabia,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+984,Abdulelah Al Amri,Saudi Arabia,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+985,Hassan Kadish,Saudi Arabia,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+986,Ali Majrashi,Saudi Arabia,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+987,Nawaf Bu Washl,Saudi Arabia,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+991,Ali Lajami,Saudi Arabia,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+992,Feras Al Brikan,Saudi Arabia,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+993,Abdullah Al Hamddan,Saudi Arabia,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+994,Khalid Al Ghannam,Saudi Arabia,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+995,Saleh Al Shehri,Saudi Arabia,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+997,Sultan Mandash,Saudi Arabia,FWD,4.5,,0.0,0.0,0.0,0.0,{}
+999,Nawaf Al Aqidi,Saudi Arabia,GK,4.0,,0.0,0.0,0.0,0.0,{}
+1000,Ahmed Al Kassar,Saudi Arabia,GK,3.9,,0.0,0.0,0.0,0.0,{}
+1001,Mohammed Al Owais,Saudi Arabia,GK,3.5,,0.0,0.0,0.0,0.0,{}
+1003,John McGinn,Scotland,MID,6.0,,0.0,0.0,0.0,0.0,{}
+1007,Ryan Christie,Scotland,MID,5.6,,0.0,0.0,0.0,0.0,{}
+1008,Kenny McLean,Scotland,MID,4.8,,0.0,0.0,0.0,0.0,{}
+1009,Andy Robertson,Scotland,DEF,5.0,,0.0,0.0,0.0,0.0,{}
+1010,Kieran Tierney,Scotland,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1011,Nathan Patterson,Scotland,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1012,Jack Hendry,Scotland,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+1013,John Souttar,Scotland,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+1014,Scott McKenna,Scotland,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+1015,Anthony Ralston,Scotland,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+1016,Dominic Hyam,Scotland,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1018,Grant Hanley,Scotland,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1019,Ché Adams,Scotland,FWD,5.4,,0.0,0.0,0.0,0.0,{}
+1021,George Hirst,Scotland,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+1022,Lyndon Dykes,Scotland,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+1023,Findlay Curtis,Scotland,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+1024,Liam Kelly,Scotland,GK,3.7,,0.0,0.0,0.0,0.0,{}
+1025,Angus Gunn,Scotland,GK,3.6,,0.0,0.0,0.0,0.0,{}
+1027,Scott McTominay,Scotland,MID,6.5,,0.0,0.0,0.0,0.0,{}
+1028,Lewis Ferguson,Scotland,MID,4.8,,0.0,0.0,0.0,0.0,{}
+1160,Ellyes Skhiri,Tunisia,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1161,Rani Khedira,Tunisia,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1162,Hadj Mahmoud,Tunisia,MID,4.9,,0.0,0.0,0.0,0.0,{}
+1163,Mortadha Ben Ouanes,Tunisia,MID,5.0,,0.0,0.0,0.0,0.0,{}
+1164,Anis Ben Slimane,Tunisia,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1165,Moutaz Neffati,Tunisia,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1166,Ali Abdi,Tunisia,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1167,Omar Rekik,Tunisia,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+1169,Adem Arous,Tunisia,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1170,Mohamed Amine Ben Hmida,Tunisia,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1172,Raed Chikhaoui,Tunisia,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1174,Ismaël Gharbi,Tunisia,FWD,4.6,,0.0,0.0,0.0,0.0,{}
+1175,Elias Saad,Tunisia,FWD,4.5,,0.0,0.0,0.0,0.0,{}
+1176,Firas Chaouat,Tunisia,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+1177,Sebastian Tounekti,Tunisia,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+1178,Hazem Mastouri,Tunisia,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+1181,Rayan Elloumi,Tunisia,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+1183,Khalil Ayari,Tunisia,FWD,4.0,,0.0,0.0,0.0,0.0,{}
+1184,Abdelmouhib Chamakh,Tunisia,GK,4.1,,0.0,0.0,0.0,0.0,{}
+1185,Aymen Dahmen,Tunisia,GK,3.9,,0.0,0.0,0.0,0.0,{}
+1187,Sabri Ben Hessen,Tunisia,GK,3.5,,0.0,0.0,0.0,0.0,{}
+1188,Ismail Yüksek,Türkiye,MID,4.6,,0.0,0.0,0.0,0.0,{}
+1189,Salih Özcan,Türkiye,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1191,Irfan Can Kahveci,Türkiye,MID,5.9,,0.0,0.0,0.0,0.0,{}
+1192,Orkun Kökçü,Türkiye,MID,6.0,,0.0,0.0,0.0,0.0,{}
+1193,Kaan Ayhan,Türkiye,DEF,4.5,,0.0,0.0,0.0,0.0,{}
+1194,Zeki Çelik,Türkiye,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1195,Ferdi Kadioglu,Türkiye,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1196,Samet Akaydin,Türkiye,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1197,Mert Müldür,Türkiye,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1198,Ozan Kabak,Türkiye,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1199,Eren Elmali,Türkiye,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1200,Abdülkerim Bardakci,Türkiye,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1201,Merih Demiral,Türkiye,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1204,Kenan Yildiz,Türkiye,MID,7.0,,0.0,0.0,0.0,0.0,{}
+1205,Kerem Aktürkoglu,Türkiye,FWD,6.2,,0.0,0.0,0.0,0.0,{}
+1206,Baris Alper Yilmaz,Türkiye,FWD,6.1,,0.0,0.0,0.0,0.0,{}
+1208,Oguz Aydin,Türkiye,FWD,5.0,,0.0,0.0,0.0,0.0,{}
+1209,Yunus Akgün,Türkiye,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+1210,Deniz Gül,Türkiye,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+1211,Ugurcan Çakir,Türkiye,GK,4.2,,0.0,0.0,0.0,0.0,{}
+1212,Altay Bayindir,Türkiye,GK,4.0,,0.0,0.0,0.0,0.0,{}
+1213,Mert Günok,Türkiye,GK,4.0,,0.0,0.0,0.0,0.0,{}
+1215,Arda Güler,Türkiye,MID,7.0,,0.0,0.0,0.0,0.0,{}
+1216,Hakan Çalhanoglu,Türkiye,MID,7.1,,0.0,0.0,0.0,0.0,{}
+1218,Juan Manuel Sanabria,Uruguay,MID,4.5,,0.0,0.0,0.0,0.0,{}
+1219,Emiliano Martínez,Uruguay,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1222,Facundo Pellistri,Uruguay,MID,5.2,,0.0,0.0,0.0,0.0,{}
+1223,Maxi Araújo,Uruguay,MID,6.4,,0.0,0.0,0.0,0.0,{}
+1224,Manuel Ugarte,Uruguay,MID,5.9,,0.0,0.0,0.0,0.0,{}
+1225,Nicolás de la Cruz,Uruguay,MID,5.9,,0.0,0.0,0.0,0.0,{}
+1226,Ronald Araujo,Uruguay,DEF,5.0,,0.0,0.0,0.0,0.0,{}
+1227,José María Giménez,Uruguay,DEF,4.4,,0.0,0.0,0.0,0.0,{}
+1228,Matías Viña,Uruguay,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1229,Mathías Olivera,Uruguay,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1230,Guillermo Varela,Uruguay,DEF,4.2,,0.0,0.0,0.0,0.0,{}
+1231,Sebastián Cáceres,Uruguay,DEF,4.2,,0.0,0.0,0.0,0.0,{}
+1232,Santiago Bueno,Uruguay,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1236,Darwin Núñez,Uruguay,FWD,7.5,,0.0,0.0,0.0,0.0,{}
+1237,Federico Viñas,Uruguay,FWD,5.9,,0.0,0.0,0.0,0.0,{}
+1238,Brian Rodríguez,Uruguay,FWD,6.2,,0.0,0.0,0.0,0.0,{}
+1239,Rodrigo Aguirre,Uruguay,FWD,5.6,,0.0,0.0,0.0,0.0,{}
+1241,Agustín Canobbio,Uruguay,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+1244,Sergio Rochet,Uruguay,GK,4.1,,0.0,0.0,0.0,0.0,{}
+1245,Fernando Muslera,Uruguay,GK,4.1,,0.0,0.0,0.0,0.0,{}
+1246,Santiago Mele,Uruguay,GK,3.5,,0.0,0.0,0.0,0.0,{}
+1247,Giorgian de Arrascaeta,Uruguay,MID,6.5,,0.0,0.0,0.0,0.0,{}
+1248,Federico Valverde,Uruguay,MID,7.5,,0.0,0.0,0.0,0.0,{}
+1275,Abdulla Abdullaev,Uzbekistan,MID,4.2,,0.0,0.0,0.0,0.0,{}
+1278,Sherzod Esanov,Uzbekistan,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1282,Akmal Mozgovoy,Uzbekistan,MID,4.7,,0.0,0.0,0.0,0.0,{}
+1284,Otabek Shukurov,Uzbekistan,MID,5.0,,0.0,0.0,0.0,0.0,{}
+1286,Dostonbek Khamdamov,Uzbekistan,MID,5.1,,0.0,0.0,0.0,0.0,{}
+1287,Aziz G'aniev,Uzbekistan,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1288,Odiljon Hamrobekov,Uzbekistan,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1289,Oston Urunov,Uzbekistan,MID,5.6,,0.0,0.0,0.0,0.0,{}
+1290,Jamshid Iskanderov,Uzbekistan,MID,5.7,,0.0,0.0,0.0,0.0,{}
+1291,Jaloliddin Masharipov,Uzbekistan,MID,6.1,,0.0,0.0,0.0,0.0,{}
+1292,Abbosbek Fayzullaev,Uzbekistan,MID,6.2,,0.0,0.0,0.0,0.0,{}
+1293,Abdukodir Khusanov,Uzbekistan,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1294,Rustam Ashurmatov,Uzbekistan,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1295,Sherzod Nasrullaev,Uzbekistan,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1296,Farrukh Sayfiev,Uzbekistan,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1297,Khojiakbar Alijonov,Uzbekistan,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1300,Umar Eshmurodov,Uzbekistan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1302,Avazbek O'lmasaliev,Uzbekistan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1303,Bekhruz Karimov,Uzbekistan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1305,Jakhongir Urozov,Uzbekistan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1306,Eldor Shomurodov,Uzbekistan,FWD,6.5,,0.0,0.0,0.0,0.0,{}
+1307,Igor Sergeev,Uzbekistan,FWD,6.1,,0.0,0.0,0.0,0.0,{}
+1310,Azizbek Amanov,Uzbekistan,FWD,4.9,,0.0,0.0,0.0,0.0,{}
+1311,Abduvokhid Ne'matov,Uzbekistan,GK,4.0,,0.0,0.0,0.0,0.0,{}
+1312,Utkir Yusupov,Uzbekistan,GK,3.9,,0.0,0.0,0.0,0.0,{}
+1314,Botirali Ergashev,Uzbekistan,GK,3.5,,0.0,0.0,0.0,0.0,{}
+1400,Jindrich Stanek,Czechia,GK,4.0,,0.0,0.0,0.0,0.0,{}
+1405,David Zima,Czechia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+1411,Alexandr Sojka,Czechia,MID,4.5,,0.0,0.0,0.0,0.0,{}
+1413,David Doudera,Czechia,MID,5.1,,0.0,0.0,0.0,0.0,{}
+1417,Hugo Sochurek,Czechia,MID,4.3,,0.0,0.0,0.0,0.0,{}
+1425,Jan Kuchta,Czechia,FWD,5.5,,0.0,0.0,0.0,0.0,{}
+1427,Adam Hlozek,Czechia,FWD,6.5,,0.0,0.0,0.0,0.0,{}
+1488,Michael Boxall,New Zealand,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1489,Liberato Cacace,New Zealand,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1490,Nando Pijnaker,New Zealand,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1491,Tommy Smith,New Zealand,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1492,Matthew Garbett,New Zealand,FWD,5.0,,0.0,0.0,0.0,0.0,{}
+1493,Chris Wood,New Zealand,FWD,6.5,,0.0,0.0,0.0,0.0,{}
+1494,Sarpreet Singh,New Zealand,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1506,Homam El Amin,Qatar,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1507,Sultan Al Brake,Qatar,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1508,Abdulaziz Hatem,Qatar,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1509,Jassem Gaber,Qatar,MID,5.0,,0.0,0.0,0.0,0.0,{}
+1510,Ahmed Alaa,Qatar,FWD,5.5,,0.0,0.0,0.0,0.0,{}
+1511,Mohammed Muntari,Qatar,FWD,5.3,,0.0,0.0,0.0,0.0,{}
+1513,Tahsin Jamshid,Qatar,FWD,4.5,,0.0,0.0,0.0,0.0,{}
+1538,Keeto Thermoncy,Haiti,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1539,Dominique Simon,Haiti,MID,4.3,,0.0,0.0,0.0,0.0,{}
+1540,Lenny Joseph,Haiti,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+1541,Nour Bani Ateyah,Jordan,GK,3.6,,0.0,0.0,0.0,0.0,{}
+1543,Ehsan Haddad,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1544,Saed Al Rosan,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1545,Anas Badawi,Jordan,DEF,3.5,,0.0,0.0,0.0,0.0,{}
+1546,Raja'ei Ayed,Jordan,MID,4.5,,0.0,0.0,0.0,0.0,{}
+1547,Ali Olwan,Jordan,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+1548,Lee Gi-Hyuk,Korea Republic,DEF,4.5,,0.0,0.0,0.0,0.0,{}
+1549,Hwang In-Beom,Korea Republic,MID,5.8,,0.0,0.0,0.0,0.0,{}
+1550,Lee Dong-Gyeong,Korea Republic,MID,4.9,,0.0,0.0,0.0,0.0,{}
+1551,Montassar Talbi,Tunisia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+1552,Dylan Bronn,Tunisia,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1553,Yan Valery,Tunisia,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+1554,Elias Achouri,Tunisia,MID,4.8,,0.0,0.0,0.0,0.0,{}
+1555,Hannibal Mejbri,Tunisia,MID,4.8,,0.0,0.0,0.0,0.0,{}
+1558,Armando Obispo,Curaçao,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1559,Deveron Fonville,Curaçao,DEF,3.7,,0.0,0.0,0.0,0.0,{}
+1560,Jürgen Locadia,Curaçao,FWD,4.1,,0.0,0.0,0.0,0.0,{}
+1561,Roozbeh Cheshmi,IR Iran,MID,4.8,,0.0,0.0,0.0,0.0,{}
+1563,Jalal Hassan,Iraq,GK,3.9,,0.0,0.0,0.0,0.0,{}
+1564,Mustafa Saadoon,Iraq,DEF,3.6,,0.0,0.0,0.0,0.0,{}
+1568,Ahmed Qasem,Iraq,MID,4.4,,0.0,0.0,0.0,0.0,{}
+1576,Craig Gordon,Scotland,GK,3.5,,0.0,0.0,0.0,0.0,{}
+1577,Aaron Hickey,Scotland,DEF,4.3,,0.0,0.0,0.0,0.0,{}
+1578,Ben Gannon-Doak,Scotland,MID,4.9,,0.0,0.0,0.0,0.0,{}
+1579,Ross Stewart,Scotland,FWD,5.4,,0.0,0.0,0.0,0.0,{}
+1580,Lawrence Shankland,Scotland,FWD,5.5,,0.0,0.0,0.0,0.0,{}
+1586,Çaglar Söyüncü,Türkiye,DEF,4.4,,0.0,0.0,0.0,0.0,{}
+1589,Can Uzun,Türkiye,MID,5.3,,0.0,0.0,0.0,0.0,{}
+1951,Hassan Al Tambakti,Saudi Arabia,DEF,4.5,,0.0,0.0,0.0,0.0,{}
+1953,Jehad Thikri,Saudi Arabia,DEF,4.0,,0.0,0.0,0.0,0.0,{}
+1954,Moteb Al Harbi,Saudi Arabia,DEF,4.1,,0.0,0.0,0.0,0.0,{}
+1955,Salem Al Dawsari,Saudi Arabia,MID,7.2,,0.0,0.0,0.0,0.0,{}
+1956,Alaa Al Hejji,Saudi Arabia,MID,5.0,,0.0,0.0,0.0,0.0,{}
+1957,Nasser Al Dawsari,Saudi Arabia,MID,5.2,,0.0,0.0,0.0,0.0,{}
+1958,Mohammed Abu Al Shamat,Saudi Arabia,MID,5.5,,0.0,0.0,0.0,0.0,{}
+2026,Fidel Escobar,Panama,DEF,3.8,,0.0,0.0,0.0,0.0,{}
+2027,Edgardo Fariña,Panama,DEF,3.9,,0.0,0.0,0.0,0.0,{}
+2028,Alberto Quintero,Panama,FWD,4.2,,0.0,0.0,0.0,0.0,{}
+2029,Azarías Londoño,Panama,FWD,4.4,,0.0,0.0,0.0,0.0,{}
+2030,Tomás Rodríguez,Panama,FWD,4.5,,0.0,0.0,0.0,0.0,{}
+2060,Tyler Fletcher,Scotland,MID,4.7,,0.0,0.0,0.0,0.0,{}
+2063,Joaquín Piquerez,Uruguay,DEF,4.5,,0.0,0.0,0.0,0.0,{}
+2064,Rodrigo Bentancur,Uruguay,MID,6.0,,0.0,0.0,0.0,0.0,{}
+2065,Rodrigo Zalazar,Uruguay,MID,6.0,,0.0,0.0,0.0,0.0,{}
+2069,Shahriyar Moghanlou,IR Iran,FWD,4.7,,0.0,0.0,0.0,0.0,{}
+2070,Cho Wi-Je,Korea Republic,DEF,3.7,,0.0,0.0,0.0,0.0,{}
